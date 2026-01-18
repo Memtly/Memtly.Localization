@@ -1,7 +1,6 @@
 ﻿using System.Globalization;
-using System.Reflection;
 
-namespace WeddingShareTranslations
+namespace WeddingShare.Translations
 {
     public interface ILanguageHelper
     {
@@ -19,8 +18,11 @@ namespace WeddingShareTranslations
 
             try
             {
-                var resourceFiles = Directory.GetFiles(Path.Combine(Assembly.GetExecutingAssembly().Location, "Resources"), "*.resx");
-                var detectedCultures = resourceFiles
+                var assembly = typeof(LanguageHelper).Assembly;
+                var resourceNames = assembly.GetManifestResourceNames();
+                var resxResources = resourceNames.Where(name => name.EndsWith(".resources")).ToList();
+
+                var detectedCultures = resxResources
                     .Select(x => Path.GetFileNameWithoutExtension(x))
                     .Where(x => x.Contains(".") && x.Contains("-"))
                     .Select(x => x.Split('.').LastOrDefault());
