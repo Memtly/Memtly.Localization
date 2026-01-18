@@ -4,12 +4,11 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-WeddingShare-3190c778-4fc0-46f9-9259-fc6196c41c5a</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <OutputType>Library</OutputType>
     <!-- Package metadata -->
-    <PackageId>WeddingShare.Translations</PackageId>
-    <Title>WeddingShare Translations</Title>
+    <PackageId>WeddingShare.Lang</PackageId>
+    <Title>WeddingShare.Lang</Title>
     <Description>Language pack for the core WeddingShare application</Description>
     <Version>1.0.0</Version>
     <Authors>Cirx08</Authors>

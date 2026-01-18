@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace WeddingShare.Translations
+namespace WeddingShare.Lang
 {
     public interface ILanguageHelper
     {

@@ -3,7 +3,5 @@
 ################################################################################
 
 /.vs
-/WeddingShare.Translations/bin
-/WeddingShare-Translations/bin
-/WeddingShare.Translations/obj
-/WeddingShare-Translations/obj
+/WeddingShare.Lang/bin
+/WeddingShare.Lang/obj
