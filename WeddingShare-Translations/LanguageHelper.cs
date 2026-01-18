@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using System.Reflection;
 
 namespace WeddingShareTranslations
 {
@@ -18,7 +19,7 @@ namespace WeddingShareTranslations
 
             try
             {
-                var resourceFiles = Directory.GetFiles("Resources", "*.resx");
+                var resourceFiles = Directory.GetFiles(Path.Combine(Assembly.GetExecutingAssembly().Location, "Resources"), "*.resx");
                 var detectedCultures = resourceFiles
                     .Select(x => Path.GetFileNameWithoutExtension(x))
                     .Where(x => x.Contains(".") && x.Contains("-"))
