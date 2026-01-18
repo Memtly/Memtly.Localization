@@ -1,36 +1,24 @@
 stages:
-  - build
   - pack
   - publish
 
 variables:
   PACKAGE_NAME: "WeddingShare.Translations"
   PACKAGE_VERSION: "1.0.${CI_PIPELINE_IID}"
-  NUGET_PACKAGE_PATH: "bin/Release/*.nupkg"
 
-build:
-  stage: build
-  image: mcr.microsoft.com/dotnet/sdk:9.0
-  script:
-    - dotnet restore
-    - dotnet build -c Release --no-restore
-  artifacts:
-    paths:
-      - bin/
-      - obj/
-    expire_in: 1 hour
+# ==================== PACK ====================
 
 pack:prerelease:
   stage: pack
   image: mcr.microsoft.com/dotnet/sdk:9.0
-  dependencies:
-    - build
   script:
+    - dotnet restore
+    - dotnet build -c Release --no-restore
     - dotnet pack -c Release --no-build -p:PackageVersion=$PACKAGE_VERSION-pre -p:PackageId=$PACKAGE_NAME-prerel -o ./nupkgs
   artifacts:
     paths:
       - nupkgs/*.nupkg
-    expire_in: 1 week
+    expire_in: 1 hour
   except:
     - main
     - master
@@ -39,18 +27,20 @@ pack:prerelease:
 pack:stable:
   stage: pack
   image: mcr.microsoft.com/dotnet/sdk:9.0
-  dependencies:
-    - build
   script:
+    - dotnet restore
+    - dotnet build -c Release --no-restore
     - dotnet pack -c Release --no-build -p:PackageVersion=$PACKAGE_VERSION -p:PackageId=$PACKAGE_NAME -o ./nupkgs
   artifacts:
     paths:
       - nupkgs/*.nupkg
-    expire_in: 1 week
+    expire_in: 1 hour
   only:
     - main
     - master
     - tags
+
+# ==================== PUBLISH ====================
 
 publish:
   stage: publish
