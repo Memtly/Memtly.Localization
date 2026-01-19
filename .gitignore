@@ -3,5 +3,5 @@
 ################################################################################
 
 /.vs
-/WeddingShare.Lang/bin
-/WeddingShare.Lang/obj
+/bin
+/obj
