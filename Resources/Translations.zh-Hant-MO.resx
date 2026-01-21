@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>图片库的更新设置</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>要顯示的最小紀錄等級</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>解冻用户</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>创建</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>有危險</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>文化</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>日期</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>除錯</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>默认</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>成功导入数据</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>信息</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>提供的访问令牌无效</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>网站编号</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>有分量</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>共享代码</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>校验</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>有聲</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>校验</value>

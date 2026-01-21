@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>تحديث نظام المعرض</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>الحد الأدنى للسجلات</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>مستعمل غير متفجر</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>الإبداع</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>حرجة</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>الثقافة</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>التاريخ</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Debug</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>التقصير</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>البيانات المستوردة بنجاح</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>المعلومات</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>The provided access token was invalid</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>الموقع الشبكي Id</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>الشدة</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Share Code</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Validate</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>الجرعة</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>التصديق</value>

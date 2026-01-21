@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Aktualizované nastavenie galérie</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Minimálna úroveň logu na zobrazenie</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze užívateľ</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Vytvoriť</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritické</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Kultúra</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Dátum</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Ladiť</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Štandardné</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Úspešne dovezené údaje</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informácie</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Poskytnutý prístup k tokenu bol neplatný</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Id</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Závažnosť</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Kód zdieľania</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Overiť</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Verbose</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Overiť</value>

@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Oppdatert innstilling for galleri</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Minimum loggnivå å vise</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Ufroze bruker</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Lag</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritisk</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Kultur</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Dato</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Feilsøk</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Standard</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Vellykket importert data</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informasjon</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Den gitte tilgang token var ugyldig</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Nettsted id</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Severity</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Delekode</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Valider</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Verbose</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Bekreft</value>

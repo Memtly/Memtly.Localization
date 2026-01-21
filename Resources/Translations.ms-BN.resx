@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Pengaturan terbaru untuk galeri</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Aras log minimum untuk ditunjukkan</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Pengguna Tak Terfroze</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Cipta</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritis</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Budaya</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Tarikh</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>MASUK</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Default</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Evolution berhasil mengimpor data</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informasi Bio</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Token akses yang diberikan tidak sah</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Situs web Id</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Keparahan</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Kode Kongsi</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Kesahihan</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Verbose</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Tentusah</value>

@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>ปรับปรุงการตั้งค่าสําหรับคลังภาพ</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>ระดับปูมบันทึกน้อยที่สุดที่จะแสดง</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>ผู้ใช้ Unforse</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>สร้าง</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>วิกฤติ</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>วัฒนธรรม</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>วันที่</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>ดีบั๊ก</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>ค่าปริยาย</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>ข้อมูลนําเข้าสําเร็จแล้ว</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>ข้อมูล</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>ป้ายที่จัดให้ใช้ไม่ได้</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>หมายเลขเว็บไซต์</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>ความหนาแน่น</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>รหัสใช้ร่วมกัน</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>ตรวจสอบความถูกต้อง</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>คอ เคซัส</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>ตรวจสอบ</value>

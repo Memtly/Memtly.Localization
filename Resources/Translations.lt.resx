@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Atnaujinta informacija apie galeriją</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Mažiausias rodomas žurnalų lygis</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Bevarlis naudotojas</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Sukurti</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritinis</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Kultūra</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Data</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Derinti</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>NAME OF TRANSLATORS</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Sėkmingai importuoti duomenys</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informacija</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Name</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Interneto svetainė Id</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Sunkumas</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Akcijų kodas</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Validatas</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Verbozė</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Patikrinti</value>

@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Vendosja e rifreskuar për galeri</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Niveli minimum i log për t'u shfaqur</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Përdorues i panjohur</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Krijo</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritik</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Kulturë</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Data</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Ditari web</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Paracaktuar</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Të dhëna të importuara me sukses</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informacione</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Argumenti i dhënë i hyrjes ishte i pavlefshëm</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Id e faqes web</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Severity</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Kodi</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Vlefshmëria</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Verbonot</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Verifikimi</value>

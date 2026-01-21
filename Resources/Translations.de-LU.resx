@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Aktualisierte Einstellung für die Galerie</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Die minimale log-Ebene zu zeigen</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Eingefrorener Benutzer</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Erstellen</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritische</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Kultur</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Datum</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Debug</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Standard</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Erfolgreich importierte Daten</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informationen</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Der angegebene Zugangstoken ist ungültig</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Website Id</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Schwere</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Teile den Code</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Gültig</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Bohnen</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Überprüfung</value>

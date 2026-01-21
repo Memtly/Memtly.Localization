@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Suíomh nuashonraithe do gailearaí</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>An íosleibhéal logála a thaispeáint</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Úsáideoir Unfroze</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Tréimhse saoil: ilbhliantúil</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Léirmheasanna</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Cultúr agus Cultúr</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Dáta Tuairimí Ré</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Déan Teagmháil Linn</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Réamhshocrú</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Sonraí a allmhairítear go rathúil</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Eolas faoin gComhairle</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Bhí an dearbhán rochtana a soláthraíodh neamhbhailí</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Láithreán Gréasáin</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Severity</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Comhroinn an leathanach</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Bailí</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Bláthanna cumhra: cumhráin</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Fíoraigh</value>

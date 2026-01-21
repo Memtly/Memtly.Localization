@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Posodobljena nastavitev za galerijo</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Najmanjša raven beleženja</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Odmrzni uporabnika</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Ustvari</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritično</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Kultura</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Datum</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Razhrošči</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Privzeto</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Uspešno uvoženi podatki</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informacije</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Dostop do žetona je bil neveljaven</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Spletna stran ID</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Resnost</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Koda deleža</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Potrdi</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Slovo</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Preveri</value>

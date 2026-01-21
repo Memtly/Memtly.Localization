@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>갤러리에 대한 업데이트</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>최소 로그 레벨 표시</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze 사용자</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>이름 *</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>한국어</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>·</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>(주)</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>디버그</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>기본 정보</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>성공적으로 수입된 자료</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>- 기타</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>제공된 액세스 토큰은 잘못되었습니다</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>웹사이트 Id</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>더 보기</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>공유 코드</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>(주)</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>버블로스</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>계정 만들기</value>

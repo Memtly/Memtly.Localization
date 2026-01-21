@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>गैलरी के लिए अद्यतन सेटिंग</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>न्यूनतम लॉग स्तर दिखाने के लिए</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>अनुचित उपयोगकर्ता</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>बनाना</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>गंभीर</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>संस्कृति</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>तारीख</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>डेबग</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>डिफ़ॉल्ट</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>सफलतापूर्वक आयात डेटा</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>सूचना</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>प्रदान की गई पहुंच टोकन को अवैध घोषित किया गया था</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>वेबसाइट आईडी</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>गंभीरता</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>शेयर कोड</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>मान्य</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>वेर्बोस</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>सत्यापित</value>

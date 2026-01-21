@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>گیلری کے لیے دوبارہ نصب کی گئی</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>ڈسپلے کر نے کے ليے سب سے چھوٹی لاگس سطح</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>غیر متصل صارف</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>بنائیں</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>نقصان</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>ثقافت</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>تاریخ</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>ڈی بگ</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>طے شدہ</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>کامیابی سے درآمد کردہ اعداد و شمار</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>جگہ</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>فراہم‌کردہ نشان غلط تھا</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>ویب سائٹ Id</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>انکار</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>شیئر کوڈ</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>بچے</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>وائرس</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>رنگ</value>

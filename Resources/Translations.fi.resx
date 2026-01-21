@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Päivitetty asetus gallerialle</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Näytettävän lokin minimitaso</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Peruuta käyttäjä</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Luo</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kriittinen</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Kulttuuri</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Päivämäärä</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Virhe</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Oletus</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Onnistuneesti tuodut tiedot</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Tiedot</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Annettu kulkutunnus oli virheellinen</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Verkkosivuston tunniste</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Vakavuus</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Osakekoodi</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Validointi</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Verbose</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Varmista</value>

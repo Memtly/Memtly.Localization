@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Réglage mis à jour pour la galerie</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Le niveau minimum de log à afficher</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Désamorcer l'utilisateur</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Créer</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Critique</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Culture</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Date</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Débogues</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Par défaut</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Données importées avec succès</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informations</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Le jeton d'accès fourni était invalide</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>ID du site Web</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Gravité</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Code de partage</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Valider</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Verbeux</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Vérifier</value>

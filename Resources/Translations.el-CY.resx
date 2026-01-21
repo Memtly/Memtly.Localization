@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Ενημέρωση ρύθμισης για γκαλερί</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Το ελάχιστο επίπεδο καταγραφής για εμφάνιση</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Αποπαγωμένος χρήστης</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Δημιουργία</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Κρίσιμη</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Πολιτισμός</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Ημερομηνία</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Αποσφαλμάτωση</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Προκαθορισμένο</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Επιτυχής εισαγωγή δεδομένων</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Πληροφορίες</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Η παρεχόμενη πρόσβαση δεν ήταν έγκυρη</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Ταυτότητα ιστοσελίδας</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Σοβαρότητα</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Κωδικός μετοχής</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Επικύρωση</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Βερβόζη</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Επαλήθευση</value>

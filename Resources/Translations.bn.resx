@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>সংকলনের বৈশিষ্ট্য আপডেট করা হয়েছে</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>লগ প্রদর্শনের জন্য সর্বনিম্ন মাত্রা</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>ব্যবহারকারীর দ্বারা নির্ধারিত নয়</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>তৈরি করুন (_r)</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>সংকটপূর্ণ</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>সংস্কৃতি</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>তারিখ</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>ডিবাগ</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>ডিফল্ট</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>সাফল্যের সাথে তথ্য ইম্পোর্ট করা হয়েছে</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>তথ্য</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>প্রদত্ত টোকেন অকার্যকর</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>ওয়েবসাইট আই. ডি</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>গুরুত্ব: (v)</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>শেয়ার কোড</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>বৈধতা যাচাই</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>বহুমুখী</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>যাচাই করা হচ্ছে</value>

@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>Atjaunināts galerijas iestatījums</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>Minimālais žurnalēšanas līmenis, ko rādīt</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze lietotājs</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>Izveidot</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritisks</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>Kultūra</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>Datums</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Atkļūdot</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Noklusētais</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Dati, kas veiksmīgi importēti</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informācija</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Norādītā piekļuve marķierierīcei nebija derīga</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>Tīmekļa vietnes ID</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>Smagums</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Akciju kods</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Pārbaudīt</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>Verboze</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Pārbaudīt</value>

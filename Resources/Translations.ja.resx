@@ -286,6 +286,9 @@
   <data name="Audit_SettingsUpdated" xml:space="preserve">
     <value>ギャラリーの設定を更新しました</value>
   </data>
+  <data name="Audit_Severity_Help" xml:space="preserve">
+    <value>最小ログレベルを表示</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>不正なユーザ</value>
   </data>
@@ -394,6 +397,9 @@
   <data name="Create" xml:space="preserve">
     <value>作成する</value>
   </data>
+  <data name="Critical" xml:space="preserve">
+    <value>クリティカル</value>
+  </data>
   <data name="Culture" xml:space="preserve">
     <value>カルチャー</value>
   </data>
@@ -429,6 +435,9 @@
   </data>
   <data name="Date" xml:space="preserve">
     <value>日程安排</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>デブグ</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>デフォルト</value>
@@ -837,6 +846,9 @@
   </data>
   <data name="Import_Data_Success" xml:space="preserve">
     <value>徹底的にインポートされたデータ</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>インフォメーション</value>
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>提供されたアクセストークンは無効でした</value>
@@ -1753,6 +1765,9 @@
   <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
     <value>ウェブサイトID</value>
   </data>
+  <data name="Severity" xml:space="preserve">
+    <value>サビティ</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>共有コード</value>
   </data>
@@ -2007,6 +2022,9 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>検証</value>
+  </data>
+  <data name="Verbose" xml:space="preserve">
+    <value>ヴェルボーズ</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>検証</value>
