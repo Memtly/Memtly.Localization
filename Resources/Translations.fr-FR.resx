@@ -502,6 +502,9 @@
   <data name="EmailAddress" xml:space="preserve">
     <value>Adresse électronique</value>
   </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Activé</value>
+  </data>
   <data name="Error" xml:space="preserve">
     <value>Erreur</value>
   </data>
@@ -1153,6 +1156,9 @@
   <data name="Resources" xml:space="preserve">
     <value>Ressources</value>
   </data>
+  <data name="Retention_Period" xml:space="preserve">
+    <value>Période de conservation</value>
+  </data>
   <data name="Review" xml:space="preserve">
     <value>Révision</value>
   </data>
@@ -1242,6 +1248,12 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
     <value>Examen en cours</value>
+  </data>
+  <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
+    <value>Si les journaux d'utilisateur et les événements sont enregistrés</value>
+  </data>
+  <data name="Settings_Audit_Retention_Help" xml:space="preserve">
+    <value>Combien de jours les registres de vérification doivent être conservés</value>
   </data>
   <data name="Settings_BackgroundServices" xml:space="preserve">
     <value>Services généraux</value>
@@ -1543,9 +1555,6 @@
   <data name="Settings_Gotify_Enabled_Help" xml:space="preserve">
     <value>Si des alertes Ntfy sont envoyées</value>
   </data>
-  <data name="Settings_Gotify_Enabled_Label" xml:space="preserve">
-    <value>Activé</value>
-  </data>
   <data name="Settings_Gotify_Endpoint_Help" xml:space="preserve">
     <value>L'adresse du serveur Gatify</value>
   </data>
@@ -1569,9 +1578,6 @@
   </data>
   <data name="Settings_IdentityCheck_Enabled_Help" xml:space="preserve">
     <value>Des utilisateurs rapides pour leur nom</value>
-  </data>
-  <data name="Settings_IdentityCheck_Enabled_Label" xml:space="preserve">
-    <value>Activé</value>
   </data>
   <data name="Settings_IdentityCheck_PageLoad_Help" xml:space="preserve">
     <value>Si la vérification d'identité est affichée au chargement de la page</value>
@@ -1609,14 +1615,8 @@
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Permettre aux utilisateurs de changer la langue</value>
   </data>
-  <data name="Settings_Languages_Enabled_Label" xml:space="preserve">
-    <value>Activé</value>
-  </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Si des alertes Ntfy sont envoyées</value>
-  </data>
-  <data name="Settings_Ntfy_Enabled_Label" xml:space="preserve">
-    <value>Activé</value>
   </data>
   <data name="Settings_Ntfy_Endpoint_Help" xml:space="preserve">
     <value>L'adresse du serveur Ntfy</value>
@@ -1644,9 +1644,6 @@
   </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>L'utilisateur devrait-il voir les popups de style RGPD?</value>
-  </data>
-  <data name="Settings_PoliciesEnabled_Label" xml:space="preserve">
-    <value>Activé</value>
   </data>
   <data name="Settings_SearchTerm_Help" xml:space="preserve">
     <value>Paramètres de filtrage basés sur un terme de recherche</value>
@@ -1689,9 +1686,6 @@
   </data>
   <data name="Settings_Smtp_Enabled_Help" xml:space="preserve">
     <value>Activer l'envoi d'emails</value>
-  </data>
-  <data name="Settings_Smtp_Enabled_Label" xml:space="preserve">
-    <value>Activé</value>
   </data>
   <data name="Settings_Smtp_From_Help" xml:space="preserve">
     <value>L'adresse e-mail de l'alerte est envoyée de</value>
@@ -1746,9 +1740,6 @@
   </data>
   <data name="Settings_Themes_Enabled_Help" xml:space="preserve">
     <value>Permettre aux utilisateurs de changer le thème</value>
-  </data>
-  <data name="Settings_Themes_Enabled_Label" xml:space="preserve">
-    <value>Activé</value>
   </data>
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Trackers</value>

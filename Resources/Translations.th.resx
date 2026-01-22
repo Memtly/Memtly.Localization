@@ -502,6 +502,9 @@
   <data name="EmailAddress" xml:space="preserve">
     <value>ที่อยู่อีเมล</value>
   </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>เปิดใช้งาน</value>
+  </data>
   <data name="Error" xml:space="preserve">
     <value>ผิดพลาด</value>
   </data>
@@ -1153,6 +1156,9 @@
   <data name="Resources" xml:space="preserve">
     <value>ทรัพยากร</value>
   </data>
+  <data name="Retention_Period" xml:space="preserve">
+    <value>พักการทํางาน</value>
+  </data>
   <data name="Review" xml:space="preserve">
     <value>ทบทวน</value>
   </data>
@@ -1242,6 +1248,12 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
     <value>การ ทบทวน อย่าง ต่อ เนื่อง</value>
+  </data>
+  <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
+    <value>ควรให้ผู้ใช้ล็อกอินและบันทึกเหตุการณ์หรือไม่</value>
+  </data>
+  <data name="Settings_Audit_Retention_Help" xml:space="preserve">
+    <value>ควร เก็บ บันทึก การ บันทึก เสียง ไว้ กี่ วัน</value>
   </data>
   <data name="Settings_BackgroundServices" xml:space="preserve">
     <value>บริการพื้นหลัง</value>
@@ -1543,9 +1555,6 @@
   <data name="Settings_Gotify_Enabled_Help" xml:space="preserve">
     <value>ควรส่งแจ้งเตือนของ NTFF</value>
   </data>
-  <data name="Settings_Gotify_Enabled_Label" xml:space="preserve">
-    <value>เปิดใช้งาน</value>
-  </data>
   <data name="Settings_Gotify_Endpoint_Help" xml:space="preserve">
     <value>ที่อยู่ของแม่ข่าย</value>
   </data>
@@ -1569,9 +1578,6 @@
   </data>
   <data name="Settings_IdentityCheck_Enabled_Help" xml:space="preserve">
     <value>เรียกผู้ใช้โดยใช้ชื่อ</value>
-  </data>
-  <data name="Settings_IdentityCheck_Enabled_Label" xml:space="preserve">
-    <value>เปิดใช้งาน</value>
   </data>
   <data name="Settings_IdentityCheck_PageLoad_Help" xml:space="preserve">
     <value>ควรให้ตรวจสอบการแสดงตัวถูกแสดงในหน้าเว็บหรือไม่</value>
@@ -1609,14 +1615,8 @@
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>อนุญาตให้ผู้ใช้เปลี่ยนภาษาได้</value>
   </data>
-  <data name="Settings_Languages_Enabled_Label" xml:space="preserve">
-    <value>เปิดใช้งาน</value>
-  </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>ควรส่งแจ้งเตือนของ NTFF</value>
-  </data>
-  <data name="Settings_Ntfy_Enabled_Label" xml:space="preserve">
-    <value>เปิดใช้งาน</value>
   </data>
   <data name="Settings_Ntfy_Endpoint_Help" xml:space="preserve">
     <value>ที่อยู่เซิร์ฟเวอร์ Ntfle</value>
@@ -1644,9 +1644,6 @@
   </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>ผู้ใช้ควรดูรูปแบบ GDPR หรือไม่?</value>
-  </data>
-  <data name="Settings_PoliciesEnabled_Label" xml:space="preserve">
-    <value>เปิดใช้งาน</value>
   </data>
   <data name="Settings_SearchTerm_Help" xml:space="preserve">
     <value>ตั้งค่าตามเงื่อนไขการค้นหา</value>
@@ -1689,9 +1686,6 @@
   </data>
   <data name="Settings_Smtp_Enabled_Help" xml:space="preserve">
     <value>ควรส่งแจ้งเตือนอีเมล</value>
-  </data>
-  <data name="Settings_Smtp_Enabled_Label" xml:space="preserve">
-    <value>เปิดใช้งาน</value>
   </data>
   <data name="Settings_Smtp_From_Help" xml:space="preserve">
     <value>ที่อยู่อีเมล แจ้งเตือนถูกส่งมาจาก</value>
@@ -1746,9 +1740,6 @@
   </data>
   <data name="Settings_Themes_Enabled_Help" xml:space="preserve">
     <value>อนุญาตให้ผู้ใช้เปลี่ยนชุดตกแต่งได้</value>
-  </data>
-  <data name="Settings_Themes_Enabled_Label" xml:space="preserve">
-    <value>เปิดใช้งาน</value>
   </data>
   <data name="Settings_Trackers" xml:space="preserve">
     <value>แทร็กเกอร์</value>

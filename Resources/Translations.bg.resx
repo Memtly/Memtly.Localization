@@ -502,6 +502,9 @@
   <data name="EmailAddress" xml:space="preserve">
     <value>Адрес на електронна поща</value>
   </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Включване</value>
+  </data>
   <data name="Error" xml:space="preserve">
     <value>Грешка</value>
   </data>
@@ -1153,6 +1156,9 @@
   <data name="Resources" xml:space="preserve">
     <value>Ресурси</value>
   </data>
+  <data name="Retention_Period" xml:space="preserve">
+    <value>Период на задържане</value>
+  </data>
   <data name="Review" xml:space="preserve">
     <value>Преглед</value>
   </data>
@@ -1242,6 +1248,12 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
     <value>Предстои преразглеждане</value>
+  </data>
+  <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
+    <value>В случай, че потребителските дневници и събития бъдат регистрирани</value>
+  </data>
+  <data name="Settings_Audit_Retention_Help" xml:space="preserve">
+    <value>Колко дни трябва да се съхраняват записите от одита</value>
   </data>
   <data name="Settings_BackgroundServices" xml:space="preserve">
     <value>Услуги за фон</value>
@@ -1543,9 +1555,6 @@
   <data name="Settings_Gotify_Enabled_Help" xml:space="preserve">
     <value>При изпращане на Ntfy сигнали</value>
   </data>
-  <data name="Settings_Gotify_Enabled_Label" xml:space="preserve">
-    <value>Включване</value>
-  </data>
   <data name="Settings_Gotify_Endpoint_Help" xml:space="preserve">
     <value>Адресът на сървъра Gotify</value>
   </data>
@@ -1569,9 +1578,6 @@
   </data>
   <data name="Settings_IdentityCheck_Enabled_Help" xml:space="preserve">
     <value>Бързи потребители за тяхното име</value>
-  </data>
-  <data name="Settings_IdentityCheck_Enabled_Label" xml:space="preserve">
-    <value>Включване</value>
   </data>
   <data name="Settings_IdentityCheck_PageLoad_Help" xml:space="preserve">
     <value>Ако проверката на самоличността се показва на зареждане на страницата</value>
@@ -1609,14 +1615,8 @@
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Позволете на потребителите да променят езика</value>
   </data>
-  <data name="Settings_Languages_Enabled_Label" xml:space="preserve">
-    <value>Включване</value>
-  </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>При изпращане на Ntfy сигнали</value>
-  </data>
-  <data name="Settings_Ntfy_Enabled_Label" xml:space="preserve">
-    <value>Включване</value>
   </data>
   <data name="Settings_Ntfy_Endpoint_Help" xml:space="preserve">
     <value>Адрес на сървъра Ntfy</value>
@@ -1644,9 +1644,6 @@
   </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>Трябва ли потребителят да види изскачащи GDPR стилове?</value>
-  </data>
-  <data name="Settings_PoliciesEnabled_Label" xml:space="preserve">
-    <value>Включване</value>
   </data>
   <data name="Settings_SearchTerm_Help" xml:space="preserve">
     <value>Настройки на филтъра въз основа на термин за търсене</value>
@@ -1689,9 +1686,6 @@
   </data>
   <data name="Settings_Smtp_Enabled_Help" xml:space="preserve">
     <value>В случай на изпращане на е- поща</value>
-  </data>
-  <data name="Settings_Smtp_Enabled_Label" xml:space="preserve">
-    <value>Включване</value>
   </data>
   <data name="Settings_Smtp_From_Help" xml:space="preserve">
     <value>Имейл адресът на сигнала е изпратен от</value>
@@ -1746,9 +1740,6 @@
   </data>
   <data name="Settings_Themes_Enabled_Help" xml:space="preserve">
     <value>Позволете на потребителите да променят темата</value>
-  </data>
-  <data name="Settings_Themes_Enabled_Label" xml:space="preserve">
-    <value>Включване</value>
   </data>
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Проследяващи устройства</value>

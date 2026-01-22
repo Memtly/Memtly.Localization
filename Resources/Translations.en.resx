@@ -502,6 +502,9 @@
   <data name="EmailAddress" xml:space="preserve">
     <value>Email Address</value>
   </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Enabled</value>
+  </data>
   <data name="Error" xml:space="preserve">
     <value>Error</value>
   </data>
@@ -1156,6 +1159,9 @@
   <data name="Resources" xml:space="preserve">
     <value>Resources</value>
   </data>
+  <data name="Retention_Period" xml:space="preserve">
+    <value>Retention Period</value>
+  </data>
   <data name="Review" xml:space="preserve">
     <value>Review</value>
   </data>
@@ -1245,6 +1251,12 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
     <value>Pending Review</value>
+  </data>
+  <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
+    <value>Should user logs and events be logged</value>
+  </data>
+  <data name="Settings_Audit_Retention_Help" xml:space="preserve">
+    <value>How many days should audit logs be stored</value>
   </data>
   <data name="Settings_BackgroundServices" xml:space="preserve">
     <value>Background Services</value>
@@ -1546,9 +1558,6 @@
   <data name="Settings_Gotify_Enabled_Help" xml:space="preserve">
     <value>Should Gotify alerts be sent</value>
   </data>
-  <data name="Settings_Gotify_Enabled_Label" xml:space="preserve">
-    <value>Enabled</value>
-  </data>
   <data name="Settings_Gotify_Endpoint_Help" xml:space="preserve">
     <value>The Gotify server address</value>
   </data>
@@ -1572,9 +1581,6 @@
   </data>
   <data name="Settings_IdentityCheck_Enabled_Help" xml:space="preserve">
     <value>Prompt users for their name</value>
-  </data>
-  <data name="Settings_IdentityCheck_Enabled_Label" xml:space="preserve">
-    <value>Enabled</value>
   </data>
   <data name="Settings_IdentityCheck_PageLoad_Help" xml:space="preserve">
     <value>Should the guest name check be displayed at page load</value>
@@ -1612,14 +1618,8 @@
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Allow users to change the language</value>
   </data>
-  <data name="Settings_Languages_Enabled_Label" xml:space="preserve">
-    <value>Enabled</value>
-  </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Should Ntfy alerts be sent</value>
-  </data>
-  <data name="Settings_Ntfy_Enabled_Label" xml:space="preserve">
-    <value>Enabled</value>
   </data>
   <data name="Settings_Ntfy_Endpoint_Help" xml:space="preserve">
     <value>The Ntfy server address</value>
@@ -1647,9 +1647,6 @@
   </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>Should the user see GDPR style popups?</value>
-  </data>
-  <data name="Settings_PoliciesEnabled_Label" xml:space="preserve">
-    <value>Enabled</value>
   </data>
   <data name="Settings_SearchTerm_Help" xml:space="preserve">
     <value>Filter settings based on a search term</value>
@@ -1692,9 +1689,6 @@
   </data>
   <data name="Settings_Smtp_Enabled_Help" xml:space="preserve">
     <value>Should email alerts be sent</value>
-  </data>
-  <data name="Settings_Smtp_Enabled_Label" xml:space="preserve">
-    <value>Enabled</value>
   </data>
   <data name="Settings_Smtp_From_Help" xml:space="preserve">
     <value>The email address the alert is sent from</value>
@@ -1749,9 +1743,6 @@
   </data>
   <data name="Settings_Themes_Enabled_Help" xml:space="preserve">
     <value>Allow users to change the theme</value>
-  </data>
-  <data name="Settings_Themes_Enabled_Label" xml:space="preserve">
-    <value>Enabled</value>
   </data>
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Trackers</value>
