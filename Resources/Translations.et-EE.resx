@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Kasutaja soovis parooli lähtestamist</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Galerii omaniku vahetus</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Otsinguterminil põhinevad filtrilogid</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Identiteedi muutmine</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Muuda omanikku</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Parooli muutmine</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Palun sisesta galerii uus nimi</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Taasühenda galerii</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Galerii uuesti ühendamine nurjus</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Galerii edukalt taasühendatud</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Salavõti</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Liikmed</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Kasutajanimi ei saa olla tühi</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA loomine nurjus</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Esitlus</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Kaitstud galeriide nimed ei ole lubatud. Palun proovi teist nime</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR-koodid</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Vabasta versioon</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Galerii uue omaniku kasutajanimi</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Eemalda</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Uue kasutaja kasutajanimi</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Määratud kasutaja leidmine nurjus</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Parool</value>

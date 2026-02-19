@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Brugeren anmodede om at nulstille adgangskoden</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Ændrede galleriejer</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filtrér logfiler baseret på et søgeudtryk</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Ændr identitet</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Ændr ejer</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Ændr adgangskode</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Indtast venligst et nyt galleri navn</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Relink- galleri</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Kunne ikke relink galleri</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Vellykket galleri</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Hemmelig nøgle</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Medlemmerne</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Brugernavn kan ikke være tomt</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Kunne ikke oprette 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Præsentation</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Beskyttede gallerinavne er ikke tilladt. Prøv et andet navn</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR-koder</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Udgivelsesversion</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>De nye galleriejere brugernavn</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Fjern</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Brugernavnet på den nye bruger</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Kunne ikke finde den angivne bruger</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Adgangskode</value>

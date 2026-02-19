@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Потребителят поиска рестартиране на паролата</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Промяна на собственика на галерията</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Филтриране на трупи въз основа на термин за търсене</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Промяна на самоличността</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Промяна на собственика</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Промяна на паролата</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Моля въведете ново име на галерия</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Галерия Relink</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Грешка при повторно свързване на галерията</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Успешно свързана галерия</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Тайен ключ</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Членове</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Потребителското име не може да бъде празно</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Грешка при създаване на 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Представяне</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Защитените имена на галерията не са позволени. Моля опитайте с друго име</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR кодове</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Версия за освобождаване</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Новото име на собствениците на галерия</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Премахване</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Потребителско име на новия потребител</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Не може да бъде открит посочения потребител</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Парола</value>

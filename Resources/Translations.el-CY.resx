@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Ο χρήστης ζήτησε μια επαναφορά κωδικού πρόσβασης</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Αλλαγή ιδιοκτήτη γκαλερί</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Καταγραφές φίλτρων με βάση έναν όρο αναζήτησης</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Τροποποίηση ταυτότητας</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Αλλαγή ιδιοκτήτη</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Αλλαγή κωδικού πρόσβασης</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Παρακαλώ εισάγετε ένα νέο όνομα συλλογής</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Ανασυνδέστε την Gallery</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Αποτυχία επανασύνδεσης της συλλογής</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Επιτυχής επανασύνδεση της συλλογής</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Μυστικό κλειδί</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Μέλη</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Το όνομα χρήστη δεν μπορεί να είναι κενό</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Αποτυχία δημιουργίας 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Παρουσίαση</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Δεν επιτρέπονται προστατευόμενα ονόματα γκαλερί. Παρακαλώ δοκιμάστε ένα διαφορετικό όνομα</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Κωδικοί QR</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Έκδοση έκδοσης</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Το όνομα χρήστη των νέων ιδιοκτητών της γκαλερί</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Αφαίρεση</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Το όνομα χρήστη του νέου χρήστη</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Αδυναμία εύρεσης του καθορισμένου χρήστη</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Κωδικός πρόσβασης</value>

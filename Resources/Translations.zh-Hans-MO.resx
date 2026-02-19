@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>用户请求重设密码</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>已更改的画廊所有者</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>基于搜索名词的过滤日志</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>更改身份</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>更改所有者</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>更改密码</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>请输入新画廊名称</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>重新链接图片库</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>重新链接画廊失败</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>成功重新链接画廊</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>密钥</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>成员</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>用户名不能为空</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>设置 2FA 失败</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>列报</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>受保护的画廊名称是不允许的. 请尝试不同的名字</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR 代码</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>发布版本</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>新画廊所有者的用户名</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>删除</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>新用户的用户名</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>找不到指定的用户</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>密码</value>

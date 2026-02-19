@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>L' usuari ha demanat reiniciar la contrasenya</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Propietari de la galeria canviat</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filtra els registres basats en un terme de cerca</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Canvia la identitat</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Canvia el propietari</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Canvia la contrasenya</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Si us plau, introduïu una nova galeria</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Relink Gallery</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Ha fallat en reenllaçar la galeria</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>S' ha regenerat correctament la galeria</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Clau secreta</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Membres</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>El nom d' usuari no pot estar buit</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Ha fallat en establir la 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentació</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>No es permeten els noms de la galeria Protegit. Si us plau, proveu un nom diferent</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Codis QR</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Versió de versió</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>El nou nom d' usuari propietari de la galeria</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Elimina</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>El nom d' usuari del nou</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>No s' ha pogut trobar l' usuari especificat</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Contrasenya</value>

@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Колдонуучу сырсөзүн кайра орнотот</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Алмашкан галерея ээси</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Издөө терминине негизделген чыпкалоо журналдары</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Өзгөрүү идентификациясы</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Өзгөрүү ээси</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Парольду өзгөртүү</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Сураныч, галереянын жаңы атын киргизиңиз</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Кайра байланыштыруу галереясы</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Галерияны кайра байланыштырууга мүмкүн эмес</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Кайра байланышкан галерея ийгиликтүү</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Жашыруун ачкыч</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Депутаттар</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Колдонуучунун аты бош болушу мүмкүн эмес</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA түзүлгөн эмес</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Презентация презентациясы</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Корголгон галереялардын аталыштарына уруксат берилбейт. Сураныч, башка ысымды сынап көрүңүз</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR коддору</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Чыгуу версиясы</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Жаңы галерея ээлеринин колдонуучунун аты</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Алып салуу</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Жаңы колдонуучунун колдонуучу аталышы</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Белгиленген колдонуучуну таба алган жок</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Пароль сөзү</value>

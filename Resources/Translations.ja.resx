@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>パスワードリセットをリクエスト</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>変更されたギャラリー所有者</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>検索用語に基づくフィルタログ</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>アイデンティティの変更</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>変更所有者</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>パスワード変更</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>新しいギャラリー名を入力してください</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>リリンクギャラリー</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>ギャラリーを再リンクできなかった</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>成功裏にギャラリーを再リンク</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>秘密鍵</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>メンバー</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>ユーザー名は空にすることはできません</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FAをセットアップできなかった</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>プレゼンテーション</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>保護されたギャラリー名は認められません。 別の名前をお試しください</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QRコード</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>リリース版</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>新しいギャラリー所有者のユーザー名</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>削除</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>新しいユーザーのユーザー名</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>指定したユーザが見つからなかった</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>パスワード</value>

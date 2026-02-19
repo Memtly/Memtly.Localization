@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>A felhasználó jelszó visszaállítását kérte</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Változott galéria tulajdonosa</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Keresés alapú szűrőnaplók</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Azonosítás módosítása</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>A tulajdonos megváltoztatása</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>A jelszó módosítása</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Adja meg az új galéria nevét</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Relink Galéria</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Nem sikerült újraindítani a galériát</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Sikeresen barázdált galéria</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Titkos kulcs</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Tagok</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>A felhasználónév nem lehet üres</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Nem sikerült létrehozni a 2FA-t</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Bemutató</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Védett galéria neve nem megengedett. Kérem, próbáljon meg egy másik nevet</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR kódok</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Verzió</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Az új galéria tulajdonosok felhasználóneve</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Eltávolítás</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Az új felhasználó felhasználóneve</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Nem található a megadott felhasználó</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Jelszó</value>

@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>کاربر درخواست تنظیم مجدد رمز عبور کرد</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>تغییر مالک گالری</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>بسته های فیلتر بر اساس یک اصطلاح جستجو</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>تغییر هویت</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>تغییر مالک</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>تغییر Password</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>لطفا نام گالری جدید را وارد کنید</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>گالری Relink</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>عدم اتصال گالری</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>گالری Relinked</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>کلید راز</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>اعضا</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>نام کاربری نمی تواند خالی باشد</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>شکست در راه اندازی 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>مقدماتی</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>نام گالری های محافظت شده مجاز نیست. لطفا نام متفاوتی را امتحان کنید</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>کدهای QR</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>نسخه آزاد</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>نام کاربری جدید صاحبان گالری</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>حذف</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>نام کاربری کاربر جدید</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>نمی تواند کاربر مشخص را پیدا کند</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Password</value>

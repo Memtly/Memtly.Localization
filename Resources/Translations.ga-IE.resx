@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Úsáideoir iarr athshocrú phasfhocal</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Athrú úinéir gailearaí</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Scagaire logs bunaithe ar théarma cuardaigh</value>
   </data>
@@ -353,6 +356,9 @@
     <value>Cealaigh</value>
   </data>
   <data name="Change_Identity" xml:space="preserve">
+    <value>Amharc ar gach eolas</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
     <value>Amharc ar gach eolas</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Cuir isteach ainm gailearaí nua</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Amharc ar gach eolas</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Failed a relink gailearaí</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Rathfully relinked gailearaí</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Gach ceart ar cosaint</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Ba mhaith liom..</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Ní féidir ainm úsáideora folamh</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Failed a chur ar bun 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Cur i láthair</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Ní cheadaítear ainmneacha gailearaí faoi chosaint. Déan iarracht ainm difriúil</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Cóid QR</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Naisc ábhartha eile</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Ainm úsáideora na n-úinéirí gailearaí nua</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Bain úsáid as</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Ainm úsáideora an úsáideora nua</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Níorbh fhéidir teacht ar an úsáideoir sonraithe</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Post a fhógairt</value>

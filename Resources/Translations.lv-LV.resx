@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Lietotājs pieprasīja paroles atiestatīšanu</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Mainīts galerijas īpašnieks</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filtrēt žurnālus pamatojoties uz meklēšanas terminu</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Mainīt identitāti</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Mainīt īpašnieku</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Mainīt paroli</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Lūdzu ievadiet jaunu galerijas nosaukumu</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Pārsaites galerija</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Neizdevās pārsaistīt galeriju</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Veiksmīgi pārkārtota galerija</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Slepenā atslēga</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Locekļi</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Lietotājvārds nevar būt tukšs</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Neizdevās iestatīt 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Prezentācija</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Aizsargāti galeriju nosaukumi nav atļauti. Lūdzu, mēģiniet citu nosaukumu</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR kodi</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Laidiena versija</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Jauno galeriju īpašnieku lietotvārds</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Izņemt</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Jaunā lietotāja lietotājvārds</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Neizdevās atrast norādīto lietotāju</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Parole</value>

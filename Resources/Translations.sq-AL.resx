@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Përdoruesi ka kërkuar relexon</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Pronari i galerisë së ndryshuar</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filtro në bazë të një termi kërkimi</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Ndrysho identitetin</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Ndrysho</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Ndrysho fjalëkalimin</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Shkruaj a i ri file emri</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Koleksioni i rilinkimit</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>E pamundur rilidhja e koleksionit</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Galeria e rilidhur me sukses</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Kyçi sekret</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Anëtarë</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Përdoruesi nuk mund të jetë bosh</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Gabim gjatë krijimit të 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Prezantim</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Emrat e mbrojtur të galerisë nuk lejohen. Ju lutem provoni një emër tjetër</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Kodi QR</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Release Version</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Përdoruesi për pronarët e rinj të galerisë</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Hiq</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Përdoruesi i përdoruesit të ri</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>E pamundur gjetja e përdoruesit të specifikuar</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Fjalëkalimi</value>

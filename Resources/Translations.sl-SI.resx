@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Uporabnik je zahteval ponastavitev gesla</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Spremenjen lastnik galerije</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filtrirni dnevniki na osnovi iskalnega izraza</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Spremeni identiteto</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Spremeni lastnika</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Spremeni geslo</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Vnesite novo ime galerije</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Znova poveži galerijo</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Ni uspelo ponovno povezati galerije</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Uspešno ponovno povezana galerija</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Skrivni ključ</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Člani</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Uporabniško ime ne more biti prazno</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Nastavitev 2FA ni uspela</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Predstavitev</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Zaščitena imena galerije niso dovoljena. Poskusite z drugim imenom</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Kode QR</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Različica izdaje</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Uporabniško ime novega lastnika galerije</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Odstrani</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Uporabniško ime novega uporabnika</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Ni moč najti navedenega uporabnika</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Geslo</value>

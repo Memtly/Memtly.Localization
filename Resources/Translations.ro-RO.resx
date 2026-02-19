@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Utilizatorul a cerut o resetare a parolei</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Proprietar de galerie schimbat</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Jurnale de filtrare bazate pe un termen de căutare</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Schimbă identitatea</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Schimbă proprietarul</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Schimbă parola</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Introduceți un nou nume de galerie</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Reconectează Galeria</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Reconectarea galeriei a eșuat</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Galerie reconectată cu succes</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Cheie secretă</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Membri</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Utilizatorul nu poate fi gol</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Eșec la configurarea 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Prezentare</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Numele galeriei protejate nu sunt permise. Vă rugăm să încercați un nume diferit</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Coduri QR</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Versiune de lansare</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Noul proprietar de galerie nume de utilizator</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Elimină</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Utilizatorul noului utilizator</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Nu am putut găsi utilizatorul specificat</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Parolă</value>

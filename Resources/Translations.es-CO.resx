@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Usuario solicitó un reinicio de contraseña</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Propietario de la galería cambiado</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Registros de filtro basados en un término de búsqueda</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Cambio de identidad</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Propietario del cambio</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Cambiar contraseña</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Por favor escriba un nuevo nombre de galería</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Relink Gallery</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Failed to relink gallery</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Galería reenlazada exitosamente</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Secret Key</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Miembros</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>El nombre de usuario no puede estar vacío</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Falló en establecer 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentación</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>No se permiten nombres de galería protegidos. Por favor, prueba un nombre diferente</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR Codes</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Versión de lanzamiento</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Los nuevos propietarios de galerías</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Retirar</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>El nombre de usuario del nuevo usuario</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>No pudo encontrar el usuario especificado</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Contraseña</value>

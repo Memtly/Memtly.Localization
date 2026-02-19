@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Pengguna meminta reset sandi</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Pemilik galeri yang berubah</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filter log berbasis pada sebuah istilah pencarian</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Ubah Identitas</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Ubah Pemilik</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Ubah Sandi</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Silakan masukkan suatu nama galeri baru</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Rlink Galeri</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Gagal menghubungkan ulang galeri</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Galeri yang sukses dihubungkan ulang</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Kunci Rahasia</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Anggota</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Nama pengguna tidak dapat kosong</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Gagal mengatur 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentasi</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Nama galeri yang dilindungi tidak diperbolehkan. Silakan coba nama lain</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Kode QR</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Versi Rilis</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Nama pengguna pemilik galeri baru</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Hapus</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Nama pengguna baru</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Tak bisa temukan pengguna yang dinyatakan</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Sandi</value>

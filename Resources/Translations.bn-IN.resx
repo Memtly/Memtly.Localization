@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>ব্যবহারকারীকে পাসওয়ার্ড পুনরায় লিখুন</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>গ্যালারির মালিক পরিবর্তন করুন</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>অনুসন্ধানের ফিল্টার সহযোগে ফিল্টার করা হবে</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>পরিচয় পরিবর্তন করো</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>মালিক পরিবর্তন করুন</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>পাসওয়ার্ড পরিবর্তন করুন</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>অনুগ্রহ করে একটি নতুন গ্যালারি নির্মাণ করুন</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>গ্যালারি পুনরায় লোড করুন</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>গ্যালারি পুনরায় লোড করতে ব্যর্থ</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>সাফল্যের সাথে পুনরায় সংযোগ করা হয়েছে</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>গোপনীয় কি</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>সদস্য</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>ব্যবহারকারীর নাম বৈধ নয়</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>পরিচয় নির্ধারণ করতে ব্যর্থ</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>প্রেসেন্টেশন</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>গ্যালারির নাম সমর্থিত নয়। দয়া করে একটি ভিন্ন নাম চেষ্টা করুন</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR কোড</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>রিলিজ সংস্করণ</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>নতুন গ্যালারির ব্যবহারকারীর নাম</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>মুছে ফেলুন</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>নতুন ব্যবহারকারীর নাম</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>ব্যবহারকারীকে খুঁজে পাওয়া যায়নি</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>পাসওয়ার্ড</value>

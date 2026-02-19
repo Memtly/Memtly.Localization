@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Användare begärde en lösenordsåterställning</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Förändrad galleriägare</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filterloggar baserade på en sökterm</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Ändra identitet</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Ändra ägaren</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Ändra lösenord</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Vänligen ange ett nytt gallerinamn</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Relink Gallery</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Misslyckades med att relink galleriet</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Framgångsrikt relinked galleri</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Hemlig nyckel</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Medlemmar</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Användarnamn kan inte vara tomt</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Misslyckades med att ställa in 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentation</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Skyddade gallerinamn är inte tillåtna. Prova ett annat namn</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR-koder</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Släpp version</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Nya galleriägare användarnamn</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Ta bort</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Användarnamnet för den nya användaren</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Kunde inte hitta den angivna användaren</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Lösenord</value>

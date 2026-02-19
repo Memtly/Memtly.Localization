@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Gebruiker verzocht om een wachtwoord reset</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Veranderde galerij eigenaar</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filter logs op basis van een zoekterm</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Identiteit wijzigen</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Eigenaar wijzigen</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Wachtwoord wijzigen</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Voer een nieuwe gallerijnaam in</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Galerij herlinken</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Kon galerij niet herkoppelen</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Galerie succesvol opnieuw verbonden</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Geheime sleutel</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Leden</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Gebruikersnaam kan niet leeg zijn</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Opzetten 2FA mislukt</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentatie</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Beschermde galerienamen zijn niet toegestaan. Probeer een andere naam</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR-codes</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Versie vrijgeven</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>De nieuwe gebruikersnaam van de galerie</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Verwijderen</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>De gebruikersnaam van de nieuwe gebruiker</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Kon de opgegeven gebruiker niet vinden</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Wachtwoord</value>

@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Erabiltzaileak pasahitza berrezartzeko eskatu du</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Galeriaren jabea aldatuta</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Iragazi erregistroak bilaketa-termino batean oinarrituta</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Aldatu identitatea</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Aldatu jabea</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Aldatu pasahitza</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Sartu galeriaren izen berria</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Relink galeria</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Huts egin du galeria berriro estekatzean</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Galeria ongi estekatua</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Ezkutuko gakoa</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Kideak</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Erabiltzaile-izena ezin da hutsik egon</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Huts egin du 2FA konfiguratzean</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Aurkezpena</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Galeria-izen babestuak ez dira onartzen. Saiatu beste izen batekin</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR kodeak</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Bertsioa</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Galeria berriaren jabearen erabiltzaile-izena</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Kendu</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Erabiltzaile berriaren erabiltzaile-izena</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Ezin izan da zehaztutako erabiltzailea aurkitu</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Pasahitza</value>

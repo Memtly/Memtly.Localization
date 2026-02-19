@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Užívateľ požadoval obnovenie hesla</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Zmena vlastníka galérie</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Záznamy filtrov založené na vyhľadávacom výraze</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Zmeniť identitu</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Zmeniť vlastníka</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Zmeniť heslo</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Zadajte názov novej galérie</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Relink Gallery</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Nepodarilo sa prepojiť galériu</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Úspešne prepojená galéria</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Tajný kľúč</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Členovia</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Užívateľské meno nemôže byť prázdne</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Zlyhalo nastavenie 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Prezentácia</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Chránené názvy galérie nie sú povolené. Prosím, skúste iný názov</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR kódy</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Verzia vydania</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Nové meno pre majiteľov galérie</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Odstrániť</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Meno nového užívateľa</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Nepodarilo sa nájsť zadaného užívateľa</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Heslo</value>

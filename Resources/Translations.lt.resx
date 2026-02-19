@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Naudotojas paprašė iš naujo nustatyti slaptažodį</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Pakeistas galerijos savininkas</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filtruoti žurnalus pagal paieškos terminą</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Keisti tapatybę</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Pakeisti savininką</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Pakeisti slaptažodį</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Prašome įvesti naują galerijos pavadinimą</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>@ info: tooltip</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>@ info: tooltip</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Sėkmingai grąžinta galerija</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Slaptas raktas</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Nariai</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Vartotojo vardas negali būti tuščias</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Nepavyko sukurti 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Pristatymas</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Saugomi galerijos pavadinimai neleidžiami. @ info: status</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR kodai</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Išleidimo versija</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Nauji galerijos savininkai</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Pašalinti</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Naujojo naudotojo vardas</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Nepavyko rasti nurodyto naudotojo</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Slaptažodis</value>

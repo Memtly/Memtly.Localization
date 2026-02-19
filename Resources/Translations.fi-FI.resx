@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Käyttäjä pyysi salasanan nollausta</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Muuttunut gallerian omistaja</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Hakutermiin perustuvat suodinlokit</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Muuta henkilöllisyyttä</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Vaihda omistajaa</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Vaihda salasana</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Anna uusi gallerian name</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Relink Gallery</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Galleriaa ei voitu yhdistää uudelleen</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Onnistuneesti linkitetty galleria</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Salainen avain</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Jäsenet</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Käyttäjätunnus ei voi olla tyhjä</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA:n perustaminen epäonnistui</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Esittely</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Suojattuja gallerian nimiä ei sallita. Kokeile toista nimeä</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR-koodit</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Julkaisuversio</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Uusi gallerian omistajat käyttäjätunnus</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Poista</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Uuden käyttäjän käyttäjätunnus</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Määriteltyä käyttäjää ei löytynyt</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Salasana</value>

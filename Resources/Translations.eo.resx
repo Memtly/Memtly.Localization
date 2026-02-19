@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Uzante pasvorton reset</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Ŝanĝita galerio posedanto</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filter-registroj bazitaj sur serĉperiodo</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Ŝanĝo Identeco</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Ŝanĝoj</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Ŝanĝo Pasvorto</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Bonvolu eniri novan galerion</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Relink Gallery</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Malsukcesa al religgalerio</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Sukcesa religita galerio</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Sekretoj</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Membroj de membroj</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Uzantnomo ne povas esti malplena</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Malsukcesas starigi 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Prezento</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Protektitaj galerionomoj ne estas permesitaj. Bonvolu provi alian nomon</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR Codes</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Liberigo versio</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>La novaj galerioj posedantoj uzantnomo</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Forigo</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>La uzantnomo de la nova uzanto</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Oni ne povas trovi la specifitan uzanton</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Pasvorto</value>

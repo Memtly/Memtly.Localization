@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Użytkownik zażądał resetu hasła</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>Zmieniono właściciela galerii</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Logi filtrów oparte na określeniu wyszukiwania</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Zmień tożsamość</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>Zmień właściciela</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>Zmień hasło</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Proszę podać nową nazwę galerii</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>Galeria Relink</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>Nie udało się do galerii relink</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>Pomyślnie odnowiona galeria</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Tajny klucz</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>Członkowie</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>Nazwa użytkownika nie może być pusta</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Nie udało się skonfigurować 2FA</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>Prezentacja</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>Chronione nazwy galerii nie są dozwolone. Proszę spróbować innej nazwy</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Kody QR</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>Wersja wydania</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Nowy właściciel galerii nazwa użytkownika</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Usuń</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>Nazwa użytkownika nowego użytkownika</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>Nie można znaleźć podanego użytkownika</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Hasło</value>

@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>उपयोगकर्ता ने पासवर्ड रीसेट करने का अनुरोध किया</value>
   </data>
+  <data name="Audit_RelinkedGallery" xml:space="preserve">
+    <value>गैलरी मालिक</value>
+  </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>एक खोज अवधि के आधार पर फ़िल्टर लॉग</value>
   </data>
@@ -354,6 +357,9 @@
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>पहचान बदलें</value>
+  </data>
+  <data name="Change_Owner" xml:space="preserve">
+    <value>मालिक बदलें</value>
   </data>
   <data name="Change_Password" xml:space="preserve">
     <value>पासवर्ड बदलें</value>
@@ -721,6 +727,15 @@
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>कृपया एक नया गैलरी नाम दर्ज करें</value>
   </data>
+  <data name="Gallery_Relink" xml:space="preserve">
+    <value>रिलिंक गैलरी</value>
+  </data>
+  <data name="Gallery_Relink_Failed" xml:space="preserve">
+    <value>गैलरी को फिर से जोड़ने में विफल</value>
+  </data>
+  <data name="Gallery_Relink_Success" xml:space="preserve">
+    <value>सफलतापूर्वक रीलिंक्ड गैलरी</value>
+  </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>गुप्त कुंजी</value>
   </data>
@@ -943,6 +958,9 @@
   <data name="Members" xml:space="preserve">
     <value>सदस्य</value>
   </data>
+  <data name="Missing_Username" xml:space="preserve">
+    <value>उपयोगकर्ता नाम खाली नहीं हो सकता</value>
+  </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA स्थापित करने में विफल</value>
   </data>
@@ -1048,6 +1066,9 @@
   <data name="Presentation" xml:space="preserve">
     <value>प्रस्तुति</value>
   </data>
+  <data name="Protected_Gallery_Name" xml:space="preserve">
+    <value>संरक्षित गैलरी नामों की अनुमति नहीं है। कृपया एक अलग नाम आज़माएं</value>
+  </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR कोड</value>
   </data>
@@ -1140,6 +1161,9 @@
   </data>
   <data name="Release_Version" xml:space="preserve">
     <value>रिलीज संस्करण</value>
+  </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>नई गैलरी मालिकों उपयोगकर्ता नाम</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>निकालें</value>
@@ -1995,6 +2019,9 @@
   </data>
   <data name="User_Name_Hint" xml:space="preserve">
     <value>नए उपयोगकर्ता का उपयोगकर्ता नाम</value>
+  </data>
+  <data name="User_Not_Found" xml:space="preserve">
+    <value>निर्दिष्ट उपयोगकर्ता को नहीं मिल सका</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>पासवर्ड</value>
