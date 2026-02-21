@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Pindai kode QR dengan ponsel Anda untuk berbagi gambar Anda</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Filter didasarkan pada istilah pencarian</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Term Pencarian</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Mengirim</value>
   </data>

@@ -1177,6 +1177,9 @@
   <data name="Release_Version" xml:space="preserve">
     <value>Vabasta versioon</value>
   </data>
+  <data name="Relink_Username_Hint" xml:space="preserve">
+    <value>Uute omanike kasutajanimi</value>
+  </data>
   <data name="Remove" xml:space="preserve">
     <value>Eemalda</value>
   </data>
@@ -1218,6 +1221,12 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skaneerige oma telefoniga QR-koodi, et jagada oma pilte</value>
+  </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Otsinguterminil põhinev filter</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Otsingutermin</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Saadan</value>

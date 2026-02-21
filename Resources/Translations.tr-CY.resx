@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Görüntülerinizi paylaşmak için telefonunuzun QR kodunu görüntülemek</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Bir arama terimine dayanan filtre</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Arama Termi</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Sending</value>
   </data>

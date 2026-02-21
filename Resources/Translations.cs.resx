@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Proskenujte QR kód svým telefonem pro sdílení obrázků</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Filtr založený na vyhledávacím termínu</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Vyhledávání</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Odesílání</value>
   </data>

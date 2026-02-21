@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>用手机扫描 QR 代码以共享图像</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>基于搜索词的过滤器</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>搜索期限</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>发送</value>
   </data>

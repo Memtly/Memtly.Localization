@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skaitykite QR kodą su savo telefonu, kad bendrintumėte savo paveikslėlius</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Filtras pagal paieškos terminą</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Paieškos terminas</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Siunčiama</value>
   </data>

@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>QR 코드를 휴대폰으로 스캔하여 이미지를 공유</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>검색 용어를 기반으로 필터</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>검색 기간</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>제품정보</value>
   </data>

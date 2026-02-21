@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>अपनी छवियों को साझा करने के लिए अपने फोन के साथ QR कोड स्कैन करें</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>खोज अवधि के आधार पर फ़िल्टर करें</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>खोज अवधि</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>भेजना</value>
   </data>

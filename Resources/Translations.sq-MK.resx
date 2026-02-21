@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Kontrollo kodin QR me telefonin tënd për të ndarë imazhet e tua</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Filtër në bazë të një termi kërkimi</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Termi i kërkimit</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Në ngjitje</value>
   </data>

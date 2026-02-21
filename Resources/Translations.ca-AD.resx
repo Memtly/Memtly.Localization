@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Escaneja el codi QR amb el telèfon per compartir les imatges</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Filtre basat en un terme de cerca</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Terme de cerca</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Enviament</value>
   </data>

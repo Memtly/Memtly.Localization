@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>สแกนรหัส QR ด้วยโทรศัพท์ของคุณเพื่อแบ่งปันภาพต่าง ๆ ของคุณ</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>ตัวกรอง อิงจากคําค้น</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>จํานวนงวด:</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>กําลังส่ง</value>
   </data>

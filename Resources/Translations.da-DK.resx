@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Scan QR-koden med telefonen for at dele dine billeder</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Filter baseret på et søgeudtryk</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Søgebetegnelse</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Send</value>
   </data>

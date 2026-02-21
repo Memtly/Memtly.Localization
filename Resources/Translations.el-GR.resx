@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Σαρώστε τον κωδικό QR με το τηλέφωνό σας για να μοιραστείτε τις εικόνες σας</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Φίλτρο βασισμένο σε έναν όρο αναζήτησης</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Όρος αναζήτησης</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Αποστολή</value>
   </data>

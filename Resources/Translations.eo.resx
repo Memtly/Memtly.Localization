@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>La QR-kodo kun via telefono dividi viajn bildojn</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Filter surbaze de serĉperiodo</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Serĉo</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Sendu</value>
   </data>

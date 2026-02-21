@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>کد QR را با تلفن خود اسکن کنید تا تصاویر خود را به اشتراک بگذارید</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>فیلتر بر اساس یک اصطلاح جستجو</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>جستجو</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>ارسال</value>
   </data>

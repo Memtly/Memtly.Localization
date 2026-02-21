@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Ang QR code kasama ang iyong telepono upang ibahagi ang iyong mga larawan</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Pansala batay sa isang termino sa paghahanap</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Paghahanap</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Pagpadala</value>
   </data>

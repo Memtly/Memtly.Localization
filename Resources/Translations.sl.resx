@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Preglejte kodo QR s telefonom, da si delite slike</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Filter temelji na iskalnem izrazu</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Iskalni izraz</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Pošiljanje</value>
   </data>

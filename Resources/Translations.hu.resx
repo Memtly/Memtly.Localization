@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Keresse meg a QR kódot a telefonjával a képek megosztásához</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Keresés kifejezésen alapuló szűrő</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Keresési kifejezés</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Küldés</value>
   </data>

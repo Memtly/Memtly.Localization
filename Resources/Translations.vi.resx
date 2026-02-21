@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Quét mã QR với điện thoại của bạn để chia sẻ ảnh của bạn</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Lọc dựa trên thuật ngữ tìm kiếm</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Tìm kiếm</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Đang gửi</value>
   </data>

@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Sizin şəkillər bölüşmək üçün telefon ilə QR kodu</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Domen adı qeydiyyatdan keçirt »</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Axtarış</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Qeydiyyat</value>
   </data>

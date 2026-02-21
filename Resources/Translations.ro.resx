@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Scanați codul QR cu telefonul pentru a partaja imaginile</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Filtru bazat pe un termen de căutare</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Termen căutare</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Trimitere</value>
   </data>

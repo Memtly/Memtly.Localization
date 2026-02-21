@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Eskaneatu QR kodea telefonoarekin irudiak partekatzeko</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Bilaketa-terminoetan oinarritutako iragazkia</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Bilaketa-aldia</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Bidaltzea</value>
   </data>

@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>আপনার ছবি শেয়ার করার জন্য RQR কোড স্ক্যান করুন</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>অনুসন্ধানের ফিল্টার অনুযায়ী ফিল্টার করা হবে</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>অনুসন্ধানের স্থান</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>ছোট থেকে বড়</value>
   </data>

@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Сканирайте QR кода с телефона си, за да споделите изображенията си</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Филтър въз основа на термин за търсене</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Термин за търсене</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Изпращане</value>
   </data>

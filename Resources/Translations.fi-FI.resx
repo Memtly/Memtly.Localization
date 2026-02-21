@@ -1222,6 +1222,12 @@
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skannaa QR-koodi puhelimellasi jakaaksesi kuvasi</value>
   </data>
+  <data name="SearchTerm_Help" xml:space="preserve">
+    <value>Suodin perustuu hakusanaan</value>
+  </data>
+  <data name="SearchTerm_Label" xml:space="preserve">
+    <value>Hakusana</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Lähetetään</value>
   </data>
