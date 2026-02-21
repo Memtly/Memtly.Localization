@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Użytkownik zażądał resetu hasła</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Zmieniono właściciela zasobów niestandardowych</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Zmieniono właściciela galerii</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Obecnie nie masz dostępu</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Własny zasób Id nie może być pusty</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Własny zasób</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Nie powiodło się nawracanie własnego zasobu</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Pomyślnie uzupełnione zasoby niestandardowe</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Zasoby własne</value>
@@ -1163,7 +1178,7 @@
     <value>Wersja wydania</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Nowy właściciel galerii nazwa użytkownika</value>
+    <value>Nowa nazwa użytkownika właścicieli</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Usuń</value>

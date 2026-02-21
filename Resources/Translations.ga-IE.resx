@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Úsáideoir iarr athshocrú phasfhocal</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Athrú úinéir acmhainne saincheaptha</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Athrú úinéir gailearaí</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Níl rochtain agat faoi láthair</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Acmhainní saincheaptha Ní féidir liom a bheith folamh</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Acmhainn an Chustaim</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Failed a athnasc acmhainn saincheaptha</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Acmhainní saincheaptha athnasctha go rathúil</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Acmhainní an Chustaim</value>
@@ -1163,7 +1178,7 @@
     <value>Naisc ábhartha eile</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Ainm úsáideora na n-úinéirí gailearaí nua</value>
+    <value>Ainm úsáideora na n-úinéirí nua</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Bain úsáid as</value>

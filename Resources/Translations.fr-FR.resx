@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>L'utilisateur a demandé une remise du mot de passe</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Propriétaire de ressources personnalisé modifié</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Propriétaire de galerie changé</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Vous n'avez actuellement pas d'accès</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Ressources personnalisées Id ne peut pas être vide</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relier la ressource personnalisée</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Impossible de reconnecter la ressource personnalisée</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Ressources personnalisées recoupées avec succès</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Ressources personnalisées</value>
@@ -1163,7 +1178,7 @@
     <value>Version de l'application</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Le nouveau nom d'utilisateur des propriétaires de galerie</value>
+    <value>Le nom d'utilisateur des nouveaux propriétaires</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Supprimer</value>

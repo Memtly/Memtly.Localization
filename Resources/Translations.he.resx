@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>המשתמש ביקש איפוס סיסמה</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>שינוי בעל המשאבים</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>בעל גלריה משתנה</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>כרגע אין לך גישה</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>משאב מותאם אישית לא יכול להיות ריק</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Custom Resources</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>נכשל לקישור משאבים מותאמים אישית</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>משאב מותאם אישית</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>משאבי מכס</value>
@@ -1163,7 +1178,7 @@
     <value>גרסה חופשית</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>שם המחבר: The New Gallery Husbands Name</value>
+    <value>שם המשתמש של הבעלים החדשים</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>להסיר</value>

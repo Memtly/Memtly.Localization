@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Kullanıcı bir parola sıfırlama talep etti</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Benzersiz özel kaynak sahibi</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Değişen galeri sahibi</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Şu anda erişiminiz yok</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Özel kaynak Boş olamaz</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Custom Resource</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Özel kaynağa yeniden bağlantı kurmak için başarısız oldu</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Başarılı bir şekilde yeniden bağlantılandırılmış özel kaynak</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Özel Kaynaklar</value>
@@ -1163,7 +1178,7 @@
     <value>Salı</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Yeni galeri sahipleri kullanıcı adı</value>
+    <value>Yeni sahipleri kullanıcı adı</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Kaldırın</value>

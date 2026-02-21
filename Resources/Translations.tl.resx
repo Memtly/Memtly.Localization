@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Humiling si User ng pag - aayos sa password</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Binagong may - ari ng likas na yaman</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Binago ang may - ari ng galerya</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Sa kasalukuyan ay wala kang makuha</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Kaugaliang yaman Hindi maaaring walang laman ang Id</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Binibining Kaugalian</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Sawi sa pag-link muli ng mapagkukunan ng kaugalian</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Matagumpay na binago ang mapagkukunan ng kaugalian</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Kaugaliang Yaman</value>
@@ -1163,7 +1178,7 @@
     <value>Release Version</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Ang bagong pangalan ng mga may - ari ng galerya</value>
+    <value>Pangalan ng bagong mga may - ari</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Alisin</value>

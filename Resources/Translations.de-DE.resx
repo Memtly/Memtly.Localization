@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Benutzer bat um ein Passwort zurücksetzen</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Benutzerdefinierte Ressourcenbesitzer ändern</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Galeriebesitzer ändern</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Sie haben derzeit keinen Zugang</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Benutzerdefinierte Ressource Kann nicht leer sein</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink benutzerdefinierte Ressourcen</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Versäumt, benutzerdefinierte Ressource neu zu verlinken</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Erfolgreich überarbeitete benutzerdefinierte Ressource</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Personal</value>
@@ -1163,7 +1178,7 @@
     <value>Veröffentlichung</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Die neue Galerie Besitzer Benutzername</value>
+    <value>Der neue Besitzer Benutzername</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Entfernen</value>

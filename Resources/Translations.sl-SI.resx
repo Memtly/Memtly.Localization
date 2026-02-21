@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Uporabnik je zahteval ponastavitev gesla</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Spremenjen lastnica virov po meri</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Spremenjen lastnik galerije</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Trenutno nimate dostopa</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Lastni vir Id ne more biti prazna</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Ponovno poveži lastni vir</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Ni uspelo ponovno povezati lastnega vira</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Uspešno ponovno povezan lastni vir</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Lastni viri</value>
@@ -1163,7 +1178,7 @@
     <value>Različica izdaje</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Uporabniško ime novega lastnika galerije</value>
+    <value>Uporabniško ime novih lastnikov</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Odstrani</value>

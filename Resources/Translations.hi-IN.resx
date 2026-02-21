@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>उपयोगकर्ता ने पासवर्ड रीसेट करने का अनुरोध किया</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>कस्टम संसाधन मालिक बदल गया</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>गैलरी मालिक</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>वर्तमान में आपके पास पहुंच नहीं है</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>कस्टम संसाधन आईडी खाली नहीं हो सकता</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink कस्टम संसाधन</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>कस्टम संसाधन को फिर से जोड़ने में विफल</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>सफलतापूर्वक रिलिंक्ड कस्टम संसाधन</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>कस्टम संसाधन</value>
@@ -1163,7 +1178,7 @@
     <value>रिलीज संस्करण</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>नई गैलरी मालिकों उपयोगकर्ता नाम</value>
+    <value>नए मालिकों उपयोगकर्ता नाम</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>निकालें</value>

@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>ব্যবহারকারীকে পাসওয়ার্ড পুনরায় লিখুন</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>পরিবর্তিত স্বনির্ধারিত কাজের মালিক</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>গ্যালারির মালিক পরিবর্তন করুন</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>আপনি বর্তমানে ব্যবহার করেননি</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>স্বনির্ধারিত রিসোর্স ফাঁকা রাখা যাবে না</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>স্বনির্ধারিত রিসোর্স</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>স্বনির্ধারিত রিসোর্স নির্মাণ করতে ব্যর্থ</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>সাফল্যের সাথে আপডেট করা হয়েছে</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>স্বনির্বাচিত রিসোর্স</value>
@@ -1163,7 +1178,7 @@
     <value>রিলিজ সংস্করণ</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>নতুন গ্যালারির ব্যবহারকারীর নাম</value>
+    <value>নতুন মালিকের নাম</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>মুছে ফেলুন</value>

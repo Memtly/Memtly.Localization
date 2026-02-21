@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Brukeren ba om tilbakestilling av passord</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Endret egendefinert ressurseier</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Endret galleri eier</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Du har for tiden ikke tilgang til</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Tilpasset ressurs Id kan ikke være tomt</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Custom Resource</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Klarte ikke å koble til egendefinert ressurs på nytt</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Vellykket rekoblet egendefinert ressurs</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Tilpassede ressurser</value>
@@ -1163,7 +1178,7 @@
     <value>Utgivelsesversjon</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Den nye galleri eieren brukernavn</value>
+    <value>Nye eiere brukernavn</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Fjern</value>

@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Uživatel požádal o resetování hesla</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Změna vlastníka vlastních zdrojů</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Změna majitele galerie</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>V současné době nemáte přístup</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Vlastní zdroj Id nemůže být prázdný</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Vlastní zdroj</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Nepodařilo se obnovit vlastní zdroj</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Úspěšně obnovený vlastní zdroj</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Vlastní zdroje</value>
@@ -1163,7 +1178,7 @@
     <value>Verze vydání</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Uživatelské jméno nových majitelů galerie</value>
+    <value>Uživatelské jméno nových majitelů</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Odstranit</value>

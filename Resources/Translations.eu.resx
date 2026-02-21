@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Erabiltzaileak pasahitza berrezartzeko eskatu du</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Aldatu baliabide pertsonalizatuen jabea</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Galeriaren jabea aldatuta</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Une honetan ez duzu sarbiderik</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Baliabide pertsonalizatua Id ezin da hutsik egon</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Baliabide pertsonalizatua</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Huts egin du baliabide pertsonalizatua berriro estekatzean</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Baliabide pertsonalizatua ongi estekatu da</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Baliabide pertsonalizatuak</value>
@@ -1163,7 +1178,7 @@
     <value>Bertsioa</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Galeria berriaren jabearen erabiltzaile-izena</value>
+    <value>Jabe berrien erabiltzaile-izena</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Kendu</value>

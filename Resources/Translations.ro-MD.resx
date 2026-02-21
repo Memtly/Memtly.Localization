@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Utilizatorul a cerut o resetare a parolei</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Proprietar de resurse personalizate modificat</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Proprietar de galerie schimbat</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>În prezent nu aveți acces</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Resursa personalizată Nu poate fi gol</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Reconectează resursa personalizată</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Reconectarea resursei personalizate a eșuat</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Reconectare resursa personalizată cu succes</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Resurse personalizate</value>
@@ -1163,7 +1178,7 @@
     <value>Versiune de lansare</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Noul proprietar de galerie nume de utilizator</value>
+    <value>Noul nume de utilizator al proprietarilor</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Elimină</value>

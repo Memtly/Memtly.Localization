@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Përdoruesi ka kërkuar relexon</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Pronari i rezervave të ndryshuara</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Pronari i galerisë së ndryshuar</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Aktualisht nuk keni qasje</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>E personalizuar Id nuk mund të jetë bosh</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Burimi i personalizuar</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Lidhja me motin dështoi</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>J</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Gjëndja</value>
@@ -1163,7 +1178,7 @@
     <value>Release Version</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Përdoruesi për pronarët e rinj të galerisë</value>
+    <value>Emri i përdoruesit:</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Hiq</value>

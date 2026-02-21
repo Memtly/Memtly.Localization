@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Användare begärde en lösenordsåterställning</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Ändrad anpassad resursägare</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Förändrad galleriägare</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Du har för närvarande inte tillgång</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Anpassad resurs Id kan inte vara tom</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Custom Resource</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Misslyckades med att avstå från anpassad resurs</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Framgångsrikt avkopplad anpassad resurs</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Anpassade resurser</value>
@@ -1163,7 +1178,7 @@
     <value>Släpp version</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Nya galleriägare användarnamn</value>
+    <value>De nya ägarnas användarnamn</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Ta bort</value>

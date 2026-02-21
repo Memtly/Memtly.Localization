@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Gebruiker verzocht om een wachtwoord reset</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Veranderde eigenaar van aangepaste bron</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Veranderde galerij eigenaar</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>U heeft momenteel geen toegang</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Aangepaste bron Id kan niet leeg zijn</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Aangepaste hulpbron herkoppelen</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Kon aangepaste hulpbron niet herkoppelen</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Aangepaste hulpbron succesvol opnieuw gekoppeld</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Aangepaste bronnen</value>
@@ -1163,7 +1178,7 @@
     <value>Versie vrijgeven</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>De nieuwe gebruikersnaam van de galerie</value>
+    <value>De gebruikersnaam van de nieuwe eigenaars</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Verwijderen</value>

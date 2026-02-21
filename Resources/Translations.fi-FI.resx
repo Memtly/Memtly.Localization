@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Käyttäjä pyysi salasanan nollausta</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Muuttunut oma resurssi omistaja</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Muuttunut gallerian omistaja</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Sinulla ei tällä hetkellä ole pääsyä</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Oma resurssi Id ei voi olla tyhjä</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink oma resurssi</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Omaa resurssia ei voitu linkittää</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Onnistuivat sitomaan mukautetun resurssin</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Omat resurssit</value>
@@ -1163,7 +1178,7 @@
     <value>Julkaisuversio</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Uusi gallerian omistajat käyttäjätunnus</value>
+    <value>Uudet omistajat käyttäjätunnus</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Poista</value>

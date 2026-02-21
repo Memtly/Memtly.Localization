@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Brugeren anmodede om at nulstille adgangskoden</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Ændrede brugerdefinerede ressource ejer</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Ændrede galleriejer</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Du har i øjeblikket ikke adgang</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Brugerdefineret ressource Id kan ikke være tomt</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Genink brugerdefinerede ressource</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Kunne ikke relinke brugerdefinerede ressource</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Vellykket genbrugte brugerdefinerede ressource</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Brugerdefinerede ressourcer</value>
@@ -1163,7 +1178,7 @@
     <value>Udgivelsesversion</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>De nye galleriejere brugernavn</value>
+    <value>Den nye ejers brugernavn</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Fjern</value>

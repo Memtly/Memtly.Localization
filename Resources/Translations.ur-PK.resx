@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>صارفین نے پاس ورڈ واپسی کی درخواست کی</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>تبدیل شدہ دستوری وسائل مالک</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>نئی گیلری کا مالک</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>آپ اب تک رسائی حاصل نہیں ہے</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>خالی وسائل محفوظ نہیں کیا جاسکتا</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>دوبارہ شروع</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>صارف دوبارہ شروع کرنے میں ناکامی</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>کامیاب روایتی وسائل</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>دوبارہ استعمال</value>
@@ -1163,7 +1178,7 @@
     <value>اشاعت کا نسخہ</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>نئی گیلری کے مالکان</value>
+    <value>نئے مالکان کینس</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>نکالو</value>

@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>طلب المستخدم إعادة تحديد كلمة السر</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>مالك موارد عرفية متغير</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>مالك المعرض</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>أنت حالياً لا تستطيع الوصول</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>الموارد العرفية لا يمكن أن تكون فارغة</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Custom Resource</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>الفشل في إعادة ربط الموارد الجمركية</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>موارد العرف المعاد ربطها بنجاح</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>الموارد العرفية</value>
@@ -1163,7 +1178,7 @@
     <value>الإصدار</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>اسم مالكي المعرض الجديد</value>
+    <value>اسم الملاك الجدد</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>إزالة الألغام</value>

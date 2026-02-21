@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Колдонуучу сырсөзүн кайра орнотот</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Өзгөртүлгөн атайын ресурстун ээси</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Алмашкан галерея ээси</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Учурда сизде кирүү мүмкүнчүлүгү жок</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Бажы ресурсу Id бош болушу мүмкүн эмес</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Бажы ресурстарын кайра байланыштыруу</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Бажы ресурстарын кайра байланыштырууга жетишпеген</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Бажы ресурсун ийгиликтүү байланыштыруу</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Бажы ресурстары</value>
@@ -1163,7 +1178,7 @@
     <value>Чыгуу версиясы</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Жаңы галерея ээлеринин колдонуучунун аты</value>
+    <value>Жаңы ээлеринин колдонуучу аталышы</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Алып салуу</value>

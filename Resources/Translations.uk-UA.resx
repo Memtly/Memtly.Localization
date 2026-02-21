@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Користувач запитав пароль</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Змінений власник користувальницького ресурсу</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Змінений власник галереї</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Ви не маєте доступу</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Спеціальний ресурс Я не можу бути порожнім</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Користувацькі Ресурси</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Заборонено пересилати власний ресурс</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Успішно відредагований користувальницький ресурс</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Ресурси</value>
@@ -1163,7 +1178,7 @@
     <value>Версія релізу</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Нова галерея власників</value>
+    <value>Ім'я власників</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Прибрати</value>

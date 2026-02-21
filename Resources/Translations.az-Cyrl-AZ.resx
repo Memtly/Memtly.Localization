@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>İstifadəçi bir şəkil qəbul etdi</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Xüsusi qurğu sahibi</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Gallery sahibi</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Şu anda giriş deyil</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Xüsusi resurs Id boş deyil</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>E-poçt ünvanı</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Xüsusi komponenti yeniləyir</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Müəllif relinked xüsusi komponent</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Xüsusi Resurslar</value>
@@ -1163,7 +1178,7 @@
     <value>Proqram</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Yeni gallery sahiblərinin adı</value>
+    <value>Yeni sahiblər istifadəçi adı</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Qeydiyyat</value>

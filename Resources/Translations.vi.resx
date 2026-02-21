@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Người dùng đặt lại mật khẩu</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Name</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Name</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Hiện tại bạn không có quyền truy cập</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Tài nguyên tự chọn Sẽ không thể trống rỗng</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Liên kết tài nguyên tự chọn lại</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Lỗi liên kết tài nguyên tự chọn lại</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Tài nguyên tự chọn đã được liên kết thành công</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Tài nguyên tự chọn</value>
@@ -1163,7 +1178,7 @@
     <value>Phiên bản Phóng</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Name</value>
+    <value>Tên người chủ mới</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Bỏ</value>

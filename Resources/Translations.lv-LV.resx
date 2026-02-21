@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Lietotājs pieprasīja paroles atiestatīšanu</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Mainīts pielāgotu resursu īpašnieks</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Mainīts galerijas īpašnieks</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Jums šobrīd nav piekļuves</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Pielāgots resurss Id nevar būt tukšs</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Pārsaistīt pielāgotu resursu</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Neizdevās pārsaistīt pielāgotu resursu</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Veiksmīgi pārkārtots pielāgots resurss</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Pielāgoti resursi</value>
@@ -1163,7 +1178,7 @@
     <value>Laidiena versija</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Jauno galeriju īpašnieku lietotvārds</value>
+    <value>Jaunie īpašnieki lietotājvārds</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Izņemt</value>

@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>パスワードリセットをリクエスト</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>カスタムリソース所有者を変更</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>変更されたギャラリー所有者</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>現在アクセスしていない</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>カスタムリソース Idは空にすることはできません</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>カスタムリソースを再リンク</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>カスタムリソースを再リンクできなかった</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>カスタムリソースを完全に再リンク</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>カスタムリソース</value>
@@ -1163,7 +1178,7 @@
     <value>リリース版</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>新しいギャラリー所有者のユーザー名</value>
+    <value>新しい所有者のユーザー名</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>削除</value>

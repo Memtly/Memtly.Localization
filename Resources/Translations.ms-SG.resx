@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Pengguna void meminta set ulang kata sandi</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Pemilik sumber daya suai berubah</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Pemilik galeri berubah rupa</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Anda saat ini tidak memiliki akses</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Sumberdaya langganan Id tidak boleh kosong</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Buat Relink Sumber Daya Suai</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Gagal menaut semula sumber ubahan</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Berjaya menyambung ulang sumber ubahan</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Sumber Daya Listom</value>
@@ -1163,7 +1178,7 @@
     <value>Versi Keluaran Minuman</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Nama pengguna pemilik galeri baru</value>
+    <value>Nama pengguna pemilik baru</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Mengeluarkan</value>

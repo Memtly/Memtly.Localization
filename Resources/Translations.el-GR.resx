@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Ο χρήστης ζήτησε μια επαναφορά κωδικού πρόσβασης</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Αλλαγή προσαρμοσμένου ιδιοκτήτη πόρου</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Αλλαγή ιδιοκτήτη γκαλερί</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Προς το παρόν δεν έχετε πρόσβαση</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Προσαρμοσμένος πόρος Δεν μπορεί να είναι άδειο</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Επανασύνδεση προσαρμοσμένου πόρου</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Αποτυχία επανασύνδεσης προσαρμοσμένου πόρου</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Επιτυχής επανασύνδεση προσαρμοσμένου πόρου</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Προσαρμοσμένοι πόροι</value>
@@ -1163,7 +1178,7 @@
     <value>Έκδοση έκδοσης</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Το όνομα χρήστη των νέων ιδιοκτητών της γκαλερί</value>
+    <value>Το όνομα χρήστη των νέων ιδιοκτητών</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Αφαίρεση</value>

@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Naudotojas paprašė iš naujo nustatyti slaptažodį</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Pakeistas naudotojo resursų savininkas</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Pakeistas galerijos savininkas</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Jūs šiuo metu neturite prieigos</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Parinkti resursai Id negali būti tuščias</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>@ info: tooltip</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Sėkmingai grąžintas naudotojo resursas</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Paprasti ištekliai</value>
@@ -1163,7 +1178,7 @@
     <value>Išleidimo versija</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Nauji galerijos savininkai</value>
+    <value>Naujas savininkas naudotojo vardas</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Pašalinti</value>

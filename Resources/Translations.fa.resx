@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>کاربر درخواست تنظیم مجدد رمز عبور کرد</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>تغییر مالک منابع سفارشی</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>تغییر مالک گالری</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>شما در حال حاضر دسترسی ندارید</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>منابع سفارشی نمی توانم خالی باشم</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Custom Source</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>عدم اتصال مجدد منابع سفارشی</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>مدیریت مجدد منابع سفارشی</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>منابع سفارشی</value>
@@ -1163,7 +1178,7 @@
     <value>نسخه آزاد</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>نام کاربری جدید صاحبان گالری</value>
+    <value>نام کاربری مالکان جدید</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>حذف</value>

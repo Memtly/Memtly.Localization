@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>A felhasználó jelszó visszaállítását kérte</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Változott egyéni erőforrás tulajdonos</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Változott galéria tulajdonosa</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Jelenleg nincs hozzáférése</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Egyéni erőforrás Nem lehet üres</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Relink Egyéni erőforrás</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Nem sikerült újraindítani az egyéni erőforrást</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Sikeresen összekapcsolt egyéni erőforrás</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Egyedi források</value>
@@ -1163,7 +1178,7 @@
     <value>Verzió</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Az új galéria tulajdonosok felhasználóneve</value>
+    <value>Az új tulajdonosok felhasználóneve</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Eltávolítás</value>

@@ -274,6 +274,9 @@
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>O usuário solicitou uma redefinição de senha</value>
   </data>
+  <data name="Audit_RelinkedCustomResource" xml:space="preserve">
+    <value>Mudado proprietário de recursos personalizados</value>
+  </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>O dono da galeria mudou</value>
   </data>
@@ -414,6 +417,18 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Você não tem acesso</value>
+  </data>
+  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
+    <value>Recurso personalizado Id não pode estar vazio</value>
+  </data>
+  <data name="Custom_Resource_Relink" xml:space="preserve">
+    <value>Reiniciar recurso personalizado</value>
+  </data>
+  <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
+    <value>Não foi possível religar o recurso personalizado</value>
+  </data>
+  <data name="Custom_Resource_Relink_Success" xml:space="preserve">
+    <value>Recursos personalizados religados com sucesso</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Recursos personalizados</value>
@@ -1163,7 +1178,7 @@
     <value>Versão de lançamento</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>O novo nome de usuário dos donos da galeria</value>
+    <value>O novo nome de usuário dos proprietários</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Remover</value>
