@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Přijmout</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Účet</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Akce</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Vaše heslo bylo úspěšně resetováno</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Platby</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Prosím, upgradujte své členství v účtu získat přístup k této funkci</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Zadejte prosím platné uživatelské heslo</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Vybraná placená úroveň je neplatná</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Úroveň</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Heslo nového uživatele</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Úroveň</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Uživatelé zaplatili úroveň</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Uživatelské jméno</value>

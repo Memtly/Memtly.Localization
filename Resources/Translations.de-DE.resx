@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Annahme</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Gesamt</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Aktion</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Ihr Passwort wurde erfolgreich zurückgesetzt</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Zahlungen</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Bitte aktualisieren Sie Ihre Konto-Mitgliedschaft, um Zugriff auf diese Funktion zu erhalten</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Bitte gib ein gültiges Passwort an</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Die gewählte Zahl ist ungültig</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Ebene</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Das Passwort des neuen Benutzers</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Tierarzneimittel</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Die Nutzer zahlen</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Benutzername</value>

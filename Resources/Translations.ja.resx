@@ -1063,6 +1063,9 @@
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>パスワードが正常にリセットされました</value>
   </data>
+  <data name="Payments" xml:space="preserve">
+    <value>お支払いについて</value>
+  </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>この機能にアクセスするためにアカウントのメンバーシップをアップグレードしてください</value>
   </data>
@@ -2020,6 +2023,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>有効なユーザー名を入力してください</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>選択した有料ティアは無効です</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>レベル</value>
   </data>
@@ -2049,6 +2055,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>新しいユーザーのパスワード</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>ティエ</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>ユーザーの有料ティア</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>ユーザ名</value>

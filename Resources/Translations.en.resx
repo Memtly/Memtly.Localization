@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Accept</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Account</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Action</value>
   </data>
@@ -525,9 +528,6 @@
   </data>
   <data name="Enabled" xml:space="preserve">
     <value>Enabled</value>
-  </data>
-  <data name="Error" xml:space="preserve">
-    <value>Error</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Error</value>
@@ -1065,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Your password has been successfully reset</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Payments</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Please upgrade your account membership to gain access to this feature</value>
@@ -2023,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Please specify a valid user password</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>The selected paid tier is invalid</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Level</value>
   </data>
@@ -2053,8 +2059,11 @@
   <data name="User_Password_Hint" xml:space="preserve">
     <value>The password of the new user</value>
   </data>
-  <data name="Username" xml:space="preserve">
-    <value>Username</value>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Tier</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>The users paid tier</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Username</value>

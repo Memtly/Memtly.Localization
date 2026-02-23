@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Priėmimas</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Paskyra</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Veiksmas</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Jūsų slaptažodis buvo sėkmingai atkurtas</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Mokėjimai</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Prašome atnaujinti savo sąskaitą narystės gauti prieigą prie šios funkcijos</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Prašome nurodyti galiojantį vartotojo slaptažodį</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>NAME OF TRANSLATORS</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Lygis</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Naujojo naudotojo slaptažodis</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Pakopa</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Našumas (tonomis darbuotojui)</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Vartotojo vardas</value>

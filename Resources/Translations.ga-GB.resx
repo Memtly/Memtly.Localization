@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Glacadh le</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Cuntas deimhnithe</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Gníomhaíocht</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Do phasfhocal a athshocrú go rathúil</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Íocaíocht Ar Líne a Dhéanamh</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Le do thoil uasghrádú do bhallraíocht cuntas rochtain a fháil ar an ghné seo</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Sonraigh pasfhocal úsáideora bailí</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Tá an tsraith íoctha roghnaithe neamhbhailí</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Leibhéal</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>An focal faire an úsáideora nua</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Téitheoir</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>D'íoc na húsáideoirí sraith</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Ainm úsáideora</value>

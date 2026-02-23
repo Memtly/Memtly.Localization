@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Acceptă</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Cont</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Acțiune</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Parola ta a fost resetată cu succes</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Plăți</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Vă rugăm să actualizați calitatea de membru al contului pentru a obține acces la această caracteristică</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Vă rugăm să specificați o parolă de utilizator validă</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Nivelul plătit selectat este invalid</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nivel</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Parola noului utilizator</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Nivelul</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Utilizatorii au plătit nivelul</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nume utilizator</value>

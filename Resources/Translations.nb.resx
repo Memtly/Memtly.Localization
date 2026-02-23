@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Godta</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Konto</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Handling</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Passordet ditt har blitt tilbakestilt</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Betalinger</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Vennligst oppgrader ditt kontomedlemskap for å få tilgang til denne funksjonen</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Vennligst oppgi et gyldig brukerpassord</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Det valgte betalte nivået er ugyldig</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nivå</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Passordet til den nye brukeren</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Tier</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Brukerne betalt nivå</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Brukernavn</value>

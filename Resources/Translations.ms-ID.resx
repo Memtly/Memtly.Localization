@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Terima</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Akun</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Aksi</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Kata sandi anda telah berhasil diatur ulang</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Bayaran yuran</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Tolong tingkatkan keanggotaan akun anda untuk mendapatkan akses ke fitur ini</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Nyatakan kata laluan pengguna yang sah</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Peniti berbayar yang dipilih tidak sah</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Aras</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Kata sandi pengguna baru</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Perancis</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Para pengguna membayar tier</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Namapengguna</value>

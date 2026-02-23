@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Akceptovať</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Účet</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Činnosť</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Vaše heslo bolo úspešne resetované</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Platby</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Prosím, upgrade členstva v konte získať prístup k tejto funkcii</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Zadajte platné užívateľské heslo</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Vybraná platená úroveň je neplatná</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Úroveň</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Heslo nového užívateľa</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Úroveň</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>V súlade s článkom 2 ods. 7 základného nariadenia Komisia skúmala, či by zachovanie existujúcich opatrení bolo v záujme výrobného odvetvia Únie</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Užívateľské meno</value>

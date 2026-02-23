@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Tanggapin</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Ulat</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Pagkilos</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Ang iyong password ay matagumpay na inayos</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Mga Gantimpala</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Pakisuyong ihanda ang iyong mga tauhan sa account upang makuha ang bahaging ito</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Pakisuyong magtakda ng tanggap na password</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Ang piniling may bayad na andana ay walang bisa</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Bibelin</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Ang password ng bagong gumagamit</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Tier</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Nagbayad ng andana ang mga gumagamit</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Pangalan</value>

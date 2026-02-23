@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Accepteren</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Account</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Actie</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Uw wachtwoord is succesvol gereset</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Betalingen</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Upgrade uw account lidmaatschap om toegang te krijgen tot deze functie</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Geef een geldig gebruikerswachtwoord op</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Het geselecteerde betaalde niveau is ongeldig</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Niveau</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Het wachtwoord van de nieuwe gebruiker</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Niveau</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>De gebruikers betaalde tier</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Gebruikersnaam</value>

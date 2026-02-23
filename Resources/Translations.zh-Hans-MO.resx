@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>接受</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>账户</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>行动</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>您的密码已成功重设</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>付款</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>请升级您的账户会员,以便访问此功能</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>请指定有效的用户密码</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>选中的付费等级无效</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>职等</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>新用户的密码</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>等级</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>用户付费等级</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>用户名</value>

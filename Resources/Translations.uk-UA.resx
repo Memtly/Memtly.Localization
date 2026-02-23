@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Прийняти</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Облік</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Дія</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Ваш пароль успішно скинув</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Плати</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Щоб отримати доступ до цієї функції</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Введіть пароль</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Вибраний платний ярус недійсний</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Рівень</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Пароль нового користувача</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Шини</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Користувачі оплачували ярус</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Ім'я користувача</value>

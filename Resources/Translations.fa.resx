@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>پذیرش</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>حساب</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Action</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>رمز عبور شما با موفقیت تنظیم شده است</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>پرداخت</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>لطفا عضویت حساب خود را برای دسترسی به این ویژگی ارتقا دهید</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>لطفا یک رمز عبور کاربر معتبر را مشخص کنید</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>لایه پرداخت شده انتخاب شده بی اعتبار است</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>سطح</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>رمز عبور کاربر جدید</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>درجه</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>کاربران پرداخت tier</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Username</value>

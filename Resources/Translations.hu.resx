@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Elfogadás</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Számla</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Intézkedés</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>A jelszó sikeresen visszaállt</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Kifizetések</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Kérjük, frissítse fióktagságát, hogy hozzáférhessen ehhez a funkcióhoz</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Adja meg az érvényes felhasználói jelszót</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>A kiválasztott fizetett szint érvénytelen</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Szint</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Az új felhasználó jelszava</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Tier</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Az uniós gazdasági ágazat értékesítési volumene és piaci részesedése</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Felhasználónév</value>

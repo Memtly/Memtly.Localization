@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Kabul</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Hesap Hesabı</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Eylem</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Şifreniz başarıyla sıfırlandı</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Ödemeler</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Lütfen bu özellike erişmek için hesap üyeliğinizi yükseltme</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Lütfen geçerli bir kullanıcı şifresini belirtin</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Seçilen ücretli tier geçersizdir</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Seviye</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Yeni kullanıcının şifresi</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Katman</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Kullanıcılar tier ödedi</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Username</value>

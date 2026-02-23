@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>قبول کرو</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>اکاؤنٹ</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>جگہ</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>آپ کا پاس ورڈ کامیابی سے دوبارہ حل کیا گیا ہے</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>اخراجات</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>براہ کرم اس خصوصیت تک رسائی حاصل کرنے کے لیے اپنے اکاؤنٹ ممبروں کو اپلوڈ کریں۔</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>براہ راست صارف پاس ورڈ متعین کریں</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>منتخب ادا کنندہ غیر قانونی ہوتا ہے۔</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>درجات</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>نیا صارف کا پاس ورڈ</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>ٹائی</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>صارفین نے ٹائیگر ادا کیا</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>پرنٹ</value>

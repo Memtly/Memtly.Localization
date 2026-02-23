@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Onartu</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Kontua</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Ekintza</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Pasahitza ongi berrezarri da</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Ordainketak</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Eguneratu zure kontuko kideak eginbide hau eskuratzeko</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Zehaztu baliozko erabiltzailearen pasahitza</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Hautatutako maila ez da baliozkoa</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Maila</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Erabiltzaile berriaren pasahitza</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Lurra</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Erabiltzaileek maila ordaindu dute</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Erabiltzaile-izena</value>

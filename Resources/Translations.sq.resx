@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Prano</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Profili</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Veprimi</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Fjalëkalimi juaj është rivendosur me sukses</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Pagesat</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Të lutem përmirëso anëtarësimin në llogarinë tënde për të fituar akses në këtë funksion</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Ju lutem zgjidhni një fjalëkalim të vlefshëm përdoruesi</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>I zgjedhuri është i pavlefshëm</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Niveli</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Fjalëkalimi i përdoruesit të ri</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Zona</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Përdoruesit kanë paguar tier</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Përdoruesi</value>

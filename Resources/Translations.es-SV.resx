@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Aceptar</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Cuenta</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Medida</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Su contraseña ha sido restaurada con éxito</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Pagos</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Por favor, actualice su cuenta para obtener acceso a esta función</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Por favor, especifique una contraseña de usuario válida</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>El título pagado seleccionado es inválido</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nivel</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>La contraseña del nuevo usuario</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Tier</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Los usuarios pagaron ficha</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nombre de usuario</value>

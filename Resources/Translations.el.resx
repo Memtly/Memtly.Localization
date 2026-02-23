@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Αποδοχή</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Λογαριασμός</value>
+  </data>
   <data name="Action" xml:space="preserve">
     <value>Δράση</value>
   </data>
@@ -1062,6 +1065,9 @@
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Ο κωδικός σας έχει επαναρυθμιστεί επιτυχώς</value>
+  </data>
+  <data name="Payments" xml:space="preserve">
+    <value>Πληρωμές</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
     <value>Παρακαλώ αναβαθμίστε την εγγραφή σας στο λογαριασμό για να αποκτήσετε πρόσβαση σε αυτό το χαρακτηριστικό</value>
@@ -2020,6 +2026,9 @@
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Παρακαλώ προσδιορίστε έναν έγκυρο κωδικό πρόσβασης χρήστη</value>
   </data>
+  <data name="User_Invalid_Tier" xml:space="preserve">
+    <value>Η επιλεγμένη αμειβόμενη βαθμίδα είναι άκυρη</value>
+  </data>
   <data name="User_Level" xml:space="preserve">
     <value>Επίπεδο</value>
   </data>
@@ -2049,6 +2058,12 @@
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Ο κωδικός πρόσβασης του νέου χρήστη</value>
+  </data>
+  <data name="User_Tier" xml:space="preserve">
+    <value>Βαθμίδα</value>
+  </data>
+  <data name="User_Tier_Hint" xml:space="preserve">
+    <value>Οι χρήστες πλήρωσαν την βαθμίδα</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Όνομα χρήστη</value>
