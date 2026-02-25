@@ -1,4 +1,4 @@
-﻿namespace WeddingShare.Lang
+﻿namespace Memtly.Localization
 {
     public class Translations
     {
