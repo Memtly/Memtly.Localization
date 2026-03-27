@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Icon.png" style="width: 15%;" />
+  <img src="Memtly.png" style="width: 15%;" />
   
   <h1>Memtly.Localization</h1>
   <p>
