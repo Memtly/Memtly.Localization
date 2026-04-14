@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Puhastatud galerii</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Puhastussüsteem</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Automaatne tuvastamine</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Galerii pühkimine nurjus</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Süsteemi pühkimine nurjus</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>See funktsioon on veel väljatöötamisel, kuid peaks varsti saadaval olema</value>

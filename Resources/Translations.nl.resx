@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Gewiste galerij</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Gewist systeem</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Automatisch detecteren</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Kon galerij niet wissen</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Veegsysteem is mislukt</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Deze functie is nog in ontwikkeling, maar zal binnenkort beschikbaar zijn</value>

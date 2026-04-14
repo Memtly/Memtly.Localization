@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Wiped 갤러리</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Wiped 체계</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>자동차 감지</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>글 탐색</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>와이퍼 시스템</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>이 기능은 여전히 개발 중이지만 곧 사용할 수 있어야합니다</value>

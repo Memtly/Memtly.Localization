@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>גלריה</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>מערכת Wiped</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Auto Detect</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>נכשלת בגלריית הנגיף</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>נכשלת במערכת הנגיף</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>תכונה זו עדיין בפיתוח אבל צריך להיות זמין בקרוב</value>

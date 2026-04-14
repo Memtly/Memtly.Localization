@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Wiped गैलरी</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Wiped प्रणाली</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>ऑटो</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>गैलरी पोंछने में विफल</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>सिस्टम को मिटाने में विफल</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>यह सुविधा अभी भी विकास में है लेकिन जल्द ही उपलब्ध होना चाहिए</value>

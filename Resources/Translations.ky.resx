@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Уурулган галерея</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Зымдуу система</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Автоматтык детекция</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Галереяны өчүрө албай калды</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Системаны өчүрүүгө мүмкүн эмес</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Бул өзгөчөлүк дагы деле иштелип жатат, бирок жакын арада жеткиликтүү болушу керек</value>

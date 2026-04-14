@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Wiped galleri</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Trådet system</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Autodeteksjon</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Klarte ikke å tørke galleri</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Klarte ikke å tørke systemet</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Denne funksjonen er fortsatt under utvikling, men bør være tilgjengelig snart</value>

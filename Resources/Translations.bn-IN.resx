@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>গ্যালারি নির্মাণ করা হয়েছে</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>বেতার সিস্টেম</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>স্বয়ংক্রীয় সনাক্তকরণ</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>গ্যালারি লোড করতে ব্যর্থ</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>সিস্টেম মুছে ফেলতে ব্যর্থ</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>এই বৈশিষ্ট্য এখনও অগ্রগতির মধ্যে রয়েছে কিন্তু শীঘ্রই তা পাওয়া যাবে</value>

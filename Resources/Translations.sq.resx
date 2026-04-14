@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Koleksion i fshirë</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Sistemi i fshirë</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Auto</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Fshirja e koleksionit dështoi</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Fshirja e sistemit dështoi</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Ky tipar është ende në zhvillim por duhet të jetë në dispozicion së shpejti</value>

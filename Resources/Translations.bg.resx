@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Изтрита галерия</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Изтрита система</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Автоматично откриване</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Грешка при изтриване на галерията</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Грешка при изтриване на системата</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Тази функция все още е в процес на разработка, но трябва да бъде достъпна скоро</value>

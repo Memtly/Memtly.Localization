@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Galerie de l'ordinateur</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Système de séchage</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Détecter automatiquement</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Échec de la galerie</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Le système a échoué</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Cette fonctionnalité est encore en cours de développement mais devrait être disponible prochainement</value>

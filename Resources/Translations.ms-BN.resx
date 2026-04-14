@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Galeri tersapu lap</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Sistem tersapu-Memukul</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Autokesan</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Gagal menghapus galeri</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Gagal untuk menghapus sistem</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Fitur ini masih dalam pengembangan tapi harus segera tersedia</value>

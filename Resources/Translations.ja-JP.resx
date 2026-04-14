@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>ウィッドギャラリー</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>ワイプシステム</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>自動検出</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>ギャラリーを拭き取らない</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>システムを拭く失敗</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>この機能は開発中ですが、すぐに利用できるはずです</value>

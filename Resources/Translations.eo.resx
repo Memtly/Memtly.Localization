@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Wiped galerio</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Wiped sistemo</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Auto Detectect</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Maltrankviligita por forviŝi galerion</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Malsukcesas forviŝi sistemon</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Tiu trajto daŭre estas sub evoluo sed devus esti havebla baldaŭ</value>

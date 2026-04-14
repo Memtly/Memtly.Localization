@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Galería Wiped</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Sistema Wiped</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Auto Detect</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Non se pode borrar a galería</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Non se pode borrar o sistema</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Esta característica aínda está en desenvolvemento, pero debería estar dispoñible en breve</value>

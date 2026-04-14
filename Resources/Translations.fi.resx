@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Pyyhitty galleria</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Pyyhitty järjestelmä</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Automaattinen tunnistus</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Gallerian pyyhkiminen epäonnistui</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Järjestelmää ei voitu pyyhkiä</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Tämä ominaisuus on vielä kehitteillä, mutta pitäisi olla saatavilla pian</value>

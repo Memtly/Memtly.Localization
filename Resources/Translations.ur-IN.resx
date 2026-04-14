@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>نئی گیلری</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>آزاد نظام</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>خود کار ڈیکاٹ</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>گیلری کو مٹانے میں ناکام</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>نظام کو مٹانے میں ناکامی</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>یہ خصوصیت اب بھی زیرِ تعمیر ہے لیکن جلد ہی دستیاب ہونا چاہیے۔</value>

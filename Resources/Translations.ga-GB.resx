@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Gailearaí Wiped</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Córas wiped</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Déan teagmháil Linn</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Failed chun wipe gailearaí</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Failed chun wipe córas</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Tá an ghné seo fós faoi fhorbairt ach ba chóir a bheith ar fáil go luath</value>

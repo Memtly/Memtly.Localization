@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Törölt galéria</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Törölt rendszer</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Automatikus felismerés</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Nem sikerült törölni a galériát</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Nem sikerült törölni a rendszert</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Ez a funkció még fejlesztés alatt áll, de hamarosan elérhető lesz</value>

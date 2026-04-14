@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>معرض مسلّح</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>نظام مسحوق</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Auto Detect</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>فشل في محو المعرض</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>فشل في القضاء على النظام</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>ولا تزال هذه السمة قيد التطوير ولكن ينبغي أن تكون متاحة قريبا</value>

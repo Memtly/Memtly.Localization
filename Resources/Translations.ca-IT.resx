@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>S' ha esborrat la galeria</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Sistema esborrat</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Detecta automàticament</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Ha fallat en esborrar la galeria</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Ha fallat en esborrar el sistema</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Aquesta característica encara està sota el desenvolupament però hauria d' estar disponible aviat</value>

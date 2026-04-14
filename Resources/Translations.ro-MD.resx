@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Galerie ștersă</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Sistem șters</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Detectează automat</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Eșec la ștergerea galeriei</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Eșec la ștergerea sistemului</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Această caracteristică este încă în curs de dezvoltare, dar ar trebui să fie disponibile în curând</value>

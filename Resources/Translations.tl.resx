@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Nabigang galerya</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Sistema ng Wikipedia</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Di - Nakikitang Awto</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Sawi sa pagbura ng galerya</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Sawi sa pagbura ng sistema</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Ang bahaging ito ay nagaganap pa rin subalit dapat na makukuha sa lalong madaling panahon</value>

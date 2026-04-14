@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Obrisana galerija</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Obriši sistem</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Samodejno zaznaj</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Ni uspelo brisati galerije</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Sistem za brisanje ni uspel</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Ta funkcija je še vedno v razvoju, vendar bi morala biti kmalu na voljo</value>

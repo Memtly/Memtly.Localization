@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>被擦拭的画廊</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>系统被擦除</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>自动检测</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>擦去画廊失败</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>擦拭系统失败</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>这一功能仍在开发中,但应当很快提供</value>

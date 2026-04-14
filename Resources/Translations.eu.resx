@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Argazki galeria</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Sistema itzalia</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Autodetektatu</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Huts egin du galeria garbitzean</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Huts egin du sistema garbitzean</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Eginbide hau oraindik garatzen ari da, baina laster egongo da erabilgarri</value>

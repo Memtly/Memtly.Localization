@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Phòng trưng bày đã xoá</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Hệ thống đã xoá</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Phát hiện tự động</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Lỗi xoá bộ trình bày</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Lỗi xoá hệ thống</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Tính năng này vẫn còn đang được phát triển nhưng sẽ sớm có</value>

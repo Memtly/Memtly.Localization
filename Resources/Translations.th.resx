@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>เลเยอร์ถัดไป</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>ระบบที่ถูกเช็ด</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>ตรวจสอบอัตโนมัติ</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>ล้มเหลวในการลบคลังภาพ</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>ล้มเหลวในการลบระบบ</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>คุณสมบัตินี้ยังคงอยู่ระหว่างการพัฒนา แต่ควรจะใช้ได้ในไม่ช้า</value>

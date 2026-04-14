@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Wiped galerija</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Ieslēgta sistēma</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Automātiski noteikt</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Neizdevās noslaucīt galeriju</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Neizdevās noslaucīt sistēmu</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Šī funkcija joprojām ir izstrādes stadijā, bet būtu pieejama drīz</value>

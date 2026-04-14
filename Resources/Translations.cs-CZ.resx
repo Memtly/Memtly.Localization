@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Vymazaná galerie</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Systém stírání</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Automatické zjišťování</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Nepodařilo se vymazat galerii</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Selhalo vymazání systému</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Tato funkce je stále ve vývoji, ale měl by být k dispozici brzy</value>

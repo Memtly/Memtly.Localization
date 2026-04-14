@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Wiped galerija</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Laidų sistema</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Automatinis aptikimas</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Nepavyko ištrinti galerijos</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Nepavyko išvalyti sistemos</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Ši funkcija dar kuriama, bet turėtų būti galima netrukus</value>

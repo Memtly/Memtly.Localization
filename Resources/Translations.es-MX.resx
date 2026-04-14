@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>Galería Wiped</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>Sistema de cableado</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Detección automática</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Failed to clean gallery</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>Fallado para limpiar el sistema</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Esta característica todavía está en desarrollo, pero debería estar disponible pronto</value>

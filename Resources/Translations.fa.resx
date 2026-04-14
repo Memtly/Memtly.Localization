@@ -316,6 +316,9 @@
   <data name="Audit_WipedGallery" xml:space="preserve">
     <value>گالری Wiped</value>
   </data>
+  <data name="Audit_WipeSystem" xml:space="preserve">
+    <value>سیستم Wiped</value>
+  </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Auto Detect</value>
   </data>
@@ -597,6 +600,9 @@
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>شکست برای حذف گالری</value>
+  </data>
+  <data name="Failed_Wipe_System" xml:space="preserve">
+    <value>شکست در حذف سیستم</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>این ویژگی هنوز در حال توسعه است اما باید به زودی در دسترس باشد</value>
