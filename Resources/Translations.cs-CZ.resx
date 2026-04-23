@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Tato funkce je stále ve vývoji, ale měl by být k dispozici brzy</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Tato funkce není dostupná v demo režimu</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>Selhalo stahování FFMPEG na cestu</value>
   </data>

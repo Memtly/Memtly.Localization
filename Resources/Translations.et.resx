@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>See funktsioon on veel väljatöötamisel, kuid peaks varsti saadaval olema</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>See funktsioon ei ole demorežiimis saadaval</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>FFMPEGi allalaadimine asukohta nurjus</value>
   </data>

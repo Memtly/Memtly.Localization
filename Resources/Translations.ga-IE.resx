@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Tá an ghné seo fós faoi fhorbairt ach ba chóir a bheith ar fáil go luath</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Níl an ghné seo ar fáil i mód taispeána</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>Failed a íoslódáil FFMPEG chun cosán</value>
   </data>

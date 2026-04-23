@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Această caracteristică este încă în curs de dezvoltare, dar ar trebui să fie disponibile în curând</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Această caracteristică nu este disponibilă în modul demo</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>A eșuat descărcarea FFMPEG pe cale</value>
   </data>

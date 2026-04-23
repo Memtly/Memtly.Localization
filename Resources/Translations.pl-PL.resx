@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Funkcja ta jest nadal w fazie rozwoju, ale powinna być dostępna wkrótce</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Funkcja ta nie jest dostępna w trybie demo</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>Nie udało się pobrać FFMPEG do ścieżki</value>
   </data>

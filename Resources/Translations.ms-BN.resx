@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Fitur ini masih dalam pengembangan tapi harus segera tersedia</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Fitur ini tidak tersedia dalam mode demo</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>Gagal memuat turun FFMPEG ke path</value>
   </data>

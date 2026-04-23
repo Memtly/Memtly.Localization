@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Ky tipar është ende në zhvillim por duhet të jetë në dispozicion së shpejti</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Kjo veçori nuk është në dispozicion në modalitetin demo</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>Dështoi nga shtegu</value>
   </data>

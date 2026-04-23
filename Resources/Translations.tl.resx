@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Ang bahaging ito ay nagaganap pa rin subalit dapat na makukuha sa lalong madaling panahon</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Ang bahaging ito ay hindi makukuha sa demo mode</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>Sawi sa pag-download ng FFMPEG sa landas</value>
   </data>

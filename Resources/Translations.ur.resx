@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>یہ خصوصیت اب بھی زیرِ تعمیر ہے لیکن جلد ہی دستیاب ہونا چاہیے۔</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>ڈیم موڈ میں یہ خصوصیت دستیاب نہیں ہے۔</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>راستے میں ایف ایم پی جی ڈاؤن لوڈ کرنے میں ناکام</value>
   </data>

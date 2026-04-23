@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>תכונה זו עדיין בפיתוח אבל צריך להיות זמין בקרוב</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>תכונה זו אינה זמינה במצב ההדגמה</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>FF MPEG to Path</value>
   </data>

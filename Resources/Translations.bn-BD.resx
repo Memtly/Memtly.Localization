@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>এই বৈশিষ্ট্য এখনও অগ্রগতির মধ্যে রয়েছে কিন্তু শীঘ্রই তা পাওয়া যাবে</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>এই বৈশিষ্ট্যটি সঠিক নয়</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>FFMPG পাথ ডাউনলোড করতে ব্যর্থ</value>
   </data>

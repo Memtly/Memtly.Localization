@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Бул өзгөчөлүк дагы деле иштелип жатат, бирок жакын арада жеткиликтүү болушу керек</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Бул өзгөчөлүк демо режиминде жеткиликтүү эмес</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>FFMPEGди жолго жүктөп алуу мүмкүн эмес</value>
   </data>

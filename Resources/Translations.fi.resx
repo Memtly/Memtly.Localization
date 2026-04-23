@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Tämä ominaisuus on vielä kehitteillä, mutta pitäisi olla saatavilla pian</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Tämä ominaisuus ei ole saatavilla demotilassa</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>FFMPEG-polkua ei voitu ladata</value>
   </data>

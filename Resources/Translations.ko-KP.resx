@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>이 기능은 여전히 개발 중이지만 곧 사용할 수 있어야합니다</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>이 기능은 데모 모드에서 사용할 수 없습니다</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>FFMPEG 다운로드 실패</value>
   </data>

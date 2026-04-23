@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Denne funksjonen er fortsatt under utvikling, men bør være tilgjengelig snart</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Denne funksjonen er ikke tilgjengelig i demomodus</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>Klarte ikke å laste ned FFMPEG til banen</value>
   </data>

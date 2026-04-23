@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Tiu trajto daŭre estas sub evoluo sed devus esti havebla baldaŭ</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Tiu trajto ne estas havebla en demonstraĵreĝimo</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>Malsukcesa por elŝuti FFMPEG al pado</value>
   </data>

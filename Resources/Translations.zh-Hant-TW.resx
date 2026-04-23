@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>这一功能仍在开发中,但应当很快提供</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>此功能以演示模式不可用</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>下载 FAMPEG 到路径失败</value>
   </data>

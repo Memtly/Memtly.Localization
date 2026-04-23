@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Bu xüsusi inkişaf altında, lakin mövcud olmalıdır</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Bu xüsusiyyət demo rejimi mövcud deyil</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>FFMPEG yükləməyə qoşulmaq</value>
   </data>

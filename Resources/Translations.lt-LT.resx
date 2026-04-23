@@ -607,6 +607,9 @@
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Ši funkcija dar kuriama, bet turėtų būti galima netrukus</value>
   </data>
+  <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
+    <value>Demo režimu ši funkcija neprieinama</value>
+  </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
     <value>Nepavyko atsiųsti FFMPEG kelio</value>
   </data>
