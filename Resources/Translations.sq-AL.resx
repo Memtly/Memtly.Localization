@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Adresa email</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Shkruaj i pari emri.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>E Para</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Shkruaj i fundit.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Mbiemri</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Fjalëkalimi.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Të lutem specifiko një adresë të vlefshme email</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Shkruaj a i pari dhe 50 shkronja</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Shkruaj a e fundit dhe 50 shkronja</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Ju lutem specifikoni një fjalëkalim të vlefshëm midis 8 dhe 100 shkronja, që përmban të paktën 1 shkronja të sipërme, 1 shkronja më e ulët, 1 numër dhe 1 karakter të veçantë</value>

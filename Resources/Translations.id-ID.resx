@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Alamat Surel</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Silakan masukkan nama pertama Anda.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Nama Depan</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Silakan masukkan nama belakangmu.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Nama terakhir</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Sandi masukkan sandi.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Silakan nyatakan alamat surel yang valid</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Silakan spesifikasikan nama depan yang valid antara 1 dan 50 karakter</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Silakan nyatakan nama belakang yang valid antara 1 dan 50 karakter</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Mohon spesifikasikan sandi yang valid antara 8 dan 100 karakter, berisi paling tidak 1 huruf besar, 1 huruf huruf kecil, 1 nomor dan 1 karakter khusus</value>

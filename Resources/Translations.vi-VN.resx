@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Địa chỉ thư</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Hãy nhập tên của bạn.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Xin hãy nhập họ của bạn.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Họ</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Mật khẩu nhập mật khẩu.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Hãy xác định một địa chỉ thư điện tử hợp lệ</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Hãy xác định một tên hợp lệ giữa 1 và 50 ký tự</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Hãy xác định một tên cuối hợp lệ giữa 1 và 50 ký tự</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Hãy xác định một mật khẩu hợp lệ giữa 8 và 100 ký tự, chứa ít nhất 1 chữ cái trên chữ cái trên, 1 chữ cái chữ cái dưới, 1 và 1 ký tự đặc biệt</value>

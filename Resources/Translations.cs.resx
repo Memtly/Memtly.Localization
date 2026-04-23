@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>E-mailová adresa</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Prosím zadejte své křestní jméno.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>První jméno</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Prosím zadejte své příjmení.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Jméno</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Heslo zadejte heslo.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Uveďte prosím platnou e-mailovou adresu</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Uveďte prosím platné jméno mezi 1 a 50 znaky</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Uveďte prosím platné příjmení mezi 1 a 50 znaky</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Uveďte platné heslo mezi 8 a 100 znaky, obsahující alespoň 1 horní písmeno, 1 dolní písmeno, 1 číslo a 1 zvláštní znak</value>

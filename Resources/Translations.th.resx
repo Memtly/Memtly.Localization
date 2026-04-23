@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>ที่อยู่อีเมล</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>โปรดป้อนชื่อแรกของคุณ.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>ชื่อแรก</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>โปรดเติมนามสกุลของคุณ.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>นามสกุล</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>รหัสผ่านป้อนรหัสผ่าน.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>โปรดระบุที่อยู่อีเมลที่ถูกต้อง</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>โปรดระบุชื่อตัวแรกที่ถูกต้องระหว่าง 1 ถึง 50 ตัวอักษร</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>โปรดระบุนามสกุลที่ใช้ได้ระหว่าง 1 ถึง 50 ตัวอักษร</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>โปรดระบุรหัสผ่านที่ใช้ได้ระหว่าง 8 ถึง 100 ตัวอักษร โดยมีอักษรตัวพิมพ์ใหญ่อย่างน้อย 1 ตัว, อักษรตัวพิมพ์เล็ก 1 ตัว, 1 ตัว และอักขระพิเศษ 1 ตัว</value>

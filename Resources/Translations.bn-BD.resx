@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>ই-মেইল ঠিকানা</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>অনুগ্রহ করে আপনার নাম লিখুন ।.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>নাম</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>অনুগ্রহ করে আপনার নাম লিখুন।.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>পদবি</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>পাসওয়ার্ড প্রবেশ করান।.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>অনুগ্রহ করে একটি বৈধ ই-মেইল ঠিকানা নির্বাচন করুন</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>অনুগ্রহ করে ১ ও ৫০ অক্ষরের মধ্যে একটি বৈধ নাম উল্লেখ করুন</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>অনুগ্রহ করে ১ ও ৫০ অক্ষরের মধ্যে একটি বৈধ নাম উল্লেখ করুন</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>অনুগ্রহ করে অন্তত ১ অক্ষর বিশিষ্ট একটি বৈধ পাসওয়ার্ড লিখুন, ১ ও বিশেষ অক্ষর বিশিষ্ট ১-এ পরিবর্তন করুন</value>

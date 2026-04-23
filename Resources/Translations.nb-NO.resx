@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>E-postadresse</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Vennligst skriv inn ditt fornavn.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Fornavn</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Vennligst skriv inn ditt etternavn.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Etternavn</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Oppgi passord.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Vennligst oppgi en gyldig e-postadresse</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Vennligst oppgi et gyldig fornavn mellom 1 og 50 tegn</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Oppgi et gyldig etternavn mellom 1 og 50 tegn</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Vennligst angi et gyldig passord mellom 8 og 100 tegn, som inneholder minst 1 store bokstav, 1 små bokstav, 1 tall og 1 spesialtegn</value>

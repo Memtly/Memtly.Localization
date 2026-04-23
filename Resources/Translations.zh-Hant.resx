@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>电子邮件地址</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>請入出名.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>有名</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>請入出相姓.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>姓</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>密码输入密码.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>请指定一个有效的电子邮件地址</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>請在 1- 50 個字元中指定一個有效的名</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>請指定 1- 50 個字元之間的合法姓</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>请指定8到100个字符之间的有效密码,其中至少包含一个大写字母,一个小写字母,一个数字和一个特殊字符</value>

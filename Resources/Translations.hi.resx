@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>ईमेल पता</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>कृपया अपना पहला नाम दर्ज करें।.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>पहला नाम</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>कृपया अपना अंतिम नाम दर्ज करें।.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>उपनाम</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>पासवर्ड दर्ज करें।.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>कृपया एक वैध ईमेल पता निर्दिष्ट करें</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>कृपया 1 और 50 अक्षरों के बीच वैध पहला नाम निर्दिष्ट करें</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>कृपया 1 और 50 अक्षरों के बीच वैध अंतिम नाम निर्दिष्ट करें</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>कृपया 8 और 100 अक्षरों के बीच एक वैध पासवर्ड निर्दिष्ट करें, जिसमें कम से कम 1 ऊपरी केस अक्षर, 1 लोअर केस लेटर, 1 नंबर और 1 विशेष अक्षर शामिल हैं।</value>

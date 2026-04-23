@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Seoladh Ríomhphoist</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Cuir isteach do chéad ainm.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Céadainm</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Cuir isteach d'ainm deireanach.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>An t-ainm deiridh</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Pasfhocal isteach focal faire.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Sonraigh seoladh ríomhphoist bailí</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Sonraigh céadainm bailí idir 1 agus 50 carachtar</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Sonraigh ainm bailí buan idir 1 agus 50 carachtar</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Sonraigh focal faire bailí idir 8 agus 100 carachtar, ina bhfuil ar a laghad 1 litir cás uachtair, 1 litir cás níos ísle, 1 uimhir agus 1 carachtar speisialta</value>

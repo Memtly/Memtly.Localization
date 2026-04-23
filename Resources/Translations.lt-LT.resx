@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>E. pašto adresas</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Prašome įvesti savo vardą.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>First name</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Prašome įvesti savo vardą.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Lastname</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Slaptažodis įveskite slaptažodį.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Prašome nurodyti galiojantį el. pašto adresą</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Prašome nurodyti galiojantį 1-50 simbolių vardą</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>@ info: whatsthis</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Prašome nurodyti galiojantį slaptažodį nuo 8 iki 100 simbolių, kuriame yra bent 1 didžioji raidė, 1 mažoji raidė, 1 numeris ir 1 specialus simbolis</value>

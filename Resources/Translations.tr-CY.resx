@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>E-posta Adresi</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Lütfen ilk ismini girin.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Firstname</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Lütfen son ismini girin.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Lastname</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Şifre bir şifre girer.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Lütfen geçerli bir e-posta adresini belirtin</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Lütfen 1 ve 50 karakter arasında geçerli bir ilk adı belirtin</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Lütfen 1 ve 50 karakter arasında geçerli bir soyadı belirtin</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Lütfen 8 ve 100 karakter arasında geçerli bir şifre belirt, en az 1 üst vaka mektubu içeren, 1 daha düşük vaka mektubu, 1 numara ve 1 özel karakter</value>

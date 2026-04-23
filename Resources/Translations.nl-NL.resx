@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>E-mailadres</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Voer uw voornaam in.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Voornaam</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Voer uw achternaam in.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Achternaam</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Wachtwoord voert een wachtwoord in.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Geef een geldig e-mailadres op</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Geef een geldige voornaam tussen 1 en 50 tekens</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Geef een geldige achternaam tussen 1 en 50 tekens</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Geef een geldig wachtwoord tussen 8 en 100 tekens, met ten minste 1 hoofdletters, 1 kleine letters, 1 nummer en 1 speciaal teken</value>

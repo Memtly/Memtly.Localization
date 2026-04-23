@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Адрес на електронна поща</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Моля, въведете първото си име.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Име</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Моля въведете фамилията си.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Фамилия</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Парола въведете парола.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Моля, посочете валиден имейл адрес</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Моля, посочете валидно име между 1 и 50 знака</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Моля, посочете валидно фамилно име между 1 и 50 знака</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Моля, посочете валидна парола между 8 и 100 знака, съдържаща поне 1 горна буква, 1 долна буква, 1 номер и 1 специален знак</value>

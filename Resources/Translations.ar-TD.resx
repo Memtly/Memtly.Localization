@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>عنوان البريد الإلكتروني</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>من فضلك أدخلي اسمك الأول.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>الاسم الأول</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>من فضلك أدخلي اسمك الأخير.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>الاسم الأخير</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>كلمة السر تدخل كلمة سر.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>يرجى تحديد عنوان بريد إلكتروني صحيح</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>يرجى تحديد اسم أولي صحيح بين شخص واحد و50 شخص</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>يرجى تحديد الاسم الأخير الصحيح الذي يتراوح بين 1 و50 شخص</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>يرجى تحديد كلمة سر صحيحة بين 8 و 100 شخص، تحتوي على ما لا يقل عن رسالة واحدة من القضايا العليا، ورسالة واحدة من القضايا الدنيا، ورقم واحد وطابع خاص واحد</value>

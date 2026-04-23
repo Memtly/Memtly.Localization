@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>E- poštni naslov</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Prosim vnesite svoje ime.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Ime</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Vnesite priimek.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Priimek</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Geslo vnesite geslo.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Prosimo, navedite veljaven e-poštni naslov</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Navedite veljavno ime med 1 in 50 znaki</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Navedite veljaven priimek med 1 in 50 znaki</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Prosimo, navedite veljavno geslo med 8 in 100 znaki, ki vsebuje vsaj 1 črko velike črke, 1 črko majhne črke, 1 številko in 1 poseben znak</value>

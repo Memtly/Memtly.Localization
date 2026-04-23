@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Διεύθυνση ηλεκτρονικού ταχυδρομείου</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Παρακαλώ εισάγετε το μικρό σας όνομα.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Όνομα</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Παρακαλώ εισάγετε το επίθετό σας.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Επώνυμο</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Κωδικός πρόσβασης εισάγετε έναν κωδικό πρόσβασης.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Παρακαλώ προσδιορίστε μια έγκυρη διεύθυνση email</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Προσδιορίστε ένα έγκυρο όνομα μεταξύ 1 και 50 χαρακτήρων</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Παρακαλείσθε να ορίσετε ένα έγκυρο επώνυμο μεταξύ 1 και 50 χαρακτήρων</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Παρακαλείσθε να ορίσετε έναν έγκυρο κωδικό πρόσβασης μεταξύ 8 και 100 χαρακτήρων, που περιέχει τουλάχιστον 1 κεφαλαίο γράμμα, 1 πεζό γράμμα, 1 αριθμό και 1 ιδιαίτερο χαρακτήρα</value>

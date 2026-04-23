@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>ای میل پتہ</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>براہ کرم آپ کا پہلا نام داخل کریں۔.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>پهلا نام</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>برائے مہربانی اپنے آخری نام داخل کریں.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>آخری نام</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>پاس ورڈ د_کھائیں.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>براہ راست ای میل پتہ متعین کریں</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>برائے مہربانی 1 سے 50 حروف کے درمیان پہلا نام متعین کریں</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>برائے مہربانی 1 سے 50 حروف کے درمیان آخری نام متعین کریں</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>برائے مہربانی 8 سے 100 حروف کے درمیان ایک موزوں پاس ورڈ متعین کریں، جس میں کم از کم 1 اوپری کیس خط، 1 درج ذیل حروف تہجی، 1 عدد اور 1 خصوصی حروف تہجی شامل ہیں۔</value>

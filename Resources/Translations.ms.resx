@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Alamat Email</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Silakan masukkan nama depan Anda.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Nama pertama</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Sila masukkan nama belakang anda.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Nama marga</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Kata sandi password password masuk.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Sila nyatakan alamat emel yang sah</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Nyatakan nama pertama yang sah diantara 1 hingga 50 karakter</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Nama akhir yang sah di antara 1 hingga 50 aksara</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Sila nyatakan kata sandi yang sah antara 8 dan 100 karakter, yang memuat setidaknya 1 huruf besar, 1 huruf kecil, 1 angka dan 1 karakter khusus</value>

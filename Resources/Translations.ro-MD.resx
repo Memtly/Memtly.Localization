@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Adresa de e-mail</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Introduceți primul nume.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Prenume</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Introduceți numele de familie.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Nume</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Parola introduce o parolă.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Vă rugăm să specificați o adresă de e-mail validă</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Vă rugăm să specificați un prenume valabil între 1 și 50 de caractere</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Vă rugăm să precizați un nume de familie valabil între 1 și 50 de caractere</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Vă rugăm să specificați o parolă valabilă între 8 și 100 de caractere, conținând cel puțin 1 literă de caz, 1 literă de caz mai mică, 1 număr și 1 caracter special</value>

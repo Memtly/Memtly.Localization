@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Helbide elektronikoa</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Sartu zure izena.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Lehen izena</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Sartu zure azken izena.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Azken izena</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Pasahitza sartu pasahitza.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Zehaztu baliozko helbide elektronikoa</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Zehaztu baliozko lehen izen bat 1 eta 50 karaktere artekoa</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Zehaztu baliozko abizena 1 eta 50 karaktere artekoa</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Zehaztu 8 eta 100 karaktere arteko baliozko pasahitza, gutxienez 1 maiuskula, 1 letra maiuskula, 1 zenbaki eta 1 karaktere berezi dituena</value>

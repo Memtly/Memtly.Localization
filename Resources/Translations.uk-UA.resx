@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Адреса електронної пошти</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Введіть Ваше ім'я.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Ім'я</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Введіть Ваше ім'я.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Ім'я</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Введіть пароль.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Будь ласка, вкажіть дійсну адресу електронної пошти</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Будь ласка, вкажіть дійсне ім'я між 1 та 50 символів</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Будь ласка, вкажіть дійсне прізвище між 1 та 50 символів</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Будь ласка, вкажіть дійсний пароль від 8 до 100 символів, що містить принаймні 1 літера верхнього корпусу, 1 номер і 1 спеціальний символ</value>

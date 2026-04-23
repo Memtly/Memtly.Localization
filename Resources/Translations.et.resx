@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>E-posti aadress</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Palun sisesta oma eesnimi.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Eesnimi</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Palun sisesta oma perekonnanimi.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Perekonnanimi</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Parool sisesta parool.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Palun määra korrektne e- posti aadress</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Palun määra kehtiv eesnimi vahemikus 1 kuni 50 märki</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Palun määra kehtiv perekonnanimi vahemikus 1 kuni 50 märki</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Palun määra kehtiv salasõna 8–100 tähemärgi vahel, mis sisaldab vähemalt 1 suurtähte, 1 väiketähte, 1 numbrit ja 1 erimärki</value>

@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>メールアドレス</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>お名前を入力してください.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>ファーストネーム</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>お名前を入力してください.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>メニュー</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>パスワードはパスワードを入力してください.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>有効なメールアドレスを入力してください</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>1文字から50文字までの有効な名前を入力してください</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>1文字～50文字の有効名を指定してください</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>8文字と100文字の有効なパスワードを指定してください。上限1文字、小文字1文字、小文字1文字、特殊文字1文字</value>

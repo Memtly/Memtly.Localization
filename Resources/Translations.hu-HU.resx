@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>E- mail cím</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Kérem írja be a keresztnevét.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Első név</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Kérem írja be a vezetéknevét.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Név</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Adja meg a jelszót.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Adja meg az érvényes e-mail címet</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Adjon meg egy érvényes első nevet 1 és 50 karakter között</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Kérjük, adja meg az érvényes last name 1 és 50 karakter között</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Kérjük, adja meg a 8 és 100 karakter közötti érvényes jelszót, amely legalább 1 nagybetűt, 1 kisbetűt, 1 számot és 1 különleges karaktert tartalmaz</value>

@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Email Enderezo</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Introduza o seu primeiro nome.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Primeiro nome</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Introduza o seu último nome.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Último nome</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Contrasinal Introduce un contrasinal.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Indique un enderezo de correo electrónico válido</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Por favor, especifica un nome válido entre 1 e 50 caracteres</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Por favor, especifica un apelido válido entre 1 e 50 caracteres</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Por favor, especifica un contrasinal válido entre 8 e 100 caracteres, contendo polo menos 1 letra maiúscula, 1 letra minúscula, 1 número e 1 carácter especial</value>

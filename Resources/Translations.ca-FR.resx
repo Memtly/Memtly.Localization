@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Adreça de correu electrònic</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Si us plau, introduïu el vostre nom.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Si us plau, introduïu el vostre cognom.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Últim nom</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Contrasenya introduïu una contrasenya.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Especifiqueu una adreça de correu vàlida</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Especifiqueu un primer nom vàlid entre 1 i 50 caràcters</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Especifiqueu un cognom vàlid entre 1 i 50 caràcters</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Si us plau, especifiqueu una contrasenya vàlida entre 8 i 100 caràcters, que conté com a mínim 1 majúscula, 1 lletra minúscula, 1 número i 1 caràcter especial</value>

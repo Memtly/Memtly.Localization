@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>כתובת דואר אלקטרוני</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>אנא הזן את השם הראשון שלך.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>שם ראשון</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>אנא הזן את שמך האחרון.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>שם אחרון</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>הסיסמה נכנסת לסיסמה.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>נא לציין כתובת דואר אלקטרוני בתוקף</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>נא לציין שם ראשוני תקף בין 1 ל 50 תווים</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>נא לציין שם אחרון תקף בין 1 ל 50 תווים</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>נא לציין סיסמה בתוקף בין 8 ל -100 תווים, המכילה לפחות מכתב מקרה עליון אחד, מכתב מקרה אחד נמוך יותר, מספר 1 ו 1 מיוחד אופי</value>

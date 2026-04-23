@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>آدرس ایمیل</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>لطفا نام اول خود را وارد کنید.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>نام اول</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>لطفا نام آخر خود را وارد کنید.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>آخرین نام</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Password وارد یک رمز عبور می شود.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>لطفا آدرس ایمیل معتبر را مشخص کنید</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>لطفا یک نام معتبر بین 1 تا 50 کاراکتر را مشخص کنید</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>لطفا یک نام معتبر بین 1 تا 50 کاراکتر را مشخص کنید</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>لطفا یک رمز عبور معتبر بین 8 تا 100 کاراکتر را مشخص کنید که حاوی حداقل 1 نامه بالا، 1 نامه مورد پایین، 1 شماره و 1 کاراکتر خاص است</value>

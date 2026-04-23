@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>이메일 주소</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>첫 번째 이름을 입력하십시오.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>당신의 마지막 이름을 입력하십시오.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>비밀번호 입력.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>자주 묻는 질문</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>1과 50자 사이 유효한 첫번째 이름을 지정하십시오</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>1과 50자 사이의 유효 성명을 지정하십시오</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>최소 1개의 대문자, 1개의 더 낮은 케이스 편지, 1개의 수 및 1개의 특수 문자를 포함하는 8과 100개의 특성 사이 유효한 암호를 지정하십시오</value>

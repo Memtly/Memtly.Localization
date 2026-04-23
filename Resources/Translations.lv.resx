@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>E- pasta adrese</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Lūdzu, ievadiet savu vārdu.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Vārds</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Lūdzu, ievadiet savu uzvārdu.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Uzvārds</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Parole ievadiet paroli.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Lūdzu norādiet derīgu e- pasta adresi</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Lūdzu, norādiet derīgu vārdu no 1 līdz 50 rakstzīmēm</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Lūdzu, norādiet derīgu pēdējo vārdu no 1 līdz 50 rakstzīmēm</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Lūdzu, norādiet derīgu paroli starp 8 un 100 rakstzīmēm, kas satur vismaz 1 lielo burtu, 1 mazo burtu, 1 numuru un 1 īpašo rakstzīmi</value>

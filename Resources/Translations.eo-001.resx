@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Retpoŝto</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Bonvolu eniri vian unuan nomon.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Unua nomo</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Bonvolu eniri vian lastan nomon.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Lasta nomo</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Pasvorto eniras pasvorton.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Bonvolu specifi validan retpoŝtan adreson</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Bonvolu precizigi validan nomon inter 1 kaj 50 karakteroj</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Bonvolu precizigi validan familian nomon inter 1 kaj 50 karakteroj</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Bonvolu precizigi validan pasvorton inter 8 kaj 100 karakteroj, enhavanta almenaŭ 1 supran kazleteron, 1 pli malaltan kazleteron, 1 nombron kaj 1 specialan karakteron</value>

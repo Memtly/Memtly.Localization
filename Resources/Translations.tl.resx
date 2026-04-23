@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Pakikipag - usap sa Email</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Pakisuyong ipasok ang iyong unang pangalan.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Unang Pangalan</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Pakisuyong pumasok sa inyong huling pangalan.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Huling Pangalan</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Ang Password ay pumapasok sa isang password.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Pakisuyong magtakda ng isang tanggap na adres ng email</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Pakisuyong magtakda ng isang tanggap na firstname sa pagitan ng 1 at 50 karakter</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Pakisuyong magtakda ng isang tanggap na apelyido sa pagitan ng 1 at 50 karakter</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Pakisuyong magtakda ng isang tanggap na password sa pagitan ng 8 at 100 karakter, na naglalaman ng di - kukulangin sa 1 sa itaas na case letter, 1 sa ibaba ng case letter, 1 numero at 1 pantanging karakter</value>

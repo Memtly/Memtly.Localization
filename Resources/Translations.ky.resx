@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Электрондук почта дареги</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Сураныч, биринчи атыңызды киргизиңиз.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Биринчи аты-жөнү</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Сураныч, фамилияңызды киргизиңиз.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Фамилиянын аталышы</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Пароль сырсөздү киргизиңиз.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Сураныч, жарактуу электрондук почта дарегин көрсөтүңүз</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Сураныч, 1ден 50гө чейинки тамгалардын ортосундагы жарактуу фамилияны көрсөтүңүз</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Сураныч, 1ден 50 тамгага чейинки жарактуу фамилияны көрсөтүңүз</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Сураныч, 8 жана 100 тамгалардын ортосундагы жарактуу сырсөздү көрсөтүңүз, анда жок дегенде 1 чоң тамга, 1 төмөнкү тамга, 1 сан жана 1 атайын тамга бар</value>

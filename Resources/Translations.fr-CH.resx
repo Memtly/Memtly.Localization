@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Adresse électronique</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Veuillez saisir votre prénom.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Prénom</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Veuillez entrer votre nom de famille.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Nom</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Mot de passe saisir un mot de passe.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Veuillez indiquer une adresse email valide</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Veuillez indiquer un prénom valide entre 1 et 50 caractères</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Veuillez indiquer un nom de famille valide entre 1 et 50 caractères</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Veuillez spécifier un mot de passe valide entre 8 et 100 caractères, contenant au moins 1 lettre majuscule, 1 lettre minuscule, 1 numéro et 1 caractère spécial</value>

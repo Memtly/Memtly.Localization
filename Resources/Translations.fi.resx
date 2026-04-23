@@ -1120,6 +1120,18 @@
   <data name="Register_Email_Label" xml:space="preserve">
     <value>Sähköpostiosoite</value>
   </data>
+  <data name="Register_Firstname_Help" xml:space="preserve">
+    <value>Anna etunimesi.</value>
+  </data>
+  <data name="Register_Firstname_Label" xml:space="preserve">
+    <value>Etunimi</value>
+  </data>
+  <data name="Register_Lastname_Help" xml:space="preserve">
+    <value>Anna sukunimesi.</value>
+  </data>
+  <data name="Register_Lastname_Label" xml:space="preserve">
+    <value>Sukunimi</value>
+  </data>
   <data name="Register_Password_Help" xml:space="preserve">
     <value>Salasana antaa salasanan.</value>
   </data>
@@ -1152,6 +1164,12 @@
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
     <value>Määrittele voimassa oleva sähköpostiosoite</value>
+  </data>
+  <data name="Registration_Invalid_Firstname" xml:space="preserve">
+    <value>Määritä voimassa oleva etunimi 1-50 merkkiä</value>
+  </data>
+  <data name="Registration_Invalid_Lastname" xml:space="preserve">
+    <value>Määrittele voimassa oleva sukunimi 1-50 merkkiä</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
     <value>Määrittele 8-100 merkkiä oleva voimassa oleva salasana, jossa on vähintään yksi iso kirjain, yksi pieni kirjain, yksi numero ja yksi erikoismerkki</value>
