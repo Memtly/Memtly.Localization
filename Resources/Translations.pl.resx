@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Okresy wysyłania</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
+    <value>Czy nazwa galerii powinna być wyświetlana w rozwijanym katalogu</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
+    <value>Pokaż nazwy galerii</value>
+  </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
     <value>Czy właściciel galerii powinien być wyświetlony w rozwijanej galerii</value>
   </data>

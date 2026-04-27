@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Μεταφόρτωση περιόδων</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
+    <value>Σε περίπτωση που το όνομα της συλλογής εμφανίζεται στον επιλογέα που αποβιβάζεται</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
+    <value>Εμφάνιση ονομάτων γκαλερί</value>
+  </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
     <value>Σε περίπτωση που ο ιδιοκτήτης της γκαλερί εμφανιστεί στον επιλογέα gallery dropdown</value>
   </data>

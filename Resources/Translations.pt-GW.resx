@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Períodos de upload</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
+    <value>Caso o nome da galeria seja exibido na lista de seleção da galeria</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
+    <value>Mostrar os Nomes da Galeria</value>
+  </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
     <value>Caso o proprietário da galeria seja exibido no dropdown do seletor da galeria</value>
   </data>

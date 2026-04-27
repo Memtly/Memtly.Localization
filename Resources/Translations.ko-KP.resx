@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>관련 기사</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
+    <value>갤러리 이름이 갤러리 selector dropdown에 표시됩니다</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
+    <value>갤러리 이름</value>
+  </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
     <value>갤러리 소유자가 갤러리 selector dropdown에 표시됩니다</value>
   </data>

@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Periode Muat Naik</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
+    <value>Haruskah nama galeri ditampilkan di galeri pemilih dropdown</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
+    <value>Galeri Pameran</value>
+  </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
     <value>Haruskah pemilik galeri ditampilkan di galeri pemilih dropdown</value>
   </data>
@@ -1821,6 +1827,9 @@
   </data>
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Trackers</value>
+  </data>
+  <data name="Settings_Trackers_PerformanceTracking_Help" xml:space="preserve">
+    <value>Seharusnya penampilan trek Umami</value>
   </data>
   <data name="Settings_Trackers_PerformanceTracking_Label" xml:space="preserve">
     <value>Penjejakan Kinerja Kinerja</value>

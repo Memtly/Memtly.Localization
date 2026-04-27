@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>دوبارہ شروع کریں</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
+    <value>گر تے هو ئے رنگ کا نام دکھا ئے</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
+    <value>گیلری کے نام دکھائیں</value>
+  </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
     <value>اگر گیلری کے مالک کو گیلری گراوٹ میں دکھایا جائے تو</value>
   </data>

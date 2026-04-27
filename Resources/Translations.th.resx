@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>ช่วงเวลาอัปโหลด</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
+    <value>จะให้แสดงชื่อของแกลลอรี่ในคลังภาพเลือกหย่อนลงหรือไม่</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
+    <value>แสดงชื่อแกลเลอรี</value>
+  </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
     <value>ควรให้แสดงเจ้าของคลังภาพในคลังภาพเลือกลง</value>
   </data>

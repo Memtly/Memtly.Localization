@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>স্মাইলি আপলোড করুন</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
+    <value>সংকলনের মধ্যে গ্যালারির নাম প্রদর্শন করা হবে কি না</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
+    <value>গ্যালারির নাম প্রদর্শন করুন</value>
+  </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
     <value>গ্যালারির বৈশিষ্ট্য প্রদর্শন করা হবে কি না</value>
   </data>

@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>अपलोड अवधि</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
+    <value>क्या गैलरी का नाम गैलरी चयनकर्ता ड्रॉपडाउन में प्रदर्शित किया जाना चाहिए</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
+    <value>गैलरी का नाम दिखाएं</value>
+  </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
     <value>क्या गैलरी के मालिक को गैलरी चयनकर्ता ड्रॉपडाउन में प्रदर्शित किया जाना चाहिए</value>
   </data>

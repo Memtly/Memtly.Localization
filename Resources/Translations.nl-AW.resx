@@ -1624,6 +1624,9 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Uploadperiodes</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
+    <value>Galerijnamen tonen</value>
+  </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
     <value>Moet de galerie-eigenaar getoond worden in het keuzevakje galerie</value>
   </data>
