@@ -1834,47 +1834,47 @@
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Aztarnariak</value>
   </data>
-  <data name="Settings_Trackers_PerformanceTracking_Help" xml:space="preserve">
-    <value>Umamiren jarraipena egin beharko luke</value>
-  </data>
-  <data name="Settings_Trackers_PerformanceTracking_Label" xml:space="preserve">
-    <value>Errendimenduaren jarraipena</value>
-  </data>
-  <data name="Settings_Trackers_Replay_BlockSelector_Help" xml:space="preserve">
-    <value>Zein elementu ezkutatuko lirateke grabaziotik</value>
-  </data>
-  <data name="Settings_Trackers_Replay_BlockSelector_Label" xml:space="preserve">
-    <value>Bloke-hautatzailea</value>
-  </data>
-  <data name="Settings_Trackers_Replay_Help" xml:space="preserve">
-    <value>Umamik erabiltzailearen jarraipena egin behar duen ala ez</value>
-  </data>
-  <data name="Settings_Trackers_Replay_Label" xml:space="preserve">
-    <value>Grabatzailea</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaskLevel_Help" xml:space="preserve">
-    <value>Zenbat datu sentikor ezkutatu behar diren</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaskLevel_Label" xml:space="preserve">
-    <value>Maskararen maila</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaxDuration_Help" xml:space="preserve">
-    <value>Zein da grabatutako saio baten gehienezko luzera</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaxDuration_Label" xml:space="preserve">
-    <value>Max Duration (Mins)</value>
-  </data>
-  <data name="Settings_Trackers_Replay_SampleRate_Help" xml:space="preserve">
-    <value>Laginak zenbat aldiz hartu behar diren</value>
-  </data>
-  <data name="Settings_Trackers_Replay_SampleRate_Label" xml:space="preserve">
-    <value>Lagin-emaria (%)</value>
-  </data>
   <data name="Settings_Trackers_Umami_Endpoint_Help" xml:space="preserve">
     <value>Umamiren amaierako helbidea</value>
   </data>
   <data name="Settings_Trackers_Umami_Endpoint_Label" xml:space="preserve">
     <value>Amaiera-puntua</value>
+  </data>
+  <data name="Settings_Trackers_Umami_PerformanceTracking_Help" xml:space="preserve">
+    <value>Umamiren jarraipena egin beharko luke</value>
+  </data>
+  <data name="Settings_Trackers_Umami_PerformanceTracking_Label" xml:space="preserve">
+    <value>Errendimenduaren jarraipena</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_BlockSelector_Help" xml:space="preserve">
+    <value>Zein elementu ezkutatuko lirateke grabaziotik</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_BlockSelector_Label" xml:space="preserve">
+    <value>Bloke-hautatzailea</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_Help" xml:space="preserve">
+    <value>Umamik erabiltzailearen jarraipena egin behar duen ala ez</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_Label" xml:space="preserve">
+    <value>Grabatzailea</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaskLevel_Help" xml:space="preserve">
+    <value>Zenbat datu sentikor ezkutatu behar diren</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaskLevel_Label" xml:space="preserve">
+    <value>Maskararen maila</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaxDuration_Help" xml:space="preserve">
+    <value>Zein da grabatutako saio baten gehienezko luzera</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaxDuration_Label" xml:space="preserve">
+    <value>Max Duration (Mins)</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_SampleRate_Help" xml:space="preserve">
+    <value>Laginak zenbat aldiz hartu behar diren</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_SampleRate_Label" xml:space="preserve">
+    <value>Lagin-emaria (%)</value>
   </data>
   <data name="Settings_Trackers_Umami_ScriptName_Help" xml:space="preserve">
     <value>Script izena</value>

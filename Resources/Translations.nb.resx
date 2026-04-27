@@ -1624,6 +1624,9 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Last opp perioder</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Help" xml:space="preserve">
+    <value>Hvis identifikatornavnet skal vises i rullegardinen i gallerivelgeren</value>
+  </data>
   <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Label" xml:space="preserve">
     <value>Vis galleriidentifikatorer</value>
   </data>
@@ -1831,47 +1834,47 @@
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Trackers</value>
   </data>
-  <data name="Settings_Trackers_PerformanceTracking_Help" xml:space="preserve">
-    <value>Bør Umami spor ytelse</value>
-  </data>
-  <data name="Settings_Trackers_PerformanceTracking_Label" xml:space="preserve">
-    <value>Ytelsessporing</value>
-  </data>
-  <data name="Settings_Trackers_Replay_BlockSelector_Help" xml:space="preserve">
-    <value>Hvilke elementer bør skjules fra opptaket</value>
-  </data>
-  <data name="Settings_Trackers_Replay_BlockSelector_Label" xml:space="preserve">
-    <value>Blokkvelger</value>
-  </data>
-  <data name="Settings_Trackers_Replay_Help" xml:space="preserve">
-    <value>Hvis Umami spor bruker gjenspill</value>
-  </data>
-  <data name="Settings_Trackers_Replay_Label" xml:space="preserve">
-    <value>Opptaker</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaskLevel_Help" xml:space="preserve">
-    <value>Hvor mye sensitive data skal skjules</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaskLevel_Label" xml:space="preserve">
-    <value>Maskenivå</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaxDuration_Help" xml:space="preserve">
-    <value>Hva er den maksimale lengden på en registrert sesjon</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaxDuration_Label" xml:space="preserve">
-    <value>Max Varighet (Minner)</value>
-  </data>
-  <data name="Settings_Trackers_Replay_SampleRate_Help" xml:space="preserve">
-    <value>Hvor ofte bør prøvene tas</value>
-  </data>
-  <data name="Settings_Trackers_Replay_SampleRate_Label" xml:space="preserve">
-    <value>Prøvehastighet (%)</value>
-  </data>
   <data name="Settings_Trackers_Umami_Endpoint_Help" xml:space="preserve">
     <value>Endepunktadressen til Umami</value>
   </data>
   <data name="Settings_Trackers_Umami_Endpoint_Label" xml:space="preserve">
     <value>Endepunkt</value>
+  </data>
+  <data name="Settings_Trackers_Umami_PerformanceTracking_Help" xml:space="preserve">
+    <value>Bør Umami spor ytelse</value>
+  </data>
+  <data name="Settings_Trackers_Umami_PerformanceTracking_Label" xml:space="preserve">
+    <value>Ytelsessporing</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_BlockSelector_Help" xml:space="preserve">
+    <value>Hvilke elementer bør skjules fra opptaket</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_BlockSelector_Label" xml:space="preserve">
+    <value>Blokkvelger</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_Help" xml:space="preserve">
+    <value>Hvis Umami spor bruker gjenspill</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_Label" xml:space="preserve">
+    <value>Opptaker</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaskLevel_Help" xml:space="preserve">
+    <value>Hvor mye sensitive data skal skjules</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaskLevel_Label" xml:space="preserve">
+    <value>Maskenivå</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaxDuration_Help" xml:space="preserve">
+    <value>Hva er den maksimale lengden på en registrert sesjon</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaxDuration_Label" xml:space="preserve">
+    <value>Max Varighet (Minner)</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_SampleRate_Help" xml:space="preserve">
+    <value>Hvor ofte bør prøvene tas</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_SampleRate_Label" xml:space="preserve">
+    <value>Prøvehastighet (%)</value>
   </data>
   <data name="Settings_Trackers_Umami_ScriptName_Help" xml:space="preserve">
     <value>Skriptnavn</value>

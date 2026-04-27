@@ -1834,47 +1834,47 @@
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Trackers</value>
   </data>
-  <data name="Settings_Trackers_PerformanceTracking_Help" xml:space="preserve">
-    <value>Bör Umami spåra prestanda</value>
-  </data>
-  <data name="Settings_Trackers_PerformanceTracking_Label" xml:space="preserve">
-    <value>Performance Tracking</value>
-  </data>
-  <data name="Settings_Trackers_Replay_BlockSelector_Help" xml:space="preserve">
-    <value>Vilka element bör döljas från inspelningen</value>
-  </data>
-  <data name="Settings_Trackers_Replay_BlockSelector_Label" xml:space="preserve">
-    <value>Block Selector</value>
-  </data>
-  <data name="Settings_Trackers_Replay_Help" xml:space="preserve">
-    <value>Om Umami spårar användarreplayer</value>
-  </data>
-  <data name="Settings_Trackers_Replay_Label" xml:space="preserve">
-    <value>Recorder</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaskLevel_Help" xml:space="preserve">
-    <value>Hur mycket känslig data ska döljas</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaskLevel_Label" xml:space="preserve">
-    <value>Masknivå</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaxDuration_Help" xml:space="preserve">
-    <value>Vad är maxlängden på en inspelad session</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaxDuration_Label" xml:space="preserve">
-    <value>Max varaktighet (Mins)</value>
-  </data>
-  <data name="Settings_Trackers_Replay_SampleRate_Help" xml:space="preserve">
-    <value>Hur ofta ska prover tas</value>
-  </data>
-  <data name="Settings_Trackers_Replay_SampleRate_Label" xml:space="preserve">
-    <value>Provfrekvens (%)</value>
-  </data>
   <data name="Settings_Trackers_Umami_Endpoint_Help" xml:space="preserve">
     <value>Umami endpoint-adress</value>
   </data>
   <data name="Settings_Trackers_Umami_Endpoint_Label" xml:space="preserve">
     <value>Endpoint</value>
+  </data>
+  <data name="Settings_Trackers_Umami_PerformanceTracking_Help" xml:space="preserve">
+    <value>Bör Umami spåra prestanda</value>
+  </data>
+  <data name="Settings_Trackers_Umami_PerformanceTracking_Label" xml:space="preserve">
+    <value>Performance Tracking</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_BlockSelector_Help" xml:space="preserve">
+    <value>Vilka element bör döljas från inspelningen</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_BlockSelector_Label" xml:space="preserve">
+    <value>Block Selector</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_Help" xml:space="preserve">
+    <value>Om Umami spårar användarreplayer</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_Label" xml:space="preserve">
+    <value>Recorder</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaskLevel_Help" xml:space="preserve">
+    <value>Hur mycket känslig data ska döljas</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaskLevel_Label" xml:space="preserve">
+    <value>Masknivå</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaxDuration_Help" xml:space="preserve">
+    <value>Vad är maxlängden på en inspelad session</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaxDuration_Label" xml:space="preserve">
+    <value>Max varaktighet (Mins)</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_SampleRate_Help" xml:space="preserve">
+    <value>Hur ofta ska prover tas</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_SampleRate_Label" xml:space="preserve">
+    <value>Provfrekvens (%)</value>
   </data>
   <data name="Settings_Trackers_Umami_ScriptName_Help" xml:space="preserve">
     <value>Skriptnamn</value>

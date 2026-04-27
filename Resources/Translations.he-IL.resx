@@ -1834,47 +1834,47 @@
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Trackers</value>
   </data>
-  <data name="Settings_Trackers_PerformanceTracking_Help" xml:space="preserve">
-    <value>עקבו אחרי Umami Performance</value>
-  </data>
-  <data name="Settings_Trackers_PerformanceTracking_Label" xml:space="preserve">
-    <value>עקבו אחרי</value>
-  </data>
-  <data name="Settings_Trackers_Replay_BlockSelector_Help" xml:space="preserve">
-    <value>אילו מרכיבים יש להסתיר מההקלטה</value>
-  </data>
-  <data name="Settings_Trackers_Replay_BlockSelector_Label" xml:space="preserve">
-    <value>בלוק Selector</value>
-  </data>
-  <data name="Settings_Trackers_Replay_Help" xml:space="preserve">
-    <value>צריך Umami לעקוב אחר משחקי משתמשים</value>
-  </data>
-  <data name="Settings_Trackers_Replay_Label" xml:space="preserve">
-    <value>מקליט</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaskLevel_Help" xml:space="preserve">
-    <value>כמה מידע רגיש צריך להסתיר</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaskLevel_Label" xml:space="preserve">
-    <value>רמת המסכה</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaxDuration_Help" xml:space="preserve">
-    <value>מהו אורך מקסימלי של ישיבה רשומה</value>
-  </data>
-  <data name="Settings_Trackers_Replay_MaxDuration_Label" xml:space="preserve">
-    <value>Max Duration (Mins)</value>
-  </data>
-  <data name="Settings_Trackers_Replay_SampleRate_Help" xml:space="preserve">
-    <value>כמה פעמים צריך לקחת דגימות</value>
-  </data>
-  <data name="Settings_Trackers_Replay_SampleRate_Label" xml:space="preserve">
-    <value>דרגה (%)</value>
-  </data>
   <data name="Settings_Trackers_Umami_Endpoint_Help" xml:space="preserve">
     <value>כתובת Umami Endpoint</value>
   </data>
   <data name="Settings_Trackers_Umami_Endpoint_Label" xml:space="preserve">
     <value>סוף</value>
+  </data>
+  <data name="Settings_Trackers_Umami_PerformanceTracking_Help" xml:space="preserve">
+    <value>עקבו אחרי Umami Performance</value>
+  </data>
+  <data name="Settings_Trackers_Umami_PerformanceTracking_Label" xml:space="preserve">
+    <value>עקבו אחרי</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_BlockSelector_Help" xml:space="preserve">
+    <value>אילו מרכיבים יש להסתיר מההקלטה</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_BlockSelector_Label" xml:space="preserve">
+    <value>בלוק Selector</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_Help" xml:space="preserve">
+    <value>צריך Umami לעקוב אחר משחקי משתמשים</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_Label" xml:space="preserve">
+    <value>מקליט</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaskLevel_Help" xml:space="preserve">
+    <value>כמה מידע רגיש צריך להסתיר</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaskLevel_Label" xml:space="preserve">
+    <value>רמת המסכה</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaxDuration_Help" xml:space="preserve">
+    <value>מהו אורך מקסימלי של ישיבה רשומה</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_MaxDuration_Label" xml:space="preserve">
+    <value>Max Duration (Mins)</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_SampleRate_Help" xml:space="preserve">
+    <value>כמה פעמים צריך לקחת דגימות</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Replay_SampleRate_Label" xml:space="preserve">
+    <value>דרגה (%)</value>
   </data>
   <data name="Settings_Trackers_Umami_ScriptName_Help" xml:space="preserve">
     <value>שם הסרטון</value>
