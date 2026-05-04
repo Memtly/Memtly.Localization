@@ -389,7 +389,7 @@
     <value>Klick hier, um Dateien zum hochladen auszuwählen</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Schließen</value>
+    <value>Schliessen</value>
   </data>
   <data name="Code" xml:space="preserve">
     <value>Code</value>
@@ -407,7 +407,7 @@
     <value>Cookie-Richtlinie</value>
   </data>
   <data name="CookiePolicy_Message_Short" xml:space="preserve">
-    <value>Durch die Nutzung dieser Website erklären Sie sich mit unserer Nutzung grundlegender Cookies gemäß unseren Nutzungsbedingungen einverstanden. Weitere Informationen finden Sie hier</value>
+    <value>Durch die Nutzung dieser Website erklären Sie sich mit unserer Nutzung grundlegender Cookies gemäss unseren Nutzungsbedingungen einverstanden. Weitere Informationen finden Sie hier</value>
   </data>
   <data name="Create" xml:space="preserve">
     <value>Erstellen</value>
@@ -491,7 +491,7 @@
     <value>Element erfolgreich gelöscht</value>
   </data>
   <data name="Demo_Message" xml:space="preserve">
-    <value>Dies ist eine Demoversion. Alle Konfigurationen werden regelmäßig zurückgesetzt, um einen sauberen Ausgangszustand für künftige Tester sicherzustellen.</value>
+    <value>Dies ist eine Demoversion. Alle Konfigurationen werden regelmässig zurückgesetzt, um einen sauberen Ausgangszustand für künftige Tester sicherzustellen.</value>
   </data>
   <data name="Descending" xml:space="preserve">
     <value>Absteigend</value>
@@ -704,7 +704,7 @@
     <value>Es gibt noch keine geteilten Erinnerungen, warum teilst du nicht deine?</value>
   </data>
   <data name="Gallery_Full" xml:space="preserve">
-    <value>Galerie ist voll und hat die maximale Größe überschritten</value>
+    <value>Galerie ist voll und hat die maximale Grösse überschritten</value>
   </data>
   <data name="Gallery_Identifier" xml:space="preserve">
     <value>Galerie-Kennung</value>
@@ -959,7 +959,7 @@
     <value>Passwort</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
-    <value>Bitte einloggen, um diese Aktion abzuschließen</value>
+    <value>Bitte einloggen, um diese Aktion abzuschliessen</value>
   </data>
   <data name="Login_Username_Help" xml:space="preserve">
     <value>Bitte gib den Benutzernamen ein.</value>
@@ -977,7 +977,7 @@
     <value>Daten verwalten</value>
   </data>
   <data name="Max_File_Size" xml:space="preserve">
-    <value>Maximale Dateigröße ist</value>
+    <value>Maximale Dateigrösse ist</value>
   </data>
   <data name="MediaType" xml:space="preserve">
     <value>Medientyp</value>
@@ -1064,7 +1064,7 @@
     <value>Sonderzeichen</value>
   </data>
   <data name="Password_Validation_Upper" xml:space="preserve">
-    <value>Großbuchstaben</value>
+    <value>Grossbuchstaben</value>
   </data>
   <data name="PasswordReset" xml:space="preserve">
     <value>Passwort zurücksetzen</value>
@@ -1175,7 +1175,7 @@
     <value>Bitte geben Sie einen gültigen Nachnamen zwischen 1 und 50 Zeichen an</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
-    <value>Bitte gib ein gültiges Passwort mit 8 bis 100 Zeichen ein, das mindestens 1 Großbuchstaben, 1 Kleinbuchstaben, 1 Zahl und 1 Sonderzeichen enthält</value>
+    <value>Bitte gib ein gültiges Passwort mit 8 bis 100 Zeichen ein, das mindestens 1 Grossbuchstaben, 1 Kleinbuchstaben, 1 Zahl und 1 Sonderzeichen enthält</value>
   </data>
   <data name="Registration_Invalid_Username" xml:space="preserve">
     <value>Bitte geben Sie einen gültigen Benutzernamen zwischen 5 und 50 Zeichen an</value>
@@ -1535,16 +1535,16 @@
     <value>Artikel pro Seite</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
-    <value>Was ist die maximale Größe einer hochgeladene Datei in MB</value>
+    <value>Was ist die maximale Grösse einer hochgeladene Datei in MB</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Label" xml:space="preserve">
-    <value>Maximale Dateigröße (MB)</value>
+    <value>Maximale Dateigrösse (MB)</value>
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Help" xml:space="preserve">
-    <value>Wie groß darf die Galerie maximal werden</value>
+    <value>Wie gross darf die Galerie maximal werden</value>
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
-    <value>Maximale Gallerie-Größe (MB)</value>
+    <value>Maximale Gallerie-Grösse (MB)</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Sollen Duplikate automatisch abgelehnt werden</value>
@@ -1901,7 +1901,7 @@
     <value>Einzeln</value>
   </data>
   <data name="Size_Limits" xml:space="preserve">
-    <value>Größenbeschränkungen</value>
+    <value>Grössenbeschränkungen</value>
   </data>
   <data name="Slideshow" xml:space="preserve">
     <value>Diashow</value>
