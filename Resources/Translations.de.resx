@@ -2216,6 +2216,6 @@
     <value>Möchten Sie wirklich alle Daten löschen?</value>
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
-    <value>Erfolgreich gelöschte Daten</value>
+    <value>Die Daten wurden erfolgreich gelöscht</value>
   </data>
 </root>
