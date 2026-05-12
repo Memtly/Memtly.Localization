@@ -496,6 +496,12 @@
   <data name="Descending" xml:space="preserve">
     <value>Відхилення</value>
   </data>
+  <data name="Deselect" xml:space="preserve">
+    <value>Дезелект</value>
+  </data>
+  <data name="Deselect_All" xml:space="preserve">
+    <value>Відчайити все</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Деструктивна дія</value>
   </data>
@@ -1263,6 +1269,12 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Термін дії</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Обрати</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>Виберіть все</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Відправити</value>

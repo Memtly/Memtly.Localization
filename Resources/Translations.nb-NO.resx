@@ -496,6 +496,12 @@
   <data name="Descending" xml:space="preserve">
     <value>Synkande</value>
   </data>
+  <data name="Deselect" xml:space="preserve">
+    <value>Avmarker</value>
+  </data>
+  <data name="Deselect_All" xml:space="preserve">
+    <value>Avvelg alle</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Destruktiv handling utført</value>
   </data>
@@ -1263,6 +1269,12 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Søkeord</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Velg</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>Velg alle</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Sender</value>

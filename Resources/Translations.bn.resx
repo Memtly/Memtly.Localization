@@ -496,6 +496,12 @@
   <data name="Descending" xml:space="preserve">
     <value>বড় থেকে ছোট</value>
   </data>
+  <data name="Deselect" xml:space="preserve">
+    <value>নির্বাচন বাতিল করো</value>
+  </data>
+  <data name="Deselect_All" xml:space="preserve">
+    <value>সমগ্র নির্বাচন বাতিল</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>তালিকাবদ্ধ কাজ</value>
   </data>
@@ -1263,6 +1269,12 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>অনুসন্ধানের স্থান</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>নির্বাচন করুন</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>সমগ্র নির্বাচন</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>ছোট থেকে বড়</value>

@@ -496,6 +496,12 @@
   <data name="Descending" xml:space="preserve">
     <value>Leereszkedés</value>
   </data>
+  <data name="Deselect" xml:space="preserve">
+    <value>Eltávolítás</value>
+  </data>
+  <data name="Deselect_All" xml:space="preserve">
+    <value>Az összes megválasztása</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Megsemmisítő művelet</value>
   </data>
@@ -1263,6 +1269,12 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Keresési kifejezés</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Kijelölés</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>Az összes kiválasztása</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Küldés</value>

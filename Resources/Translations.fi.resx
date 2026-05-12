@@ -496,6 +496,12 @@
   <data name="Descending" xml:space="preserve">
     <value>Laskeutuminen</value>
   </data>
+  <data name="Deselect" xml:space="preserve">
+    <value>Poista valinta</value>
+  </data>
+  <data name="Deselect_All" xml:space="preserve">
+    <value>Poista kaikki</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Tuhoava toiminta suoritettu</value>
   </data>
@@ -1263,6 +1269,12 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Hakusana</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Valitse</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>Valitse kaikki</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Lähetetään</value>

@@ -496,6 +496,12 @@
   <data name="Descending" xml:space="preserve">
     <value>デザート</value>
   </data>
+  <data name="Deselect" xml:space="preserve">
+    <value>選択解除</value>
+  </data>
+  <data name="Deselect_All" xml:space="preserve">
+    <value>すべて選択解除</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>破壊的な行動の実行</value>
   </data>
@@ -1263,6 +1269,12 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>検索条件</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>選択する</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>すべてを選択</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>送信する</value>

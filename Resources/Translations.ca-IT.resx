@@ -496,6 +496,12 @@
   <data name="Descending" xml:space="preserve">
     <value>Descendent</value>
   </data>
+  <data name="Deselect" xml:space="preserve">
+    <value>Desselecciona</value>
+  </data>
+  <data name="Deselect_All" xml:space="preserve">
+    <value>Desselecciona- ho tot</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Acció obsoleta realitzada</value>
   </data>
@@ -1263,6 +1269,12 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Terme de cerca</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Selecciona</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>Selecciona- ho tot</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Enviament</value>

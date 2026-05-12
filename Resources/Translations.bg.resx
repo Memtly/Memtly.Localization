@@ -496,6 +496,12 @@
   <data name="Descending" xml:space="preserve">
     <value>Спускане</value>
   </data>
+  <data name="Deselect" xml:space="preserve">
+    <value>Размаркиране</value>
+  </data>
+  <data name="Deselect_All" xml:space="preserve">
+    <value>Размаркиране на всички</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Извършване на разрушително действие</value>
   </data>
@@ -1263,6 +1269,12 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Термин за търсене</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Избор</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>Избор на всичко</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Изпращане</value>

@@ -496,6 +496,12 @@
   <data name="Descending" xml:space="preserve">
     <value>Aflopend</value>
   </data>
+  <data name="Deselect" xml:space="preserve">
+    <value>Deselecteren</value>
+  </data>
+  <data name="Deselect_All" xml:space="preserve">
+    <value>Alles deselecteren</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Destructieve actie uitgevoerd</value>
   </data>
@@ -1263,6 +1269,12 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Zoekterm</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Selecteren</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>Alles selecteren</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Verzenden</value>

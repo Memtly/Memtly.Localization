@@ -496,6 +496,12 @@
   <data name="Descending" xml:space="preserve">
     <value>Kahanev</value>
   </data>
+  <data name="Deselect" xml:space="preserve">
+    <value>Kustuta valik</value>
+  </data>
+  <data name="Deselect_All" xml:space="preserve">
+    <value>Kustuta kõigi valik</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Teostatud hävitav tegevus</value>
   </data>
@@ -1263,6 +1269,12 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Otsingutermin</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Vali</value>
+  </data>
+  <data name="Select_All" xml:space="preserve">
+    <value>Vali kõik</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Saadan</value>
