@@ -1,0 +1,25 @@
+name: Check PR Agreement
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+jobs:
+  check-pr-agreement:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check disclaimer checkbox is checked
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.pull_request.body || '';
+
+            const checked = body.includes(
+              '- [x] I have read the [Pull Request Disclaimer]'
+            );
+
+            if (!checked) {
+              core.setFailed(
+                'You must read and agree to the PR disclaimer by checking the checkbox before this PR can be reviewed. If this PR was not generated using the template please close it and re-create it using the template. You can read the PR agreement here - https://docs.memtly.com/docs/pull_requests'
+              );
+            }
