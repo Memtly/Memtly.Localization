@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Галерея тизмесин ала албай калды</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Галереялык логин</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Галерея Id бош болушу мүмкүн эмес</value>
   </data>

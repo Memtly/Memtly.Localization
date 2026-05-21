@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>A galéria listájának letöltése nem sikerült</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Galéria bejelentkezés</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galéria Nem lehet üres</value>
   </data>

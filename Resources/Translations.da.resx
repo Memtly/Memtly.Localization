@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Kunne ikke få gallerilisten</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Gallery Login</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galleri Id kan ikke være tomt</value>
   </data>

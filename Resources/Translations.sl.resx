@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Seznam galerije ni uspel</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Prijava v galeriji</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerija Id ne more biti prazna</value>
   </data>

@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>সংকলনের তালিকা প্রাপ্ত করতে ব্যর্থ</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>গ্যালারি</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>গ্যালারি ফাঁকা রাখা যাবে না</value>
   </data>

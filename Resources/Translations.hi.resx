@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>गैलरी सूची प्राप्त करने में विफल</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>गैलरी लॉग इन</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>गैलरी आईडी खाली नहीं हो सकता</value>
   </data>

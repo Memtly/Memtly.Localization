@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Nepodařilo se získat seznam galerie</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Přihlášení galerie</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerie Id nemůže být prázdný</value>
   </data>

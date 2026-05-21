@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Ha fallat en obtenir la llista de la galeria</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Entrada de galeria</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galeria No puc estar buida</value>
   </data>

@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Ophalen van galerielijst mislukt</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Galerijlogin</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerij Id kan niet leeg zijn</value>
   </data>

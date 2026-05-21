@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Nepodarilo sa získať zoznam galérie</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Prihlásenie Galéria</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galéria Id nemôže byť prázdny</value>
   </data>

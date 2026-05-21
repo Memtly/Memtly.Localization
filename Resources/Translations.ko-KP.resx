@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>본문 바로가기</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>갤러리 로그인</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>회사연혁 나는 비어있을 수 없다</value>
   </data>

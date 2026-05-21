@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Galerii nimekirja hankimine nurjus</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Galerii sisselogimine</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galeriis Id ei saa olla tühi</value>
   </data>

@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Không thể lấy danh sách phòng trưng bày</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Đăng nhập phòng trưng bày</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Gallery Sẽ không thể trống rỗng</value>
   </data>

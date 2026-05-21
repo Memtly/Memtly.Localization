@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Gagal mendapatkan daftar galeri</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Login Galeri Galeri</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galeri Galeri Galeri Id tidak boleh kosong</value>
   </data>

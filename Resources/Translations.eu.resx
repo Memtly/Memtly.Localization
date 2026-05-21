@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Huts egin du galeria-zerrenda eskuratzean</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Galeriako saioa</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galeria Id ezin da hutsik egon</value>
   </data>

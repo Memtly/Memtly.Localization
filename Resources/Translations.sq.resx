@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Marrja e listës së koleksionit dështoi</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Login i Galerisë</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Koleksioni Id nuk mund të jetë bosh</value>
   </data>

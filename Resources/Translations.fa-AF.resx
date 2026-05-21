@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>شکست در لیست گالری</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>گالری Login</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>گالری گالری گالری نمی توانم خالی باشم</value>
   </data>

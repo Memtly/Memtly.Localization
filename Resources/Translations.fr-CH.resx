@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Impossible d'obtenir la liste des galeries</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Connexion de la galerie</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>L'ID de galerie ne peut pas être vide</value>
   </data>

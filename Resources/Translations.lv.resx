@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Neizdevās iegūt galerijas sarakstu</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>Galerijas pieteikšanās</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerija Id nevar būt tukšs</value>
   </data>

@@ -754,6 +754,9 @@
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>گیلری فہرست حاصل کرنے میں ناکامی</value>
   </data>
+  <data name="Gallery_Login" xml:space="preserve">
+    <value>گیلری لاگس</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>گیلری محفوظ نہیں کیا جاسکتا</value>
   </data>
