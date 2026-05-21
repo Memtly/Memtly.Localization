@@ -758,7 +758,7 @@
     <value>Влизане в галерия</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Тази галерия е защитена с таен ключ. Моля, въведете тайния ключ, за да видите съдържанието му.</value>
+    <value>Това е защитена галерия. Моля, въведете тайния ключ, за да видите съдържанието му.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Галерия Не може да е празен</value>

@@ -758,7 +758,7 @@
     <value>Qeydiyyat</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Bu gallery gizli əsas ilə qorunur. Onun content baxmaq üçün gizli key daxil edin.</value>
+    <value>Bu qorunur. Onun content baxmaq üçün gizli key daxil edin.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Bakı Id boş deyil</value>

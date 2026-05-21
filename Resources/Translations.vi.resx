@@ -758,7 +758,7 @@
     <value>Đăng nhập phòng trưng bày</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Phòng tranh này được bảo vệ bằng một chiếc chìa khóa bí mật. Hãy nhập chìa khóa bí mật để xem nội dung của nó.</value>
+    <value>Đây là phòng trưng bày được bảo vệ. Hãy nhập chìa khóa bí mật để xem nội dung của nó.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Gallery Sẽ không thể trống rỗng</value>

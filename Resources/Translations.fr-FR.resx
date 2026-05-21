@@ -758,7 +758,7 @@
     <value>Connexion de la galerie</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Cette galerie est protégée par une clé secrète. Veuillez saisir la clé secrète pour voir son contenu.</value>
+    <value>C'est une galerie protégée. Veuillez saisir la clé secrète pour voir son contenu.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerie Id ne peut pas être vide</value>

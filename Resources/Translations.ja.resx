@@ -758,7 +758,7 @@
     <value>ギャラリー</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>このギャラリーは秘密鍵で保護されています。 コンテンツを見るには、秘密鍵を入力してください.</value>
+    <value>保護されたギャラリーです。 コンテンツを見るには、秘密鍵を入力してください.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>ギャラリー 空に入らない</value>

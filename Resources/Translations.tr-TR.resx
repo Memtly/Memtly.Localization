@@ -758,7 +758,7 @@
     <value>Gallery Login</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Bu galeri gizli bir anahtarla korunuyor. Lütfen içeriğini görüntülemek için gizli anahtar girin.</value>
+    <value>Bu, korunan bir galeridir. Lütfen içeriğini görüntülemek için gizli anahtar girin.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Gallery Gallery Boş olamaz</value>

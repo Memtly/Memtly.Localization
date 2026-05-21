@@ -758,7 +758,7 @@
     <value>گیلری لاگس</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>یہ گیلری خفیہ کلید کے ساتھ محفوظ ہے۔ برائے مہربانی اس کے مواد کو دیکھنے کے لئے خفیہ کلید داخل کریں.</value>
+    <value>یہ ایک محفوظ گیلری ہے. برائے مہربانی اس کے مواد کو دیکھنے کے لئے خفیہ کلید داخل کریں.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>گیلری محفوظ نہیں کیا جاسکتا</value>

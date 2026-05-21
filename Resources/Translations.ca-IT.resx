@@ -758,7 +758,7 @@
     <value>Entrada de galeria</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Aquesta galeria està protegida amb una clau secreta. Si us plau, introduïu la clau secreta per veure el seu contingut.</value>
+    <value>Això és una galeria protegida. Si us plau, introduïu la clau secreta per veure el seu contingut.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galeria No puc estar buida</value>

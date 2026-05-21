@@ -758,7 +758,7 @@
     <value>Логін</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Ця галерея захищена секретним ключем. Будь ласка, введіть секретний ключ, щоб переглянути його зміст.</value>
+    <value>Це захищена галерея. Будь ласка, введіть секретний ключ, щоб переглянути його зміст.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Видання Я не можу бути порожнім</value>

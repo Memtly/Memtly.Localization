@@ -758,7 +758,7 @@
     <value>Galerija Prisijungti</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Galerija apsaugota slaptu raktu. Prašome įvesti slaptą raktą, norėdami peržiūrėti jo turinį.</value>
+    <value>Čia saugoma galerija. Prašome įvesti slaptą raktą, norėdami peržiūrėti jo turinį.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerija Id negali būti tuščias</value>

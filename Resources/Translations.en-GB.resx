@@ -758,7 +758,7 @@
     <value>Gallery Login</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>This gallery is protected with a secret key. Please enter the secret key to view its content.</value>
+    <value>This is a protected gallery. Please enter the secret key to view its content.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Gallery Id cannot be empty</value>

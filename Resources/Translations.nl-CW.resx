@@ -758,7 +758,7 @@
     <value>Galerijlogin</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Deze galerij is beschermd met een geheime sleutel. Voer de geheime sleutel in om de inhoud ervan te bekijken.</value>
+    <value>Dit is een beschermde galerij. Voer de geheime sleutel in om de inhoud ervan te bekijken.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerij Id kan niet leeg zijn</value>

@@ -758,7 +758,7 @@
     <value>ล็อกอินของแกลเลอรี</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>แกลเลอรีนี้ถูกปกป้องด้วยกุญแจลับ โปรดป้อนกุญแจลับเพื่อดูเนื้อหา.</value>
+    <value>นี่เป็นห้องภาพอนุรักษ์ โปรดป้อนกุญแจลับเพื่อดูเนื้อหา.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>คลังภาพ ไม่สามารถว่างได้</value>

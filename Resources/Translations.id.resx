@@ -758,7 +758,7 @@
     <value>Log masuk Galeri</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Galeri ini dilindungi dengan kunci rahasia. Silakan masukkan kunci rahasia untuk melihat isinya.</value>
+    <value>Ini adalah galeri yang dilindungi. Silakan masukkan kunci rahasia untuk melihat isinya.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galeri Id tidak dapat kosong</value>

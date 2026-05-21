@@ -758,7 +758,7 @@
     <value>Autentificare galerie</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Galeria asta e protejată cu o cheie secretă. Introduceți cheia secretă pentru a vizualiza conținutul acesteia.</value>
+    <value>Aceasta este o galerie protejată. Introduceți cheia secretă pentru a vizualiza conținutul acesteia.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerie Nu poate fi gol</value>

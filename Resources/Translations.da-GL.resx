@@ -758,7 +758,7 @@
     <value>Gallery Login</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Dette galleri er beskyttet med en hemmelig nøgle. Indtast den hemmelige nøgle for at se dens indhold.</value>
+    <value>Det er et beskyttet galleri. Indtast den hemmelige nøgle for at se dens indhold.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galleri Id kan ikke være tomt</value>
