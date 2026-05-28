@@ -394,9 +394,6 @@
   <data name="Code" xml:space="preserve">
     <value>Bộ mã</value>
   </data>
-  <data name="Colour_Overrides" xml:space="preserve">
-    <value>Ghi đè màu</value>
-  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Thiết lập chung</value>
   </data>
@@ -450,6 +447,9 @@
   </data>
   <data name="Custom_Resources_Upload_Label" xml:space="preserve">
     <value>Tải lên tài nguyên tự chọn</value>
+  </data>
+  <data name="Custom_Theme" xml:space="preserve">
+    <value>Tự chọn Sắc thái</value>
   </data>
   <data name="CustomResource_Delete_Failed" xml:space="preserve">
     <value>Lỗi xoá tài nguyên tự chọn</value>

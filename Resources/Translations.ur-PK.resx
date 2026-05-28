@@ -394,9 +394,6 @@
   <data name="Code" xml:space="preserve">
     <value>کوڈ</value>
   </data>
-  <data name="Colour_Overrides" xml:space="preserve">
-    <value>رنگ</value>
-  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>عام ترتیبات</value>
   </data>
@@ -450,6 +447,9 @@
   </data>
   <data name="Custom_Resources_Upload_Label" xml:space="preserve">
     <value>دوبارہ شروع کریں</value>
+  </data>
+  <data name="Custom_Theme" xml:space="preserve">
+    <value>مصر تھیم</value>
   </data>
   <data name="CustomResource_Delete_Failed" xml:space="preserve">
     <value>عادتی وسائل کو حذف کرنے میں ناکامی</value>

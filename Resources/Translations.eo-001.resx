@@ -394,9 +394,6 @@
   <data name="Code" xml:space="preserve">
     <value>Kodo</value>
   </data>
-  <data name="Colour_Overrides" xml:space="preserve">
-    <value>Koloro superridoj</value>
-  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Oftaj aranĝoj</value>
   </data>
@@ -450,6 +447,9 @@
   </data>
   <data name="Custom_Resources_Upload_Label" xml:space="preserve">
     <value>Subŝuti kutimon</value>
+  </data>
+  <data name="Custom_Theme" xml:space="preserve">
+    <value>Kutimo La</value>
   </data>
   <data name="CustomResource_Delete_Failed" xml:space="preserve">
     <value>Malsukcesas forigi kutimon</value>

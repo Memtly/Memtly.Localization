@@ -394,9 +394,6 @@
   <data name="Code" xml:space="preserve">
     <value>Kode</value>
   </data>
-  <data name="Colour_Overrides" xml:space="preserve">
-    <value>Colour Overrides</value>
-  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Pengaturan Umum</value>
   </data>
@@ -450,6 +447,9 @@
   </data>
   <data name="Custom_Resources_Upload_Label" xml:space="preserve">
     <value>Unggah Sumber Daya Kustom</value>
+  </data>
+  <data name="Custom_Theme" xml:space="preserve">
+    <value>Gubahan Tema</value>
   </data>
   <data name="CustomResource_Delete_Failed" xml:space="preserve">
     <value>Gagal menghapus sumber daya gubahan</value>

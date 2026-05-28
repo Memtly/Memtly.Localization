@@ -394,9 +394,6 @@
   <data name="Code" xml:space="preserve">
     <value>קודקוד</value>
   </data>
-  <data name="Colour_Overrides" xml:space="preserve">
-    <value>צבעים Overrides</value>
-  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>הגדרות נפוצות</value>
   </data>
@@ -450,6 +447,9 @@
   </data>
   <data name="Custom_Resources_Upload_Label" xml:space="preserve">
     <value>המונחים Custom</value>
+  </data>
+  <data name="Custom_Theme" xml:space="preserve">
+    <value>מותאם אישית נושא</value>
   </data>
   <data name="CustomResource_Delete_Failed" xml:space="preserve">
     <value>נכשל למחוק משאבים מותאמים אישית</value>

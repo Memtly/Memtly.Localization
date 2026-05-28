@@ -394,9 +394,6 @@
   <data name="Code" xml:space="preserve">
     <value>কোড</value>
   </data>
-  <data name="Colour_Overrides" xml:space="preserve">
-    <value>রং অগ্রাহ্য করা হবে</value>
-  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>সাধারণ বৈশিষ্ট্য</value>
   </data>
@@ -450,6 +447,9 @@
   </data>
   <data name="Custom_Resources_Upload_Label" xml:space="preserve">
     <value>স্বনির্ধারিত রিসোর্স আপলোড করুন</value>
+  </data>
+  <data name="Custom_Theme" xml:space="preserve">
+    <value>স্বনির্ধারিত থিম</value>
   </data>
   <data name="CustomResource_Delete_Failed" xml:space="preserve">
     <value>নির্বাচিত রিসোর্স মুছে ফেলতে ব্যর্থ</value>
