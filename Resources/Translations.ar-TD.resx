@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>هل أنت متأكد أنك تريد أن تفرغ الحساب</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>غير معروف</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>إجراء استعراض غير معروف</value>
   </data>

@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>آپ یقینی طور پر آپ کو غیر مفقود کرنا چاہتے ہیں</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>نامعلوم</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>نامعلوم تجزیاتی عمل</value>
   </data>

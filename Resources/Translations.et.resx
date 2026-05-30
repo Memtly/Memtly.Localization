@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Kas oled kindel, et soovid konto külmutada</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Tundmatu viga</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Teadmata läbivaatamismeede</value>
   </data>

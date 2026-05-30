@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>你确定要解冻账户吗</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>未知出錯</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>未知的审查动作</value>
   </data>

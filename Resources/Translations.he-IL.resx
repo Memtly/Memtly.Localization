@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>אתה בטוח שאתה רוצה לבטל חשבון</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>טעות לא ידועה</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>ביקורת לא ידוע</value>
   </data>

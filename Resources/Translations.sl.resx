@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Ste prepričani, da želite odmrzniti račun</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Neznana napaka</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Neznan ukrep pregleda</value>
   </data>

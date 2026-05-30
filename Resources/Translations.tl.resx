@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Natitiyak mo ba na nais mong hindi-freeze account</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Hindi tanggap na Pagkakamali</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Di - kilalang ginawa ng pagrerepaso</value>
   </data>

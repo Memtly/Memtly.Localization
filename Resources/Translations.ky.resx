@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Эсепти тоңдурууну каалаарыңызга толук ишенесизби</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Белгисиз ката</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Белгисиз текшерүү чаралары</value>
   </data>

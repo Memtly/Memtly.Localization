@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Haluatko varmasti avata tilin</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Tuntematon virhe</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Tuntematon tarkastelutoimi</value>
   </data>

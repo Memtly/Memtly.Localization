@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Esteu segur que voleu esborrar la programació seleccionada</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Error desconegut</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Acció de revisió desconeguda</value>
   </data>

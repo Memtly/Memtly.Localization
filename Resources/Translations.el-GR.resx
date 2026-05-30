@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Είστε σίγουροι ότι θέλετε να ξεπαγώσετε λογαριασμό</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Άγνωστο σφάλμα</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Άγνωστη ενέργεια αναθεώρησης</value>
   </data>

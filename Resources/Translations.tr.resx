@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Özgür olmayan hesap için istediğinizden emin misiniz</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Bilinmeyen Hata</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Bilinmeyen inceleme eylemi</value>
   </data>

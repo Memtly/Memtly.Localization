@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Ви впевнені, що ви хочете скасувати обліковий запис</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Невідома помилка</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Невідомий відгук</value>
   </data>

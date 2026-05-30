@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Sigur vrei să dezgheţi contul</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Eroare necunoscută</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Acţiune de revizuire necunoscută</value>
   </data>

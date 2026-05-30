@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Сигурна ли си, че искаш да размразиш акаунта</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Неизвестна грешка</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Непознати действия за преразглеждане</value>
   </data>

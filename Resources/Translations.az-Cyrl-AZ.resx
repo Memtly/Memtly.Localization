@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Siz pulsuz hesabat istəyirsiniz</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Qeydiyyat</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Xüsusi baxış</value>
   </data>

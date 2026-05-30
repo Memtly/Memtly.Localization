@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Är du säker på att du vill frysa konto</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Okänd fel</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Okänd granskning åtgärd</value>
   </data>

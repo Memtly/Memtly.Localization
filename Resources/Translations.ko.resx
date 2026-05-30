@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>계정이 없으면</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>잘못된 오류</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Unknown 검토 활동</value>
   </data>

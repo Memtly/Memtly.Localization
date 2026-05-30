@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Biztos vagy benne, hogy fel akarod bontani a fiókot</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Ismeretlen hiba</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Ismeretlen felülvizsgálati intézkedés</value>
   </data>

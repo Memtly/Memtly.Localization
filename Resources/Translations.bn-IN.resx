@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>আপনি কি নিশ্চিতরূপে প্রস্থান করতে ইচ্ছুক</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>অজানা ত্রুটি</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>অজানা পর্যালোচনা কর্ম</value>
   </data>

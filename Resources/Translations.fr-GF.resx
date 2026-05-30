@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Voulez-vous vraiment dégeler votre compte</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Erreur inconnue</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Mesure de révision inconnue</value>
   </data>

@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>क्या आपको यकीन है कि आप खाता खोलना चाहते हैं</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>अज्ञात त्रुटि</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>अज्ञात समीक्षा कार्रवाई</value>
   </data>

@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>¿Estás seguro de que quieres desactivar la cuenta</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Error desconocido</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Medidas de examen desconocidas</value>
   </data>

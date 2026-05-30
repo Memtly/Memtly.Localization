@@ -2104,6 +2104,9 @@
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Apakah Anda yakin ingin un-freeze account</value>
   </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Ralat Tidak Diketahui Tidak Diketahui</value>
+  </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Tindakan review tidak diketahui</value>
   </data>
