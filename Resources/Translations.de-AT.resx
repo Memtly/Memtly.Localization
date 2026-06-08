@@ -50,7 +50,7 @@
     <value>Bitte geben Sie den von Ihrer 2FA App generierten Code ein</value>
   </data>
   <data name="2FA_Generate_Secret_Failed" xml:space="preserve">
-    <value>Versäumt, ein 2FA-Geheimnis zu erzeugen</value>
+    <value>2FA-Geheimnis konnte nicht erstellt werden</value>
   </data>
   <data name="2FA_Invalid_Code" xml:space="preserve">
     <value>Der zur Verfügung gestellte Authentifizierungscode war falsch</value>
@@ -59,31 +59,31 @@
     <value>Geben Sie den Code manuell ein:</value>
   </data>
   <data name="2FA_Not_Set" xml:space="preserve">
-    <value>2FA kein Set</value>
+    <value>2FA nicht eingerichtet</value>
   </data>
   <data name="2FA_Reset_Failed" xml:space="preserve">
-    <value>Fehler beim Zurücksetzen 2FA</value>
+    <value>2FA konnte nicht zurückgesetzt werden</value>
   </data>
   <data name="2FA_Reset_Successfully" xml:space="preserve">
-    <value>2FA erfolgreich zurücksetzen</value>
+    <value>2FA erfolgreich zurückgesetzt</value>
   </data>
   <data name="2FA_Scan_With_App" xml:space="preserve">
     <value>Scannen Sie das folgende Bild mit Ihrer App</value>
   </data>
   <data name="2FA_Set_Failed" xml:space="preserve">
-    <value>Nicht eingerichtet 2FA</value>
+    <value>2FA konnte nicht eingerichtet werden</value>
   </data>
   <data name="2FA_Set_Successfully" xml:space="preserve">
-    <value>2FA erfolgreich einrichten</value>
+    <value>2FA erfolgreich eingerichtet</value>
   </data>
   <data name="2FA_Set_Wipe" xml:space="preserve">
-    <value>2FA erfolgreich abgewischt</value>
+    <value>2FA erfolgreich gelöscht</value>
   </data>
   <data name="2FA_Setup" xml:space="preserve">
     <value>2FA Setup</value>
   </data>
   <data name="2FA_Wipe_Message" xml:space="preserve">
-    <value>Willst du sicher 2FA löschen?</value>
+    <value>Möchtest du 2FA wirklich löschen?</value>
   </data>
   <data name="400_Error_Message" xml:space="preserve">
     <value>Falls dieses Problem weiterhin besteht, wende dich bitte an den Web-Administrator</value>
@@ -134,22 +134,22 @@
     <value>Ungültiges Passwort zurücksetzen Link</value>
   </data>
   <data name="Accept" xml:space="preserve">
-    <value>Annahme</value>
+    <value>Akzeptieren</value>
   </data>
   <data name="Account" xml:space="preserve">
-    <value>Gesamt</value>
+    <value>Konto</value>
   </data>
   <data name="Action" xml:space="preserve">
     <value>Aktion</value>
   </data>
   <data name="Actions" xml:space="preserve">
-    <value>Maßnahmen</value>
+    <value>Aktionen</value>
   </data>
   <data name="Activate" xml:space="preserve">
     <value>Aktivieren</value>
   </data>
   <data name="Activate_Failed" xml:space="preserve">
-    <value>Nicht aktiviert Konto</value>
+    <value>Konto konnte nicht aktiviert werden</value>
   </data>
   <data name="Activate_Successfully" xml:space="preserve">
     <value>Konto erfolgreich aktiviert</value>
@@ -167,7 +167,7 @@
     <value>Benutzer hinzufügen</value>
   </data>
   <data name="Advanced" xml:space="preserve">
-    <value>Erweiterte</value>
+    <value>Erweitert</value>
   </data>
   <data name="All" xml:space="preserve">
     <value>Alle</value>
@@ -182,19 +182,19 @@
     <value>Aufsteigend</value>
   </data>
   <data name="Audit" xml:space="preserve">
-    <value>Prüfung</value>
+    <value>Protokoll</value>
   </data>
   <data name="Audit_Account_Registered" xml:space="preserve">
-    <value>Benutzerkonto</value>
+    <value>Benutzer hat Konto registriert</value>
   </data>
   <data name="Audit_ActivateUser" xml:space="preserve">
     <value>Aktivierter Benutzer</value>
   </data>
   <data name="Audit_BulkApproveReviews" xml:space="preserve">
-    <value>Bulk genehmigt alle anstehenden Bewertungen</value>
+    <value>Alle ausstehenden Einreichungen freigegeben</value>
   </data>
   <data name="Audit_BulkRejectReviews" xml:space="preserve">
-    <value>Bulk hat alle anhängigen Bewertungen abgelehnt</value>
+    <value>Alle ausstehenden Einreichungen abgelehnt</value>
   </data>
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Ein Besucher hat die Verwendung von Cookies genehmigt</value>
@@ -224,100 +224,100 @@
     <value>Exportiert ein Backup</value>
   </data>
   <data name="Audit_FailedLoginAttemptDetected" xml:space="preserve">
-    <value>Nicht erkannter Login-Test</value>
+    <value>Fehlgeschlagener Anmeldeversuch erkannt</value>
   </data>
   <data name="Audit_FailedLoginAttemptReset" xml:space="preserve">
-    <value>Fehlerhafte Anmeldeversuche Zählen Reset</value>
+    <value>Zähler fehlgeschlagener Anmeldeversuche zurückgesetzt</value>
   </data>
   <data name="Audit_Forgot_Password" xml:space="preserve">
-    <value>Benutzer bat um ein Passwort zurücksetzen</value>
+    <value>Benutzer hat Passwortzurücksetzung angefordert</value>
   </data>
   <data name="Audit_FrozeUser" xml:space="preserve">
-    <value>Froze Benutzer</value>
+    <value>Benutzer gesperrt</value>
   </data>
   <data name="Audit_ImportedBackup" xml:space="preserve">
     <value>Ein Backup importiert</value>
   </data>
   <data name="Audit_ItemApprovedInGallery" xml:space="preserve">
-    <value>in der galerie zugelassen</value>
+    <value>in der Galerie zugelassen</value>
   </data>
   <data name="Audit_ItemDeletedInGallery" xml:space="preserve">
-    <value>in der galerie gelöscht</value>
+    <value>in der Galerie gelöscht</value>
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
-    <value>in der galerie abgelehnt</value>
+    <value>in der Galerie abgelehnt</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
-    <value>Wie viele Protokolle zu zeigen</value>
+    <value>Anzahl der angezeigten Protokolleinträge</value>
   </data>
   <data name="Audit_Limit_Label" xml:space="preserve">
-    <value>Begrenzung</value>
+    <value>Limit</value>
   </data>
   <data name="Audit_List_Failed" xml:space="preserve">
-    <value>Versäumt, Auditliste zu erhalten</value>
+    <value>Protokoll konnte nicht geladen werden</value>
   </data>
   <data name="Audit_LoggedOut" xml:space="preserve">
-    <value>Ausgewählt</value>
+    <value>Abgemeldet</value>
   </data>
   <data name="Audit_Logs" xml:space="preserve">
-    <value>Prüfungsprotokolle</value>
+    <value>Protokolle</value>
   </data>
   <data name="Audit_MultiFactorAdded" xml:space="preserve">
-    <value>Multi-Faktor zu ihrem Konto hinzugefügt</value>
+    <value>Multi-Faktor zum Konto hinzugefügt</value>
   </data>
   <data name="Audit_MultiFactorPassed" xml:space="preserve">
-    <value>Bereitgestellt korrekter Multifaktor-Token</value>
+    <value>Korrekter Zwei-Faktor-Code eingegeben</value>
   </data>
   <data name="Audit_MultiFactorReset" xml:space="preserve">
-    <value>Zurücksetzen ihrer Multi-Faktor-Taste</value>
+    <value>Zwei-Faktor-Schlüssel zurückgesetzt</value>
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
-    <value>Multifaktor für den Anwender zurücksetzen</value>
+    <value>Zwei-Faktor für Benutzer zurückgesetzt</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
-    <value>Benutzer bat um ein Passwort zurücksetzen</value>
+    <value>Benutzer hat das Passwort zurückgesetzt</value>
   </data>
   <data name="Audit_RelinkedCustomResource" xml:space="preserve">
-    <value>Benutzerdefinierte Ressourcenbesitzer ändern</value>
+    <value>Ressourcenbesitzer hat gewechselt</value>
   </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
     <value>Galeriebesitzer ändern</value>
   </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
-    <value>Filterprotokolle basierend auf einem Suchbegriff</value>
+    <value>Filter die Protokolle über einen Suchbegriff</value>
   </data>
   <data name="Audit_SearchTerm_Label" xml:space="preserve">
-    <value>Suche Term</value>
+    <value>Suchbegriff</value>
   </data>
   <data name="Audit_Sent_Test_Notification" xml:space="preserve">
-    <value>Angabe der Prüfung</value>
+    <value>Testbenachrichtigung gesendet</value>
   </data>
   <data name="Audit_SettingsUpdated" xml:space="preserve">
-    <value>Aktualisierte Einstellung für die Galerie</value>
+    <value>Einstellung für Galerie aktualisiert</value>
   </data>
   <data name="Audit_Severity_Help" xml:space="preserve">
-    <value>Die minimale log-Ebene zu zeigen</value>
+    <value>Minimale Protokollebene zur Anzeige</value>
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
-    <value>Eingefrorener Benutzer</value>
+    <value>Benutzer entsperrt</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
-    <value>Aktualisierte Galerie</value>
+    <value>Galerie aktualisiert</value>
   </data>
   <data name="Audit_UpdatedUser" xml:space="preserve">
-    <value>Aktualisierter Benutzer</value>
+    <value>Benutzer aktualisiert</value>
   </data>
   <data name="Audit_UserLoggedIn" xml:space="preserve">
     <value>Benutzer angemeldet</value>
   </data>
   <data name="Audit_WipeAllGalleries" xml:space="preserve">
-    <value>Wiped alle Galerien</value>
+    <value>Alle Galerien geleert</value>
   </data>
   <data name="Audit_WipedGallery" xml:space="preserve">
-    <value>Bildergalerie</value>
+    <value>Galerie geleert</value>
   </data>
   <data name="Audit_WipeSystem" xml:space="preserve">
-    <value>Witwensystem</value>
+    <value>System zurückgesetzt</value>
   </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Automatische Erkennung</value>
@@ -338,10 +338,10 @@
     <value>Ihr Browser unterstützt diese Funktion nicht</value>
   </data>
   <data name="Bulk_Delete_Items" xml:space="preserve">
-    <value>Bulk Artikel löschen</value>
+    <value>Mehrere Elemente löschen</value>
   </data>
   <data name="Bulk_Delete_Items_Failed" xml:space="preserve">
-    <value>Nicht zu löschen Artikel</value>
+    <value>Elemente konnten nicht gelöscht werden</value>
   </data>
   <data name="Bulk_Delete_Items_Success" xml:space="preserve">
     <value>Erfolgreich gelöschte Artikel</value>
@@ -350,10 +350,10 @@
     <value>Bulk Review</value>
   </data>
   <data name="Bulk_Review_Approve_Failed" xml:space="preserve">
-    <value>Nichtigerklärung aller Artikel</value>
+    <value>Freigabe aller Elemente fehlgeschlagen</value>
   </data>
   <data name="Bulk_Review_Approve_Failed_MultiSelect" xml:space="preserve">
-    <value>Nicht zu genehmigen die ausgewählten Elemente</value>
+    <value>Freigabe der ausgewählten Elemente fehlgeschlagen</value>
   </data>
   <data name="Bulk_Review_Message" xml:space="preserve">
     <value>Möchten Sie alle anhängigen Artikel billigen oder ablehnen?</value>
@@ -362,10 +362,10 @@
     <value>Möchten Sie die ausgewählten anhängigen Artikel genehmigen oder ablehnen?</value>
   </data>
   <data name="Bulk_Review_Reject_Failed" xml:space="preserve">
-    <value>Nichtigerklärung aller Artikel</value>
+    <value>Ablehnung aller Elemente fehlgeschlagen</value>
   </data>
   <data name="Bulk_Review_Reject_Failed_MultiSelect" xml:space="preserve">
-    <value>Zurückweisung der ausgewählten Gegenstände</value>
+    <value>Ablehnung der ausgewählten Elemente fehlgeschlagen</value>
   </data>
   <data name="Camera" xml:space="preserve">
     <value>Kamera</value>
@@ -401,10 +401,10 @@
     <value>Passwort ändern</value>
   </data>
   <data name="Change_Theme" xml:space="preserve">
-    <value>Veränderung Thema</value>
+    <value>Design ändern</value>
   </data>
   <data name="Check_Account_State_Failed" xml:space="preserve">
-    <value>Nicht zu überprüfen Konto Zustand</value>
+    <value>Kontostatus konnte nicht geprüft werden</value>
   </data>
   <data name="Clean" xml:space="preserve">
     <value>Leeren</value>
@@ -422,13 +422,13 @@
     <value>Code</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
-    <value>Gemeinsame Einstellungen</value>
+    <value>Allgemeine Einstellungen</value>
   </data>
   <data name="Contact_Admin_For_Access" xml:space="preserve">
     <value>Bitte kontaktieren Sie einen Website-Administrator, um Zugang zu erhalten</value>
   </data>
   <data name="Cookie_Audit_Error" xml:space="preserve">
-    <value>Nicht eingeloggt, um eine Audit-Nachricht für die Cookie-Zulassung zu protokollieren</value>
+    <value>Cookie-Zustimmung konnte nicht protokolliert werden</value>
   </data>
   <data name="CookiePolicy_Button_Text" xml:space="preserve">
     <value>Cookie-Richtlinie</value>
@@ -440,7 +440,7 @@
     <value>Erstellen</value>
   </data>
   <data name="Critical" xml:space="preserve">
-    <value>Kritische</value>
+    <value>Kritisch</value>
   </data>
   <data name="Culture" xml:space="preserve">
     <value>Kultur</value>
@@ -452,25 +452,25 @@
     <value>Sie haben derzeit keinen Zugang</value>
   </data>
   <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Benutzerdefinierte Ressource Kann nicht leer sein</value>
+    <value>Die ID der benutzerdefinierten Ressource darf nicht leer sein</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
-    <value>Relink benutzerdefinierte Ressourcen</value>
+    <value>Benutzerdefinierte Ressource neu verknüpfen</value>
   </data>
   <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
-    <value>Versäumt, benutzerdefinierte Ressource neu zu verlinken</value>
+    <value>Benutzerdefinierte Ressource konnte nicht neu verknüpft werden</value>
   </data>
   <data name="Custom_Resource_Relink_Success" xml:space="preserve">
-    <value>Erfolgreich überarbeitete benutzerdefinierte Ressource</value>
+    <value>Benutzerdefinierte Ressource erfolgreich neu verknüpft</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
-    <value>Personal</value>
+    <value>Benutzerdefinierte Ressourcen</value>
   </data>
   <data name="Custom_Resources_Failed" xml:space="preserve">
-    <value>Versäumt, benutzerdefinierte Ressourcen zu erhalten</value>
+    <value>Benutzerdefinierte Ressourcen konnten nicht geladen werden</value>
   </data>
   <data name="Custom_Resources_Upload_Help" xml:space="preserve">
-    <value>Bitte wählen Sie eine Bilddatei hochladen</value>
+    <value>Bitte wähle eine Bilddatei zum Hochladen aus</value>
   </data>
   <data name="Custom_Resources_Upload_Label" xml:space="preserve">
     <value>Benutzerdefinierte Ressourcen hochladen</value>
@@ -479,10 +479,10 @@
     <value>Zoll Thema</value>
   </data>
   <data name="CustomResource_Delete_Failed" xml:space="preserve">
-    <value>Nicht zu löschen benutzerdefinierte Ressource</value>
+    <value>Benutzerdefinierte Ressource konnte nicht gelöscht werden</value>
   </data>
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
-    <value>Nicht verfügbar, um benutzerdefinierte Ressource hochzuladen</value>
+    <value>Benutzerdefinierte Ressource konnte nicht hochgeladen werden</value>
   </data>
   <data name="Danger_Color_Help" xml:space="preserve">
     <value>Die Gefahrenfarbe</value>
@@ -527,19 +527,19 @@
     <value>Bist du dir sicher, dass du diese Galerie löschen möchtest?</value>
   </data>
   <data name="Delete_Item" xml:space="preserve">
-    <value>Artikel entfernen</value>
+    <value>Element löschen</value>
   </data>
   <data name="Delete_Item_Failed" xml:space="preserve">
-    <value>Nicht zu löschen Artikel</value>
+    <value>Element konnte nicht gelöscht werden</value>
   </data>
   <data name="Delete_Item_Id_Missing" xml:space="preserve">
     <value>Kann nicht leer sein</value>
   </data>
   <data name="Delete_Item_Success" xml:space="preserve">
-    <value>Erfolgreich gelöschter Artikel</value>
+    <value>Element erfolgreich gelöscht</value>
   </data>
   <data name="Demo_Message" xml:space="preserve">
-    <value>Das ist eine Demoversion. Alle Konfigurationen werden periodisch gelöscht, um einen sauberen Schiefer für zukünftige Tester zu gewährleisten.</value>
+    <value>Dies ist eine Demoversion. Alle Konfigurationen werden regelmäßig zurückgesetzt, um einen sauberen Ausgangszustand für künftige Tester sicherzustellen.</value>
   </data>
   <data name="Descending" xml:space="preserve">
     <value>Absteigend</value>
@@ -557,7 +557,7 @@
     <value>Details</value>
   </data>
   <data name="Disabled" xml:space="preserve">
-    <value>Behinderte</value>
+    <value>Deaktiviert</value>
   </data>
   <data name="Disabled_Color_Help" xml:space="preserve">
     <value>Die Behindertenfarbe</value>
@@ -566,10 +566,10 @@
     <value>Behinderte</value>
   </data>
   <data name="Download" xml:space="preserve">
-    <value>Downloads</value>
+    <value>Herunterladen</value>
   </data>
   <data name="Download_Failed" xml:space="preserve">
-    <value>Zurück zur Galerie</value>
+    <value>Galerie konnte nicht heruntergeladen werden</value>
   </data>
   <data name="Download_Gallery_Not_Allowed" xml:space="preserve">
     <value>Du verfügst nicht über die erforderlichen Berechtigungen, um diese Galerie herunterzuladen</value>
@@ -578,19 +578,19 @@
     <value>Downloads</value>
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
-    <value>Drag &amp; Drop Datei(en) hier, um sie in der Galerie hochzuladen</value>
+    <value>Ziehen Sie Datei(en) per Drag &amp; Drop hier her, um sie in der Galerie hochzuladen</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
-    <value>Duplikate Datei erkannt</value>
+    <value>Duplizierte Datei erkannt</value>
   </data>
   <data name="Email" xml:space="preserve">
-    <value>E-Mail senden</value>
+    <value>E-Mail</value>
   </data>
   <data name="EmailAddress" xml:space="preserve">
-    <value>Email Adresse</value>
+    <value>E-Mail-Adresse</value>
   </data>
   <data name="Enabled" xml:space="preserve">
-    <value>Ermöglicht</value>
+    <value>Aktiviert</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Fehler</value>
@@ -608,16 +608,16 @@
     <value>Exportieren</value>
   </data>
   <data name="Export_Data" xml:space="preserve">
-    <value>Ausfuhrdaten</value>
+    <value>Daten exportieren</value>
   </data>
   <data name="Export_Data_Failed" xml:space="preserve">
-    <value>Nicht exportieren von Daten</value>
+    <value>Daten konnten nicht exportiert werden</value>
   </data>
   <data name="Export_Data_Message" xml:space="preserve">
     <value>Bist du sicher, dass du weitermachen willst?</value>
   </data>
   <data name="Export_Data_Success" xml:space="preserve">
-    <value>Erfolgreich exportierte Daten</value>
+    <value>Daten wurden erfolgreich exportiert</value>
   </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Fehler beim Erstellen der Galerie</value>
@@ -632,58 +632,58 @@
     <value>Fehler beim Löschen des Benutzers</value>
   </data>
   <data name="Failed_Download_Gallery" xml:space="preserve">
-    <value>Fehler beim herunterladen der Galerie</value>
+    <value>Fehler beim Herunterladen der Galerie</value>
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
-    <value>Versäumt, Galerie herunterzuladen. Der geheime Schlüssel war ungültig</value>
+    <value>Galerie konnte nicht heruntergeladen werden. Der Zugangscode war ungültig.</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
-    <value>Fehler beim aktualisieren der Galerie</value>
+    <value>Fehler beim Aktualisieren der Galerie</value>
   </data>
   <data name="Failed_Edit_User" xml:space="preserve">
-    <value>Fehler beim aktualisieren des Benutzers</value>
+    <value>Fehler beim Aktualisieren des Benutzers</value>
   </data>
   <data name="Failed_Export" xml:space="preserve">
-    <value>Fehler beim exportieren der Daten</value>
+    <value>Fehler beim Exportieren der Daten</value>
   </data>
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>Konnte die Datei nicht finden</value>
   </data>
   <data name="Failed_Import" xml:space="preserve">
-    <value>Fehler beim importieren der Daten</value>
+    <value>Fehler beim Importieren der Daten</value>
   </data>
   <data name="Failed_Reviewing_Media" xml:space="preserve">
-    <value>Fehler beim überprüfen des Elements</value>
+    <value>Fehler beim Überprüfen des Elements</value>
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
-    <value>Nicht versendete Prüfmeldung</value>
+    <value>Benachrichtigung konnte nicht gesendet werden</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Fehler bei der Aktualisierung von Einstellungen</value>
   </data>
   <data name="Failed_Wipe_Galleries" xml:space="preserve">
-    <value>Fehler beim löschen aller Galerien</value>
+    <value>Fehler beim Löschen aller Galerien</value>
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
-    <value>Fehler beim löschen der Galerie</value>
+    <value>Fehler beim Löschen der Galerie</value>
   </data>
   <data name="Failed_Wipe_System" xml:space="preserve">
-    <value>Versäumt, System zu löschen</value>
+    <value>System konnte nicht zurückgesetzt werden</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
     <value>Diese Funktion ist noch in der Entwicklung, sollte aber bald verfügbar sein</value>
   </data>
   <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
-    <value>Diese Funktion ist nicht im Demo-Modus verfügbar</value>
+    <value>Diese Funktion ist im Demo-Modus nicht verfügbar</value>
   </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
-    <value>Fehler beim herunterladen der FFMPEG zu dem Pfad</value>
+    <value>Fehler beim Herunterladen von FFMPEG</value>
   </data>
   <data name="FFMPEG_Downloading" xml:space="preserve">
     <value>Versuchte ein Video-Thumbnail zu erstellen, aber FFMPEG wurde noch nicht herunterladen. Falls dies eine frische Installation ist, warte bitte bis der Download fertig ist, die Thumbnails werden im Hintergrund erstellt.</value>
   </data>
   <data name="File_Upload_Failed" xml:space="preserve">
-    <value>Fehler beim hochladen der Datei</value>
+    <value>Fehler beim Hochladen der Datei</value>
   </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>Eine Datei mit dem gleichen Namen existiert bereits</value>
@@ -701,28 +701,28 @@
     <value>Bitte geben Sie die Konto-E-Mail-Adresse ein.</value>
   </data>
   <data name="ForgotPassword_Email_Label" xml:space="preserve">
-    <value>Email Adresse</value>
+    <value>E-Mail Adresse</value>
   </data>
   <data name="ForgotPassword_Failed" xml:space="preserve">
-    <value>Nicht zu senden Passwort zurücksetzen E-Mail</value>
+    <value>E-Mail zum Zurücksetzen des Passworts konnte nicht gesendet werden</value>
   </data>
   <data name="ForgotPassword_Sent" xml:space="preserve">
     <value>Passwort-Reset-Link gesendet. Bitte überprüfen Sie Ihre E-Mail</value>
   </data>
   <data name="Freeze" xml:space="preserve">
-    <value>Einfrieren</value>
+    <value>Sperren</value>
   </data>
   <data name="Freeze_Failed" xml:space="preserve">
-    <value>Versäumt, Konto einzufrieren</value>
+    <value>Konto konnte nicht gesperrt werden</value>
   </data>
   <data name="Freeze_Successfully" xml:space="preserve">
-    <value>Erfolgreich eingefroren</value>
+    <value>Konto erfolgreich gesperrt</value>
   </data>
   <data name="Freeze_User" xml:space="preserve">
-    <value>Benutzer kostenlos</value>
+    <value>Benutzer sperren</value>
   </data>
   <data name="Freeze_User_Message" xml:space="preserve">
-    <value>Sind Sie sicher, dass Sie Konto einfrieren möchten</value>
+    <value>Sind Sie sicher, dass Sie das Konto sperren möchten</value>
   </data>
   <data name="Full_Sponsors_List_Link_Message" xml:space="preserve">
     <value>Klicken Sie hier, um die vollständige Liste der Sponsoren und Sterne anzuzeigen</value>
@@ -734,34 +734,34 @@
     <value>Galerie</value>
   </data>
   <data name="Gallery_Create" xml:space="preserve">
-    <value>Die Galerie</value>
+    <value>Galerie erstellen</value>
   </data>
   <data name="Gallery_Create_Failed" xml:space="preserve">
-    <value>Versäumt, Galerie zu erstellen</value>
+    <value>Galerie konnte nicht erstellt werden</value>
   </data>
   <data name="Gallery_Create_Success" xml:space="preserve">
-    <value>Erfolgreich gestaltete Galerie</value>
+    <value>Galerie erfolgreich erstellt</value>
   </data>
   <data name="Gallery_Delete" xml:space="preserve">
-    <value>Löschen</value>
+    <value>Galerie löschen</value>
   </data>
   <data name="Gallery_Delete_Failed" xml:space="preserve">
-    <value>Versäumt, Galerie zu löschen</value>
+    <value>Galerie konnte nicht gelöscht werden</value>
   </data>
   <data name="Gallery_Delete_Success" xml:space="preserve">
-    <value>Erfolgreich gelöschte Galerie</value>
+    <value>Galerie erfolgreich gelöscht</value>
   </data>
   <data name="Gallery_Does_Not_Exist" xml:space="preserve">
     <value>Die angeforderte Galerie wurde nicht gefunden oder existiert nicht</value>
   </data>
   <data name="Gallery_Edit" xml:space="preserve">
-    <value>Seite nicht gefunden</value>
+    <value>Galerie bearbeiten</value>
   </data>
   <data name="Gallery_Edit_Failed" xml:space="preserve">
-    <value>Versäumt, die Galerie zu aktualisieren</value>
+    <value>Galerie konnte nicht aktualisiert werden</value>
   </data>
   <data name="Gallery_Edit_Success" xml:space="preserve">
-    <value>Erfolgreich aktualisierte Galerie</value>
+    <value>Galerie erfolgreich aktualisiert</value>
   </data>
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Derzeit gibt es keine geteilten Erinnerungen</value>
@@ -773,7 +773,7 @@
     <value>Galerie ist voll und hat die maximale Größe überschritten</value>
   </data>
   <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Galerie Identifier</value>
+    <value>Galerie-Kennung</value>
   </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Bitte geben Sie die Kennung der Galerie ein, die Sie besuchen möchten.</value>
@@ -782,7 +782,7 @@
     <value>my-gallery-name</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
-    <value>Invalider Galeriename oder geheimer Schlüssel, bitte versuchen Sie es erneut</value>
+    <value>Ungültiger Galeriename oder Zugangscode. Bitte erneut versuchen.</value>
   </data>
   <data name="Gallery_Invalid_Name" xml:space="preserve">
     <value>Bitte geben Sie einen gültigen Galerienamen an</value>
@@ -791,7 +791,7 @@
     <value>Ungültiger geheimer Schlüssel, bitte versuchen Sie es wieder</value>
   </data>
   <data name="Gallery_Key" xml:space="preserve">
-    <value>Gallerieschlüssel</value>
+    <value>Zugangscode</value>
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>Bitte gib den geheimen Schlüssel ein.</value>
@@ -803,7 +803,7 @@
     <value>Die maximal zulässige Anzahl von Galerien wurde erreicht</value>
   </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
-    <value>Fehler beim laden der Gallerieliste</value>
+    <value>Fehler beim laden der Galerieliste</value>
   </data>
   <data name="Gallery_Login" xml:space="preserve">
     <value>Einloggen der Galerie</value>
@@ -812,7 +812,7 @@
     <value>Das ist eine geschützte Galerie. Bitte geben Sie den geheimen Schlüssel ein, um seinen Inhalt anzuzeigen.</value>
   </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galerie Kann nicht leer sein</value>
+    <value>Galerie-Kennung kann nicht leer sein</value>
   </data>
   <data name="Gallery_Missing_Name" xml:space="preserve">
     <value>Galeriename kann nicht leer sein</value>
@@ -827,13 +827,13 @@
     <value>Bitte geben Sie einen neuen Galerienamen ein</value>
   </data>
   <data name="Gallery_Relink" xml:space="preserve">
-    <value>Relink Galerie</value>
+    <value>Galerie neu verknüpfen</value>
   </data>
   <data name="Gallery_Relink_Failed" xml:space="preserve">
-    <value>Zurück zur Galerie</value>
+    <value>Galerie konnte nicht neu verknüpft werden</value>
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
-    <value>Erfolgreich verlinkte Galerie</value>
+    <value>Galerie erfolgreich neu verknüpft</value>
   </data>
   <data name="Gallery_Secret_Key" xml:space="preserve">
     <value>Geheimer Schlüssel</value>
@@ -842,40 +842,40 @@
     <value>Bitte geben Sie einen neuen geheimen Schlüssel ein</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
-    <value>Ausgewählte Galerie</value>
+    <value>Galerie-Auswahl</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
-    <value>Ausgewählte Galerie</value>
+    <value>Galerie-Auswahl</value>
   </data>
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Galerie-Einstellungen</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
-    <value>Witwen-Galerie</value>
+    <value>Galerie leeren</value>
   </data>
   <data name="Gallery_Wipe_Failed" xml:space="preserve">
-    <value>Versäumt, Galerie zu löschen</value>
+    <value>Galerie konnte nicht geleert werden</value>
   </data>
   <data name="Gallery_Wipe_Message" xml:space="preserve">
     <value>Sind Sie sicher, dass Sie die Galerie löschen wollen?</value>
   </data>
   <data name="Gallery_Wipe_Success" xml:space="preserve">
-    <value>Erfolgreich gelöschte Galerie</value>
+    <value>Galerie erfolgreich geleert</value>
   </data>
   <data name="GDPR" xml:space="preserve">
     <value>DSGVO</value>
   </data>
   <data name="General" xml:space="preserve">
-    <value>Allgemeines</value>
+    <value>Allgemein</value>
   </data>
   <data name="Generate" xml:space="preserve">
     <value>Generieren</value>
   </data>
   <data name="Generating_Download" xml:space="preserve">
-    <value>Generierung von Downloads</value>
+    <value>Download wird vorbereitet</value>
   </data>
   <data name="Gotify" xml:space="preserve">
-    <value>Erwischt</value>
+    <value>Gotify</value>
   </data>
   <data name="Green" xml:space="preserve">
     <value>Grün</value>
@@ -893,31 +893,31 @@
     <value>Hover</value>
   </data>
   <data name="Identity_Check" xml:space="preserve">
-    <value>Identitätsprüfung</value>
+    <value>Gastname</value>
   </data>
   <data name="Identity_Check_Change" xml:space="preserve">
-    <value>Veränderung</value>
+    <value>Ändern</value>
   </data>
   <data name="Identity_Check_Change_Identity" xml:space="preserve">
-    <value>Identität ändern</value>
+    <value>Gastnamen ändern</value>
   </data>
   <data name="Identity_Check_Email" xml:space="preserve">
     <value>Email Adresse</value>
   </data>
   <data name="Identity_Check_Email_Hint" xml:space="preserve">
-    <value>Sagen Sie uns Ihre E-Mail, damit wir Sie erreichen können.</value>
+    <value>Teile uns deine E-Mail-Adresse mit, damit wir dich kontaktieren können.</value>
   </data>
   <data name="Identity_Check_Email_Placeholder" xml:space="preserve">
     <value>E.g., john.doe@mail.com</value>
   </data>
   <data name="Identity_Check_Invalid_Email" xml:space="preserve">
-    <value>Invalid Email</value>
+    <value>Ungültige E-Mail-Adresse</value>
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Bitte geben Sie eine gültige E-Mail an</value>
   </data>
   <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Invalide Bezeichnung</value>
+    <value>Ungültiger Name</value>
   </data>
   <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
     <value>Bitte geben Sie einen gültigen Namen an</value>
@@ -926,19 +926,19 @@
     <value>Name</value>
   </data>
   <data name="Identity_Check_Name_Hint" xml:space="preserve">
-    <value>Sagen Sie uns, wer Sie sind, damit wir wissen, wer Erinnerungen hochgeladen hat.</value>
+    <value>Sag uns, wer du bist, damit wir wissen, von wem die Erinnerungen stammen.</value>
   </data>
   <data name="Identity_Check_Name_Placeholder" xml:space="preserve">
-    <value>Z.B. Jane Doe, Jimmy, Onkel Bob</value>
+    <value>Z.B. Max Mustermann, Maxi, Onkel Bob</value>
   </data>
   <data name="Identity_Check_Set_Failed" xml:space="preserve">
-    <value>Versäumt, die Benutzeridentität festzulegen</value>
+    <value>Gastname konnte nicht gespeichert werden</value>
   </data>
   <data name="Identity_Check_Stay_Anonymous" xml:space="preserve">
-    <value>Anonym bleiben</value>
+    <value>Sag es uns nicht</value>
   </data>
   <data name="Identity_Check_Tell_Us" xml:space="preserve">
-    <value>Sag uns</value>
+    <value>Sag es uns</value>
   </data>
   <data name="Identity_Session_Error" xml:space="preserve">
     <value>Fehler beim setzen der Benutzeridentität - Name</value>
@@ -953,7 +953,7 @@
     <value>Import</value>
   </data>
   <data name="Import_Data" xml:space="preserve">
-    <value>Daten für die Einfuhr</value>
+    <value>Daten importieren</value>
   </data>
   <data name="Import_Data_Backup_File" xml:space="preserve">
     <value>Backup-Datei</value>
@@ -962,7 +962,7 @@
     <value>Bitte wählen Sie ein Backup-Archiv</value>
   </data>
   <data name="Import_Data_Failed" xml:space="preserve">
-    <value>Nicht eingeführte Daten</value>
+    <value>Daten konnten nicht importiert werden</value>
   </data>
   <data name="Import_Data_Select_File" xml:space="preserve">
     <value>Bitte wählen Sie eine Importdatei</value>
@@ -1007,22 +1007,22 @@
     <value>Layout</value>
   </data>
   <data name="Light" xml:space="preserve">
-    <value>Licht</value>
+    <value>Hell</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Link</value>
   </data>
   <data name="Loading" xml:space="preserve">
-    <value>Die...</value>
+    <value>Laden...</value>
   </data>
   <data name="Login" xml:space="preserve">
     <value>Anmelden</value>
   </data>
   <data name="Login_Failed" xml:space="preserve">
-    <value>Fehler beim einloggen des Benutzers</value>
+    <value>Fehler beim Einloggen des Benutzers</value>
   </data>
   <data name="Login_Invalid_Details" xml:space="preserve">
-    <value>Invalider Benutzername oder Passwort angegeben</value>
+    <value>Ungültiger Benutzername oder Passwort angegeben</value>
   </data>
   <data name="Login_Invalid_Password" xml:space="preserve">
     <value>Bitte geben Sie ein gültiges Passwort ein</value>
@@ -1049,16 +1049,16 @@
     <value>Bitte überprüfen Sie Ihre E-Mail, um Ihr Konto zu aktivieren</value>
   </data>
   <data name="Logout" xml:space="preserve">
-    <value>Abmeldung</value>
+    <value>Abmelden</value>
   </data>
   <data name="Manage_Data" xml:space="preserve">
     <value>Daten verwalten</value>
   </data>
   <data name="Max_File_Size" xml:space="preserve">
-    <value>Max-Dateigröße ist</value>
+    <value>Maximale Dateigröße ist</value>
   </data>
   <data name="MediaType" xml:space="preserve">
-    <value>Medien Typ</value>
+    <value>Medientyp</value>
   </data>
   <data name="Members" xml:space="preserve">
     <value>Mitglieder</value>
@@ -1091,7 +1091,7 @@
     <value>Neue Elemente warten auf eine Genehmigung</value>
   </data>
   <data name="Next" xml:space="preserve">
-    <value>Nächste</value>
+    <value>Weiter</value>
   </data>
   <data name="No_Custom_Resources" xml:space="preserve">
     <value>Keine benutzerdefinierten Ressourcen hochgeladen</value>
@@ -1115,13 +1115,13 @@
     <value>Keine</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
-    <value>Prüfung der Anmeldung</value>
+    <value>Benachrichtigungstest</value>
   </data>
   <data name="Notifications" xml:space="preserve">
-    <value>Mitteilungen</value>
+    <value>Benachrichtigungen</value>
   </data>
   <data name="Ntfy" xml:space="preserve">
-    <value>Ntf</value>
+    <value>Ntfy</value>
   </data>
   <data name="Open" xml:space="preserve">
     <value>Öffnen</value>
@@ -1130,7 +1130,7 @@
     <value>Oder</value>
   </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
-    <value>Ihr Passwort wurde nun zurückgesetzt. Wenn Sie kein Passwort-Reset anfordern, müssen Sie sofort an einen Administrator gelangen.</value>
+    <value>Dein Passwort wurde zurückgesetzt. Falls du keinen Passwort-Reset angefordert hast, wende dich sofort an einen Administrator.</value>
   </data>
   <data name="Password_Reset_Changed_Title" xml:space="preserve">
     <value>Ihr Passwort wurde aktualisiert!</value>
@@ -1142,7 +1142,7 @@
     <value>Probleme beim Zugriff auf Ihr Konto?</value>
   </data>
   <data name="Password_Validation_Confirm" xml:space="preserve">
-    <value>Bestätigen Sie die Passwörter</value>
+    <value>Passwörter stimmen überein</value>
   </data>
   <data name="Password_Validation_Length" xml:space="preserve">
     <value>Mindestens 8 Zeichen</value>
@@ -1151,7 +1151,7 @@
     <value>Kleinbuchstaben</value>
   </data>
   <data name="Password_Validation_Numbers" xml:space="preserve">
-    <value>Anzahl</value>
+    <value>Zahlen</value>
   </data>
   <data name="Password_Validation_Special" xml:space="preserve">
     <value>Sonderzeichen</value>
@@ -1160,10 +1160,10 @@
     <value>Großbuchstaben</value>
   </data>
   <data name="PasswordReset" xml:space="preserve">
-    <value>Passwort vergessen</value>
+    <value>Passwort zurücksetzen</value>
   </data>
   <data name="PasswordReset_Failed" xml:space="preserve">
-    <value>Nicht zu senden Passwort zurücksetzen E-Mail.</value>
+    <value>Passwort konnte nicht zurückgesetzt werden</value>
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
     <value>Ihr Passwort wurde erfolgreich zurückgesetzt</value>
@@ -1226,7 +1226,7 @@
     <value>Register</value>
   </data>
   <data name="Register_Account" xml:space="preserve">
-    <value>Registrieren Konto</value>
+    <value>Konto registrieren</value>
   </data>
   <data name="Register_CPassword_Help" xml:space="preserve">
     <value>Bestätigen Sie Ihr Passwort</value>
@@ -1250,13 +1250,13 @@
     <value>Bitte geben Sie Ihren Nachnamen ein.</value>
   </data>
   <data name="Register_Lastname_Label" xml:space="preserve">
-    <value>Vorname</value>
+    <value>Nachname</value>
   </data>
   <data name="Register_Password_Help" xml:space="preserve">
-    <value>Passwort geben Sie ein Passwort ein.</value>
+    <value>Bitte wähle ein Passwort.</value>
   </data>
   <data name="Register_Password_Label" xml:space="preserve">
-    <value>Passwort vergessen</value>
+    <value>Passwort</value>
   </data>
   <data name="Register_Username_Help" xml:space="preserve">
     <value>Bitte geben Sie den Benutzernamen des Kontos ein.</value>
@@ -1265,25 +1265,25 @@
     <value>Benutzername</value>
   </data>
   <data name="Registration" xml:space="preserve">
-    <value>Anmeldung</value>
+    <value>Registrierung</value>
   </data>
   <data name="Registration_Confirm_Password_Missmatch" xml:space="preserve">
-    <value>Bestätigungskennwort passt nicht</value>
+    <value>Das Bestätigungspasswort stimmt nicht überein</value>
   </data>
   <data name="Registration_Email_Send_Failed" xml:space="preserve">
-    <value>Versäumt, Registrierungs-E-Mail an den Benutzer zu senden.</value>
+    <value>Registrierungs-E-Mail konnte nicht gesendet werden</value>
   </data>
   <data name="Registration_Email_Taken" xml:space="preserve">
     <value>Ein Konto mit der angegebenen E-Mail-Adresse existiert bereits</value>
   </data>
   <data name="Registration_Failed" xml:space="preserve">
-    <value>Nicht angemeldet</value>
+    <value>Registrierung fehlgeschlagen</value>
   </data>
   <data name="Registration_Invalid_CPassword" xml:space="preserve">
     <value>Bestätigungskennwort entspricht nicht dem Passwort</value>
   </data>
   <data name="Registration_Invalid_Email" xml:space="preserve">
-    <value>Bitte geben Sie eine gültige E-Mail Adresse an</value>
+    <value>Bitte geben Sie eine gültige E-Mail-Adresse an</value>
   </data>
   <data name="Registration_Invalid_Firstname" xml:space="preserve">
     <value>Bitte geben Sie einen gültigen Vornamen zwischen 1 und 50 Zeichen an</value>
@@ -1292,43 +1292,43 @@
     <value>Bitte geben Sie einen gültigen Nachnamen zwischen 1 und 50 Zeichen an</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
-    <value>Bitte geben Sie ein gültiges Passwort zwischen 8 und 100 Zeichen an, das mindestens 1 Oberbuchstabe, 1 Unterbuchstabe, 1 Nummer und 1 Sonderzeichen enthält</value>
+    <value>Bitte gib ein gültiges Passwort mit 8 bis 100 Zeichen ein, das mindestens 1 Großbuchstaben, 1 Kleinbuchstaben, 1 Zahl und 1 Sonderzeichen enthält</value>
   </data>
   <data name="Registration_Invalid_Username" xml:space="preserve">
     <value>Bitte geben Sie einen gültigen Benutzernamen zwischen 5 und 50 Zeichen an</value>
   </data>
   <data name="Registration_Invalid_Verification_Link" xml:space="preserve">
-    <value>Es gab eine Ausgabe, die den E-Mail-Verifikationslink bearbeitete</value>
+    <value>Fehler beim Verarbeiten des E-Mail-Verifizierungslinks</value>
   </data>
   <data name="Registration_Success" xml:space="preserve">
-    <value>Erfolgreich erstelltes Konto</value>
+    <value>Konto erfolgreich erstellt</value>
   </data>
   <data name="Registration_Success_Message" xml:space="preserve">
-    <value>Ihr Konto wurde erfolgreich registriert und wartet auf Sie zuzugreifen</value>
+    <value>Dein Konto wurde erfolgreich registriert und wartet auf deinen ersten Login.</value>
   </data>
   <data name="Registration_Success_Title" xml:space="preserve">
     <value>Willkommen!</value>
   </data>
   <data name="Registration_Success_Validation" xml:space="preserve">
-    <value>Ihr Konto wurde erstellt, aber Ihre E-Mail-Adresse muss validieren, bevor Sie sich anmelden können</value>
+    <value>Dein Konto wurde erstellt, aber deine E-Mail-Adresse muss zuerst bestätigt werden, bevor du dich anmelden kannst.</value>
   </data>
   <data name="Registration_Success_Verification" xml:space="preserve">
-    <value>Ihr Konto wurde registriert, muss aber überprüft werden, bevor es aufgerufen werden kann. Bitte aktivieren Sie Ihr Konto, indem Sie auf den untenstehenden Link klicken.</value>
+    <value>Dein Konto wurde registriert, muss aber zuerst verifiziert werden. Bitte aktiviere dein Konto über den Link unten.</value>
   </data>
   <data name="Registration_Username_Taken" xml:space="preserve">
-    <value>Benutzername existiert bereits. Bitte wählen Sie eine neue</value>
+    <value>Dieser Benutzername ist bereits vergeben. Bitte wähle einen anderen.</value>
   </data>
   <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>Das angegebene Passwort wird leicht erraten. Bitte wählen Sie ein sichereres Passwort aus.</value>
+    <value>Das angegebene Passwort wird leicht erraten. Bitte wählen Sie ein sicheres Passwort aus.</value>
   </data>
   <data name="Reject" xml:space="preserve">
     <value>Ablehnen</value>
   </data>
   <data name="Release_Version" xml:space="preserve">
-    <value>Veröffentlichung</value>
+    <value>Version</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Der neue Besitzer Benutzername</value>
+    <value>Benutzername des neuen Besitzers</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Entfernen</value>
@@ -1343,10 +1343,10 @@
     <value>Hintergrundaufgabe erfolgreich gestartet</value>
   </data>
   <data name="Reset" xml:space="preserve">
-    <value>Zurück zur Übersicht</value>
+    <value>Zurücksetzen</value>
   </data>
   <data name="ResetPassword_Invalid_Reset_Link" xml:space="preserve">
-    <value>Es gab eine Ausgabe, die den Passwort-Reset-Link verarbeitete</value>
+    <value>Fehler beim Verarbeiten des Passwort-Zurücksetzungslinks</value>
   </data>
   <data name="Resources" xml:space="preserve">
     <value>Ressourcen</value>
@@ -1358,13 +1358,13 @@
     <value>Überprüfen</value>
   </data>
   <data name="Review_Failed" xml:space="preserve">
-    <value>Nicht zu überprüfen Artikel</value>
+    <value>Element konnte nicht überprüft werden</value>
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
-    <value>Artikel nicht finden Id</value>
+    <value>Element-ID nicht gefunden</value>
   </data>
   <data name="Reviews" xml:space="preserve">
-    <value>Bewertungen</value>
+    <value>Freigaben</value>
   </data>
   <data name="Run" xml:space="preserve">
     <value>Laufen</value>
@@ -1373,19 +1373,19 @@
     <value>QR-Code speichern</value>
   </data>
   <data name="Save_To_Custom_Resources_Failed" xml:space="preserve">
-    <value>Versäumt, benutzerdefinierte Ressource zu speichern</value>
+    <value>Benutzerdefinierte Ressource konnte nicht gespeichert werden</value>
   </data>
   <data name="Save_To_Gallery_Failed" xml:space="preserve">
-    <value>Fehler beim speichern des Bildes zur Galerie</value>
+    <value>Fehler beim Speichern des Bildes zur Galerie</value>
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
-    <value>Scanne den QR-Code mit deinem Smartphone, um deine Bilder zu teilen</value>
+    <value>Scanne den QR-Code mit deinem Smartphone, um Bilder zu teilen</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
-    <value>Filter basierend auf einem Suchbegriff</value>
+    <value>Filter die Einträge über einen Suchbegriff</value>
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
-    <value>Suche Term</value>
+    <value>Suchbegriff</value>
   </data>
   <data name="Secondary_One_Color_Help" xml:space="preserve">
     <value>Die erste Sekundärfarbe</value>
@@ -1412,85 +1412,85 @@
     <value>Einstellungen</value>
   </data>
   <data name="Settings_Account" xml:space="preserve">
-    <value>Gesamt</value>
+    <value>Konto</value>
   </data>
   <data name="Settings_Account_Lockout_Attempts_Help" xml:space="preserve">
-    <value>Wie viele fehlgeschlagene Anmeldungen vor einem Benutzer blockiert</value>
+    <value>Anzahl der fehlgeschlagenen Anmeldungen, bevor ein Konto gesperrt wird</value>
   </data>
   <data name="Settings_Account_Lockout_Attempts_Label" xml:space="preserve">
-    <value>Verriegelungsversuche</value>
+    <value>Anzahl Versuche</value>
   </data>
   <data name="Settings_Account_Lockout_Mins_Help" xml:space="preserve">
-    <value>Wie lange sollte ein Benutzer blockiert werden</value>
+    <value>Wie lange soll ein Benutzer blockiert werden</value>
   </data>
   <data name="Settings_Account_Lockout_Mins_Label" xml:space="preserve">
-    <value>Lockout Minuten</value>
+    <value>Blockierzeit in Minuten</value>
   </data>
   <data name="Settings_Account_Profile_Icon_Help" xml:space="preserve">
-    <value>Sollte das Profilsymbol im Header erscheinen</value>
+    <value>Soll das Profilsymbol im Header erscheinen</value>
   </data>
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
-    <value>Profil Icon</value>
+    <value>Profilsymbol</value>
   </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
-    <value>Können Sie Konten registrieren?</value>
+    <value>Dürfen Gäste Konten registrieren?</value>
   </data>
   <data name="Settings_Account_Registration_Enabled_Label" xml:space="preserve">
     <value>Registrierung aktiviert</value>
   </data>
   <data name="Settings_Account_Registration_RequireEmailValidation_Help" xml:space="preserve">
-    <value>Sind Nutzer verpflichtet, ihre E-Mail zu überprüfen, um ihr Konto zu aktivieren?</value>
+    <value>Sind Nutzer verpflichtet, ihre E-Mail zu bestätigen, um ihr Konto zu aktivieren?</value>
   </data>
   <data name="Settings_Account_Registration_RequireEmailValidation_Label" xml:space="preserve">
-    <value>Erforderliche E-Mail-Validierung</value>
+    <value>Erforderliche E-Mail-Bestätigung</value>
   </data>
   <data name="Settings_Alerts" xml:space="preserve">
-    <value>Alarme</value>
+    <value>Benachrichtigungen</value>
   </data>
   <data name="Settings_Alerts_Account_Lockout_Help" xml:space="preserve">
-    <value>Sollten Alarme gesendet werden, wenn Konten gesperrt sind</value>
+    <value>Soll bei Kontosperrungen eine Benachrichtigung gesendet werden?</value>
   </data>
   <data name="Settings_Alerts_Account_Lockout_Label" xml:space="preserve">
     <value>Account Lockout</value>
   </data>
   <data name="Settings_Alerts_Destructive_Action_Help" xml:space="preserve">
-    <value>Sollten Alarme gesendet werden, wenn eine destruktive Aktion durchgeführt wird</value>
+    <value>Soll bei destruktiven Aktionen ein Alarm gesendet werden</value>
   </data>
   <data name="Settings_Alerts_Destructive_Action_Label" xml:space="preserve">
     <value>Destruktive Aktionen</value>
   </data>
   <data name="Settings_Alerts_Failed_Login_Help" xml:space="preserve">
-    <value>Sollten Alarme auf gescheiterte Anmeldeversuche gesendet werden</value>
+    <value>Soll bei gescheiterte Anmeldeversuchen ein Alarm gesendet werden</value>
   </data>
   <data name="Settings_Alerts_Failed_Login_Label" xml:space="preserve">
-    <value>Nicht verfügbar</value>
+    <value>Fehlgeschlagene Anmeldung</value>
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
-    <value>Sollten Alarme gesendet werden, wenn ein neuer Artikel aussteht Überprüfung</value>
+    <value>Soll bei neuen ausstehenden Einreichungen eine Benachrichtigung gesendet werden?</value>
   </data>
   <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Über uns</value>
+    <value>Ausstehende Freigaben</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Sollten Benutzerprotokolle und -ereignisse protokolliert werden</value>
   </data>
   <data name="Settings_Audit_Retention_Help" xml:space="preserve">
-    <value>Wie viele Tage sollten Audit-Protokolle gespeichert werden</value>
+    <value>Wie viele Tage sollen Audit-Protokolle gespeichert werden</value>
   </data>
   <data name="Settings_BackgroundServices" xml:space="preserve">
     <value>Hintergrunddienste</value>
   </data>
   <data name="Settings_BackgroundServices_Cleanup_Help" xml:space="preserve">
-    <value>Reinigt temporäre Dateien</value>
+    <value>Bereinigt temporäre Dateien</value>
   </data>
   <data name="Settings_BackgroundServices_Cleanup_Label" xml:space="preserve">
-    <value>Reinigung</value>
+    <value>Bereinigung</value>
   </data>
   <data name="Settings_BackgroundServices_DirectoryScanner_Help" xml:space="preserve">
     <value>Abholung von Dateien direkt in den Galerieordner fallen</value>
   </data>
   <data name="Settings_BackgroundServices_DirectoryScanner_Label" xml:space="preserve">
-    <value>Verzeichnis der Benutzer</value>
+    <value>Verzeichnis-Scanner</value>
   </data>
   <data name="Settings_BackgroundServices_EmailReport_Help" xml:space="preserve">
     <value>Sendet einen Bericht über Galeriestats</value>
@@ -1499,64 +1499,64 @@
     <value>E-Mail Berichte</value>
   </data>
   <data name="Settings_Basic" xml:space="preserve">
-    <value>Grund</value>
+    <value>Grundeinstellungen</value>
   </data>
   <data name="Settings_Basic_AllowInsecureGalleries_Help" xml:space="preserve">
-    <value>Sind Galerien erlaubt leere geheime Schlüssel</value>
+    <value>Dürfen Galerien ohne Zugangscode erstellt werden?</value>
   </data>
   <data name="Settings_Basic_AllowInsecureGalleries_Label" xml:space="preserve">
     <value>Unsichere Galerien zulassen</value>
   </data>
   <data name="Settings_Basic_BaseUrl_Help" xml:space="preserve">
-    <value>Die Basis Url zu verwenden in Links und Benachrichtigungen</value>
+    <value>Die Basis-URL für Links und Benachrichtigungen</value>
   </data>
   <data name="Settings_Basic_BaseUrl_Label" xml:space="preserve">
-    <value>Basis Url</value>
+    <value>Basis-URL</value>
   </data>
   <data name="Settings_Basic_EmailReport_Help" xml:space="preserve">
-    <value>Sollte ein E-Mail-Bericht mit Galerie Statistiken aussenden</value>
+    <value>Soll ein E-Mail-Bericht mit Galerie-Statistiken versendet werden</value>
   </data>
   <data name="Settings_Basic_EmailReport_Label" xml:space="preserve">
-    <value>E-Mail senden</value>
+    <value>E-Mail-Bericht</value>
   </data>
   <data name="Settings_Basic_ForceHttps_Help" xml:space="preserve">
-    <value>Sollten Http-Nutzer werden an https gezwungen</value>
+    <value>Sollen Benutzer automatisch von HTTP auf HTTPS umgeleitet werden?</value>
   </data>
   <data name="Settings_Basic_ForceHttps_Label" xml:space="preserve">
-    <value>Macht Https</value>
+    <value>HTTPS erzwingen</value>
   </data>
   <data name="Settings_Basic_GallerySelectorDropdown_Help" xml:space="preserve">
     <value>Wie Benutzer eine Galerie auswählen</value>
   </data>
   <data name="Settings_Basic_GallerySelectorDropdown_Label" xml:space="preserve">
-    <value>Ausgewählte Galerie Typ</value>
+    <value>Galerie-Auswahltyp</value>
   </data>
   <data name="Settings_Basic_GallerySelectorHideDefault_Help" xml:space="preserve">
-    <value>Sollte die Standard-Galerie-Option sichtbar sein</value>
+    <value>Soll die Standard-Galerie-Option sichtbar sein</value>
   </data>
   <data name="Settings_Basic_GallerySelectorHideDefault_Label" xml:space="preserve">
     <value>Standard Galerie anzeigen</value>
   </data>
   <data name="Settings_Basic_GuestGalleryCreation_Help" xml:space="preserve">
-    <value>Sollten Sie neue Galerien erstellen dürfen</value>
+    <value>Dürfen Gäste neue Galerien erstellen?</value>
   </data>
   <data name="Settings_Basic_GuestGalleryCreation_Label" xml:space="preserve">
     <value>Galerien erstellen</value>
   </data>
   <data name="Settings_Basic_HideKeyFromQRCode_Help" xml:space="preserve">
-    <value>Sollte der geheime Schlüssel im QR-Code enthalten sein</value>
+    <value>Soll der geheime Schlüssel im QR-Code enthalten sein</value>
   </data>
   <data name="Settings_Basic_HideKeyFromQRCode_Label" xml:space="preserve">
     <value>QR Codes unsicher</value>
   </data>
   <data name="Settings_Basic_HomeLink_Help" xml:space="preserve">
-    <value>Klicken Sie auf den Home-Link umleiten den Benutzer</value>
+    <value>Soll der Home-Link den Benutzer weiterleiten?</value>
   </data>
   <data name="Settings_Basic_HomeLink_Label" xml:space="preserve">
-    <value>Klicken Sie auf Home Link</value>
+    <value>Home-Link klickbar</value>
   </data>
   <data name="Settings_Basic_LinksOpenNewTab_Help" xml:space="preserve">
-    <value>Sollten Links in neuen Tabs geöffnet werden</value>
+    <value>Sollen Links in neuen Tabs geöffnet werden</value>
   </data>
   <data name="Settings_Basic_LinksOpenNewTab_Label" xml:space="preserve">
     <value>Neue Tab Links</value>
@@ -1598,13 +1598,13 @@
     <value>Kundenspezifische Cookie-Richtlinie</value>
   </data>
   <data name="Settings_CustomPolicies" xml:space="preserve">
-    <value>Zollpolitik</value>
+    <value>Benutzerdefinierte Richtlinien</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
-    <value>Nicht verfügbar, um Einstellungen zu erhalten</value>
+    <value>Einstellungen konnten nicht geladen werden</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">
-    <value>Galerie Defaults</value>
+    <value>Galerie-Standardwerte</value>
   </data>
   <data name="Settings_Gallery_AllowedFileTypes_Help" xml:space="preserve">
     <value>Welche Dateitypen können Gäste hochladen</value>
@@ -1616,10 +1616,10 @@
     <value>Ein Bild, das oben auf der Galerie angezeigt werden soll</value>
   </data>
   <data name="Settings_Gallery_BannerImage_Label" xml:space="preserve">
-    <value>Bild von der Seite</value>
+    <value>Bannerbild</value>
   </data>
   <data name="Settings_Gallery_CameraUploads_Help" xml:space="preserve">
-    <value>Sollten die Gäste die Möglichkeit haben, zwischen Abnehmer oder Kamera</value>
+    <value>Sollen Gäste zwischen Dateiauswahl und Kamera wählen können?</value>
   </data>
   <data name="Settings_Gallery_CameraUploads_Label" xml:space="preserve">
     <value>Kamera Uploads</value>
@@ -1628,7 +1628,7 @@
     <value>Anzahl der Spalten zur Anzeige</value>
   </data>
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
-    <value>Kolumnenzähler</value>
+    <value>Spaltenanzahl</value>
   </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Was ist der Standard-Galeriefilter</value>
@@ -1640,25 +1640,25 @@
     <value>Was ist die Standard-Galeriegruppe</value>
   </data>
   <data name="Settings_Gallery_DefaultGroup_Label" xml:space="preserve">
-    <value>Default Group</value>
+    <value>Standardgruppierung</value>
   </data>
   <data name="Settings_Gallery_DefaultOrder_Help" xml:space="preserve">
-    <value>Was ist der Standard-Galerieauftrag</value>
+    <value>Welche Standardreihenfolge soll die Galerie verwenden?</value>
   </data>
   <data name="Settings_Gallery_DefaultOrder_Label" xml:space="preserve">
-    <value>Fehlerbehebung</value>
+    <value>Standardreihenfolge</value>
   </data>
   <data name="Settings_Gallery_DefaultView_Help" xml:space="preserve">
-    <value>Was ist die Standard-Galerieansicht</value>
+    <value>Welche Standardansicht soll die Galerie verwenden?</value>
   </data>
   <data name="Settings_Gallery_DefaultView_Label" xml:space="preserve">
-    <value>Fehler anzeigen</value>
+    <value>Standardansicht</value>
   </data>
   <data name="Settings_Gallery_Download_Help" xml:space="preserve">
-    <value>Sollten die Gäste Gegenstände herunterladen dürfen</value>
+    <value>Sollen die Gäste Inhalte herunterladen dürfen</value>
   </data>
   <data name="Settings_Gallery_Download_Label" xml:space="preserve">
-    <value>Erlauben Sie mir</value>
+    <value>Download erlauben</value>
   </data>
   <data name="Settings_Gallery_FullWidth_Help" xml:space="preserve">
     <value>Die Breite der Galerie</value>
@@ -1667,7 +1667,7 @@
     <value>Anzeigeart</value>
   </data>
   <data name="Settings_Gallery_IdleRefreshMins_Help" xml:space="preserve">
-    <value>Nach wie lange sollte die Galerie aktualisieren, um neue Inhalte zu erhalten</value>
+    <value>Nach welcher Zeit soll die Galerie aktualisiert werden, um neue Inhalte zu laden</value>
   </data>
   <data name="Settings_Gallery_IdleRefreshMins_Label" xml:space="preserve">
     <value>Idle Refresh Mins</value>
@@ -1679,118 +1679,118 @@
     <value>Artikel pro Seite</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
-    <value>Was ist die größte in MB eine hochgeladene Datei kann</value>
+    <value>Was ist die maximale Größe einer hochgeladene Datei in MB</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Label" xml:space="preserve">
-    <value>Max Dateigröße (MB)</value>
+    <value>Maximale Dateigröße (MB)</value>
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Help" xml:space="preserve">
-    <value>Wie groß in MB ist die Galerie erlaubt zu wachsen</value>
+    <value>Wie groß darf die Galerie maximal werden</value>
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
-    <value>Max Gallery Größe (MB)</value>
+    <value>Maximale Gallerie-Größe (MB)</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
-    <value>Sollten Duplikate automatisch abgelehnt werden</value>
+    <value>Sollen Duplikate automatisch abgelehnt werden</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Label" xml:space="preserve">
     <value>Duplikate verhindern</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Help" xml:space="preserve">
-    <value>Sobald Scanner, welche Bestellung sollte Artikel erscheinen</value>
+    <value>Einmal gescannt, nach welcher Sortierung sollen Einträge angezeigt werden</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Label" xml:space="preserve">
-    <value>Standard QR Sortierung</value>
+    <value>Standard-QR-Sortierung</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultView_Help" xml:space="preserve">
-    <value>Einmal gescannt, was Layout sollte der Benutzer sehen</value>
+    <value>Einmal gescannt, welche Ansicht soll der Benutzer sehen</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultView_Label" xml:space="preserve">
-    <value>Standard QR Blick</value>
+    <value>Standard-QR-Ansicht</value>
   </data>
   <data name="Settings_Gallery_QRCodeEnabled_Help" xml:space="preserve">
-    <value>Sollte der QR-Code angezeigt werden</value>
+    <value>Soll der QR-Code angezeigt werden</value>
   </data>
   <data name="Settings_Gallery_QRCodeEnabled_Label" xml:space="preserve">
     <value>QR Code anzeigen</value>
   </data>
   <data name="Settings_Gallery_QRCodeIncludeCulture_Help" xml:space="preserve">
-    <value>Sollte der QR-Code die Anzeigesprache angeben</value>
+    <value>Soll der QR-Code die Anzeigesprache festlegen</value>
   </data>
   <data name="Settings_Gallery_QRCodeIncludeCulture_Label" xml:space="preserve">
     <value>Include Culture in QR</value>
   </data>
   <data name="Settings_Gallery_Quote_Help" xml:space="preserve">
-    <value>Ein Angebot an der Oberseite der Galerie anzeigen</value>
+    <value>Ein Zitat über der Galerie anzeigen</value>
   </data>
   <data name="Settings_Gallery_Quote_Label" xml:space="preserve">
     <value>Zitat</value>
   </data>
   <data name="Settings_Gallery_RequireReview_Help" xml:space="preserve">
-    <value>Muss Artikel überprüft werden, bevor sie auf der Website erscheinen</value>
+    <value>Müssen Inhalte überprüft werden, bevor sie auf der Website erscheinen</value>
   </data>
   <data name="Settings_Gallery_RequireReview_Label" xml:space="preserve">
-    <value>Erforderliche Bewertung</value>
+    <value>Bewertung erforderlich</value>
   </data>
   <data name="Settings_Gallery_RetainRejectedItems_Help" xml:space="preserve">
-    <value>Sollte abgelehnte Gegenstände für eine spätere Verwendung gespeichert werden</value>
+    <value>Sollen abgelehnte Gegenstände für eine spätere Verwendung gespeichert werden</value>
   </data>
   <data name="Settings_Gallery_RetainRejectedItems_Label" xml:space="preserve">
-    <value>Retain Rejected Artikel</value>
+    <value>Abgelehnte Elemente behalten</value>
   </data>
   <data name="Settings_Gallery_ReviewCounter_Help" xml:space="preserve">
-    <value>Sollte der Rezensionszähler angezeigt werden</value>
+    <value>Soll der Rezensionszähler angezeigt werden</value>
   </data>
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
-    <value>Zurück zur Übersicht</value>
+    <value>Freigabe-Zähler</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
-    <value>Sollte der Benutzer in der Lage sein, Medien zu filtern und zu gruppen?</value>
+    <value>Soll der Benutzer in der Lage sein, Medien zu filtern und zu gruppieren?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Filter anzeigen</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
-    <value>Sollte der Titel oben auf der Galerie angezeigt werden</value>
+    <value>Soll der Titel über der Galerie angezeigt werden</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Titel anzeigen</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
-    <value>Sollten die Gäste Gegenstände hochladen dürfen</value>
+    <value>Dürfen Gäste Dateien hochladen?</value>
   </data>
   <data name="Settings_Gallery_Upload_Label" xml:space="preserve">
-    <value>Erlauben Sie Uploads</value>
+    <value>Uploads erlauben</value>
   </data>
   <data name="Settings_Gallery_UploadPeriod_Help" xml:space="preserve">
-    <value>Restrict Uploads auf einen bestimmten Zeitraum</value>
+    <value>Uploads auf einen bestimmten Zeitraum beschränken</value>
   </data>
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
-    <value>Ladezeiträume</value>
+    <value>Upload-Zeitraum</value>
   </data>
   <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Help" xml:space="preserve">
-    <value>Sollte der Identifikationsname in der Galerie-Selector-Dropdown angezeigt werden</value>
+    <value>Soll die Galerie-Kennung in der Galerieauswahl angezeigt werden</value>
   </data>
   <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Label" xml:space="preserve">
-    <value>Galerie Identifiers anzeigen</value>
+    <value>Galerie-Kennungen anzeigen</value>
   </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
-    <value>Sollte der Galeriename in der Galerie Selector Dropdown angezeigt werden</value>
+    <value>Soll der Galeriename in der Galerieauswahl angezeigt werden</value>
   </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
     <value>Galerienamen anzeigen</value>
   </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
-    <value>Sollte der Galeriebesitzer in der Galerie Selector Dropdown angezeigt werden</value>
+    <value>Soll der Galeriebesitzer in der Galerieauswahl angezeigt werden</value>
   </data>
   <data name="Settings_GallerySelector_ShowUsernames_Label" xml:space="preserve">
-    <value>Galerie Eigentümer anzeigen</value>
+    <value>Galerie-Besitzer anzeigen</value>
   </data>
   <data name="Settings_Gotify_Enabled_Help" xml:space="preserve">
-    <value>Sollten Ntfy-Benachrichtigungen gesendet werden</value>
+    <value>Sollen Gotify-Benachrichtigungen gesendet werden?</value>
   </data>
   <data name="Settings_Gotify_Endpoint_Help" xml:space="preserve">
-    <value>Die Serveradresse Gotify</value>
+    <value>Die Gotify-Serveradresse</value>
   </data>
   <data name="Settings_Gotify_Endpoint_Label" xml:space="preserve">
     <value>Endpunkt</value>
@@ -1805,34 +1805,34 @@
     <value>Das für die Authentifizierung verwendete Token</value>
   </data>
   <data name="Settings_Gotify_Token_Label" xml:space="preserve">
-    <value>Zugang zu Token</value>
+    <value>Zugriffstoken</value>
   </data>
   <data name="Settings_IdentityCheck" xml:space="preserve">
-    <value>Identitätsprüfung</value>
+    <value>Gastidentität</value>
   </data>
   <data name="Settings_IdentityCheck_Enabled_Help" xml:space="preserve">
-    <value>Prompt Benutzer für ihren Namen</value>
+    <value>Gäste nach ihrem Namen fragen</value>
   </data>
   <data name="Settings_IdentityCheck_PageLoad_Help" xml:space="preserve">
-    <value>Sollte die Identitätsprüfung bei Seitenlast angezeigt werden</value>
+    <value>Soll die Namensabfrage beim Seitenaufruf angezeigt werden?</value>
   </data>
   <data name="Settings_IdentityCheck_PageLoad_Label" xml:space="preserve">
-    <value>Seite herunterladen</value>
+    <value>Namesabfrage beim Seitenaufruf</value>
   </data>
   <data name="Settings_IdentityCheck_RequireEmail_Help" xml:space="preserve">
-    <value>Sollten Benutzer eine E-Mail-Adresse eingeben müssen</value>
+    <value>Sollen Benutzer eine E-Mail-Adresse eingeben müssen</value>
   </data>
   <data name="Settings_IdentityCheck_RequireEmail_Label" xml:space="preserve">
-    <value>E-Mail Adresse anfordern</value>
+    <value>E-Mail-Adresse anfordern</value>
   </data>
   <data name="Settings_IdentityCheck_RequireName_Help" xml:space="preserve">
-    <value>Sollten Benutzer einen Namen eingeben müssen</value>
+    <value>Sollen Benutzer einen Namen eingeben müssen</value>
   </data>
   <data name="Settings_IdentityCheck_RequireName_Label" xml:space="preserve">
-    <value>Name des Herstellers</value>
+    <value>Name anfordern</value>
   </data>
   <data name="Settings_IdentityCheck_Upload_Help" xml:space="preserve">
-    <value>Sollte die Identitätsprüfung erforderlich sein, um Medien hochzuladen</value>
+    <value>Soll eine Identitätsprüfung erforderlich sein, um Medien hochzuladen</value>
   </data>
   <data name="Settings_IdentityCheck_Upload_Label" xml:space="preserve">
     <value>Hochladen-Prompt</value>
@@ -1841,13 +1841,13 @@
     <value>Sprachen</value>
   </data>
   <data name="Settings_Languages_Default_Help" xml:space="preserve">
-    <value>Die Standard-Website-Sprache, wenn keine ausgewählt wird</value>
+    <value>Die Standardsprache, wenn keine ausgewählt wurde</value>
   </data>
   <data name="Settings_Languages_Default_Label" xml:space="preserve">
     <value>Standardsprache</value>
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
-    <value>Erlauben Sie Benutzern, die Sprache zu ändern</value>
+    <value>Benutzern erlauben die Sprache zu ändern</value>
   </data>
   <data name="Settings_Logging" xml:space="preserve">
     <value>Protokoll</value>
@@ -1859,25 +1859,25 @@
     <value>Hilfe Diese Seite zu verbessern</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
-    <value>Sollten Ntfy-Benachrichtigungen gesendet werden</value>
+    <value>Sollen Ntfy-Benachrichtigungen gesendet werden</value>
   </data>
   <data name="Settings_Ntfy_Endpoint_Help" xml:space="preserve">
-    <value>Die Ntfy Serveradresse</value>
+    <value>Die Ntfy-Serveradresse</value>
   </data>
   <data name="Settings_Ntfy_Endpoint_Label" xml:space="preserve">
     <value>Endpunkt</value>
   </data>
   <data name="Settings_Ntfy_Priority_Help" xml:space="preserve">
-    <value>Der Wert der Alarme</value>
+    <value>Die Wichtigkeit der Benachrichtigungen</value>
   </data>
   <data name="Settings_Ntfy_Priority_Label" xml:space="preserve">
     <value>Priorität</value>
   </data>
   <data name="Settings_Ntfy_Token_Help" xml:space="preserve">
-    <value>Das für die Authentifizierung verwendete Token</value>
+    <value>Das für die Authentifizierung verwendete Zugriffstoken</value>
   </data>
   <data name="Settings_Ntfy_Token_Label" xml:space="preserve">
-    <value>Zugang zu Token</value>
+    <value>Zugriffstoken</value>
   </data>
   <data name="Settings_Ntfy_Topic_Help" xml:space="preserve">
     <value>Das Thema, um Alarme zu senden</value>
@@ -1886,28 +1886,28 @@
     <value>Thema</value>
   </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
-    <value>Sollte der Nutzer die DSGVO-Stil Popups sehen?</value>
+    <value>Sollen dem Nutzer DSGVO-Popups angezeigt werden?</value>
   </data>
   <data name="Settings_SearchTerm_Help" xml:space="preserve">
     <value>Filtereinstellungen basierend auf einem Suchbegriff</value>
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
-    <value>Suche Term</value>
+    <value>Suchbegriff</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Diashow</value>
   </data>
   <data name="Settings_Slideshow_Fade_Help" xml:space="preserve">
-    <value>Wie lange sollte der Übergang zwischen Dias sein</value>
+    <value>Wie lange sollte der Übergang zwischen Bildern sein</value>
   </data>
   <data name="Settings_Slideshow_Fade_Label" xml:space="preserve">
-    <value>Fa</value>
+    <value>Überblendung</value>
   </data>
   <data name="Settings_Slideshow_Interval_Help" xml:space="preserve">
-    <value>Wie lange in Sekunden sollte eine Diashow, bevor Sie zum nächsten Dia</value>
+    <value>Wie viele Sekunden soll ein Bild angezeigt werden, bevor zum nächsten gewechselt wird?</value>
   </data>
   <data name="Settings_Slideshow_Interval_Label" xml:space="preserve">
-    <value>Interoperabilität</value>
+    <value>Intervall</value>
   </data>
   <data name="Settings_Slideshow_Limit_Help" xml:space="preserve">
     <value>Die maximale Anzahl der zu integrierenden Dias</value>
@@ -1916,16 +1916,16 @@
     <value>Begrenzung</value>
   </data>
   <data name="Settings_Slideshow_Share_Slide_Help" xml:space="preserve">
-    <value>Sollte der QR-Code am Ende für Gäste des Scans deaktiviert werden</value>
+    <value>Soll am Ende der Diashow ein QR-Code zum Teilen angezeigt werden?</value>
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
-    <value>Include Slide teilen</value>
+    <value>Teilen-Option einblenden</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Der benutzerfreundliche Absendername</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Label" xml:space="preserve">
-    <value>Anzeige Name</value>
+    <value>Anzeige-Name</value>
   </data>
   <data name="Settings_Smtp_Enabled_Help" xml:space="preserve">
     <value>Sollten E-Mail-Benachrichtigungen gesendet werden</value>
@@ -1940,22 +1940,22 @@
     <value>Der Hostname des SMTP-Anbieters</value>
   </data>
   <data name="Settings_Smtp_Host_Label" xml:space="preserve">
-    <value>Gastgeber</value>
+    <value>Host</value>
   </data>
   <data name="Settings_Smtp_Password_Help" xml:space="preserve">
     <value>Das Passwort zur Authentifizierung der Anfrage</value>
   </data>
   <data name="Settings_Smtp_Password_Label" xml:space="preserve">
-    <value>Passwort vergessen</value>
+    <value>Passwort</value>
   </data>
   <data name="Settings_Smtp_Port_Help" xml:space="preserve">
     <value>Der vom SMTP-Anbieter verwendete Port</value>
   </data>
   <data name="Settings_Smtp_Port_Label" xml:space="preserve">
-    <value>Hafen</value>
+    <value>Port</value>
   </data>
   <data name="Settings_Smtp_Recipient_Help" xml:space="preserve">
-    <value>Eine komma getrennte Liste von E-Mail-Adressen</value>
+    <value>Eine komma-getrennte Liste von E-Mail-Adressen</value>
   </data>
   <data name="Settings_Smtp_Recipient_Label" xml:space="preserve">
     <value>Empfänger</value>
@@ -1964,7 +1964,7 @@
     <value>Verwendet der SMTP-Anbieter SSL</value>
   </data>
   <data name="Settings_Smtp_Use_SSL_Label" xml:space="preserve">
-    <value>Verwenden Sie SSL</value>
+    <value>SSL verwenden</value>
   </data>
   <data name="Settings_Smtp_Username_Help" xml:space="preserve">
     <value>Der Benutzername zur Authentifizierung der Anfrage</value>
@@ -1973,19 +1973,19 @@
     <value>Benutzername</value>
   </data>
   <data name="Settings_Themes" xml:space="preserve">
-    <value>Themen</value>
+    <value>Designs</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
     <value>Lassen Sie Benutzer das benutzerdefinierte Thema auswählen</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
-    <value>Das Standard-Website-Thema, wenn keine ausgewählt wird</value>
+    <value>Das Standard-Design der Website, wenn keines ausgewählt ist</value>
   </data>
   <data name="Settings_Themes_Default_Label" xml:space="preserve">
-    <value>Fehler Thema</value>
+    <value>Standard-Design</value>
   </data>
   <data name="Settings_Themes_Enabled_Help" xml:space="preserve">
-    <value>Erlauben Sie Benutzern, das Thema zu ändern</value>
+    <value>Erlauben Sie Benutzern, das Design zu ändern</value>
   </data>
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Tracker</value>
@@ -2009,7 +2009,7 @@
     <value>Blockauswahl</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_Help" xml:space="preserve">
-    <value>Sollte Umami-Track-Nutzer replays</value>
+    <value>Soll Umami Nutzer-Replays aufzeichnen?</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_Label" xml:space="preserve">
     <value>Aufzeichnung</value>
@@ -2018,16 +2018,16 @@
     <value>Wie viel sensible Daten sollten versteckt werden</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_MaskLevel_Label" xml:space="preserve">
-    <value>Maske Ebene</value>
+    <value>Maskierungsebene</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_MaxDuration_Help" xml:space="preserve">
-    <value>Was ist die maximale Länge einer aufgezeichneten Sitzung</value>
+    <value>Was ist die maximale Länge von aufgezeichneten Sitzungen</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_MaxDuration_Label" xml:space="preserve">
-    <value>Max Dauer (Min)</value>
+    <value>Maximale Dauer (Min)</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_SampleRate_Help" xml:space="preserve">
-    <value>Wie oft sollten Proben entnommen werden</value>
+    <value>Wie oft sollen Proben entnommen werden</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_SampleRate_Label" xml:space="preserve">
     <value>Stichprobenrate (%)</value>
@@ -2039,16 +2039,16 @@
     <value>Der Umami-Skriptname</value>
   </data>
   <data name="Settings_Trackers_Umami_WebsiteId_Help" xml:space="preserve">
-    <value>Die Umami Webseite Id</value>
+    <value>Die Umami Webseiten-ID</value>
   </data>
   <data name="Settings_Trackers_Umami_WebsiteId_Label" xml:space="preserve">
     <value>Website Id</value>
   </data>
   <data name="Severity" xml:space="preserve">
-    <value>Schwere</value>
+    <value>Schweregrad</value>
   </data>
   <data name="Share_Code" xml:space="preserve">
-    <value>Teile den Code</value>
+    <value>Code teilen</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Erweiterte Einstellungen anzeigen</value>
@@ -2075,16 +2075,16 @@
     <value>Sponsoren</value>
   </data>
   <data name="Sponsors_BecomeTheFirst" xml:space="preserve">
-    <value>Es gibt derzeit keine Sponsoren. Warum bist du nicht der Erste!</value>
+    <value>Es gibt derzeit keine Sponsoren. Warum bist du nicht der Erste?</value>
   </data>
   <data name="Sponsors_Load_Error" xml:space="preserve">
-    <value>Versäumt, die Sponsorenliste zu laden</value>
+    <value>Das Laden der Sponsorenliste ist fehlgeschlagen</value>
   </data>
   <data name="Square" xml:space="preserve">
     <value>Quadrat</value>
   </data>
   <data name="Submit" xml:space="preserve">
-    <value>Einreichung</value>
+    <value>Absenden</value>
   </data>
   <data name="Success_Send_Test_Notification" xml:space="preserve">
     <value>Testmeldung erfolgreich gesendet</value>
@@ -2093,16 +2093,16 @@
     <value>Unterstützer</value>
   </data>
   <data name="Switch" xml:space="preserve">
-    <value>Schalter</value>
+    <value>Wechseln</value>
   </data>
   <data name="Test" xml:space="preserve">
-    <value>Prüfung</value>
+    <value>Test</value>
   </data>
   <data name="Test_Message" xml:space="preserve">
-    <value>Dies ist eine Testnachricht</value>
+    <value>Dies ist eine Test-Nachricht</value>
   </data>
   <data name="Theme" xml:space="preserve">
-    <value>Thema</value>
+    <value>Design</value>
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Bitte wählen Sie ein Anzeigethema</value>
@@ -2123,19 +2123,19 @@
     <value>Ein unerwarteter Fehler ist aufgetreten</value>
   </data>
   <data name="Unfreeze" xml:space="preserve">
-    <value>Keine Bewegung</value>
+    <value>Entsperren</value>
   </data>
   <data name="Unfreeze_Failed" xml:space="preserve">
-    <value>Nicht eingefrorenes Konto</value>
+    <value>Konto konnte nicht entsperrt werden</value>
   </data>
   <data name="Unfreeze_Successfully" xml:space="preserve">
-    <value>Konto nicht eingefroren erfolgreich</value>
+    <value>Konto erfolgreich entsperrt</value>
   </data>
   <data name="Unfreeze_User" xml:space="preserve">
-    <value>Ungefrorener Benutzer</value>
+    <value>Benutzer entsperren</value>
   </data>
   <data name="Unfreeze_User_Message" xml:space="preserve">
-    <value>Sind Sie sicher, dass Sie un-freeze Konto</value>
+    <value>Möchten Sie dieses Konto wirklich entsperren?</value>
   </data>
   <data name="Unknown_Error" xml:space="preserve">
     <value>Unbekannter Fehler</value>
@@ -2153,7 +2153,7 @@
     <value>Fehler bei der Aktualisierung von Einstellungen</value>
   </data>
   <data name="Update_Settings_No_Change" xml:space="preserve">
-    <value>Es wurden keine Änderungen vorgenommen, um zu sparen</value>
+    <value>Es wurden keine Änderungen gespeichert</value>
   </data>
   <data name="Update_Settings_Success" xml:space="preserve">
     <value>Einstellungen erfolgreich aktualisiert</value>
@@ -2162,22 +2162,22 @@
     <value>Upgrade</value>
   </data>
   <data name="Upgrade_Account_Message" xml:space="preserve">
-    <value>Sie nutzen derzeit die kostenlose Version. Um mehr Galeriespeicher und andere tolle Funktionen zu entsperren, halten Sie Ihr Konto aufrecht</value>
+    <value>Du nutzt derzeit die kostenlose Version. Aktualisiere dein Konto, um mehr Galeriespeicher und weitere Funktionen freizuschalten.</value>
   </data>
   <data name="Upgrade_To_Unlock" xml:space="preserve">
-    <value>Upgrade auf Entsperren</value>
+    <value>Upgrade zum Freischalten</value>
   </data>
   <data name="Upload" xml:space="preserve">
     <value>Hochladen</value>
   </data>
   <data name="Upload_Failed" xml:space="preserve">
-    <value>Es gab ein Problem, einige Dateien hochzuladen</value>
+    <value>Es gab ein Problem beim Hochladen einiger Dateien</value>
   </data>
   <data name="Upload_Invalid_Gallery_Detected" xml:space="preserve">
-    <value>Invalide Galerie Identifiziert</value>
+    <value>Ungültige Galerie-ID erkannt</value>
   </data>
   <data name="Upload_Invalid_Upload_Url" xml:space="preserve">
-    <value>Konnte kein Upload finden Url</value>
+    <value>Upload-URL konnte nicht gefunden werden</value>
   </data>
   <data name="Upload_Media" xml:space="preserve">
     <value>Medien hochladen</value>
@@ -2186,16 +2186,16 @@
     <value>Bitte wählen Sie eine Upload-Methode</value>
   </data>
   <data name="Upload_No_Files_Detected" xml:space="preserve">
-    <value>Keine Dateien wurden erkannt, um hochzuladen</value>
+    <value>Keine Dateien zum Hochladen gefunden</value>
   </data>
   <data name="Upload_Progress" xml:space="preserve">
-    <value>Artikel hochladen</value>
+    <value>Artikel wird hochladen</value>
   </data>
   <data name="Upload_Success" xml:space="preserve">
     <value>Erfolgreich hochgeladene Artikel</value>
   </data>
   <data name="Upload_Success_Pending_Review" xml:space="preserve">
-    <value>Erfolgreich hochgeladene Artikel ausstehende Überprüfung</value>
+    <value>Erfolgreich hochgeladene Artikel mit ausstehender Überprüfung</value>
   </data>
   <data name="Uploaded_By" xml:space="preserve">
     <value>Hochgeladen von</value>
@@ -2204,7 +2204,7 @@
     <value>Uploader</value>
   </data>
   <data name="Uploads" xml:space="preserve">
-    <value>Hochladungen</value>
+    <value>Uploads</value>
   </data>
   <data name="User" xml:space="preserve">
     <value>Benutzer</value>
@@ -2213,10 +2213,10 @@
     <value>Passwort bestätigen</value>
   </data>
   <data name="User_Confirm_Password_Hint" xml:space="preserve">
-    <value>Bestätigung des Passworts</value>
+    <value>Passwort bestätigen</value>
   </data>
   <data name="User_CPassword_Missmatch" xml:space="preserve">
-    <value>Das bereitgestellte Passwort und das Bestätigungs-Passwort stimmen nicht überein</value>
+    <value>Das bereitgestellte Passwort und die Passwortbestätigung stimmen nicht überein</value>
   </data>
   <data name="User_Create" xml:space="preserve">
     <value>Benutzer erstellen</value>
@@ -2228,16 +2228,16 @@
     <value>Erfolgreich erstellter Benutzer</value>
   </data>
   <data name="User_Delete" xml:space="preserve">
-    <value>Löschen</value>
+    <value>Benutzer löschen</value>
   </data>
   <data name="User_Delete_Failed" xml:space="preserve">
-    <value>Nicht zu löschen Benutzer</value>
+    <value>Benutzer konnte nicht gelöscht werden</value>
   </data>
   <data name="User_Delete_Success" xml:space="preserve">
     <value>Erfolgreich gelöschter Benutzer</value>
   </data>
   <data name="User_Edit" xml:space="preserve">
-    <value>Benutzer</value>
+    <value>Benutzer bearbeiten</value>
   </data>
   <data name="User_Edit_Failed" xml:space="preserve">
     <value>Fehler beim Update des Benutzers</value>
@@ -2246,19 +2246,19 @@
     <value>Erfolgreich aktualisierter Benutzer</value>
   </data>
   <data name="User_Email" xml:space="preserve">
-    <value>E-Mail senden</value>
+    <value>E-Mail</value>
   </data>
   <data name="User_Email_Hint" xml:space="preserve">
-    <value>Die E-Mail-Adresse der Benutzer</value>
+    <value>Die E-Mail-Adresse des Benutzers</value>
   </data>
   <data name="User_Firstname" xml:space="preserve">
     <value>Vorname</value>
   </data>
   <data name="User_Firstname_Hint" xml:space="preserve">
-    <value>Der erste Name des Benutzers</value>
+    <value>Der Vorname des Benutzers</value>
   </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
-    <value>Passwort und Passwort bestätigen nicht übereinstimmen</value>
+    <value>Passwort und Passwortbestätigung stimmen nicht überein</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Bitte geben Sie eine gültige E-Mail Adresse an</value>
@@ -2276,16 +2276,16 @@
     <value>Bitte geben Sie ein gültiges Benutzerkennwort an</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
-    <value>Die gewählte Zahl ist ungültig</value>
+    <value>Die gewählte Stufe ist ungültig</value>
   </data>
   <data name="User_Invalid_Username" xml:space="preserve">
     <value>Bitte geben Sie einen gültigen Benutzernamen an</value>
   </data>
   <data name="User_Lastname" xml:space="preserve">
-    <value>Vorname</value>
+    <value>Nachname</value>
   </data>
   <data name="User_Lastname_Hint" xml:space="preserve">
-    <value>Der letzte Name des Benutzers</value>
+    <value>Der Nachname des Benutzers</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Ebene</value>
@@ -2294,28 +2294,28 @@
     <value>Zugriffsebene der Nutzer</value>
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
-    <value>Benutzer Kann nicht leer sein</value>
+    <value>Benutzer-ID darf nicht leer sein</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
-    <value>Den angegebenen Benutzer nicht finden</value>
+    <value>Der angegebene Benutzer wurde nicht gefunden</value>
   </data>
   <data name="User_Password" xml:space="preserve">
-    <value>Passwort vergessen</value>
+    <value>Passwort</value>
   </data>
   <data name="User_Password_Hint" xml:space="preserve">
     <value>Das Passwort des neuen Benutzers</value>
   </data>
   <data name="User_Tier" xml:space="preserve">
-    <value>Tierarzneimittel</value>
+    <value>Stufe</value>
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
-    <value>Die Nutzer zahlen</value>
+    <value>Die bezahlte Stufe des Benutzers</value>
   </data>
   <data name="User_Username" xml:space="preserve">
     <value>Benutzername</value>
   </data>
   <data name="User_Username_Already_Exists" xml:space="preserve">
-    <value>Benutzer mit dem gleichen Namen bereits hinzufügen</value>
+    <value>Ein Benutzer mit diesem Namen existiert bereits</value>
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Der Benutzername des Benutzers</value>
@@ -2327,16 +2327,16 @@
     <value>Benutzer</value>
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
-    <value>Fehler beim laden der Benutzerliste</value>
+    <value>Fehler beim Laden der Benutzerliste</value>
   </data>
   <data name="Validate" xml:space="preserve">
-    <value>Gültig</value>
+    <value>Validieren</value>
   </data>
   <data name="Verbose" xml:space="preserve">
-    <value>Bohnen</value>
+    <value>Ausführlich</value>
   </data>
   <data name="Verify" xml:space="preserve">
-    <value>Überprüfung</value>
+    <value>Verifizieren</value>
   </data>
   <data name="Videos" xml:space="preserve">
     <value>Videos</value>
@@ -2348,7 +2348,7 @@
     <value>Optionen anzeigen</value>
   </data>
   <data name="Visit" xml:space="preserve">
-    <value>Besuche uns</value>
+    <value>Besuchen</value>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Warnung</value>
@@ -2357,7 +2357,7 @@
     <value>Löschen</value>
   </data>
   <data name="Wipe_2FA" xml:space="preserve">
-    <value>Wissen 2FA</value>
+    <value>2FA löschen</value>
   </data>
   <data name="Wipe_All_Confirmation" xml:space="preserve">
     <value>Sind Sie sicher, dass Sie alle Galerien löschen möchten?</value>
@@ -2369,12 +2369,12 @@
     <value>Daten löschen</value>
   </data>
   <data name="Wipe_Data_Failed" xml:space="preserve">
-    <value>Daten nicht löschen</value>
+    <value>Daten konnten nicht gelöscht werden</value>
   </data>
   <data name="Wipe_Data_Message" xml:space="preserve">
-    <value>Wollen Sie sicher alle Daten löschen?</value>
+    <value>Möchten Sie wirklich alle Daten löschen?</value>
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
-    <value>Erfolgreich gelöschte Daten</value>
+    <value>Die Daten wurden erfolgreich gelöscht</value>
   </data>
 </root>
