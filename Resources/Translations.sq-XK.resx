@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Një vizitor ka miratuar përdorimin e biskotave</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Krijuar</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Koleksion i krijuar</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Përdorues i panjohur</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Koleksion i ri</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Koleksion i ri</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kodi</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Krijo koleksion</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Krijimi i koleksionit dështoi</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Koleksion i krijuar me sukses</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Ndrysho koleksionin</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>I pamundur rifreskimi i koleksionit</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Koleksion i përditësuar me sukses</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Shkruaj i pari shtegu.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Shkruaj a i ri emri</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Rregullimet e përbashkëta</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Aktualisht nuk keni qasje</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>E personalizuar Id nuk mund të jetë bosh</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Burimi i personalizuar</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Të dhëna të eksportuara me sukses</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Krijimi i koleksionit dështoi</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Krijimi i koleksionit dështoi</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Dështoi shkarkimi i koleksionit. Çelësi sekret ishte i pavlefshëm</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>I pamundur rifreskimi i koleksionit</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>I pamundur rifreskimi i koleksionit</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galeria është plot dhe ka tejkaluar madhësinë maksimum të</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Identifikuesi i galerisë</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Shkruaj i pari shtegu.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Emri i koleksionit të pavlefshëm apo kyçi sekret, ju lutem riprovo</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Shkruaj a emri</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Kyç sekret i pavlefshëm, ju lutem provoni përsëri</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Shkruaj këtu kyçin sekret</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Numri maksimum i lejuar i galerive është arritur</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Marrja e listës së koleksionit dështoi</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Kjo është një galeri e mbrojtur. Ju lutem shkruani kyçin sekret për të shfaqur përmbajtjen e tij.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Koleksioni Id nuk mund të jetë bosh</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Emri i koleksionit nuk mund të jetë bosh</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Emri i koleksionit</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Emri i koleksionit ekziston</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Shkruaj a i ri file emri</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Galeria e rilidhur me sukses</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Kyçi sekret</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Shkruaj a i ri kyç</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Zgjedhësi i Galerisë</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Haver</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifikuesi</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Kontrolli i identitetit</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Ju lutem specifikoni një email të vlefshëm</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Emër i pavlefshëm</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Shkruaj a emri</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Emri</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Kyç galerie i pavlefshëm</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Emër i pavlefshëm</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Shkruaj a emri</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>U bë një kërkesë duke përdorur një kyç sekret të pavlefshëm</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Drita</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Kufiri maksimum i lejuar është arritur</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Lidhje</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Anëtarë</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id nuk mund të jetë bosh</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Emri nuk mund të jetë bosh</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Përdoruesi nuk mund të jetë bosh</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Emri</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Emri ekziston</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Emri i koleksionit nuk mund të jetë bosh</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Pjesa 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Emrat e mbrojtur të galerisë nuk lejohen. Ju lutem provoni një emër tjetër</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Emrat e mbrojtur nuk lejohen. Ju lutem provoni një emër tjetër</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Kodi QR</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Sekonda 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Kyçi sekret</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Shkruaj a i ri kyç</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Zgjidh</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Niveli i hyrjes së përdoruesve</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Përdoruesi Id nuk mund të jetë bosh</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>E pamundur gjetja e përdoruesit të specifikuar</value>

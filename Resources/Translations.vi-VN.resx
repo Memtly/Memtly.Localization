@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Tập hợp</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Tạo nơi trưng bày</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Người dùng không nhạy</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Tập hợp đã cập nhật</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Phòng trưng bày đã cập nhật</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Bộ mã</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Tập hợp</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Lỗi tạo tập hợp</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Tập hợp thành công</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Tập hợp</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Lỗi cập nhật tập tin</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Tập hợp thành công</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Hãy nhập vào bộ nhận diện bộ sưu tập bạn muốn thăm.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Hãy nhập vào tên tập hợp mới</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Thiết lập chung</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Hiện tại bạn không có quyền truy cập</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Tài nguyên tự chọn Sẽ không thể trống rỗng</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Liên kết tài nguyên tự chọn lại</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Dữ liệu xuất thành công</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Lỗi tạo tập hợp</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Lỗi tạo nơi trưng bày</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Việc tải về nơi trưng bày bị lỗi. Khóa bí mật không hợp lệ</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Lỗi cập nhật tập tin</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Lỗi cập nhật phòng trưng bày</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Phòng trưng bày đầy đủ và đã vượt quá kích thước tối đa của</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Nhận diện Phòng trưng bày</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Hãy nhập vào bộ nhận diện của phòng trưng bày bạn muốn thăm.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Tên nơi trưng bày không hợp lệ hay phím bí mật, xin hãy thử lại</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Hãy ghi rõ một tên nơi trưng bày hợp lệ</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Phím bí mật không hợp lệ, xin hãy thử lại</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Nhập phím bí mật vào đây</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Số phòng trưng bày tối đa đã tới</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Không thể lấy danh sách phòng trưng bày</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Đây là phòng trưng bày được bảo vệ. Hãy nhập chìa khóa bí mật để xem nội dung của nó.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Gallery Sẽ không thể trống rỗng</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Tên nơi trưng bày không thể rỗng</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Tên nơi trưng bày</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Tên nơi trưng bày đã có</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Hãy nhập tên nơi trưng bày mới</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Phòng trưng bày đã lắp lại thành công</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Bí mật</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Xin vui lòng nhập một phím bí mật mới</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Trình chọn nơi trưng bày</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Nhận diện</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Tên khách</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Vui lòng ghi rõ một email hợp lệ</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Tên</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Hãy ghi rõ một tên hợp lệ</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Tên</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Phím phòng trưng bày không hợp lệ</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Hãy ghi rõ một tên hợp lệ</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Name</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Làm sáng</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Giới hạn được phép tối đa đã tới</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Liên kết</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Thành viên</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Sẽ không thể trống rỗng</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Tên</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Tên người dùng không thể rỗng</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Tên</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Tên đã có</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Tên nơi trưng bày không thể rỗng</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Chính 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Không cho phép tên phòng trưng bày được bảo vệ. Hãy thử tên khác</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Không cho phép tên được bảo vệ. Hãy thử tên khác</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Mã QR</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Thứ hai</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Bí mật</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Xin vui lòng nhập một phím bí mật mới</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Chọn</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Cấp truy cập người dùng</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Người dùng Sẽ không thể trống rỗng</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Không tìm thấy người dùng đã xác định</value>

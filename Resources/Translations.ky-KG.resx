@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Конок печеньелерди колдонууга уруксат берди</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Жаратылган коллекция</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Жаратылган галерея</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Тоңдурылбаган колдонуучу</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Жаңыртылган чогултуу</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Жаңыртылган галерея</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Код коду</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Коллекцияны түзүү</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Коллекцияны түзүүдө ийгиликсиз</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Ийгилик менен түзүлгөн чогултуу</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Редакциялык чогултуу</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Коллекцияны жаңыртуу мүмкүн эмес</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Колдонууну ийгиликтүү жаңыртуу</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Сураныч, сиз барууну каалаган коллекциянын идентификаторун киргизиңиз.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Сураныч, жаңы коллекциялык аталышты киргизиңиз</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Бирдиктүү шарттар</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Учурда сизде кирүү мүмкүнчүлүгү жок</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Бажы ресурсу Id бош болушу мүмкүн эмес</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Бажы ресурстарын кайра байланыштыруу</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Ийгиликтүү экспорттолгон маалыматтар</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Коллекцияны түзүүдө ийгиликсиз</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Галереяны түзүүдө ийгиликсиз</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Галереяны жүктөп алуу мүмкүн эмес. Жашыруун ачкыч жараксыз болгон</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Коллекцияны жаңыртуу мүмкүн эмес</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Галерияны жаңыртуу мүмкүн эмес</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Галерея толгон жана максималдуу өлчөмдөн ашып кеткен</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Галеранын идентификатору</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Сураныч, сиз баргыңыз келген галереянын идентификаторуна кириңиз.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Калереянын аты-жөнү же жашыруун ачкычы, сураныч, дагы бир жолу аракет кылыңыз</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Сураныч, галереянын жарактуу атын көрсөтүңүз</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Туура эмес жашыруун ачкыч, сураныч, дагы бир жолу аракет кылыңыз</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Жашыруун ачкычты бул жерден киргизиңиз</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Галереялардын максималдуу уруксат берилген саны жетишилген</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Галерея тизмесин ала албай калды</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Бул корголгон галерея. Анын мазмунун көрүү үчүн жашыруун ачкычты киргизиңиз.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Галерея Id бош болушу мүмкүн эмес</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Галеранын аталышы бош болушу мүмкүн эмес</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Галереянын аталышы</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Галереянын аталышы буга чейин эле бар</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Сураныч, галереянын жаңы атын киргизиңиз</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Кайра байланышкан галерея ийгиликтүү</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Жашыруун ачкыч</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Сураныч, жаңы жашыруун ачкычты киргизиңиз</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Галереяны тандоочу</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Ховер</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Идентификатор</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Коноктордун аты-жөнү</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Сураныч, жарактуу электрондук почтаны көрсөтүңүз</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Жараксыз ысым</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Сураныч, жарактуу ысымды көрсөтүңүз</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Аты</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Галериянын жараксыз ачкычы</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Жараксыз ысым</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Сураныч, жарактуу ысымды көрсөтүңүз</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Сураныч жараксыз жашыруун ачкычты колдонуу менен берилген</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Жарык жарыгы</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Уруксат берилген максималдуу чекке жетти</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Байланыш шилтемеси</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Депутаттар</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id бош болушу мүмкүн эмес</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Аты-жөнү бош болушу мүмкүн эмес</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Колдонуучунун аты бош болушу мүмкүн эмес</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Аты</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Аталышы буга чейин эле бар</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Галеранын аталышы бош болушу мүмкүн эмес</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Негизги 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Корголгон галереялардын аталыштарына уруксат берилбейт. Сураныч, башка ысымды сынап көрүңүз</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Корголгон аталыштарга уруксат берилбейт. Сураныч, башка ысымды сынап көрүңүз</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR коддору</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Экинчилик 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Жашыруун ачкыч</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Сураныч, жаңы жашыруун ачкычты киргизиңиз</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Тандалган</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Колдонуучулардын кирүү деңгээли</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Колдонуучу Id бош болушу мүмкүн эмес</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Белгиленген колдонуучуну таба алган жок</value>

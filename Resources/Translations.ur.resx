@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>ایک آمدن نے کوکین کے استعمال کی منظوری دی ہے۔</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>مخلوق کا مجموعہ</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>گیلری</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>غیر متصل صارف</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>جمع</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>تجدید شدہ گیلری</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>کوڈ</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>جمع بنائیں</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>جمع کرنے میں ناکامی</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>کامیابانہ طور پر جمع</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>جمع</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>جمع کرنے میں ناکامی</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>کامیاب تجدید شدہ</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>برائے مہربانی وہ مجموعے داخل کریں جس سے آپ ملنا چاہتے ہیں۔.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>برائے مہربانی نیا مجموعہ داخل کریں</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>عام ترتیبات</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>آپ اب تک رسائی حاصل نہیں ہے</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>خالی وسائل محفوظ نہیں کیا جاسکتا</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>دوبارہ شروع</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>کامیابی سے جاری کردہ اعداد</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>جمع کرنے میں ناکامی</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>گیلری بنانے میں ناکامی</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>گیلری ڈاؤن لوڈ کرنے میں ناکام رہے۔ خفیہ کلید غلط تھی</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>جمع کرنے میں ناکامی</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>گیلری کی تجدید کرنے میں ناکامی</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>گیلری مکمل ہے اور مکس حجم سے تجاوز کر چکی ہے۔</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>گیلریاں</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>براہ کرم آپ جانا چاہتے ہیں گیلری کے شناخت کنندہ داخل کریں۔.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>خفیہ لفظ یا خفیہ کلید میں دوبارہ کوشش کریں۔</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>براہ راست گیلری کا نام متعین کریں</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>خفیہ کلید میں، براہ مہربانی دوبارہ کوشش کریں</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>یہاں خفیہ کلید داخل کرو</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>زیادہ تر اجازت یافتہ گیلریاں تک پہنچی ہیں۔</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>گیلری فہرست حاصل کرنے میں ناکامی</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>یہ ایک محفوظ گیلری ہے. برائے مہربانی اس کے مواد کو دیکھنے کے لئے خفیہ کلید داخل کریں.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>گیلری محفوظ نہیں کیا جاسکتا</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>گیلری نام خالی نہیں کیا جاسکتا</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>گیلری کا نام</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>گیلری نام پہلے ہی موجود ہے</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>براہ کرم نیا گیلری نام داخل کریں</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>کامیابی سے بحالی ہوئی گیلری</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>راز</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>برائے مہربانی نیا خفیہ کلید داخل کریں</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>گیلری منتخب کنندہ</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>هور</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>شناخت</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>چیک کریں</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>براہ راست ای میل متعین کریں</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>غیر متصل نام</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>برائے مہربانی مناسب نام درج کریں</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>نام</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>گلی‌کوچوں میں</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>غیر متصل نام</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>برائے مہربانی مناسب نام درج کریں</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>ایک نامناسب خفیہ کلید استعمال کرتے ہوئے درخواست کی گئی</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>روشنی</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>زیادہ تر اجازت دی گئی ہے۔</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>لنک</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>ممبر</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>محفوظ نہیں کیا جاسکتا</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>نام خالی نہیں چھوڑا جاسکتا</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>خالی نہیں کیا جا سکتا</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>نام</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>نام پہلے ہی موجود ہے</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>گیلری نام خالی نہیں کیا جاسکتا</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>ابتدائی 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>حفاظتی گیلری نام کی اجازت نہیں ہے۔ برائے مہربانی مختلف نام تلاش کریں</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>محفوظ نام اجازت نہیں دی گئی. برائے مہربانی مختلف نام تلاش کریں</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>کیو آر کوڈ</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>دوسرا مشورہ</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>راز</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>برائے مہربانی نیا خفیہ کلید داخل کریں</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>منتخب کریں</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>صارفین تک رسائی رسائی</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>صا_رف محفوظ نہیں کیا جاسکتا</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>طے شدہ صارف تلاش نہیں ہوسکتا</value>

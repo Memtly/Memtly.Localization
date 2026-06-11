@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Lankytojas patvirtino slapukų naudojimą</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Sukurta kolekcija</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Sukurta galerija</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Bevarlis naudotojas</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Atnaujinta kolekcija</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Atnaujinta galerija</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kodas</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Sukurti kolekciją</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Nepavyko sukurti kolekcijos</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Sėkmingai sukurta kolekcija</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Keisti kolekciją</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Nepavyko atnaujinti kolekcijos</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Sėkmingai atnaujinta kolekcija</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Prašome įvesti kolekcijos, kurią norite aplankyti, identifikatorių.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Prašome įvesti naują kolekcijos pavadinimą</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Bendrieji nustatymai</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Jūs šiuo metu neturite prieigos</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Parinkti resursai Id negali būti tuščias</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Name</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Sėkmingai eksportuoti duomenys</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Nepavyko sukurti kolekcijos</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Nepavyko sukurti galerijos</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Nepavyko atsisiųsti galerijos. Slaptas raktas buvo neteisingas</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Nepavyko atnaujinti kolekcijos</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Nepavyko atnaujinti galerijos</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galerija yra pilnas ir viršijo didžiausią dydį</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Galerija</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Prašome įvesti galerijos, kurioje norite apsilankyti, identifikatorius.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Blogas galerijos pavadinimas arba slaptas raktas, bandykite dar kartą</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Prašome nurodyti galiojantį galerijos pavadinimą</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Blogas slaptas raktas, bandykite dar kartą</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Čia įrašykite slaptą raktą</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Pasiektas didžiausias leidžiamas galerijų skaičius</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Nepavyko gauti galerijos sąrašo</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Čia saugoma galerija. Prašome įvesti slaptą raktą, norėdami peržiūrėti jo turinį.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galerija Id negali būti tuščias</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Galerija negali būti tuščia</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Galerija</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Galerija jau egzistuoja</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Prašome įvesti naują galerijos pavadinimą</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Sėkmingai grąžinta galerija</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Slaptas raktas</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Prašome įvesti naują slaptą raktą</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galerija</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifikatorius</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Tapatybės patikrinimas</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Prašome nurodyti galiojantį el. laišką</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Blogas vardas</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Prašome nurodyti galiojantį pavadinimą</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Pavadinimas</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Blogas galerijos raktas</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Blogas vardas</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Prašome nurodyti galiojantį pavadinimą</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Prašymas buvo pateiktas naudojant klaidingą slaptą raktą</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Šviesa</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Didžiausia leidžiama riba yra pasiekta</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Nuoroda</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Nariai</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id negali būti tuščias</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Vardas negali būti tuščias</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Vartotojo vardas negali būti tuščias</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Pavadinimas</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Pavadinimas jau egzistuoja</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galerija negali būti tuščia</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>2 pirminis</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Saugomi galerijos pavadinimai neleidžiami. @ info: status</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Saugomi pavadinimai neleidžiami. @ info: status</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR kodai</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>2-asis antrinis</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Slaptas raktas</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Prašome įvesti naują slaptą raktą</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Pasirinkti</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Prieigos lygis</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Naudotojas Id negali būti tuščias</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Nepavyko rasti nurodyto naudotojo</value>

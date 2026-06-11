@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Seorang pengunjung telah menyetujui penggunaan cookie</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Dibuat koleksi</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Galeri dibuat</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Pengguna tak membeku</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Memutakhirkan koleksi</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Galeri yang dimutakhirkan</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kode</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Buat Koleksi</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Gagal membuat koleksi</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Berhasil menciptakan koleksi</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Sunting Koleksi</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Gagal memperbarui koleksi</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Koleksi yang sukses diperbarui</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Silakan masukkan identifier dari koleksi yang ingin Anda kunjungi.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Silakan masukkan suatu nama koleksi baru</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Pengaturan Umum</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Anda saat ini tidak memiliki akses</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Sumber daya gubahan Id tidak dapat kosong</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Kembalikan Sumber Daya Kustom</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Data yang sukses diekspor</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Gagal membuat koleksi</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Gagal membuat galeri</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Gagal mengunduh galeri. Kunci rahasia tak valid</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Gagal memperbarui koleksi</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Gagal memperbarui galeri</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galeri penuh dan telah melebihi ukuran maksimal</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Pengenal Galeri</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Silakan masukkan identifier galeri yang ingin Anda kunjungi.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Nama galeri atau kunci rahasia tak valid, silakan coba lagi</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Silakan nyatakan nama galeri yang valid</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Kunci rahasia tak valid, silakan coba lagi</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Masukkan kunci rahasia di sini</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Jumlah galeri maksimum telah dicapai</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Gagal mendapatkan daftar galeri</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Ini adalah galeri yang dilindungi. Silakan masukkan kunci rahasia untuk melihat isinya.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galeri Id tidak dapat kosong</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Galeri nama tidak dapat kosong</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Nama Galeri</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Nama galeri sudah ada</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Silakan masukkan suatu nama galeri baru</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Galeri yang sukses dihubungkan ulang</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Kunci Rahasia</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Silakan masukkan kunci rahasia baru</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Pemilih Galeri</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Pengenal</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Periksa Identitas</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Mohon spesifikasikan surel yang valid</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Nama Tidak Valid</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Silakan nyatakan nama yang valid</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Nama</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Kunci galeri tak valid</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Nama Tidak Valid</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Silakan nyatakan nama yang valid</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Permintaan dibuat menggunakan kunci rahasia yang tak valid</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Cahaya</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Batas maksimum yang diijinkan telah dicapai</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Taut</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Anggota</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id tidak dapat kosong</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Nama tidak dapat kosong</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Nama pengguna tidak dapat kosong</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nama</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Nama sudah ada</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galeri nama tidak dapat kosong</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Utama 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Nama galeri yang dilindungi tidak diperbolehkan. Silakan coba nama lain</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Nama yang dilindungi tidak diperbolehkan. Silakan coba nama lain</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Kode QR</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>2 Second</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Kunci Rahasia</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Silakan masukkan kunci rahasia baru</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Pilih</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Tingkat akses pengguna</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Pengguna Id tidak dapat kosong</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Tak bisa temukan pengguna yang dinyatakan</value>

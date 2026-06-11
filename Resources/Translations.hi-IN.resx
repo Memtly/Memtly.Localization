@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>एक आगंतुक ने कुकीज़ के उपयोग को मंजूरी दे दी है</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>संग्रह</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>गैलरी</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>अनुचित उपयोगकर्ता</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>अद्यतन संग्रह</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>अद्यतन गैलरी</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>कोड</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>संग्रह बनाएँ</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>संग्रह बनाने में विफल</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>सफलतापूर्वक संग्रहित</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>संग्रह संपादित करें</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>संग्रह अद्यतन करने में विफल</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>सफलतापूर्वक अद्यतन संग्रह</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>कृपया उस संग्रह की पहचानकर्ता को दर्ज करें जिसे आप देखना चाहते हैं।.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>कृपया एक नया संग्रह नाम दर्ज करें</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>आम सेटिंग</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>वर्तमान में आपके पास पहुंच नहीं है</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>कस्टम संसाधन आईडी खाली नहीं हो सकता</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relink कस्टम संसाधन</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>सफलतापूर्वक निर्यात डेटा</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>संग्रह बनाने में विफल</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>गैलरी बनाने में विफल</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>गैलरी डाउनलोड करने में विफल रहा। गुप्त कुंजी अमान्य था</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>संग्रह अद्यतन करने में विफल</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>गैलरी अद्यतन करने में विफल</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>गैलरी पूर्ण है और अधिकतम आकार से अधिक है</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>गैलरी पहचानकर्ता</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>कृपया गैलरी के पहचानकर्ता को दर्ज करें जिसे आप देखना चाहते हैं।.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Invalid गैलरी नाम या गुप्त कुंजी, कृपया फिर से प्रयास करें</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>कृपया एक वैध गैलरी नाम निर्दिष्ट करें</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Invalid secret key, कृपया फिर से प्रयास करें</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>यहां क्लिक करें</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>गैलरी की अधिकतम अनुमति संख्या तक पहुंच गई है</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>गैलरी सूची प्राप्त करने में विफल</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>यह एक संरक्षित गैलरी है। कृपया अपनी सामग्री देखने के लिए गुप्त कुंजी दर्ज करें।.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>गैलरी आईडी खाली नहीं हो सकता</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>गैलरी का नाम खाली नहीं हो सकता</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>गैलरी नाम</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>गैलरी का नाम पहले से मौजूद है</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>कृपया एक नया गैलरी नाम दर्ज करें</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>सफलतापूर्वक रीलिंक्ड गैलरी</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>गुप्त कुंजी</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>कृपया एक नया गुप्त कुंजी दर्ज करें</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>गैलरी चयनकर्ता</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>होवर</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>पहचानकर्ता</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>पहचान जांच</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>कृपया एक वैध ईमेल निर्दिष्ट करें</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>अमान्य नाम</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>कृपया मान्य नाम निर्दिष्ट करें</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>नाम</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid गैलरी कुंजी</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>अमान्य नाम</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>कृपया मान्य नाम निर्दिष्ट करें</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>एक अनुरोध अवैध गुप्त कुंजी का उपयोग करके बनाया गया था</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>प्रकाश</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>अधिकतम अनुमति सीमा तक पहुंच गई है</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>लिंक</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>सदस्य</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>आईडी खाली नहीं हो सकता</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>नाम खाली नहीं हो सकता</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>उपयोगकर्ता नाम खाली नहीं हो सकता</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>नाम</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>पहले से ही मौजूद</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>गैलरी का नाम खाली नहीं हो सकता</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>प्राथमिक 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>संरक्षित गैलरी नामों की अनुमति नहीं है। कृपया एक अलग नाम आज़माएं</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>संरक्षित नामों की अनुमति नहीं है। कृपया एक अलग नाम आज़माएं</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR कोड</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>माध्यमिक 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>गुप्त कुंजी</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>कृपया एक नया गुप्त कुंजी दर्ज करें</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>चयन</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>उपयोगकर्ता पहुँच स्तर</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>उपयोगकर्ता आईडी खाली नहीं हो सकता</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>निर्दिष्ट उपयोगकर्ता को नहीं मिल सका</value>

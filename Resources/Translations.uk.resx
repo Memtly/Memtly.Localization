@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Відвідувач затвердив використання файлів cookie</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Колекція</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Галерея</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Розморожування користувача</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Оновлена колекція</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Оновлена галерея</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Коди</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Створення колекції</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Не вдалося створити колекцію</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Успішно створена колекція</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Колекція редагування</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Заборонено оновити колекцію</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Успішно оновлена колекція</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Будь ласка, введіть ідентифікатор колекції, який ви хочете відвідати.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Будь ласка, введіть ім'я нової колекції</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Загальні налаштування</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Ви не маєте доступу</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Спеціальний ресурс Я не можу бути порожнім</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relink Користувацькі Ресурси</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Успішно експортовані дані</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Не вдалося створити колекцію</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Не вдалося створити галерею</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Не вдалося завантажити галерею. Секретний ключ був недійсним</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Заборонено оновити колекцію</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Не вдалося оновити галерею</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Галерея повністю перевищила розмір макс</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Галерея Ідентифікатор</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Будь ласка, введіть ідентифікатор галереї, який ви хочете відвідати.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Будь ласка, спробуйте знову</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Будь ласка, вкажіть назву галереї</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Invalid секрет ключ, будь ласка, спробуйте знову</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Введіть секретний ключ тут</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Отримано максимальну кількість галерей</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Покинути список галереї</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Це захищена галерея. Будь ласка, введіть секретний ключ, щоб переглянути його зміст.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Видання Я не можу бути порожнім</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Назва галереї не може бути порожнім</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Назва галереї</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Назва галереї вже існує</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Будь ласка, введіть назву галереї</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Успішно відредаговані галереї</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Таємний ключ</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Будь ласка, введіть новий секретний ключ</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Галерея Selector</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Назар</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Виявлення</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Перевірка ідентичності</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Будь ласка, вкажіть дійсний email</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Ім'я користувача</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Будь ласка, вкажіть дійсне ім'я</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Ім'я</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid галерея ключ</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Ім'я користувача</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Будь ласка, вкажіть дійсне ім'я</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Запит було зроблено з використанням недійсного секретного ключа</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Світло</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Досягнення максимального допустимого ліміту</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Посилання</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Учасники</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Я не можу бути порожнім</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Ім'я не може бути порожнім</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Ім'я користувача не може бути порожнім</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Ім'я</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Ім'я вже існує</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Назва галереї не може бути порожнім</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Первинна 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Не допускаються назви галереї. Будь ласка, спробуйте інше ім'я</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Захищені імена не допускаються. Будь ласка, спробуйте інше ім'я</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR коди</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Поза «69»</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Таємний ключ</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Будь ласка, введіть новий секретний ключ</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Обрати</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Рівень доступу користувачів</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Користувач Я не можу бути порожнім</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Не знайдено вказаного користувача</value>

@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Külastaja on küpsiste kasutamise heaks kiitnud</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Loodud kogu</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Loodud galerii</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Sulge kasutaja</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Ajakohastatud kogu</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Ajakohastatud galerii</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kood</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Kogu loomine</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Kogu loomine nurjus</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Edukalt loodud kogu</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Muuda kogu</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Kogu uuendamine nurjus</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Edukalt uuendatud kogu</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Palun sisesta selle kollektsiooni identifikaator, mida soovid külastada.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Palun sisesta uus kogu nimi</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Ühised seadistused</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Sul pole praegu ligipääsu</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Kohandatud ressurss Id ei saa olla tühi</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Ühenda kohandatud ressurss uuesti</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Edukalt eksporditud andmed</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Kogu loomine nurjus</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Galerii loomine nurjus</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Galerii allalaadimine nurjus. Salavõti oli vigane</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Kogu uuendamine nurjus</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Galerii uuendamine nurjus</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galerii on täis ja ületanud max-suuruse</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Galerii identifikaator</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Palun sisestage galerii identifikaator, mida soovite külastada.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Vigane galerii nimi või salajane võti, palun proovi uuesti</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Palun määra sobiv galerii nimi</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Vigane salajane võti, palun proovi uuesti</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Kirjuta siia salajane võti</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Maksimaalne lubatud galeriide arv on saavutatud</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Galerii nimekirja hankimine nurjus</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>See on kaitstud galerii. Palun sisesta salajane võti, et näha selle sisu.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galeriis Id ei saa olla tühi</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Galerii nimi ei saa olla tühi</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Galerii nimi</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Galerii nimi on juba olemas</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Palun sisesta galerii uus nimi</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Galerii edukalt taasühendatud</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Salavõti</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Palun sisesta uus salajane võti</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galeriivalija</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifier</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Identiteedikontroll</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Palun määra korrektne kiri</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Vigane nimi</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Palun määra õige nimi</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Nimi</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Vigane galeriivõti</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Vigane nimi</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Palun määra õige nimi</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Nõue tehti vigase salajase võtmega</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Valgus</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Maksimaalne lubatud piirmäär on saavutatud</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Link</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Liikmed</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id ei saa olla tühi</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Nimi ei saa olla tühi</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Kasutajanimi ei saa olla tühi</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nimi</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Nimi on juba olemas</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galerii nimi ei saa olla tühi</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Esmane 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Kaitstud galeriide nimed ei ole lubatud. Palun proovi teist nime</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Kaitstud nimetused ei ole lubatud. Palun proovi teist nime</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR-koodid</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Teisene 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Salavõti</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Palun sisesta uus salajane võti</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Vali</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Kasutajate juurdepääsu tase</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Kasutaja Id ei saa olla tühi</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Määratud kasutaja leidmine nurjus</value>

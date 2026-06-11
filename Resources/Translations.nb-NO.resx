@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>En besøkende har godkjent bruk av cookies</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Opprettet samling</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Opprettet galleri</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Ufroze bruker</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Oppdatert samling</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Oppdatert galleri</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kode</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Opprett samling</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Klarte ikke å opprette samling</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Vellykket opprettet samling</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Rediger samling</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Klarte ikke å oppdatere samling</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Vellykket oppdatert samling</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Vennligst skriv inn identifikatoren til samlingen du vil besøke.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Skriv inn et nytt samlingsnavn</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Vanlige innstillinger</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Du har for tiden ikke tilgang til</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Tilpasset ressurs Id kan ikke være tomt</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relink Custom Resource</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>God eksport av data</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Klarte ikke å opprette samling</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Klarte ikke å opprette galleri</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Klarte ikke å laste ned galleri. Den hemmelige nøkkelen var ugyldig</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Klarte ikke å oppdatere samling</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Klarte ikke å oppdatere galleri</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galleriet er fullt og har overskredet størrelsen på</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Galleriidentifisering</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Skriv inn identifikatoren til galleriet du vil besøke.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Ugyldig gallerinavn eller hemmelig nøkkel, prøv igjen</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Vennligst oppgi et gyldig gallerinavn</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Ugyldig hemmelig nøkkel, prøv igjen</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Skriv inn hemmelig nøkkel her</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Det maksimale tillatte antall gallerier er nådd</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Klarte ikke å hente galleriliste</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Dette er et beskyttet galleri. Vennligst skriv inn den hemmelige nøkkelen for å vise innholdet.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galleri Id kan ikke være tomt</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Gallerinavnet kan ikke være tomt</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Gallerinavn</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Gallerinavn eksisterer allerede</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Vennligst skriv inn et nytt gallerinavn</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Vellykket relinked galleri</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Hemmelig nøkkel</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Vennligst skriv inn en ny hemmelig nøkkel</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galleriutvelger</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifikator</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Identifikasjonskontroll</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Vennligst oppgi en gyldig e-post</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Ugyldig navn</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Angi et gyldig navn</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Navn</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Ugyldig gallerinøkkel</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Ugyldig navn</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Angi et gyldig navn</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>En forespørsel ble gjort ved hjelp av en ugyldig hemmelig nøkkel</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Lys</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Den maksimale tillatte grensen er nådd</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Link</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Medlemmer</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id kan ikke være tomt</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Navnet kan ikke være tomt</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Brukernavn kan ikke være tomt</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Navn</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Navnet eksisterer allerede</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Gallerinavnet kan ikke være tomt</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Primær 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Beskyttede gallerinavn er ikke tillatt. Prøv et annet navn</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Beskyttede navn er ikke tillatt. Prøv et annet navn</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR-koder</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Sekundær 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Hemmelig nøkkel</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Vennligst skriv inn en ny hemmelig nøkkel</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Velg</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Brukernes tilgangsnivå</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Bruker Id kan ikke være tomt</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Kunne ikke finne den angitte brukeren</value>

@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Apmeklētājs ir apstiprinājis sīkdatņu izmantošanu</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Izveidota kolekcija</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Izveidota galerija</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze lietotājs</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Atjaunināta kolekcija</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Atjaunināta galerija</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kods</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Izveidot kolekciju</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Neizdevās izveidot kolekciju</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Veiksmīgi izveidota kolekcija</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Rediģēt kolekciju</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Neizdevās atjaunināt kolekciju</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Veiksmīgi atjaunināta kolekcija</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Lūdzu ievadiet tās kolekcijas identifikatoru, kuru vēlaties apmeklēt.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Lūdzu ievadiet jaunu kolekcijas nosaukumu</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Kopējie iestatījumi</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Jums šobrīd nav piekļuves</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Pielāgots resurss Id nevar būt tukšs</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Pārsaistīt pielāgotu resursu</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Veiksmīgi eksportētie dati</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Neizdevās izveidot kolekciju</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Neizdevās izveidot galeriju</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Neizdevās lejupielādēt galeriju. Slepenā atslēga nebija derīga</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Neizdevās atjaunināt kolekciju</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Neizdevās atjaunināt galeriju</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galerija ir pilna un ir pārsniegusi maksimālo izmēru</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Galerijas identifikators</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Lūdzu ievadiet galerijas identifikatoru, kuru vēlaties apmeklēt.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Nederīgs galerijas nosaukums vai slepenā atslēga, lūdzu mēģiniet vēlreiz</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Lūdzu norādiet derīgu galerijas nosaukumu</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Nederīga slepenā atslēga, lūdzu mēģiniet vēlreiz</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Šeit ievadiet slepeno atslēgu</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Sasniegts maksimālais pieļaujamais galeriju skaits</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Neizdevās iegūt galerijas sarakstu</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Šī ir aizsargāta galerija. Lūdzu ievadiet slepeno atslēgu, lai apskatītu tās saturu.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galerija Id nevar būt tukšs</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Galerijas nosaukums nevar būt tukšs</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Galerijas nosaukums</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Galerijas nosaukums jau eksistē</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Lūdzu ievadiet jaunu galerijas nosaukumu</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Veiksmīgi pārkārtota galerija</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Slepenā atslēga</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Lūdzu, ievadiet jaunu slepeno atslēgu</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galerijas Selektors</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifikators</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Identitātes pārbaude</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Lūdzu norādiet derīgu e- pastu</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Nederīgs vārds</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Lūdzu norādiet derīgu nosaukumu</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Nosaukums</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Nederīga galerijas atslēga</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Nederīgs vārds</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Lūdzu norādiet derīgu nosaukumu</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Pieprasījums tika veikts, izmantojot nederīgu slepeno atslēgu</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Gaišs</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Ir sasniegta maksimālā pieļaujamā robeža</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Saikne</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Locekļi</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id nevar būt tukšs</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Nosaukums nevar būt tukšs</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Lietotājvārds nevar būt tukšs</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nosaukums</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Nosaukums jau pastāv</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galerijas nosaukums nevar būt tukšs</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Primārais 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Aizsargāti galeriju nosaukumi nav atļauti. Lūdzu, mēģiniet citu nosaukumu</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Aizsargātie nosaukumi nav atļauti. Lūdzu, mēģiniet citu nosaukumu</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR kodi</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>2. sekundārs</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Slepenā atslēga</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Lūdzu, ievadiet jaunu slepeno atslēgu</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Izvēlēties</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Lietotāju piekļuves līmenis</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Lietotājs Id nevar būt tukšs</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Neizdevās atrast norādīto lietotāju</value>

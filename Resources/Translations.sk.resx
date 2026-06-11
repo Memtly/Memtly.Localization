@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Návštevník schválil používanie cookies</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Vytvorená kolekcia</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Vytvorená galéria</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze užívateľ</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Aktualizovaný zber</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Aktualizovaná galéria</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kód</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Vytvoriť kolekciu</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Zlyhalo vytvorenie kolekcie</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Úspešne vytvorená kolekcia</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Upraviť kolekciu</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Nepodarilo sa aktualizovať zber</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Úspešne aktualizovaný zber</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Zadajte identifikátor zbierky, ktorú chcete navštíviť.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Zadajte nový názov kolekcie</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Spoločné nastavenia</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Momentálne nemáte prístup</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Vlastný zdroj Id nemôže byť prázdny</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relinkovať vlastný zdroj</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Úspešne vyvezené údaje</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Zlyhalo vytvorenie kolekcie</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Nepodarilo sa vytvoriť galériu</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Nepodarilo sa stiahnuť galériu. Tajný kľúč bol neplatný</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Nepodarilo sa aktualizovať zber</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Nepodarilo sa aktualizovať galériu</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galéria je plná a prekročila maximálnu veľkosť</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Identifikátor galérie</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Prosím zadajte identifikátor galérie, ktorú chcete navštíviť.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Neplatné meno galérie alebo tajný kľúč, skúste to znova</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Prosím zadajte platný názov galérie</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Neplatný tajný kľúč, prosím skúste to znova</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Sem zadajte tajný kľúč</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Maximálny povolený počet galérií sa dosiahol</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Nepodarilo sa získať zoznam galérie</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Toto je chránená galéria. Prosím, zadajte tajný kľúč pre zobrazenie jeho obsahu.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galéria Id nemôže byť prázdny</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Názov galérie nemôže byť prázdny</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Názov galérie</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Názov galérie už existuje</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Zadajte názov novej galérie</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Úspešne prepojená galéria</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Tajný kľúč</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Prosím zadajte nový tajný kľúč</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Výber galérií</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Vznášadlo</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifikátor</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Kontrola totožnosti</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Prosím zadajte platný e-mail</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Neplatné meno</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Prosím, uveďte platný názov</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Názov</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Neplatný kľúč galérie</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Neplatné meno</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Prosím, uveďte platný názov</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Žiadosť bola podaná pomocou neplatného tajného kľúča</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Svetlo</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Maximálny povolený limit sa dosiahol</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Spojenie</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Členovia</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id nemôže byť prázdny</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Meno nemôže byť prázdne</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Užívateľské meno nemôže byť prázdne</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Názov</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Meno už existuje</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Názov galérie nemôže byť prázdny</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Primárne 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Chránené názvy galérie nie sú povolené. Prosím, skúste iný názov</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Chránené mená nie sú povolené. Prosím, skúste iný názov</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR kódy</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Sekundárne 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Tajný kľúč</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Prosím zadajte nový tajný kľúč</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Vybrať</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Prístupová úroveň používateľov</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Užívateľ Id nemôže byť prázdny</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Nepodarilo sa nájsť zadaného užívateľa</value>

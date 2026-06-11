@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Sinang - ayunan ng isang bisita ang paggamit ng mga cookies</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Nilalang na koleksiyon</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Nilalang na galerya</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Walang froze na gumagamit</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Binagong koleksiyon</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Binagong galerya</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kodigo</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Gumawa ng Koleksiyon</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Sawi sa paglikha ng koleksiyon</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Matagumpay na nalikha ang koleksiyon</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Koleksiyon ng Retita</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Sawi sa pag-update ng koleksiyon</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Matagumpay na binago ang koleksiyon</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Pakisuyong pumasok sa identifier ng koleksiyon na nais mong dalawin.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Pakisuyong pumasok sa bagong pangalan ng koleksiyon</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Karaniwang mga Pagtatakda</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Sa kasalukuyan ay wala kang makuha</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Kaugaliang yaman Hindi maaaring walang laman ang Id</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relink Binibining Kaugalian</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Matagumpay na nailuwas ang datos</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Sawi sa paglikha ng koleksiyon</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Sawi ang paglikha ng galerya</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Sawi sa pagkuha ng galerya. Walang bisa ang sekretong susi</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Sawi sa pag-update ng koleksiyon</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Bigo sa update gallery</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Ang Gallery ay punô at nahigitan ang sukat ng max ng</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Mas Mahusay ang Gallery</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Pakisuyong pumasok sa palatandaan ng galerya na nais mong dalawin.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Hindi tanggap na pangalan ng galerya o sekretong susi, pakisuyong subukan muli</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Pakisuyong magtakda ng angkop na pangalan sa galerya</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Hindi tanggap na susing susi, pakisuyong subukan muli</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Ipasok ang secret key dito</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Ang pinakamaraming ipinahihintulot na bilang ng galerya ay naabot</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Sawi sa pagkuha ng listahan ng gallery</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Ito ay isang protektadong galerya. Pakisuyong pumasok sa sekretong susi upang tingnan ang nilalaman nito.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Gallery Hindi maaaring walang laman ang Id</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Ang pangalang Gallery ay hindi maaaring walang laman</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Pangalan ng Gallery</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Umiiral na ang pangalang Gallery</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Pakisuyong pumasok sa isang bagong pangalan sa galerya</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Matagumpay na inayos - muli ang galerya</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Sekreto</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Pakisuyong ipasok ang isang bagong sekretong susi</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Pagpili ng Gallery</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Umurong</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Walang - Saysay</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Pagsusuri sa Pagkakakilanlan</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Pakisuyong magtakda ng isang tanggap na email</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Hindi tanggap na Pangalan</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Pakisuyong magtakda ng isang tanggap na pangalan</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Pangalan</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Hindi tanggap na gallery key</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Hindi tanggap na Pangalan</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Pakisuyong magtakda ng isang tanggap na pangalan</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Isang kahilingan ang hiniling na gumamit ng di - tanggap na lihim na susi</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Liwanag</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Ang sukdulang takda ay naabot</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Kaugnayan</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Mga miyembro</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Hindi maaaring walang laman ang Id</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Hindi maaaring walang laman ang pangalan</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Ang Username ay hindi maaaring walang laman</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Pangalan</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Umiiral na ang pangalan</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Ang pangalang Gallery ay hindi maaaring walang laman</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Pangunahin 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Ang iniingatang mga pangalan sa galerya ay hindi ipinahihintulot. Subukan ang ibang pangalan</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Ang iniingatang mga pangalan ay hindi ipinahihintulot. Subukan ang ibang pangalan</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Mga Kodigo ng QR</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Pangalawang Bahagi 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Sekreto</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Pakisuyong ipasok ang isang bagong sekretong susi</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Pumili</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Ang mga gumagamit ay nakakakuha ng antas</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>User Hindi maaaring walang laman ang Id</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Hindi makita ang espesipikong gumagamit</value>

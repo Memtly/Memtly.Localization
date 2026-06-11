@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Посетител е одобрил използването на бисквитки</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Създаване на колекция</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Създадена галерия</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Размразен потребител</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Обновена колекция</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Обновена галерия</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Код</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Създаване на колекция</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Грешка при създаване на колекция</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Успешно създадена колекция</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Редактиране на колекция</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Грешка при обновяване на колекцията</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Успешно актуализирано събиране</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Моля, въведете идентификатора на колекцията, която искате да посетите.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Моля въведете ново име на колекцията</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Общи настройки</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>В момента нямате достъп</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Потребителски ресурс Не може да е празен</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Превключване на потребителския ресурс</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Успешно изнесени данни</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Грешка при създаване на колекция</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Грешка при създаване на галерия</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Грешка при изтегляне на галерията. Тайният ключ беше невалиден</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Грешка при обновяване на колекцията</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Грешка при обновяване на галерията</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Галерия е пълна и е надхвърлила максималния размер на</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Идентификация на галерията</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Моля, въведете идентификатора на галерията, която искате да посетите.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Невалидно име на галерия или таен ключ, моля опитайте отново</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Моля, посочете валидно име на галерията</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Невалиден таен ключ, моля опитайте отново</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Въведете таен ключ тук</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Достигнат е максималния позволен брой галерии</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Грешка при получаване на списъка с галерии</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Това е защитена галерия. Моля, въведете тайния ключ, за да видите съдържанието му.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Галерия Не може да е празен</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Името на галерията не може да бъде празно</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Име на галерията</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Името на галерията вече съществува</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Моля въведете ново име на галерия</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Успешно свързана галерия</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Тайен ключ</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Моля въведете нов таен ключ</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Избор на галерия</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Ховър</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Идентификационен код</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Проверка на самоличността</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Моля, посочете валиден имейл</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Невалидно име</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Моля, посочете валидно име</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Име</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Невалиден ключ за галерия</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Невалидно име</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Моля, посочете валидно име</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Беше отправено искане с невалиден таен ключ</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Светлина</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Максимално допустимата граница е достигната</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Връзка</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Членове</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Не може да е празен</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Име не може да бъде празно</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Потребителското име не може да бъде празно</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Име</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Име вече съществува</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Името на галерията не може да бъде празно</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Първичен 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Защитените имена на галерията не са позволени. Моля опитайте с друго име</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Защитените имена не са позволени. Моля опитайте с друго име</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR кодове</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Вторично 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Тайен ключ</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Моля въведете нов таен ключ</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Избор</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Ниво на достъп на потребителите</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Потребител Не може да е празен</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Не може да бъде открит посочения потребител</value>

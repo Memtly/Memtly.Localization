@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Bir ziyaretçi cookies istifadə etdi</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Yaradılıb</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Yaradılıb</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Pulsuz istifadəçi</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Qeydiyyat</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Bakı</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Qalereya</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Kolleksiya</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Kolleksiya yaratmaq</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Yaradılmış kolleksiya</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Kolleksiya</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Kolleksiyanın yeniləndirilməsi</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Müasir yenilənmiş kolleksiya</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>. . . .</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Yeni kolleksiya adı daxil edin</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Axtarış</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Şu anda giriş deyil</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Xüsusi resurs Id boş deyil</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>E-poçt ünvanı</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Yaradılmış məlumat</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Kolleksiya yaratmaq</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Gallery yaratmaq</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Qeydiyyatdan istifadə etmək. gizli əsas qeyd edildi</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Kolleksiyanın yeniləndirilməsi</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Gallery yeniləndirilməsi</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Gallery tamdır və maksimum ölçüsü aşmışdır</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Qeydiyyat</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>. . . .</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Invalid gallery adı və ya gizli key, əlavə et</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Daxil ol</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Invalid gizli əsas, əlavə et</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Burada gizli əsas</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Sərgilərin maksimum xidmət nömrələrinə çatdı</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Gallery siyahısı almaq</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Bu qorunur. Onun content baxmaq üçün gizli key daxil edin.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Bakı Id boş deyil</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Domen adı boş deyil</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Qeydiyyat</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value> Gallery  already  already  already</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Yeni gallery adı daxil edin</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Müasir relinked gallery</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Gizli Keyf</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Daxil ol</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Qeydiyyat</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Qeydiyyat</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifier</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Qeydiyyat</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>E-poçt ünvanı</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Ad Soyad</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Daxil ol</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Ad Soyad</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid gallery əsas</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Ad Soyad</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Daxil ol</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Qeydsiz gizli əsas istifadə etdi</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>İşıq</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Maksimum qeyd limiti çatdı</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Axtar</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Qeydiyyat</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id boş deyil</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Ad boş deyil</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Username boş deyil</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Ad Soyad</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Ümumi adı</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Domen adı boş deyil</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Qeydiyyat</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Qeydiyyatdan keçmiş qazanmaq mümkün deyil. Daxil ol</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Qeydiyyatdan keçmiş adları qeydiyyatdan keçirilir. Daxil ol</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Qeydiyyat</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Ortaq 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Gizli Keyf</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Daxil ol</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Seçki</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Istifadəçilərin giriş səviyyəsi</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Qadın Id boş deyil</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Qeyd edilmiş istifadəçi tapa bilər</value>

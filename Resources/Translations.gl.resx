@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Un visitante ha aprobado el uso de cookies</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Creamos colección</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Creamos galería</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze usuario</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Colección actualizada</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Galería actualizada</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Código</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Crear colección</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Non foi posible crear colección</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Colección creada con éxito</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Edit Collection</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Non actualizar a colección</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Colección actualizada con éxito</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Introduza o identificador da colección que desexa visitar.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Introduza un novo nome de colección</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Configuración común</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Actualmente non tes acceso</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Recursos personalizados Non se pode estar baleiro</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Reenviar recursos personalizados</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Datos exportados con éxito</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Non foi posible crear colección</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Non se puido crear a galería</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Non chegou a descargar a galería. A chave secreta era inválida</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Non actualizar a colección</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Non se pode actualizar a galería</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>A galería está chea e superou o tamaño máximo de</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Galería Identificador</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Introduza o identificador da galería que desexa visitar.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Nome da galería non válido ou clave secreta, por favor, ténteo de novo</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Indique un nome de galería válido</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Chave secreta non válida, por favor, ténteo de novo</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Introduce a clave secreta aquí</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>O número máximo permitido de galerías</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Non chegou a lista de galerías</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>É unha galería protexida. Introduza a clave secreta para ver o seu contido.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galería Non se pode estar baleiro</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>O nome da galería non pode estar baleiro</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Galería Nome</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>O nome da galería xa existe</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Introduza un novo nome de galería</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Galería reconectada con éxito</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Chave secreta</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Introduza unha nova clave secreta</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galería Selector</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identificador</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Verificación de identidade</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Por favor, especifica un email válido</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Nome inválido</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Indique un nome válido</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Nome</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Galerías Inválidas</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Nome inválido</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Indique un nome válido</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Unha solicitude foi feita usando unha clave secreta non válida</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Luz</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>O límite máximo permitido</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Link</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Membros</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Non se pode estar baleiro</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>O nome non pode estar baleiro</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>O usuario non pode estar baleiro</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nome</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>O nome xa existe</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>O nome da galería non pode estar baleiro</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Primaria 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Non están permitidos os nomes das galerías protexidas. Proba un nome diferente</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Non se permiten nomes protexidos. Proba un nome diferente</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Códigos QR</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Secundarios 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Chave secreta</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Introduza unha nova clave secreta</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Seleccione</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Nivel de acceso dos usuarios</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Usuario Non se pode estar baleiro</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Non se atopou o usuario especificado</value>

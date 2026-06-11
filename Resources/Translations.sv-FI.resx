@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>En besökare har godkänt användningen av cookies</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Skapad samling</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Skapat galleri</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze användare</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Uppdaterad samling</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Uppdaterat galleri</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kodkod</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Skapa samling</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Misslyckades med att skapa samling</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Framgångsrikt skapad samling</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Edit Collection</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Misslyckades med att uppdatera insamlingen</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Framgångsrikt uppdaterad samling</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Ange identifieraren för den samling du vill besöka.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Vänligen ange ett nytt samlingsnamn</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Vanliga inställningar</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Du har för närvarande inte tillgång</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Anpassad resurs Id kan inte vara tom</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relink Custom Resource</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Framgångsrikt exporterade data</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Misslyckades med att skapa samling</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Misslyckades med att skapa galleri</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Misslyckades med att ladda ner galleri. Den hemliga nyckeln var ogiltig</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Misslyckades med att uppdatera insamlingen</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Misslyckades med att uppdatera galleriet</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galleriet är fullt och har överskridit maxstorleken på</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Galleri Identifier</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Ange identifieraren för galleriet du vill besöka.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Ogiltigt gallerinamn eller hemlig nyckel, försök igen</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Ange ett giltigt gallerinamn</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Ogiltig hemlig nyckel, försök igen</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Ange hemlig nyckel här</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Det maximala tillåtna antalet gallerier har uppnåtts</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Misslyckades med att få gallerilista</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Detta är ett skyddat galleri. Ange den hemliga nyckeln för att se dess innehåll.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galleriet Id kan inte vara tom</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Gallerinamnet kan inte vara tomt</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Galleri Namn</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Galleriets namn finns redan</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Vänligen ange ett nytt gallerinamn</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Framgångsrikt relinked galleri</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Hemlig nyckel</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Ange en ny hemlig nyckel</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galleri Selector</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifier</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Identity Check</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Ange en giltig e-post</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Invalidt namn</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Ange ett giltigt namn</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Namnnamn</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid galleri nyckel</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Invalidt namn</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Ange ett giltigt namn</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>En begäran gjordes med en ogiltig hemlig nyckel</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Ljus ljus</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Den maximala tillåtna gränsen har uppnåtts</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Länk</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Medlemmar</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id kan inte vara tom</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Namnet kan inte vara tomt</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Användarnamn kan inte vara tomt</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Namnnamn</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Namn finns redan</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Gallerinamnet kan inte vara tomt</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Primär 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Skyddade gallerinamn är inte tillåtna. Prova ett annat namn</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Skyddade namn är inte tillåtna. Prova ett annat namn</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR-koder</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Sekundär 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Hemlig nyckel</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Ange en ny hemlig nyckel</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Välj</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Användarnas åtkomstnivå</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Användare Id kan inte vara tom</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Kunde inte hitta den angivna användaren</value>

@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Vizito aprobis la uzon de kuketoj</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Kreita kolekto</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Kreita galerio</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze uzanto</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Ĝisdatigita kolekto</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Ĝisdatigita galerio</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kodo</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Krei Kolekton</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Malsukcesas krei kolekton</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Sukcesa kreita kolekto</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Edit Collection</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Malsukcesas ĝisdatigi kolekton</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Sukcesa kolekto</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Bonvolu eniri la identigilon de la kolekto, kiun vi volas viziti.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Bonvolu eniri novan kolekton</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Oftaj aranĝoj</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Vi ne havas aliron</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Kutima rimedo Mi ne povas esti malplena</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Religo Kutima Rimedo</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Sukcesaj datenoj</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Malsukcesas krei kolekton</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Malsukcesas krei galerion</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Malsukcesis elŝuti galerion. La sekreta ŝlosilo estis malvalida</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Malsukcesas ĝisdatigi kolekton</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Malsukcesas ĝisdatigi galerion</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galerio estas plena kaj superis la maksgrandecon de</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Galerio Identifier</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Bonvolu eniri la identigilon de la galerio, kiun vi volas viziti.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>La nomo aŭ sekreta ŝlosilo, bonvolu provi denove</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Bonvolu specifi validan galerion nomo</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>La sekreta ŝlosilo, bonvolu provi denove</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Enmetu sekretan ŝlosilon ĉi tie</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>La maksimuma permesita nombro da galerioj estis atingita</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Malsukcesas ricevi galerioliston</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Tio estas protektita galerio. Bonvolu eniri la sekretan ŝlosilon por rigardi ĝian enhavon.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galerio de galerio Mi ne povas esti malplena</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Kanaria nomo ne povas esti malplena</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Galerionomo</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Galerionomo jam ekzistas</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Bonvolu eniri novan galerion</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Sukcesa religita galerio</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Sekretoj</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Bonvolu eniri novan sekretan ŝlosilon</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Elektu galerion</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifier</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Identeco Kontrolu</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Bonvolu specifi validan retpoŝton</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Invalida nomo</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Bonvolu specifi validan nomon</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Nomo nomo</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalida galerio</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Invalida nomo</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Bonvolu specifi validan nomon</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Peto estis farita uzante malvalidan sekretan ŝlosilon</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Lumo de lumo</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>La maksimuma permesita limo estis atingita</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Ligiloj</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Membroj de membroj</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Mi ne povas esti malplena</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Nomo ne povas esti malplena</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Uzantnomo ne povas esti malplena</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nomo nomo</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Nomo jam ekzistas</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Kanaria nomo ne povas esti malplena</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Protektitaj galerionomoj ne estas permesitaj. Bonvolu provi alian nomon</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Protektitaj nomoj ne estas permesitaj. Bonvolu provi alian nomon</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR Codes</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>2 Sekundara 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Sekretoj</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Bonvolu eniri novan sekretan ŝlosilon</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Elektu</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>La uzantoj alirnivelo</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Uzanta Uzanto Mi ne povas esti malplena</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Oni ne povas trovi la specifitan uzanton</value>

@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Bisitari batek onartu du cookien erabilera</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Sortutako bilduma</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Sortutako galeria</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Erabiltzaileak huts egin</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Bilduma eguneratua</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Galeria eguneratua</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kodea</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Sortu bilduma</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Huts egin du bilduma sortzean</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Bilduma ongi sortu da</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Editatu bilduma</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Huts egin du bilduma eguneratzean</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Bilduma ongi eguneratu da</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Sartu bisitatu nahi duzun bildumaren identifikatzailea.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Sartu bilduma berriaren izena</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Ezarpen komunak</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Une honetan ez duzu sarbiderik</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Baliabide pertsonalizatua Id ezin da hutsik egon</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relink Baliabide pertsonalizatua</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Ongi esportatutako datuak</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Huts egin du bilduma sortzean</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Huts egin du galeria sortzean</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Huts egin du galeria deskargatzean. Gako sekretua baliogabea zen</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Huts egin du bilduma eguneratzean</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Huts egin du galeria eguneratzean</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galeria beteta dago eta gehienezko tamaina gainditu du</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Galeriaren identifikatzailea</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Sartu bisitatu nahi duzun galeriaren identifikatzailea.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Galeriaren izen baliogabea edo ezkutuko gakoa, saiatu berriro</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Zehaztu baliozko galeria-izena</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Gako sekretu baliogabea, saiatu berriro</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Sartu gako sekretua hemen</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Baimendutako galeria kopurua lortu da</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Huts egin du galeria-zerrenda eskuratzean</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Hau babestutako galeria da. Sartu gako sekretua edukia ikusteko.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galeria Id ezin da hutsik egon</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Galeriaren izena ezin da hutsik egon</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Galeriaren izena</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Galeriaren izena badago lehendik ere</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Sartu galeriaren izen berria</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Galeria ongi estekatua</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Ezkutuko gakoa</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Sartu gako sekretu berria</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galeria-hautatzailea</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifikatzailea</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Identitatearen kontrola</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Adierazi baliozko posta elektronikoa</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Izen baliogabea</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Zehaztu baliozko izena</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Izena</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Galeria-gako baliogabea</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Izen baliogabea</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Zehaztu baliozko izena</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Eskaera bat egin zen gako sekretu baliogabea erabiliz</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Argia</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Baimendutako gehienezko muga gainditu da</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Esteka</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Kideak</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id ezin da hutsik egon</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Izena ezin da hutsik egon</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Erabiltzaile-izena ezin da hutsik egon</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Izena</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Izen hori badago lehendik ere</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galeriaren izena ezin da hutsik egon</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Galeria-izen babestuak ez dira onartzen. Saiatu beste izen batekin</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Babestutako izenak ez dira onartzen. Saiatu beste izen batekin</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR kodeak</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Ezkutuko gakoa</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Sartu gako sekretu berria</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Hautatu</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Erabiltzaileen sarbide-maila</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Erabiltzailea Id ezin da hutsik egon</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Ezin izan da zehaztutako erabiltzailea aurkitu</value>

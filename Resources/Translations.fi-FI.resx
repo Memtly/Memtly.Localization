@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Vierailija on hyväksynyt evästeiden käytön</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Luotu kokoelma</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Luotu galleria</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Peruuta käyttäjä</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Päivitetty kokoelma</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Päivitetty galleria</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Koodi</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Luo kokoelma</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Kokoelmaa ei voitu luoda</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Onnistunut kokoelma</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Muokkaa kokoelmaa</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Kokoelman päivitys epäonnistui</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Onnistunut päivitys</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Anna haluamasi kokoelman tunniste.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Anna uusi kokoelman nimi</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Yleiset asetukset</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Sinulla ei tällä hetkellä ole pääsyä</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Oma resurssi Id ei voi olla tyhjä</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relink oma resurssi</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Onnistuneesti vietyjä tietoja</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Kokoelmaa ei voitu luoda</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Galleriaa ei voitu luoda</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Galleriaa ei voitu ladata. Salainen avain oli virheellinen</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Kokoelman päivitys epäonnistui</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Gallerian päivitys epäonnistui</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galleria on täynnä ja on ylittänyt max koko</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Gallerian tunniste</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Anna haluamasi gallerian tunniste.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Virheellinen gallerian nimi tai salainen avain, yritä uudelleen</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Määrittele kelvollinen gallerian name</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Virheellinen salainen avain, yritä uudelleen</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Anna salainen avain tähän</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Suurin sallittu määrä gallerioita on saavutettu</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Gallerialistaa ei voitu saada</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Tämä on suojattu galleria. Syötä salainen avain nähdäksesi sen sisällön.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galleria Id ei voi olla tyhjä</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Gallerian name ei voi olla tyhjä</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Gallerian nimi</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Gallerian nimi on jo olemassa</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Anna uusi gallerian name</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Onnistuneesti linkitetty galleria</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Salainen avain</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Anna uusi salainen avain</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Gallerian valitsija</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Leiju</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Tunniste</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Henkilöllisyyden tarkistus</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Määrittele voimassa oleva sähköposti</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Virheellinen name</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Määrittele kelvollinen name</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>name</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Virheellinen gallerian avain</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Virheellinen nimi</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Määrittele kelvollinen nimi</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Pyyntö tehtiin käyttäen virheellinen salainen avain</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Valo</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Sallittu enimmäismäärä on saavutettu</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Yhteystiedot</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Jäsenet</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id ei voi olla tyhjä</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Nimi ei voi olla tyhjä</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Käyttäjätunnus ei voi olla tyhjä</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nimi</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Nimi on jo olemassa</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Gallerian nimi ei voi olla tyhjä</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Ensisijainen 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Suojattuja gallerian nimiä ei sallita. Kokeile toista nimeä</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Suojattuja nimiä ei sallita. Kokeile toista nimeä</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR-koodit</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Toissijainen 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Salainen avain</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Anna uusi salainen avain</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Valitse</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Käyttäjät</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Käyttäjä Id ei voi olla tyhjä</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Määriteltyä käyttäjää ei löytynyt</value>

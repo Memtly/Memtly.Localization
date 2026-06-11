@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Un visitant ha aprovat l'ús de les galetesName</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>S' ha creat la col· lecció</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>S' ha creat la galeria</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Usuari unròze</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>S' ha actualitzat la col· lecció</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>S' ha actualitzat la galeria</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Codi</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Crea una col· lecció</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Ha fallat en crear la col· lecció</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>La col· lecció s' ha creat correctament</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Edita la col· lecció</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Ha fallat en actualitzar la col· lecció</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>S' ha actualitzat correctament la col· lecció</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Introduïu l' identificador de la col· lecció que voleu visitar.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Introduïu un nom de nova col· lecció</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Arranjament comú</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Actualment no teniu accés</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Recurs personalitzat No puc estar buida</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Reenllaça recurs personalitzat</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Les dades exportades correctament</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Ha fallat en crear la col· lecció</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Ha fallat en crear la galeria</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Ha fallat en baixar la galeria. La clau secreta no era vàlida</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Ha fallat en actualitzar la col· lecció</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Ha fallat en actualitzar la galeria</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>La galeria està plena i ha excedit la mida màxima de</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Identificador de la galeria</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Si us plau, introduïu l' identificador de la galeria que voleu visitar.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Nom de la galeria o clau secreta no vàlid, si us plau, torneu- ho a provar</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Si us plau, especifiqueu una galeria vàlida</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Clau secreta no vàlida, torneu- ho a provar</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Introduïu aquí la clau secreta</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>S' ha arribat al màxim nombre permès de galeries</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Ha fallat en obtenir la llista de la galeria</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Això és una galeria protegida. Si us plau, introduïu la clau secreta per veure el seu contingut.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galeria No puc estar buida</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>El nom de la galeria no pot estar buit</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Nom de la galeria</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>El nom de la galeria ja existeix</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Si us plau, introduïu una nova galeria</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>S' ha regenerat correctament la galeria</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Clau secreta</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Si us plau, introduïu una nova clau secreta</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Selector de galeria</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>En passar per sobre</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identificador</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Comprovació d' identitat</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Si us plau, especifiqueu un correu electrònic vàlid</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Nom no vàlid</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Especifiqueu un nom vàlid</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Nom</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Clau de galeria no vàlida</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Nom no vàlid</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Especifiqueu un nom vàlid</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>S' ha fet una petició usant una clau secreta no vàlida</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Llum</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>S' ha arribat al límit màxim permès</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Enllaç</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Membres</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>No puc estar buida</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>El nom no pot estar buit</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>El nom d' usuari no pot estar buit</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nom</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>El nom ja existeix</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>El nom de la galeria no pot estar buit</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Primària 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>No es permeten els noms de la galeria Protegit. Si us plau, proveu un nom diferent</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>No es permeten els noms Protegida. Si us plau, proveu un nom diferent</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Codis QR</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Secundari 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Clau secreta</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Si us plau, introduïu una nova clau secreta</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Selecciona</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>El nivell d' accés dels usuaris</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Usuari No puc estar buida</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>No s' ha pogut trobar l' usuari especificat</value>

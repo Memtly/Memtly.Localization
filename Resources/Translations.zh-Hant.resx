@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>有访客同意使用饼干</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>已建立收藏</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>已创建相册</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>解冻用户</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>已更新收藏</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>更新的相册</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>代码</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>建立收藏</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>建立收藏失敗</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>已成功建立收藏</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>編輯收藏</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>更新收藏失敗</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>已成功更新收藏</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>請輸入您要參觀的相關相關相關文件 .</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>請輸入新的收藏名稱</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>常见設定值</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>您目前无法访问</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>自訂資源 Id 不能是空的</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>重新連接自訂資源</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>成功导出数据</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>建立收藏失敗</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>创建相册失败</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>下载相册失败 。 密钥无效</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>更新收藏失敗</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>更新画廊失败</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>图片库已满并超过最大大小</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>图片库标识符</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>请输入您想要访问的画廊的标识 .</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>无效的画廊名称或密钥, 请再次尝试</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>请指定一个有效的画廊名称</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>无效的密钥, 请再次尝试</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>在此输入密钥</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>已经达到了最大允许的画廊数量</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>获取画廊列表失败</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>這是被保護的畫廊. 請輸入檢視其內容的秘密金鑰 .</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>图片库 无法为空</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>图片库名称不能为空</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>图片库名称</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>图片库名称已经存在</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>请输入新画廊名称</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>已成功重新連接相簿</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>密钥</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>请输入新的密钥</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>相簿選擇器</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>有花</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>标识符</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>身份检查</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>请指定有效的电子邮件</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>无效的名称</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>请指定一个有效名称</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>名称</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>无效的画廊密钥</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>不合法的名稱</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>請指定一個有效的名稱</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>请求使用无效的密钥</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>有光</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>已達到最大限限值</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>链接</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>成员</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id 不能是空的</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>名稱不能是空的</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>使用者名稱不能是空的</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>名称</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>名稱已存在</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>图片库名称不能为空</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>二等生</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>被保護的畫廊名被允許 。 就叫取同名吧</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>有被保護人名被禁止. 就叫取同名吧</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR 碼</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>第 二 章</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>密钥</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>請輸入新密钥</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>選擇</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>用户访问级别</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>用户 无法为空</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>找不到指定的用戶</value>

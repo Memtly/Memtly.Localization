@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Un vizitator a aprobat utilizarea cookie-urilor</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Colecţie creată</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Galerie creată</value>
   </data>
@@ -301,6 +304,9 @@
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Utilizator Unfroze</value>
   </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Colectarea actualizată</value>
+  </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Galerie actualizată</value>
   </data>
@@ -388,6 +394,9 @@
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Imposibil de eliminat contul de admin implicit. Puteți totuși congela pentru a preveni login</value>
   </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Nu s-a putut elimina galeria implicită</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Schimbă identitatea</value>
   </data>
@@ -418,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Cod</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Creează colecție</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>A eșuat crearea colectării</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Colecţie cu succes creată</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Editează colecția</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Eroare la actualizarea colectării</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Colectarea actualizată cu succes</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Introduceți identificatorul colecției pe care doriți să o vizitați.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Introduceți un nou nume de colecție</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Configurări comune</value>
   </data>
@@ -447,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>În prezent nu aveți acces</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Resursa personalizată Nu poate fi gol</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Reconectează resursa personalizată</value>
@@ -616,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Date exportate cu succes</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>A eșuat crearea colectării</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Crearea galeriei a eșuat</value>
   </data>
@@ -633,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>A eșuat descărcarea galeriei. Cheia secretă era invalidă</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Eroare la actualizarea colectării</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Eroare la actualizarea galeriei</value>
@@ -769,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galeria este plină și a depășit dimensiunea maximă a</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Identificatorul galeriei</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Introduceți identificatorul galeriei pe care doriți să o vizitați.</value>
   </data>
@@ -780,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Nume de galerie nevalidă sau cheie secretă, vă rugăm să încercați din nou</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Vă rugăm să specificați un nume valid al galeriei</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Cheie secretă nevalidă, încercaţi din nou</value>
@@ -796,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Introduceți cheia secretă aici</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Numărul maxim permis de galerii a fost atins</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Eșec la obținerea listei de galerii</value>
   </data>
@@ -807,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Aceasta este o galerie protejată. Introduceți cheia secretă pentru a vizualiza conținutul acesteia.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galerie Nu poate fi gol</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Numele galeriei nu poate fi gol</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Numele galeriei</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Numele galeriei există deja</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Introduceți un nou nume de galerie</value>
@@ -831,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Galerie reconectată cu succes</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Cheie secretă</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Introduceți o nouă cheie secretă</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Selector galerie</value>
@@ -889,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identificator</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Verificarea identității</value>
   </data>
@@ -912,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Vă rugăm să specificați un e-mail valid</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Denumire nevalidă</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Vă rugăm să precizați un nume valabil</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Nume</value>
@@ -982,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Cheie galerie nevalidă</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Denumire nevalidă</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Vă rugăm să precizați un nume valabil</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>O cerere a fost făcută folosind o cheie secretă invalidă</value>
   </data>
@@ -1005,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Lumină</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Limita maximă admisă a fost atinsă</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Legătură</value>
@@ -1060,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Membri</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Nu poate fi gol</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Numele nu poate fi gol</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Utilizatorul nu poate fi gol</value>
   </data>
@@ -1068,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nume</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Numele există deja</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Numele galeriei nu poate fi gol</value>
@@ -1207,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Primarul 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Numele galeriei protejate nu sunt permise. Vă rugăm să încercați un nume diferit</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Numele protejate nu sunt permise. Vă rugăm să încercați un nume diferit</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Coduri QR</value>
@@ -1395,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Secundar 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Cheie secretă</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Introduceți o nouă cheie secretă</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Alegeți</value>
@@ -2289,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Nivelul de acces al utilizatorilor</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Utilizator Nu poate fi gol</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Nu am putut găsi utilizatorul specificat</value>

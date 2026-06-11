@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Ένας επισκέπτης έχει εγκρίνει τη χρήση cookies</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Δημιουργία συλλογής</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Δημιουργία συλλογής</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Αποπαγωμένος χρήστης</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Ενημερωμένη συλλογή</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Ενημερωμένη συλλογή</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Κωδικός</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Δημιουργία συλλογής</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Αποτυχία δημιουργίας συλλογής</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Επιτυχής δημιουργία συλλογής</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Επεξεργασία συλλογής</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Αποτυχία ενημέρωσης της συλλογής</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Επιτυχής ενημερωμένη συλλογή</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Παρακαλώ εισάγετε το αναγνωριστικό της συλλογής που θέλετε να επισκεφθείτε.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Παρακαλώ εισάγετε ένα νέο όνομα συλλογής</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Κοινές ρυθμίσεις</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Προς το παρόν δεν έχετε πρόσβαση</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Προσαρμοσμένος πόρος Δεν μπορεί να είναι άδειο</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Επανασύνδεση προσαρμοσμένου πόρου</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Επιτυχής εξαγωγή δεδομένων</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Αποτυχία δημιουργίας συλλογής</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Αποτυχία δημιουργίας συλλογής</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Αποτυχία λήψης της συλλογής. Το μυστικό κλειδί δεν ήταν έγκυρο</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Αποτυχία ενημέρωσης της συλλογής</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Αποτυχία ενημέρωσης της συλλογής</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Η γκαλερί είναι γεμάτη και έχει ξεπεράσει το μέγιστο μέγεθος της</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Αναγνωριστικό γκαλερί</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Παρακαλώ εισάγετε το αναγνωριστικό της γκαλερί που θέλετε να επισκεφθείτε.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Μη έγκυρο όνομα συλλογής ή μυστικό κλειδί, παρακαλώ προσπαθήστε ξανά</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Παρακαλώ προσδιορίστε ένα έγκυρο όνομα συλλογής</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Μη έγκυρο μυστικό κλειδί, παρακαλώ προσπαθήστε ξανά</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Εισάγετε εδώ το μυστικό κλειδί</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Έχει επιτευχθεί ο μέγιστος επιτρεπόμενος αριθμός γκαλερί</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Αποτυχία λήψης λίστας συλλογής</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Αυτή είναι μια προστατευμένη γκαλερί. Παρακαλώ εισάγετε το μυστικό κλειδί για να δείτε το περιεχόμενό του.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Πινακοθήκη Δεν μπορεί να είναι άδειο</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Το όνομα της συλλογής δεν μπορεί να είναι κενό</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Όνομα γκαλερί</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Το όνομα της γκαλερί υπάρχει ήδη</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Παρακαλώ εισάγετε ένα νέο όνομα συλλογής</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Επιτυχής επανασύνδεση της συλλογής</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Μυστικό κλειδί</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Παρακαλώ εισάγετε ένα νέο μυστικό κλειδί</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Επιλογέας συλλογής</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Εραστής</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Αναγνωριστικό</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Έλεγχος ταυτότητας</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Παρακαλώ ορίστε ένα έγκυρο email</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Μη έγκυρο όνομα</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Παρακαλώ προσδιορίστε ένα έγκυρο όνομα</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Όνομα</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Μη έγκυρο κλειδί συλλογής</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Μη έγκυρο όνομα</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Παρακαλώ προσδιορίστε ένα έγκυρο όνομα</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Μια αίτηση υποβλήθηκε με χρήση ενός μη έγκυρου μυστικού κλειδιού</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Φως</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Το ανώτατο επιτρεπόμενο όριο έχει επιτευχθεί</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Δεσμός</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Μέλη</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Δεν μπορεί να είναι άδειο</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Το όνομα δεν μπορεί να είναι κενό</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Το όνομα χρήστη δεν μπορεί να είναι κενό</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Όνομα</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Το όνομα υπάρχει ήδη</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Το όνομα της συλλογής δεν μπορεί να είναι κενό</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Πρωτοβάθμια 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Δεν επιτρέπονται προστατευόμενα ονόματα γκαλερί. Παρακαλώ δοκιμάστε ένα διαφορετικό όνομα</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Τα προστατευόμενα ονόματα δεν επιτρέπονται. Παρακαλώ δοκιμάστε ένα διαφορετικό όνομα</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Κωδικοί QR</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Δευτερεύων 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Μυστικό κλειδί</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Παρακαλώ εισάγετε ένα νέο μυστικό κλειδί</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Επιλογή</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Επίπεδο πρόσβασης των χρηστών</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Χρήστης Δεν μπορεί να είναι άδειο</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Αδυναμία εύρεσης του καθορισμένου χρήστη</value>

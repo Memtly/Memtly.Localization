@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Een bezoeker heeft het gebruik van cookies goedgekeurd</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Aangemaakte collectie</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Galerie aangemaakt</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze-gebruiker</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Bijgewerkte verzameling</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Bijgewerkte galerij</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Rubriek</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Verzameling aanmaken</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Kon verzameling niet aanmaken</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Succesvol opgebouwde collectie</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Verzameling bewerken</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Kon verzameling niet bijwerken</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Bijgewerkte verzameling succesvol</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Voer de identificatie in van de collectie die u wilt bezoeken.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Voer een nieuwe collectienaam in</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Gemeenschappelijke instellingen</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>U heeft momenteel geen toegang</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Aangepaste bron Id kan niet leeg zijn</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Aangepaste hulpbron herkoppelen</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Gegevens succesvol geëxporteerd</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Kon verzameling niet aanmaken</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Aanmaken van galerij mislukt</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Kon galerij niet downloaden. De geheime sleutel was ongeldig</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Kon verzameling niet bijwerken</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Kon galerij niet bijwerken</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galerij is vol en heeft de maximale grootte van</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Galerij-identificatie</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Voer de identificatie in van de galerij die u wilt bezoeken.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Ongeldige galerienaam of geheime sleutel, probeer het opnieuw</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Geef een geldige galerienaam</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Ongeldige geheime sleutel, probeer het opnieuw</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Voer hier de geheime sleutel in</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Het maximaal toegestane aantal galerijen is bereikt</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Ophalen van galerielijst mislukt</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Dit is een beschermde galerij. Voer de geheime sleutel in om de inhoud ervan te bekijken.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Galerij Id kan niet leeg zijn</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Galerijnaam kan niet leeg zijn</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Galerijnaam</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Galerijnaam bestaat al</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Voer een nieuwe gallerijnaam in</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Galerie succesvol opnieuw verbonden</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Geheime sleutel</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Geef een nieuwe geheime sleutel</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galerijselectie</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identificatie</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Identiteitscontrole</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Geef een geldige e-mail op</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Ongeldige naam</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Geef een geldige naam</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Naam</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Ongeldige galeriesleutel</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Ongeldige naam</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Geef een geldige naam</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Een verzoek werd gedaan met een ongeldige geheime sleutel</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Licht</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>De maximaal toegestane limiet is bereikt</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Verband</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Leden</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Id kan niet leeg zijn</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Naam kan niet leeg zijn</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Gebruikersnaam kan niet leeg zijn</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Naam</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Naam bestaat al</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galerijnaam kan niet leeg zijn</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Primaire 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Beschermde galerienamen zijn niet toegestaan. Probeer een andere naam</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Beschermde namen zijn niet toegestaan. Probeer een andere naam</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR-codes</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Secundaire 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Geheime sleutel</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Geef een nieuwe geheime sleutel</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Selecteren</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Toegang tot het gebruikersniveau</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Gebruiker Id kan niet leeg zijn</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Kon de opgegeven gebruiker niet vinden</value>

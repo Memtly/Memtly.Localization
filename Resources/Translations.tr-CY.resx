@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Bir ziyaretçi kurabiyenin kullanımını onayladı</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Oluşturulan koleksiyon</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Oluşturulmuş galeri</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze kullanıcı</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Güncelleme koleksiyonu</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Güncelleme galeri</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Kod Kodu</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Create Collection</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Koleksiyon oluşturmak için başarısız oldu</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Başarılı bir şekilde oluşturulmuş koleksiyon</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Edit Collection</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Güncelleme koleksiyonuna başarısız oldu</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Başarılı bir şekilde güncellendi koleksiyon</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Lütfen ziyaret etmek istediğiniz koleksiyonun tanımlayıcısına girin.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Lütfen yeni bir koleksiyon adı girin</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Common Settings</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Şu anda erişiminiz yok</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Özel kaynak Boş olamaz</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relink Custom Resource</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Başarılı bir şekilde ihraç edilen veriler</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Koleksiyon oluşturmak için başarısız oldu</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Galeri oluşturmak için başarısız oldu</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Galeriyi indirmek için başarısız oldu. Gizli anahtar geçersizydi</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Güncelleme koleksiyonuna başarısız oldu</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Galeriyi güncellemek için başarısız oldu</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galeri dolu ve max boyutunu aştı</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Gallery Identifier</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Lütfen ziyaret etmek istediğiniz galerinin tanımlayıcısına girin.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Invalid galeri adı veya gizli anahtar, lütfen tekrar deneyin</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Lütfen geçerli bir galeri ismini belirtin</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Invalid gizli anahtarı, lütfen tekrar deneyin</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Burada gizli anahtar girin</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>En fazla izin verilen galeri sayısına ulaştı</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Galeri listesini almak için başarısız oldu</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Bu, korunan bir galeridir. Lütfen içeriğini görüntülemek için gizli anahtar girin.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Gallery Gallery Boş olamaz</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Galeri adı boş olamaz</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Gallery Name Gallery</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Gallery adı zaten var</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Lütfen yeni bir galeri adı girin</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Başarılı bir şekilde yeniden bağlantılı galeri</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Gizli Anahtar</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Lütfen yeni bir gizli anahtar girin</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Gallery Selector</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifier</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Kimlik Kontrolü</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Lütfen geçerli bir e-postayı belirtin</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Invalid Name</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Lütfen geçerli bir adı belirtin</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Name</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid galeri anahtarı</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Invalid Name</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Lütfen geçerli bir adı belirtin</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Bir istek geçersiz bir gizli anahtar kullanarak yapıldı</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Işık Işığı</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>En fazla izin verilen sınır ulaştı</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Link</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Üye Üyeleri</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Boş olamaz</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>İsim boş olamaz</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Kullanıcı adı boş olamaz</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Name</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>İsim zaten var</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galeri adı boş olamaz</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>Temel 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Korumalı galeri isimleri izin verilmez. Lütfen farklı bir isim deneyin</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Korumalı isimler izin verilmez. Lütfen farklı bir isim deneyin</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR kodları</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>Orta 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Gizli Anahtar</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Lütfen yeni bir gizli anahtar girin</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Select</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Kullanıcıların erişim seviyesi</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Kullanıcı Boş olamaz</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Belirtilen kullanıcıyı bulamadı</value>

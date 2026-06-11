@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>ผู้ มา เยี่ยม ได้ อนุมัติ ให้ ใช้ คุกกี้</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>สร้างคลังภาพ</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>คลังภาพที่ถูกสร้างขึ้น</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>ผู้ใช้ Unforse</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>ปรับปรุงคลังภาพ</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>ปรับปรุงคลังภาพ</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>รหัส</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>สร้างคลังสื่อ</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>ล้มเหลวในการสร้างชุดสะสม</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>คลังภาพที่ถูกสร้างสําเร็จแล้ว</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>แก้ไขคลังสื่อ</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>ล้มเหลวในการปรับปรุงคลังภาพ</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>ปรับปรุงคลังภาพเรียบร้อยแล้ว</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>โปรดป้อนส่วนแสดงตัวของคลังภาพที่คุณต้องการจะเยี่ยมชม.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>โปรดป้อนชื่อชุดสะสมใหม่</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>ตั้งค่าทั่วไป</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>คุณยังไม่มีสิทธิ์ในการใช้งาน</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>ตั้งค่าทรัพยากรเอง ไม่สามารถว่างได้</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>เชื่อมโยงทรัพยากรกําหนดเอง</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>ส่งข้อมูลเรียบร้อยแล้ว</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>ล้มเหลวในการสร้างชุดสะสม</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>ล้มเหลวในการสร้างคลังภาพ</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>ล้มเหลวในการดาวน์โหลดคลังภาพ กุญแจลับใช้งานไม่ได้</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>ล้มเหลวในการปรับปรุงคลังภาพ</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>ล้มเหลวในการอัปเดตคลังภาพ</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>แกลเลอรีภาพเต็มและมีขนาดสูงสุด</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>ตัวระบุแกลเลอรี</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>โปรดป้อนส่วนแสดงตัวของคลังภาพที่คุณต้องการจะเยี่ยมชม.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>ชื่อคลังภาพหรือกุญแจลับไม่ถูกต้อง โปรดลองใหม่อีกครั้ง</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>โปรดระบุชื่อของคลังภาพที่ถูกต้อง</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>กุญแจลับไม่ถูกต้อง โปรดลองใหม่อีกครั้ง</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>ป้อนกุญแจลับที่นี่</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>จํานวนของแกลเลอรี่ที่อนุญาตสูงสุด</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>ล้มเหลวในการรับรายการของคลังภาพ</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>นี่เป็นห้องภาพอนุรักษ์ โปรดป้อนกุญแจลับเพื่อดูเนื้อหา.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>คลังภาพ ไม่สามารถว่างได้</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>ชื่อของคลังภาพไม่สามารถว่างไว้ได้</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>ชื่อแกลเลอรี</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>มีชื่อแกลเลอรีอยู่แล้ว</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>โปรดป้อนชื่อแกลเลอรีใหม่</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>ทําการเชื่อมคลังภาพเรียบร้อยแล้ว</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>กุญแจลับ</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>โปรดป้อนกุญแจลับตัวใหม่</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>เครื่องมือเลือกคลังภาพ</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>ลบทั้งเธรด</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>ตัวระบุ</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>ตรวจสอบการแสดงตัว</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>โปรดระบุอีเมลที่ถูกต้อง</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>ชื่อไม่ถูกต้อง</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>โปรดระบุชื่อที่ถูกต้อง</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>ชื่อ</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>กุญแจของคลังภาพใช้ไม่ได้</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>ชื่อไม่ถูกต้อง</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>โปรดระบุชื่อที่ถูกต้อง</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>มีการร้องขอโดยใช้กุญแจลับไม่ถูกต้อง</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>แสง</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>ถึงขีดจํากัดที่อนุญาตสูงสุดแล้ว</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>เชื่อมโยง</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>สมาชิก</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>ไม่สามารถว่างได้</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>ชื่อไม่สามารถว่างไว้ได้</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>ชื่อผู้ใช้ไม่สามารถว่างไว้ได้</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>ชื่อ</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>มี ชื่อ อยู่ แล้ว</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>ชื่อของคลังภาพไม่สามารถว่างไว้ได้</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>อันดับ 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>ไม่อนุญาตให้ใช้ชื่อแกลเลอรี่ที่ป้องกันแล้ว โปรดลองชื่ออื่น</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>ห้ามใช้ชื่อป้องกัน โปรดลองชื่ออื่น</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>รหัส QR</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>2 มกราคม พ.ศ</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>กุญแจลับ</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>โปรดป้อนกุญแจลับตัวใหม่</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>เลือก</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>ระดับการเข้าถึงผู้ใช้</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>ผู้ใช้ ไม่สามารถว่างได้</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>ไม่พบผู้ใช้ที่ระบุ</value>

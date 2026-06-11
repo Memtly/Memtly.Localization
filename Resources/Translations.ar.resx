@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>قام زائر بالموافقة على استخدام الكعك</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>المجموعة المنشأة</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>معرض مبتكر</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>مستعمل غير متفجر</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>مجموعة مستكملة</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>معرض مستكمل</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>المدونة</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>مجموعة الإبداع</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>فشل في إنشاء مجموعة</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>المجموعة الناجحة</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Edit Collection</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>لم تستكمل المجموعة</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>المجموع المستكمل بنجاح</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>رجاءً إدخلْ رمزَ المجموعةَ تُريدُ أَنْ تُزورَ.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>من فضلك أدخل اسم جديد</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>مجموعة مشتركة</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>أنت حالياً لا تستطيع الوصول</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>الموارد العرفية لا يمكن أن تكون فارغة</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relink Custom Resource</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>البيانات المصدرة بنجاح</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>فشل في إنشاء مجموعة</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>فشل في خلق المعرض</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>فشل في تحميل المعرض. المفتاح السري غير صحيح</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>لم تستكمل المجموعة</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>فشل في تحديث المعرض</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>المعرض ممتلئ وقد تجاوز الحد الأقصى لحجم</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>تحديد الهوية</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>رجاءً إدخلْ رمزَ المعرضَ تُريدُ أَنْ تُزورَ.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>اسم المعرض الفاشل أو المفتاح السري، يرجى محاولة مرة أخرى</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>يرجى تحديد اسم المعرض الصحيح</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>مفتاح سري لا يُصدّق، رجاءً حاولْ ثانيةً</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>مفتاح سري هنا</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>تم الوصول إلى الحد الأقصى المسموح به من المغالي</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>فشل في الحصول على قائمة المعرض</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>هذا معرض محمي الرجاء إدخال المفتاح السري للنظر إلى مضمونه.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Gallery لا يمكن أن تكون فارغة</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>اسم المعرض لا يمكن أن يكون فارغا</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>اسم المعرض</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>اسم المعرض موجود بالفعل</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>من فضلك أدخل اسم المعرض الجديد</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>مقامرة متجددة بنجاح</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>المفتاح السري</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>من فضلك أدخل مفتاح سر جديد</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Gallery Selector</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Identifier</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>التحقق من الهوية</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>يرجى تحديد البريد الإلكتروني الصحيح</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>الاسم غير الرسمي</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>يرجى تحديد اسم صحيح</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>الاسم</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>مفتاح المعرض الفاشل</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>الاسم غير الرسمي</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>يرجى تحديد اسم صحيح</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>قُدم طلب باستخدام مفتاح سري غير صحيح</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>الضوء</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>تم بلوغ الحد الأقصى المسموح به</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Link</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>الأعضاء</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>لا يمكن أن تكون فارغة</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>الاسم لا يمكن أن يكون فارغا</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>لا يمكن أن يكون اسم المستخدم فارغا</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>الاسم</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>الاسم موجود بالفعل</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>اسم المعرض لا يمكن أن يكون فارغا</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>الابتدائي 2</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>لا يسمح لأسماء المعرض المحمية. من فضلك جرب اسم مختلف</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>لا يسمح بالأسماء المحمية. من فضلك جرب اسم مختلف</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QR Codes</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>التعليم الثانوي ٢</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>المفتاح السري</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>من فضلك أدخل مفتاح سر جديد</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>مختارة</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>مستوى وصول المستخدمين</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>مستخدم لا يمكن أن تكون فارغة</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>لا يمكن العثور على المستخدم المحدد</value>

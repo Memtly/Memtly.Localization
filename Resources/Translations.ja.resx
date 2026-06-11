@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>訪問者はクッキーの使用を承認しました</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>作成されたコレクション</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>制作ギャラリー</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>不正なユーザ</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>更新されたコレクション</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>更新ギャラリー</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>コードコード</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>コレクションの作成</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>コレクションを作成する失敗</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>巧妙に作られたコレクション</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>編集コレクション</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>コレクションを更新できなかった</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>絶え間なく更新されたコレクション</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>ご希望のコレクションの識別子を入力してください.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>新しいコレクション名を入力してください</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>共通設定</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>現在アクセスしていない</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>カスタムリソース Idは空にすることはできません</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>カスタムリソースを再リンク</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>データのエクスポート成功</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>コレクションを作成する失敗</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>ギャラリーを作成できない</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>ギャラリーのダウンロードに失敗しました。 秘密鍵が無効だった</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>コレクションを更新できなかった</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>更新ギャラリーに失敗</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>ギャラリーがいっぱいで、最大サイズを超えた</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>ギャラリー識別子</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>ご希望のギャラリーの識別子を入力してください.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>無効なギャラリー名または秘密鍵、もう一度お試しください</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>有効なギャラリー名を入力してください</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>無効な秘密鍵は、もう一度お試しください</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>秘密鍵を入力してください</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>許可されたギャラリーの数が最大に達した</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>ギャラリーリストを取得する失敗</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>保護されたギャラリーです。 コンテンツを見るには、秘密鍵を入力してください.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>ギャラリー 空に入らない</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>ギャラリー名を空にすることはできません</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>ギャラリー名</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>既に存在するギャラリー名</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>新しいギャラリー名を入力してください</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>成功裏にギャラリーを再リンク</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>秘密鍵</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>新しい秘密鍵を入力してください</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>ギャラリーセレクター</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>ハイバー</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>識別子</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>アイデンティティチェック</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>有効なメールアドレスを入力してください</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>無効な名前</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>有効な名前を入力してください</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>お名前 (必須)</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>無効なギャラリーのキー</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>無効な名前</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>有効な名前を入力してください</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>不正な秘密鍵を使ってリクエストをした</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>ライトライト</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>上限に達した</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>サイトマップ</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>メンバー</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Idは空にすることはできません</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>名前は空にすることはできません</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>ユーザー名は空にすることはできません</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>お名前 (必須)</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>既に存在する名前</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>ギャラリー名を空にすることはできません</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>第一次予選</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>保護されたギャラリー名は認められません。 別の名前をお試しください</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>保護された名前は許可されていません。 別の名前をお試しください</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>QRコード</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>二次2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>秘密鍵</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>新しい秘密鍵を入力してください</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>選択する</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>ユーザーのアクセスレベル</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>ユーザー登録 空に入らない</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>指定したユーザが見つからなかった</value>

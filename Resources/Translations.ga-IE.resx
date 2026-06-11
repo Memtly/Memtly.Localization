@@ -199,6 +199,9 @@
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>D’fhormheas cuairteoir úsáid fianán</value>
   </data>
+  <data name="Audit_CreatedCollection" xml:space="preserve">
+    <value>Bailiúchán cruthaithe</value>
+  </data>
   <data name="Audit_CreatedGallery" xml:space="preserve">
     <value>Gailearaí cruthaithe</value>
   </data>
@@ -300,6 +303,9 @@
   </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Úsáideoir Unfroze</value>
+  </data>
+  <data name="Audit_UpdatedCollection" xml:space="preserve">
+    <value>Bailiúchán Nuashonraithe</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Eolaire Chathair na Mart</value>
@@ -421,6 +427,30 @@
   <data name="Code" xml:space="preserve">
     <value>Cód an Chóid</value>
   </data>
+  <data name="Collection_Create" xml:space="preserve">
+    <value>Bailiúchán na Comhairle</value>
+  </data>
+  <data name="Collection_Create_Failed" xml:space="preserve">
+    <value>Failed a chruthú bailiúchán</value>
+  </data>
+  <data name="Collection_Create_Success" xml:space="preserve">
+    <value>Bailiúchán a cruthaíodh go rathúil</value>
+  </data>
+  <data name="Collection_Edit" xml:space="preserve">
+    <value>Bailiúchán Eagarthóir</value>
+  </data>
+  <data name="Collection_Edit_Failed" xml:space="preserve">
+    <value>Failed bailiúchán cothrom le dáta</value>
+  </data>
+  <data name="Collection_Edit_Success" xml:space="preserve">
+    <value>Bailiúchán nuashonraithe rathúil</value>
+  </data>
+  <data name="Collection_Identifier_Help" xml:space="preserve">
+    <value>Cuir aitheantóir an bhailiúcháin ar mian leat cuairt a thabhairt air.</value>
+  </data>
+  <data name="Collection_Name_Hint" xml:space="preserve">
+    <value>Cuir isteach ainm nua bailithe</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Naisc ábhartha eile</value>
   </data>
@@ -450,9 +480,6 @@
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Níl rochtain agat faoi láthair</value>
-  </data>
-  <data name="Custom_Resource_Missing_Id" xml:space="preserve">
-    <value>Acmhainní saincheaptha Ní féidir liom a bheith folamh</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Relink Acmhainn an Chustaim</value>
@@ -619,6 +646,9 @@
   <data name="Export_Data_Success" xml:space="preserve">
     <value>Sonraí a onnmhairíodh go rathúil</value>
   </data>
+  <data name="Failed_Add_Collection" xml:space="preserve">
+    <value>Failed a chruthú bailiúchán</value>
+  </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Failed a chruthú gailearaí</value>
   </data>
@@ -636,6 +666,9 @@
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
     <value>Failed a íoslódáil gailearaí. Bhí an eochair rúnda neamhbhailí</value>
+  </data>
+  <data name="Failed_Edit_Collection" xml:space="preserve">
+    <value>Failed bailiúchán cothrom le dáta</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Failed chun gailearaí cothrom le dáta</value>
@@ -772,9 +805,6 @@
   <data name="Gallery_Full" xml:space="preserve">
     <value>Tá Gailearaí iomlán agus tá níos mó ná an méid max</value>
   </data>
-  <data name="Gallery_Identifier" xml:space="preserve">
-    <value>Amharc ar gach eolas</value>
-  </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Cuir aitheantóir an gailearaí ar mian leat cuairt a thabhairt air.</value>
   </data>
@@ -783,9 +813,6 @@
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Ainm gailearaí luachmhar nó eochair rúnda, déan iarracht arís</value>
-  </data>
-  <data name="Gallery_Invalid_Name" xml:space="preserve">
-    <value>Sonraigh ainm bailí gailearaí</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
     <value>Eochair rúnda luachmhar, déan iarracht arís</value>
@@ -799,9 +826,6 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Cuir isteach eochair rúnda anseo</value>
   </data>
-  <data name="Gallery_Limit_Reached" xml:space="preserve">
-    <value>Tá an líon uasta ceadaithe dánlanna bainte amach</value>
-  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
     <value>Failed a fháil liosta gailearaí</value>
   </data>
@@ -810,18 +834,6 @@
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
     <value>Is gailearaí cosanta é seo. Cuir isteach an eochair rúnda chun féachaint ar a ábhar.</value>
-  </data>
-  <data name="Gallery_Missing_Id" xml:space="preserve">
-    <value>Amharc ar gach eolas Ní féidir liom a bheith folamh</value>
-  </data>
-  <data name="Gallery_Missing_Name" xml:space="preserve">
-    <value>Ní féidir ainm an Gailearaí folamh</value>
-  </data>
-  <data name="Gallery_Name" xml:space="preserve">
-    <value>Naisc ábhartha eile</value>
-  </data>
-  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
-    <value>Ainm an Gailearaí ann cheana féin</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
     <value>Cuir isteach ainm gailearaí nua</value>
@@ -834,12 +846,6 @@
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Rathfully relinked gailearaí</value>
-  </data>
-  <data name="Gallery_Secret_Key" xml:space="preserve">
-    <value>Gach ceart ar cosaint</value>
-  </data>
-  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
-    <value>Cuir isteach eochair rúnda nua</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Clár na dToghthóirí</value>
@@ -892,6 +898,9 @@
   <data name="Hover" xml:space="preserve">
     <value>Taiseachas aeir: fliuch</value>
   </data>
+  <data name="Identifier" xml:space="preserve">
+    <value>Aitheantas</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Seiceáil Aitheantais</value>
   </data>
@@ -915,12 +924,6 @@
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Sonraigh ríomhphost bailí</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
-    <value>Ainm an chabhlaigh</value>
-  </data>
-  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
-    <value>Sonraigh ainm bailí</value>
   </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Ainm an ainm</value>
@@ -985,6 +988,12 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Eochair gailearaí luachmhar</value>
   </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>Ainm an chabhlaigh</value>
+  </data>
+  <data name="Invalid_Name_Msg" xml:space="preserve">
+    <value>Sonraigh ainm bailí</value>
+  </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Rinneadh iarratas ag baint úsáide as eochair rúnda neamhbhailí</value>
   </data>
@@ -1008,6 +1017,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Solas na Gréine</value>
+  </data>
+  <data name="Limit_Reached" xml:space="preserve">
+    <value>Tá an uasteorainn a cheadaítear bainte amach</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Naisc ábhartha eile</value>
@@ -1063,6 +1075,12 @@
   <data name="Members" xml:space="preserve">
     <value>Ba mhaith liom..</value>
   </data>
+  <data name="Missing_Id" xml:space="preserve">
+    <value>Ní féidir liom a bheith folamh</value>
+  </data>
+  <data name="Missing_Name" xml:space="preserve">
+    <value>Ní féidir ainm a bheith folamh</value>
+  </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Ní féidir ainm úsáideora folamh</value>
   </data>
@@ -1071,6 +1089,9 @@
   </data>
   <data name="Name" xml:space="preserve">
     <value>Ainm an ainm</value>
+  </data>
+  <data name="Name_Already_Exists" xml:space="preserve">
+    <value>Ainm ann cheana féin</value>
   </data>
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Ní féidir ainm an Gailearaí folamh</value>
@@ -1210,8 +1231,8 @@
   <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>An tSraith Shinsearach</value>
   </data>
-  <data name="Protected_Gallery_Name" xml:space="preserve">
-    <value>Ní cheadaítear ainmneacha gailearaí faoi chosaint. Déan iarracht ainm difriúil</value>
+  <data name="Protected_Name" xml:space="preserve">
+    <value>Ní cheadaítear ainmneacha cosanta. Déan iarracht ainm difriúil</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Cóid QR</value>
@@ -1398,6 +1419,12 @@
   </data>
   <data name="Secondary_Two_Color_Label" xml:space="preserve">
     <value>An dara háit 2</value>
+  </data>
+  <data name="Secret_Key" xml:space="preserve">
+    <value>Gach ceart ar cosaint</value>
+  </data>
+  <data name="Secret_Key_Hint" xml:space="preserve">
+    <value>Cuir isteach eochair rúnda nua</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Roghnaigh gach rud</value>
@@ -2292,9 +2319,6 @@
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Leibhéal rochtana na n-úsáideoirí</value>
-  </data>
-  <data name="User_Missing_Id" xml:space="preserve">
-    <value>Úsáideora Ní féidir liom a bheith folamh</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Níorbh fhéidir teacht ar an úsáideoir sonraithe</value>
