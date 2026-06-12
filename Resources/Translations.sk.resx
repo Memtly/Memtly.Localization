@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Nahraný vlastný zdroj</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Vymazaný zber</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Vymazaná galéria</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Úspešne vytvorená kolekcia</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Odstrániť kolekciu</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Nepodarilo sa odstrániť kolekciu</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Úspešne vymazaná kolekcia</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Upraviť kolekciu</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Zadajte identifikátor zbierky, ktorú chcete navštíviť.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Nepodarilo sa získať zoznam kolekcií</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Zadajte nový názov kolekcie</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Nastavenie kolekcie</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Zbierky</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Spoločné nastavenia</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Zrušiť výber</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Deštruktívna akcia "Delete" bola vykonaná na kolekcii</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>Deštruktívna akcia "Delete" bola vykonaná na galérii</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Deštruktívne konanie</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Zlyhalo vytvorenie užívateľa</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Nepodarilo sa odstrániť kolekciu</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Nepodarilo sa odstrániť galériu</value>
@@ -1629,6 +1659,9 @@
   </data>
   <data name="Settings_Failed" xml:space="preserve">
     <value>Nepodarilo sa získať nastavenia</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
+    <value>Nepodarilo sa získať nastavenie</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">
     <value>Galéria je predvolená</value>

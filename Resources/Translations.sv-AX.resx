@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Uppladdad anpassad resurs</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Raderad samling</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Borttaget galleri</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Framgångsrikt skapad samling</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Delete Collection</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Underlåten att ta bort insamling</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Framgångsrikt borttagen samling</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Edit Collection</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Ange identifieraren för den samling du vill besöka.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Misslyckades med att få insamlingslista</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Vänligen ange ett nytt samlingsnamn</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Insamlingsinställningar</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Samlingar</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Vanliga inställningar</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Deselect All</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Destruktiva åtgärder "Delete" utfördes på samling</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>Den destruktiva åtgärden "Delete" utfördes på galleriet</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Destruktiv åtgärd utförd</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Misslyckats med att skapa användaren</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Underlåten att ta bort insamling</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Misslyckades med att ta bort galleri</value>
@@ -1628,6 +1658,9 @@
     <value>Anpassade politiker</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Misslyckades med att få inställningar</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Misslyckades med att få inställningar</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

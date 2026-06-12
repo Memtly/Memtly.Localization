@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Ressources personnalisées téléchargées</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Collecte supprimée</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Galerie supprimée</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Collection créée avec succès</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Supprimer la collecte</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Impossible de supprimer la collecte</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Collecte réussie</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Modifier la collection</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Veuillez saisir l'identificateur de la collection que vous souhaitez visiter.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Impossible d'obtenir la liste de collecte</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Veuillez saisir un nouveau nom de collection</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Paramètres de la collection</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Recouvrement</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Paramètres communs</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Tout désélectionner</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>L'action destructrice 'Delete' a été réalisée sur la collecte</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>L'action destructive 'Delete' a été réalisée sur la galerie</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Action destructive effectuée</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Impossible de créer l'utilisateur</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Impossible de supprimer la collecte</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Impossible de supprimer la galerie</value>
@@ -1628,6 +1658,9 @@
     <value>Politiques personnalisées</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Impossible d'obtenir les paramètres</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Impossible d'obtenir les paramètres</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

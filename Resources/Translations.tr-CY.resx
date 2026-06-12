@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Yöre özel kaynak</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Deleted koleksiyon</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Deleted gallery</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Başarılı bir şekilde oluşturulmuş koleksiyon</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Delete Collection</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Koleksiyon silmek için başarısız oldu</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Başarılı silinmiş koleksiyon</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Edit Collection</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Lütfen ziyaret etmek istediğiniz koleksiyonun tanımlayıcısına girin.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Koleksiyon listesini almak için başarısız oldu</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Lütfen yeni bir koleksiyon adı girin</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Koleksiyon Ayarları</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Koleksiyonlar</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Common Settings</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Deselect All</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>“Delete” yıkıcı eylem koleksiyonda yapıldı</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>“Delete” yıkıcı eylem galeride yapıldı</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Destructive Action Gerçekleştirildi</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Kullanıcı oluşturmak için başarısız oldu</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Koleksiyon silmek için başarısız oldu</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Galeriyi silmek için başarısız oldu</value>
@@ -1628,6 +1658,9 @@
     <value>Özel Politikalar</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Ayarları almak için başarısız oldu</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Ayarları almak için başarısız oldu</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

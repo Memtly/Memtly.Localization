@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Baliabide pertsonalizatua igota</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Ezabatutako bilduma</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Ezabatutako galeria</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Bilduma ongi sortu da</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Ezabatu bilduma</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Huts egin du bilduma ezabatzean</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Ongi ezabatutako bilduma</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Editatu bilduma</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Sartu bisitatu nahi duzun bildumaren identifikatzailea.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Huts egin du bilduma-zerrenda eskuratzean</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Sartu bilduma berriaren izena</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Bildumaren ezarpenak</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Bildumak</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Ezarpen komunak</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Desautatu denak</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>'Ezabatu' ekintza suntsitzailea bilduman egin zen</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>'Ezabatu' ekintza suntsitzailea galerian egin zen</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Ekintza suntsitzailea</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Huts egin du erabiltzailea sortzean</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Huts egin du bilduma ezabatzean</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Huts egin du galeria ezabatzean</value>
@@ -1628,6 +1658,9 @@
     <value>Politika pertsonalizatuak</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Huts egin du ezarpenak lortzean</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Huts egin du ezarpenak lortzean</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

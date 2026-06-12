@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>上传自定义资源</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>删除的收藏</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>删除相册</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>成功创建收藏</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>删除收藏</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>删除收藏失败</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>成功删除收藏</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>编辑收藏</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>请输入您想要访问的收藏的标识符 .</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>获取收藏列表失败</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>请输入新的收藏名称</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>收藏设置</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>收款</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>常见设置</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>全部取消选择</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>销毁行动“ 删除”是在收集时进行的</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>在画廊上表演了“删除”破坏动作</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>已执行的破坏行动</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>创建用户失败</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>删除收藏失败</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>删除相册失败</value>
@@ -1628,6 +1658,9 @@
     <value>自定义政策</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>获取设置失败</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>获取设置失败</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

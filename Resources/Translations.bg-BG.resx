@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Качен персонализиран ресурс</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Изтрито събиране</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Изтрита галерия</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Успешно създадена колекция</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Изтриване на колекция</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Грешка при изтриване на колекцията</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Успешно изтрита колекция</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Редактиране на колекция</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Моля, въведете идентификатора на колекцията, която искате да посетите.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Грешка при получаване на списъка с колекции</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Моля въведете ново име на колекцията</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Настройки на колекцията</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Колекции</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Общи настройки</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Размаркиране на всички</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Деструктивното действие "Делет" е извършено върху колекцията</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>Разрушителното действие "Делет" беше извършено в галерия</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Извършване на разрушително действие</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Грешка при създаване на потребител</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Грешка при изтриване на колекцията</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Грешка при изтриване на галерията</value>
@@ -1628,6 +1658,9 @@
     <value>Потребителски политики</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Грешка при получаване на настройките</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Грешка при получаване на настройките</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>अपलोड की गई कस्टम संसाधन</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>हटाए गए संग्रह</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>हटाई गई गैलरी</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>सफलतापूर्वक संग्रहित</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>डिलीट संग्रह</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>संग्रह को हटाने में विफल</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>सफलतापूर्वक हटाए गए संग्रह</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>संग्रह संपादित करें</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>कृपया उस संग्रह की पहचानकर्ता को दर्ज करें जिसे आप देखना चाहते हैं।.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>संग्रह सूची प्राप्त करने में विफल</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>कृपया एक नया संग्रह नाम दर्ज करें</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>संग्रह सेटिंग</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>संग्रह</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>आम सेटिंग</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>सभी का चयन करें</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>संग्रह पर विनाशकारी कार्रवाई 'Delete' किया गया था</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>गैलरी पर विनाशकारी कार्रवाई 'Delete' का प्रदर्शन किया गया था</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>विनाशकारी कार्रवाई का प्रदर्शन</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>उपयोगकर्ता बनाने में विफल</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>संग्रह को हटाने में विफल</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>गैलरी को हटाने में विफल</value>
@@ -1628,6 +1658,9 @@
     <value>कस्टम नीतियां</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>सेटिंग्स प्राप्त करने में विफल</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>सेटिंग्स प्राप्त करने में विफल</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

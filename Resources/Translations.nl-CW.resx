@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Geüpload aangepaste hulpbron</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Verwijderde verzameling</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Galerie verwijderd</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Succesvol opgebouwde collectie</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Verzameling verwijderen</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Verwijderen van collectie mislukt</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Verzameling succesvol verwijderd</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Verzameling bewerken</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Voer de identificatie in van de collectie die u wilt bezoeken.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Ophalen verzamelinglijst mislukt</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Voer een nieuwe collectienaam in</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Verzamelingsinstellingen</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Verzamelingen</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Gemeenschappelijke instellingen</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Alles deselecteren</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>De destructieve actie 'Delete' werd uitgevoerd op collectie</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>De destructieve actie 'Delete' werd uitgevoerd op galerie</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Destructieve actie uitgevoerd</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Aanmaken van gebruiker mislukt</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Verwijderen van collectie mislukt</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Kon galerij niet verwijderen</value>
@@ -1628,6 +1658,9 @@
     <value>Aangepast beleid</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Kon instellingen niet verkrijgen</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Kon instellingen niet verkrijgen</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

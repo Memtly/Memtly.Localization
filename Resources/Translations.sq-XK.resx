@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Ngarkohet burimi i personalizuar</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Koleksioni i fshirë</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Magazinim i fshirë</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Koleksion i krijuar me sukses</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Elemino Koleksionin</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Fshirja e koleksionit dështoi</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Koleksion i fshirë me sukses</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Ndrysho koleksionin</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Shkruaj i pari shtegu.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>E pamundur marrja e listës së koleksionit</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Shkruaj a i ri emri</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Rregullimet e mbledhjes</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Koleksione</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Rregullimet e përbashkëta</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Gjithçka</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Veprimi shkatërrues 'Elemino' u krye në koleksion</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>Veprimi shkatërrues 'Elemino' u krye në galeri</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Kryehet veprim destruktiv</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Krijimi i përdoruesit dështoi</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Fshirja e koleksionit dështoi</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Eleminimi i koleksionit dështoi</value>
@@ -1628,6 +1658,9 @@
     <value>Politika të personalizuara</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Gabim gjatë marrjes së rregullimeve</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Gabim gjatë marrjes së rregullimeve</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

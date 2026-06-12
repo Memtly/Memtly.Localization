@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>カスタムリソースをアップロード</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>削除されたコレクション</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>削除されたギャラリー</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>巧妙に作られたコレクション</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>コレクションの削除</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>コレクションを削除失敗</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>完全に削除されたコレクション</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>編集コレクション</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>ご希望のコレクションの識別子を入力してください.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>コレクションリストを取得する失敗</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>新しいコレクション名を入力してください</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>コレクション設定</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>コレクション</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>共通設定</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>すべて選択解除</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>破壊的なアクション 'Delete' がコレクションで実行されました</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>破壊的なアクション「削除」がギャラリーで実行されました</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>破壊的な行動の実行</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>ユーザーを作成する失敗</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>コレクションを削除失敗</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>ギャラリーを削除できない</value>
@@ -1628,6 +1658,9 @@
     <value>カスタムポリシー</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>設定が失敗</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>設定が失敗</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

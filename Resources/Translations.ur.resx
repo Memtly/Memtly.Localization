@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>دستور کی دوبارہ تجدید</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>جمع</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>حذف کردہ گیلری</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>کامیابانہ طور پر جمع</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>جمع</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>جمعے کو حذف کرنے میں ناکامی</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>کامیابانہ طور پر ختم شدہ</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>جمع</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>برائے مہربانی وہ مجموعے داخل کریں جس سے آپ ملنا چاہتے ہیں۔.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>جمع فہرست حاصل کرنے میں ناکامی</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>برائے مہربانی نیا مجموعہ داخل کریں</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>ترتیبات جمع کریں</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>پرنٹ</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>عام ترتیبات</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>تمام کا انتخاب کریں</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>مجموعی طور پر تباہ کن عمل 'سان‘ ادا کیا گیا تھا۔</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>عمارت پر تباہ کن عمل 'ہن‘ کیا گیا تھا۔</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>ترقی‌پسندانہ عمل</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>صارف بنانے میں ناکامی</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>جمعے کو حذف کرنے میں ناکامی</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>گیلری کو حذف کرنے میں ناکامی</value>
@@ -1628,6 +1658,9 @@
     <value>سیاست</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>ترتیبات حاصل کرنے میں ناکامی</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>ترتیبات حاصل کرنے میں ناکامی</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

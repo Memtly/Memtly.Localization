@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Lastet opp egendefinert ressurs</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Slettet samling</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Slettet galleri</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Vellykket opprettet samling</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Slett samling</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Klarte ikke å slette samlingen</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Vellykket slettet samling</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Rediger samling</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Vennligst skriv inn identifikatoren til samlingen du vil besøke.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Klarte ikke å hente samlingsliste</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Skriv inn et nytt samlingsnavn</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Innstillinger for samling</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Samlinger</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Vanlige innstillinger</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Avvelg alle</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Den destruktive handlingen «Slett» ble utført på samling</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>Den destruktive handlingen \"Slett\" ble utført på galleri</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Destruktiv handling utført</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Klarte ikke å opprette bruker</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Klarte ikke å slette samlingen</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Klarte ikke slette galleri</value>
@@ -1628,6 +1658,9 @@
     <value>Custom Policies</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Klarte ikke å hente innstillinger</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Klarte ikke å hente innstillinger</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

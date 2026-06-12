@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Poslano po meri vir</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Zbrisana zbirka</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Zbrisana galerija</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Uspešno ustvarjena zbirka</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Zbriši zbirko</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Ni moč zbrisati zbirke</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Uspešno izbrisana zbirka</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Uredi zbirko</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Vnesite identifikator zbirke, ki jo želite obiskati.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Ni moč dobiti seznama zbirk</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Vnesite novo ime zbirke</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Nastavitve zbiranja</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Zbirke</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Skupne nastavitve</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Odizberi vse</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Destruktivno dejanje "Delete" je bilo izvedeno na zbirki</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>Destruktivno dejanje 'Delete' je bilo izvedeno na galeriji</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Izvedeno destruktivno dejanje</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Ni uspelo ustvariti uporabnika</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Ni moč zbrisati zbirke</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Ni uspelo zbrisati galerije</value>
@@ -1628,6 +1658,9 @@
     <value>Politike po meri</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Ni moč dobiti nastavitev</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Ni moč dobiti nastavitev</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

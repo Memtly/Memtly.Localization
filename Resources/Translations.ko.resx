@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>사용자 정의 리소스</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>삭제 된 수집</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>삭제 된 갤러리</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>성공적으로 수집</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>비밀번호</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>수집에 실패</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>성공적으로 삭제 된 수집</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>관련 기사</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>방문하고 싶은 컬렉션의 식별자를 입력하십시오.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>수집 목록을 얻기 위해 실패</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>새 컬렉션 이름을 입력하십시오</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>수집 설정</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>회사 소개</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>일반 설정</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>모두 선택</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>파괴적인 행동 'Delete'는 수집에 수행되었습니다</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>Destructive action 'Delete'는 갤러리에서 수행되었습니다</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>연습 수행</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>사용자를 만드는 실패</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>수집에 실패</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>본문 바로가기</value>
@@ -1628,6 +1658,9 @@
     <value>주문 정책</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>설정에 실패</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>설정에 실패</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Xüsusi qurğu</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Deleted kolleksiyası</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Deleted gallery</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Yaradılmış kolleksiya</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Delete Collection</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Qablaşdırmaq</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Ətraflı silinmə kolleksiyası</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Kolleksiya</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>. . . .</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Kolleksiya siyahısı almaq</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Yeni kolleksiya adı daxil edin</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Elanlar</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Elanlar</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Axtarış</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Deselect</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Kolleksiyada "Delete" sənayesi</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>“Delete” sərgisi qazandı</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Daxil olmaq</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Istifadəçi yaratmaq</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Qablaşdırmaq</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Sığmaq</value>
@@ -1628,6 +1658,9 @@
     <value>Xüsusi Siyasətlər</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Sığorta almaq</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Sığorta almaq</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

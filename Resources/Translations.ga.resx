@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Acmhainn saincheaptha uaslódáilte</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Bailiúchán Scriosta</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Scriosadh gailearaí</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Bailiúchán a cruthaíodh go rathúil</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Ba mhaith liom..</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Failed bailiúchán a scriosadh</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Bailiúchán rathúil scriosadh</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Bailiúchán Eagarthóir</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Cuir aitheantóir an bhailiúcháin ar mian leat cuairt a thabhairt air.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Failed a fháil liosta bailiúcháin</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Cuir isteach ainm nua bailithe</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Naisc ábhartha eile</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Irl - Library Service</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Naisc ábhartha eile</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Díroghnaigh gach rud</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Rinneadh an gníomh millteach 'Delete' ar bhailiú</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>Rinneadh an gníomh millteach 'Delete' ar gailearaí</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>GnÃ omhaÃ ochta suaite</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Failed a chruthú úsáideoir</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Failed bailiúchán a scriosadh</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Failed a scriosadh gailearaí</value>
@@ -1628,6 +1658,9 @@
     <value>Polasaithe an Chustaim</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Failed chun suímh a fháil</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Failed chun suímh a fháil</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

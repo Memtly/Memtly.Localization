@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Ladattu oma resurssi</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Poistettu kokoelma</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Poistettu galleria</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Onnistunut kokoelma</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Poista kokoelma</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Kokoelmaa ei voitu poistaa</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Onnistuneesti poistettu kokoelma</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Muokkaa kokoelmaa</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Anna haluamasi kokoelman tunniste.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Keräyslistaa ei voitu saada</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Anna uusi kokoelman nimi</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Kokoelmaasetukset</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Kokoelmat</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Yleiset asetukset</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Poista kaikki</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Destructive action "Delete" toteutettiin keräämisen</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>Tuhoava toimi "Delete" toteutettiin galleriassa</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Tuhoava toiminta suoritettu</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Käyttäjän luonti epäonnistui</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Kokoelmaa ei voitu poistaa</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Gallerian poistaminen epäonnistui</value>
@@ -1628,6 +1658,9 @@
     <value>Omat politiikat</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Asetusten saaminen epäonnistui</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Asetusten saaminen epäonnistui</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>আপলোড করা স্বনির্ধারিত রিসোর্স</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>মুছে ফেলা হয়েছে</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>মুছে ফেলা গ্যালারি</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>সাফল্যের সাথে নির্মিত হয়েছে</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>সংগ্রহ</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>সংকলন মুছে ফেলতে ব্যর্থ</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>সাফল্যের সাথে তথ্য মুছে ফেলা হয়েছে</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>সংগ্রহ</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>অনুগ্রহ করে প্রিন্ট কর্ম চিহ্নকারী পংক্তি লিখুন ।.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>সংকলন প্রাপ্ত করতে ব্যর্থ</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>অনুগ্রহ করে একটি নতুন সংকলন লিখুন</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>সংগ্রহ</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>সংকলন</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>সাধারণ বৈশিষ্ট্য</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>সমগ্র নির্বাচন বাতিল</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>সংকলনের মধ্যে ধ্বংসাত্মক কর্ম 'মুছে ফেলুন' সমাপ্ত করা হয়েছে</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>গ্যালারির মধ্যে ধ্বংসাত্মক কর্ম "মুছে ফেলুন" সমাপ্ত করা হয়েছে</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>তালিকাবদ্ধ কাজ</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>ব্যবহারকারী তৈরি করতে ব্যর্থ</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>সংকলন মুছে ফেলতে ব্যর্থ</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>সংকলন মুছে ফেলতে ব্যর্থ</value>
@@ -1628,6 +1658,9 @@
     <value>স্বনির্ধারিত নীতি</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>বৈশিষ্ট্য প্রাপ্ত করতে ব্যর্থ</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>বৈশিষ্ট্য প্রাপ্ত করতে ব্যর্থ</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

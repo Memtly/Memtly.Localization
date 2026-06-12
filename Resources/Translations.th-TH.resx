@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>อัปโหลดทรัพยากรเอง</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>คลังภาพที่ถูกลบแล้ว</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>คลังภาพที่ถูกลบแล้ว</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>คลังภาพที่ถูกสร้างสําเร็จแล้ว</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>ลบคลังภาพ</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>ล้มเหลวในการลบคลังภาพ</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>คลังภาพที่ถูกลบเรียบร้อยแล้ว</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>แก้ไขคลังสื่อ</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>โปรดป้อนส่วนแสดงตัวของคลังภาพที่คุณต้องการจะเยี่ยมชม.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>ล้มเหลวในการรับรายการชุดสะสม</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>โปรดป้อนชื่อชุดสะสมใหม่</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>ตั้งค่าคลังสื่อ</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>ชุดสะสม</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>ตั้งค่าทั่วไป</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>ยกเลิกการเลือกทั้งหมด</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>การกระทําทําลาย 'ลบ' ถูกดําเนินการในคลัง</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>การกระทําเสียหาย 'ลบ' ถูกดําเนินการในแกลเลอรี่</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>ปฏิบัติ การ สอน</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>ล้มเหลวในการสร้างผู้ใช้</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>ล้มเหลวในการลบคลังภาพ</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>ล้มเหลวในการลบคลังภาพ</value>
@@ -1628,6 +1658,9 @@
     <value>ข้อกําหนดกําหนดเอง</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>ล้มเหลวในการรับการตั้งค่า</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>ล้มเหลวในการรับการตั้งค่า</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

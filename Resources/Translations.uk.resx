@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Загружено гостем</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Збірний збір</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Видалена галерея</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Успішно створена колекція</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Колекція Delete</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Не вдалося видалити збірку</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Успішно видалена колекція</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Колекція редагування</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Будь ласка, введіть ідентифікатор колекції, який ви хочете відвідати.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Покинути список збірок</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Будь ласка, введіть ім'я нової колекції</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Налаштування колекції</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Колекції</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Загальні налаштування</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Відчайити все</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Проведено деструктивну дію «Делете»</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>На галереї виконано деструктивну дію «Делете»</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Деструктивна дія</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Не вдалося створити користувача</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Не вдалося видалити збірку</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Не вдалося видалити галерею</value>
@@ -1628,6 +1658,9 @@
     <value>Користувальницькі політики</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Не вдалося отримати налаштування</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Не вдалося отримати налаштування</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">

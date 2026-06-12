@@ -214,6 +214,9 @@
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
     <value>Nahraný vlastní zdroj</value>
   </data>
+  <data name="Audit_DeletedCollection" xml:space="preserve">
+    <value>Vymazána sbírka</value>
+  </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
     <value>Vymazaná galerie</value>
   </data>
@@ -436,6 +439,15 @@
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Úspěšně vytvořená sbírka</value>
   </data>
+  <data name="Collection_Delete" xml:space="preserve">
+    <value>Smazat sbírku</value>
+  </data>
+  <data name="Collection_Delete_Failed" xml:space="preserve">
+    <value>Nepodařilo se odstranit sbírku</value>
+  </data>
+  <data name="Collection_Delete_Success" xml:space="preserve">
+    <value>Úspěšně vymazána sbírka</value>
+  </data>
   <data name="Collection_Edit" xml:space="preserve">
     <value>Upravit sbírku</value>
   </data>
@@ -448,8 +460,17 @@
   <data name="Collection_Identifier_Help" xml:space="preserve">
     <value>Zadejte prosím identifikátor sbírky, kterou chcete navštívit.</value>
   </data>
+  <data name="Collection_List_Failed" xml:space="preserve">
+    <value>Nepodařilo se získat seznam sbírek</value>
+  </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Zadejte prosím nový název sbírky</value>
+  </data>
+  <data name="Collection_Settings" xml:space="preserve">
+    <value>Nastavení sbírky</value>
+  </data>
+  <data name="Collections" xml:space="preserve">
+    <value>Sbírky</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Společná nastavení</value>
@@ -577,6 +598,12 @@
   <data name="Deselect_All" xml:space="preserve">
     <value>Zrušit výběr</value>
   </data>
+  <data name="Destructive_Action_Collection" xml:space="preserve">
+    <value>Destruktivní akce 'Smazat' byla provedena při sběru</value>
+  </data>
+  <data name="Destructive_Action_Gallery" xml:space="preserve">
+    <value>Destruktivní akce 'Smazat' byla provedena na galerii</value>
+  </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
     <value>Provedená destruktivní akce</value>
   </data>
@@ -654,6 +681,9 @@
   </data>
   <data name="Failed_Add_User" xml:space="preserve">
     <value>Selhalo vytvoření uživatele</value>
+  </data>
+  <data name="Failed_Delete_Collection" xml:space="preserve">
+    <value>Nepodařilo se odstranit sbírku</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
     <value>Nepodařilo se odstranit galerii</value>
@@ -1628,6 +1658,9 @@
     <value>Celní politika</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
+    <value>Nepodařilo se získat nastavení</value>
+  </data>
+  <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Nepodařilo se získat nastavení</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">
