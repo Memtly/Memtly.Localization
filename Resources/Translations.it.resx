@@ -395,7 +395,7 @@
     <value>Incapace di disattivare l'account in quanto è l'unico amministratore attivo. In questo modo può portare a blocco di sistema</value>
   </data>
   <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
-    <value>Non può cancellare la galleria in quanto è un membro di una raccolta</value>
+    <value>Non cancelli galleria come fa parte di una collezione</value>
   </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Non è possibile rimuovere l'account amministratore predefinito. Puoi comunque congelarlo per evitare il login</value>

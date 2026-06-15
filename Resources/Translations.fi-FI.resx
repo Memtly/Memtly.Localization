@@ -395,7 +395,7 @@
     <value>Tiliä ei voitu poistaa käytöstä, koska se on ainoa aktiivinen admin. Tämä voi johtaa järjestelmän sulkeutumiseen</value>
   </data>
   <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
-    <value>Galleriaa ei voi poistaa, koska se on kokoelman jäsen</value>
+    <value>Galleriaa ei voi poistaa, koska se on osa kokoelmaa</value>
   </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Oletushallintatilin poisto epäonnistui. Voit kuitenkin jäädyttää sen estääksesi kirjautumisen sisään</value>

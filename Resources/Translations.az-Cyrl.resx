@@ -395,7 +395,7 @@
     <value>Bu yalnız aktiv admin olduğu kimi deactivate hesab edəcək. Sistemin kilidi ilə əlaqədar olaraq</value>
   </data>
   <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
-    <value>Bir kolleksiyanın bir üzvü olaraq gallery silməz</value>
+    <value>Bir kolleksiyanın bir hissəsi olduğu kimi gallery silməz</value>
   </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Default admin hesabının aradan qaldırılması. Lakin giriş qarşısını almaq üçün onu dondura bilərsiniz</value>

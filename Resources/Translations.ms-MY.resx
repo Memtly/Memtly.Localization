@@ -395,7 +395,7 @@
     <value>Tidak dapat menonaktifkan akun sebagai satu-satunya admin aktif. Melakukan hal itu dapat mengakibatkan penguncian sistem</value>
   </data>
   <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
-    <value>Tidak dapat menghapus galeri karena itu adalah anggota koleksi</value>
+    <value>Tidak dapat menghapus galeri karena merupakan bagian dari koleksi</value>
   </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Tak dapat menghapus akun admin baku. Anda bisa membekukannya untuk mencegah log masuk</value>
