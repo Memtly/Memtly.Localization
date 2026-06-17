@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Impostazioni della galleria</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>Tipo di galleria da filtrare</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Svuota Galleria</value>
   </data>
@@ -1056,6 +1059,9 @@
   </data>
   <data name="Layout" xml:space="preserve">
     <value>Telaio</value>
+  </data>
+  <data name="Level" xml:space="preserve">
+    <value>Livello</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Luce</value>
@@ -2364,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Livello</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>Livello utente da filtrare</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Il livello di accesso degli utenti</value>

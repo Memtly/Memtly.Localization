@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>বিন্যাস</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>স্তর</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>সাদা</value>
   </data>
@@ -2367,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>স্তর</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>ব্যবহারকারী দ্বারা ফিল্টার করার জন্য চিহ্নিত স্তর</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>ব্যবহারকারীর দক্ষতা স্তর</value>

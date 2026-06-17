@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Izkārtojums</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Līmenis</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Gaišs</value>
   </data>
@@ -2367,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Līmenis</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>Lietotāja līmenis, ko filtrēt</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Lietotāju piekļuves līmenis</value>

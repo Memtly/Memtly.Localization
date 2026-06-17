@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Razpored</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Stopnja</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Svetloba</value>
   </data>
@@ -2367,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Stopnja</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>Uporabniška raven za filtriranje z</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Stopnja dostopa uporabnikov</value>

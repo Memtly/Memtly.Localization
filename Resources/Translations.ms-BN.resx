@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Susunatur</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Aras</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Terang</value>
   </data>
@@ -2367,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Aras</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>Tingkat pengguna untuk disaring</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Tingkat akses pengguna</value>

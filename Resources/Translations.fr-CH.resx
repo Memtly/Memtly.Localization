@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Mise en page</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Niveau</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Lumière</value>
   </data>
@@ -2367,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Niveau</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>Niveau utilisateur pour filtrer par</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Niveau d'accès des utilisateurs</value>

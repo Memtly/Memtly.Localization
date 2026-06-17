@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Layout</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Tase</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Valgus</value>
   </data>
@@ -2367,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Tase</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>Kasutaja tase filtreerimiseks</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Kasutajate juurdepääsu tase</value>

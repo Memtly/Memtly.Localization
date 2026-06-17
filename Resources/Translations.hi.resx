@@ -2368,6 +2368,9 @@
   <data name="User_Level" xml:space="preserve">
     <value>स्तर</value>
   </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>उपयोगकर्ता द्वारा फ़िल्टर करने का स्तर</value>
+  </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>उपयोगकर्ता पहुँच स्तर</value>
   </data>

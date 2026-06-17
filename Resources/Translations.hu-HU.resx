@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Elrendezés</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Szint</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Fény</value>
   </data>
@@ -2367,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Szint</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>Felhasználói szint szűrni</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>A felhasználók hozzáférési szintje</value>

@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Leagan Amach</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Leibhéal</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Solas na Gréine</value>
   </data>
@@ -2367,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Leibhéal</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>Leibhéal úsáideora a scagadh ag</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Leibhéal rochtana na n-úsáideoirí</value>

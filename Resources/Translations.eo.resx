@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Lavit</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Nivelo</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Lumo de lumo</value>
   </data>
@@ -2367,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nivelo</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>Uzanto nivelo por filtri per</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>La uzantoj alirnivelo</value>

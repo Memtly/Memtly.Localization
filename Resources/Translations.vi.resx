@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Bố trí</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Trình độ</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Làm sáng</value>
   </data>
@@ -2367,6 +2370,9 @@
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Trình độ</value>
+  </data>
+  <data name="User_Level_Help" xml:space="preserve">
+    <value>Cấp người dùng cần lọc bằng</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
     <value>Cấp truy cập người dùng</value>
