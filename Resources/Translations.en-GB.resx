@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Collection Settings</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>These settings are gallery specific and cannot be managed from the collection</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Collections</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>The provided access token was invalid</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Invalid collection Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>File type is invalid</value>

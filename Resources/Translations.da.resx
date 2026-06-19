@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Indsamlingsindstillinger</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Disse indstillinger er galleri specifikke og kan ikke styres fra samlingen</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Samlinger</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Den angivne adgangsbillet var ugyldig</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Ugyldig samling Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Filtype er ugyldig</value>

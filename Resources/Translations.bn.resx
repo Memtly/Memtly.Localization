@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>সংগ্রহ</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>এই বৈশিষ্ট্য নির্দিষ্ট করা হয়েছে এবং সংকলন থেকে সঞ্চালন করা সম্ভব নয়</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>সংকলন</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>প্রদত্ত টোকেন অকার্যকর</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>অবৈধ সংকলন</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>ফাইলের ধরন বৈধ নয়</value>

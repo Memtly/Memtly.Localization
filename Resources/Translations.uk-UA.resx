@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Налаштування колекції</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Ці налаштування є галереєю специфічними і не можуть бути керовані з колекції</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Колекції</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Наданий токени недійсний</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Інвалідна колекція Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Тип файлу недійсний</value>

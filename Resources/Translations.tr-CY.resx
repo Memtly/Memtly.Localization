@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Koleksiyon Ayarları</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Bu ayarlar galeri özeldir ve koleksiyondan yönetilemez</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Koleksiyonlar</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Sağlanan erişim geçersizydi</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Invalid koleksiyonu Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Dosya türü geçersizdir</value>

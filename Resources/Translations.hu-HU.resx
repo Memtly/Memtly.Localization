@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Gyűjtési beállítások</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Ezek a beállítások galéria specifikusak, és nem lehet kezelni a gyűjtemény</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Gyűjtemények</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>A biztosított belépőkártya érvénytelen volt</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Érvénytelen gyűjtemény azonosító</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>A fájltípus érvénytelen</value>

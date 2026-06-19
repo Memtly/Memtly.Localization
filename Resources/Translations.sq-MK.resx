@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Rregullimet e mbledhjes</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Këto rregullime janë të veçanta galerie dhe nuk mund të menazhohen nga koleksioni</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Koleksione</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Argumenti i dhënë i hyrjes ishte i pavlefshëm</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Id i pavlefshëm koleksioni</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Lloji i file është i pavlefshëm</value>

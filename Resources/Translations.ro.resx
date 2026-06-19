@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Configurări colecție</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Aceste setări sunt specifice galeriei şi nu pot fi gestionate din colecţie</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Colecții</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Tokenul de acces furnizat a fost invalid</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Id colecţie nevalidă</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Tipul fișierului este invalid</value>

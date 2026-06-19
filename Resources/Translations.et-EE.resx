@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Kogu seadistused</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Need seadistused on galeriispetsiifilised ja neid ei saa kollektsioonist hallata</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Kollektsioonid</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Pakutud juurdepääsuluba oli vigane</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Vigane kogu ID</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Failitüüp on vigane</value>

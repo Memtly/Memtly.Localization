@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Elanlar</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Bu ayarları gallery xüsusi və kolleksiyadan ibarət edə bilər</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Elanlar</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Qeydiyyatdan keçirilib</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Invalid kolleksiyası Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>File növü qeyd olunur</value>

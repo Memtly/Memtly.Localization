@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Pengaturan Koleksi</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Pengaturan ini spesifik galeri dan tidak dapat dikelola dari koleksi</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Koleksi</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Token akses yang diberikan tidak valid</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Id koleksi tidak valid</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Tipe berkas tak valid</value>

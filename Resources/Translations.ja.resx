@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>コレクション設定</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>これらの設定はギャラリー固有のものであり、コレクションから管理することはできません</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>コレクション</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>提供されたアクセストークンは無効でした</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>無効なコレクション Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>ファイルの種類が無効です</value>

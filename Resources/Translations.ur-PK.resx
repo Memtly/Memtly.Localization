@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>ترتیبات جمع کریں</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>یہ ترتیبات گیلری مخصوص ہیں اور مجموعے سے انتظام نہیں کیا جاسکتا ہے۔</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>پرنٹ</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>فراہم‌کردہ نشان غلط تھا</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>غیرمعمولی جمع</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>فائل قسم خراب نہیں ہوتی</value>

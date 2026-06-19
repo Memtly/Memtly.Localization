@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>संग्रह सेटिंग</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>इन सेटिंग्स गैलरी विशिष्ट हैं और संग्रह से प्रबंधित नहीं किया जा सकता है</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>संग्रह</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>प्रदान की गई पहुंच टोकन को अवैध घोषित किया गया था</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>अवैध संग्रह आईडी</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>फ़ाइल का प्रकार अमान्य है</value>

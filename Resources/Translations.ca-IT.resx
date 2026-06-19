@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Arranjament de la col· lecció</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Aquests paràmetres són específics de la galeria i no es poden gestionar de la col· lecció</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Col· leccions</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>El testimoni d' accés proporcionat no era vàlid</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>ID de col· lecció no vàlid</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>El tipus de fitxer no és vàlid</value>

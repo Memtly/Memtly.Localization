@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>ตั้งค่าคลังสื่อ</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>การตั้งค่าเหล่านี้เป็นคลังภาพที่ระบุไว้ และไม่สามารถจัดการจากคลังสื่อได้</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>ชุดสะสม</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>ป้ายที่จัดให้ใช้ไม่ได้</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>หมายเลขสะสมไม่ถูกต้อง</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>ประเภทแฟ้มไม่ถูกต้อง</value>

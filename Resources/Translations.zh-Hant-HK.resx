@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>收藏設定</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>這些設定是相簿特有而無法從收藏中被管理</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>二. 收藏</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>提供的访问令牌无效</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>不合法的收藏 ID</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>文件类型无效</value>

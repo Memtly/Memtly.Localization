@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Pagsasaayos ng Koleksiyon</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Ang mga tagpong ito ay espesipiko at hindi kayang pangasiwaan mula sa koleksiyon</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Mga Koleksiyon</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Ang ibinigay na paunawa ay hindi tanggap</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Hindi tanggap na Ani Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Hindi tanggap ang talaksan</value>

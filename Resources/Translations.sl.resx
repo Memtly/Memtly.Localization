@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Nastavitve zbiranja</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Te nastavitve so specifične za galerijo in jih ni mogoče upravljati iz zbirke</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Zbirke</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Dostop do žetona je bil neveljaven</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Neveljavna zbirka ID</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Vrsta datoteke je neveljavna</value>

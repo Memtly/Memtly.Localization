@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Settings συλλογής</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Οι ρυθμίσεις αυτές είναι συγκεκριμένες και δεν μπορούν να διαχειριστούν από τη συλλογή</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Συλλογές</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Η παρεχόμενη πρόσβαση δεν ήταν έγκυρη</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Μη έγκυρη ταυτότητα συλλογής</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Ο τύπος αρχείου δεν είναι έγκυρος</value>

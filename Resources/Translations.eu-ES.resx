@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Bildumaren ezarpenak</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Ezarpen hauek galeriaren berezitasunak dira eta ezin dira bildumatik kudeatu</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Bildumak</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Emandako sarbide-tokena ez da baliozkoa</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Bilduma baliogabea</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Fitxategi mota baliogabea da</value>

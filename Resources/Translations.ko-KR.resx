@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>수집 설정</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>이 설정은 갤러리 특정하고 수집에서 관리 할 수 없습니다</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>회사 소개</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>제공된 액세스 토큰은 잘못되었습니다</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>잘못된 컬렉션 Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>파일 형식은 invalid</value>

@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Nastavenie kolekcie</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Tieto nastavenia sú špecifické pre galériu a nemôžu byť riadené zo zbierky</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Zbierky</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Poskytnutý prístup k tokenu bol neplatný</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Neplatná kolekcia ID</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Typ súboru nie je platný</value>

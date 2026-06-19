@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Verzamelingsinstellingen</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Deze instellingen zijn galerijspecifiek en kunnen niet vanuit de collectie worden beheerd</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Verzamelingen</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Het opgegeven toegangs token was ongeldig</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Ongeldige verzameling-id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Bestandstype is ongeldig</value>

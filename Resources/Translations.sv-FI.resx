@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Insamlingsinställningar</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Dessa inställningar är gallerispecifika och kan inte hanteras från samlingen</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Samlingar</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Tillhandahållen åtkomsttoken var ogiltig</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Invalid samling Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Filtyp är ogiltig</value>

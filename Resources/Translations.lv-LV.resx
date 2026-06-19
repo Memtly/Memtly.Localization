@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Kolekcijas iestatījumi</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Šie iestatījumi ir raksturīgi galerijai un tos nevar pārvaldīt no kolekcijas</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Kolekcijas</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Norādītā piekļuve marķierierīcei nebija derīga</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Nederīgs kolekcijas Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Faila tips nav derīgs</value>

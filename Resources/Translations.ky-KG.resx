@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Коллекциянын орнотуулары</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Бул орнотуулар галереяга мүнөздүү жана коллекциядан башкарылбайт</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Коллекциялар</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Берилген кирүү белгиси жараксыз болгон</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Туура эмес чогултуу Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Файлдын түрү жараксыз</value>

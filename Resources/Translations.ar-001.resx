@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>المجموعة</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>هذه البيئات محددة ولا يمكن إدارتها من المجموعة</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>المبالغ المحصلة</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>The provided access token was invalid</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>المجموعة غير الصحيحة</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>نوع الملف غير صحيح</value>
@@ -2136,6 +2142,9 @@
   </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Share Code</value>
+  </data>
+  <data name="Share_Link_Copied" xml:space="preserve">
+    <value>وصلة التقاسم تم نسخها من لوح المشبك</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>العروض المتقدمة</value>

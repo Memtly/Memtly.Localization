@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Naisc ábhartha eile</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Tá na suímh seo ar leith gailearaí agus ní féidir iad a bhainistiú ón mbailiúchán</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Irl - Library Service</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Bhí an dearbhán rochtana a soláthraíodh neamhbhailí</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Bailiúchán luachmhar</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Tá cineál comhaid neamhbhailí</value>

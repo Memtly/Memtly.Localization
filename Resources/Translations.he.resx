@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>הגדרות איסוף</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>הגדרות אלה הן קטגוריות ספציפיות ולא ניתן לנהל מתוך האוסף</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>אוסף</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>הסימון של הגישה היה בלתי חוקי</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>אוסף לא חוקי Id</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>סוג הקובץ אינו חוקי</value>

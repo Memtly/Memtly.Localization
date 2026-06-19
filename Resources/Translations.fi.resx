@@ -481,6 +481,9 @@
   <data name="Collection_Settings" xml:space="preserve">
     <value>Kokoelmaasetukset</value>
   </data>
+  <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
+    <value>Nämä asetukset ovat galleriakohtaisia eikä niitä voida hallita kokoelmasta</value>
+  </data>
   <data name="Collections" xml:space="preserve">
     <value>Kokoelmat</value>
   </data>
@@ -1026,6 +1029,9 @@
   </data>
   <data name="Invalid_Access_Token" xml:space="preserve">
     <value>Annettu kulkutunnus oli virheellinen</value>
+  </data>
+  <data name="Invalid_Collection_Id" xml:space="preserve">
+    <value>Virheellinen kokoelmatunniste</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Tiedostotyyppi on virheellinen</value>
