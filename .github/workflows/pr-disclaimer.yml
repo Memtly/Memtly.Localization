@@ -14,11 +14,18 @@ jobs:
           script: |
             const body = context.payload.pull_request.body || '';
 
-            const checked = body.includes(
-              '- [x] I have read the [Pull Request Disclaimer]'
-            );
+            const changeTypeSelected = body.includes('- [x] Manually from a native speaker.')
+              || body.includes('- [x] Manually from a non-native speaker.')
+              || body.includes('- [x] Automatically using an AI or other translation tool.')
+              || body.includes('- [x] Automatically but verified by a native speaker.');
+            if (!changeTypeSelected) {
+              core.setFailed(
+                'You must tell us how the changes were made. Please check the checkbox that best describes how the changes were made. If this PR was not generated using the template please close it and re-create it using the template. You can read the PR agreement here - https://docs.memtly.com/docs/pull_requests'
+              );
+            }
 
-            if (!checked) {
+            const disclaimerAgreed = body.includes('- [x] I have read the [Pull Request Disclaimer]');
+            if (!disclaimerAgreed) {
               core.setFailed(
                 'You must read and agree to the PR disclaimer by checking the checkbox before this PR can be reviewed. If this PR was not generated using the template please close it and re-create it using the template. You can read the PR agreement here - https://docs.memtly.com/docs/pull_requests'
               );
