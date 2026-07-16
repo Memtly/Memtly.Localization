@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Il livello di registro minimo da mostrare</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Galleria condivisa con l'utente</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Utente sbloccato</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Galleria non condivisa con l'utente</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Raccolta aggiornata</value>

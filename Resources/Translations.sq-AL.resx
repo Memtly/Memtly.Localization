@@ -307,6 +307,9 @@
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Përdorues i panjohur</value>
   </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Koleksion i paruajtur me përdoruesin</value>
+  </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Koleksion i ri</value>
   </data>

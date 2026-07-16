@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>The minimum log level to show</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Shared gallery with user</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze user</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Unshared gallery with user</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Updated collection</value>

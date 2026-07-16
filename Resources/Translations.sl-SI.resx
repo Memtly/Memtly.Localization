@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Najmanjša raven beleženja</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Skupna galerija z uporabnikom</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Odmrzni uporabnika</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Nedeljena galerija z uporabnikom</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Posodobljena zbirka</value>

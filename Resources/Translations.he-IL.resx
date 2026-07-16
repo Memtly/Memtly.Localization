@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>רמת יומן מינימלית כדי להראות</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>גלריה משותפת עם משתמשים</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>משתמש Unfroze</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Unshared Gallery עם המשתמש</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>אוסף מעודכן</value>

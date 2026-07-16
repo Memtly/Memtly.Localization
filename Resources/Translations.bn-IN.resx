@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>লগ প্রদর্শনের জন্য সর্বনিম্ন মাত্রা</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>ব্যবহারকারী সাথে ভাগ করা হয়েছে</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>ব্যবহারকারীর দ্বারা নির্ধারিত নয়</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>ব্যবহারকারীর সাথে যুক্ত নয়</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>আপডেট করা সংকলন</value>

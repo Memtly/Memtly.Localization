@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Το ελάχιστο επίπεδο καταγραφής για εμφάνιση</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Κοινόχρηστη συλλογή με το χρήστη</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Αποπαγωμένος χρήστης</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Μη κοινόχρηστη συλλογή με χρήστη</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Ενημερωμένη συλλογή</value>

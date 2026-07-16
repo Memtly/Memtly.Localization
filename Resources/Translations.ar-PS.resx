@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>الحد الأدنى للسجلات</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>معرض مشترك مع المستخدم</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>مستعمل غير متفجر</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>معرض غير متقاسم مع المستخدم</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>مجموعة مستكملة</value>

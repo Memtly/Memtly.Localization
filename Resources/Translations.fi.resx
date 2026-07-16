@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Näytettävän lokin minimitaso</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Jaettu galleria käyttäjän kanssa</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Peruuta käyttäjä</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Jakamaton galleria käyttäjän kanssa</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Päivitetty kokoelma</value>

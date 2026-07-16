@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Nivelul minim de jurnal de afișat</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Galerie comună cu utilizatorul</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Utilizator Unfroze</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Galerie neîmpărțită cu utilizatorul</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Colectarea actualizată</value>

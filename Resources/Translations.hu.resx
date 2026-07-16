@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>A minimális naplószint</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Közös galéria felhasználóval</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Fagyasztatlan felhasználó</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Nem megosztott galéria felhasználóval</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Frissített gyűjtemény</value>

@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>حداقل سطح ورود برای نشان دادن</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>اشتراک گذاری گالری با کاربر</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>کاربران Unfroze</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>گالری Unshared با کاربر</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>به روز رسانی Collection</value>

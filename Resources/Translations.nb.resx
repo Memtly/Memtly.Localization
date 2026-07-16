@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Minimum loggnivå å vise</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Delt galleri med bruker</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Ufroze bruker</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Udelt galleri med bruker</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Oppdatert samling</value>

@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Göstermek için minimum log seviyesi</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Kullanıcı ile ortak galeri</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze kullanıcı</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Unshared gallery with user</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Güncelleme koleksiyonu</value>
@@ -1542,6 +1548,9 @@
   </data>
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Profil Icon</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Son galeri bölümünde kaç öğe göstermelidir?</value>
   </data>
   <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
     <value>Gallery History Limit</value>

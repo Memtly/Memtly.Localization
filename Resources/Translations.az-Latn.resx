@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>En az giriş səviyyəsi</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>İstifadəçi</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Pulsuz istifadəçi</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>İstifadəçinin istifadəçisi</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Qeydiyyat</value>

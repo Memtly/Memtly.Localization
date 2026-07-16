@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Минималдуу журнал деңгээли көрсөтүлүшү керек</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Колдонуучу менен бөлүшүү галереясы</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Тоңдурылбаган колдонуучу</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Колдонуучу менен бөлүшүлбөгөн галерея</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Жаңыртылган чогултуу</value>

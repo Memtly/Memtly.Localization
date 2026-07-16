@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>要顯示的最小紀錄等級</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>有使用者共享相簿</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>解冻用户</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>有使用者未分取相簿</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>已更新收藏</value>

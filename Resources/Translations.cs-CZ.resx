@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Minimální úroveň záznamu</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Sdílená galerie s uživatelem</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Uživatel bez zamrznutí</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Nesdílená galerie s uživatelem</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Aktualizovaná sbírka</value>

@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>ڈسپلے کر نے کے ليے سب سے چھوٹی لاگس سطح</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>صارف کے ساتھ گیلری شیئر کریں</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>غیر متصل صارف</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>صارف کے ساتھ غیر متصل گیلری</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>جمع</value>

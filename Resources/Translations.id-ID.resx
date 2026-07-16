@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Tingkat log minimum yang ditampilkan</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Galeri bersama dengan pengguna</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Pengguna tak membeku</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Galeri tidak dipakai bersama dengan pengguna</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Memutakhirkan koleksi</value>

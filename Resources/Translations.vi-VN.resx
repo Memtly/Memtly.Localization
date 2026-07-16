@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Cấp bản ghi tối thiểu cần hiển thị</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Phòng trưng bày chia sẻ với người dùng</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Người dùng không nhạy</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Name</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Tập hợp đã cập nhật</value>

@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Ang pinakamababang antas ng log upang ipakita</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Ibahagi ang galerya sa gumagamit</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Walang froze na gumagamit</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Hindi kabahaging galerya na kasama ng gumagamit</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Binagong koleksiyon</value>

@@ -307,6 +307,9 @@
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Úsáideoir Unfroze</value>
   </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Gailearaí Unshared leis an úsáideoir</value>
+  </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Bailiúchán Nuashonraithe</value>
   </data>

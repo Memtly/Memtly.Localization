@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Minimālais žurnalēšanas līmenis, ko rādīt</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Koplietota galerija ar lietotāju</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze lietotājs</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Nedalīta galerija ar lietotāju</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Atjaunināta kolekcija</value>

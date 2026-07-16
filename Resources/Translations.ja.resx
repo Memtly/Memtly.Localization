@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>最小ログレベルを表示</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>ユーザーと共有ギャラリー</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>不正なユーザ</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>ユーザーと共有されていないギャラリー</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>更新されたコレクション</value>

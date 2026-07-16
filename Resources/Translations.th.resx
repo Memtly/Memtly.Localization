@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>ระดับปูมบันทึกน้อยที่สุดที่จะแสดง</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>คลังภาพใช้งานร่วมกันกับผู้ใช้</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>ผู้ใช้ Unforse</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>คลังภาพที่ยังไม่ใช้ร่วมกันกับผู้ใช้</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>ปรับปรุงคลังภาพ</value>

@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Nivell mínim de registre a mostrar</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Col· lecció compartida amb usuari</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Usuari unròze</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Col· lecció no escoltada amb l' usuari</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>S' ha actualitzat la col· lecció</value>

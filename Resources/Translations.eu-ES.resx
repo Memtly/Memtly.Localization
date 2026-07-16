@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Erakutsi beharreko gutxieneko egunkari-maila</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Galeria partekatua erabiltzailearekin</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Erabiltzaileak huts egin</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Partekatu gabeko galeria erabiltzailearekin</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Bilduma eguneratua</value>

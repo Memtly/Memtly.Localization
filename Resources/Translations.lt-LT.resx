@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Mažiausias rodomas žurnalų lygis</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Bendro naudojimo galerija su naudotoju</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Bevarlis naudotojas</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Nemokama galerija su vartotoju</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Atnaujinta kolekcija</value>

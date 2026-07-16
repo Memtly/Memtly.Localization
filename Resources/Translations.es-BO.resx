@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>El nivel mínimo de registro para mostrar</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Galería compartida con el usuario</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze user</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Galería sin compartir con el usuario</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Colección actualizada</value>
@@ -2181,6 +2187,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Compartir enlace copiado a portapapeles</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Compartido contigo</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Mostrar configuraciones avanzadas</value>

@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Het minimale logniveau om te tonen</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Gedeelde galerij met gebruiker</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Unfroze-gebruiker</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Niet-gedeelde galerij met gebruiker</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Bijgewerkte verzameling</value>

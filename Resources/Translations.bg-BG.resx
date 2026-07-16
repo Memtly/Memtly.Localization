@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Минимално ниво на дневника</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Обща галерия с потребител</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Размразен потребител</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Несподелена галерия с потребител</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Обновена колекция</value>
@@ -2181,6 +2187,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Сподели връзката копирана в системния буфер</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Сподели с теб</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Показване на напреднали настройки</value>

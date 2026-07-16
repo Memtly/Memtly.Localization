@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Minimalny poziom dziennika do pokazania</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Galeria współdzielona z użytkownikiem</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Odmrozić użytkownika</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Nieudostępniona galeria z użytkownikiem</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Aktualizacja kolekcji</value>
@@ -2181,6 +2187,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Udostępnij link skopiowany do schowka</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Dzielony z tobą</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Pokaż zaawansowane ustawienia</value>

@@ -304,8 +304,14 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>Näitatav minimaalne logitase</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Kasutajaga ühisgalerii</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Sulge kasutaja</value>
+  </data>
+  <data name="Audit_UnSharedGallery" xml:space="preserve">
+    <value>Jagamata galerii kasutajaga</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
     <value>Ajakohastatud kogu</value>
