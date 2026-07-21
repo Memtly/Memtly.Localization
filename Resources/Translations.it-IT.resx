@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -47,70 +47,70 @@
     </xsd:element>
   </xsd:schema>
   <data name="2FA_Code_Hint" xml:space="preserve">
-    <value>Inserisci il codice generato dall'app 2FA</value>
+    <value>Inserisci il codice generato dalla tua app 2FA</value>
   </data>
   <data name="2FA_Generate_Secret_Failed" xml:space="preserve">
-    <value>Non è riuscito a generare un segreto 2FA</value>
+    <value>Impossibile generare il segreto 2FA</value>
   </data>
   <data name="2FA_Invalid_Code" xml:space="preserve">
-    <value>Il codice di autenticazione fornito era errato</value>
+    <value>Il codice di autenticazione fornito non è corretto</value>
   </data>
   <data name="2FA_Manually_Enter_Code" xml:space="preserve">
     <value>Inserisci manualmente il codice:</value>
   </data>
   <data name="2FA_Not_Set" xml:space="preserve">
-    <value>2FA non impostato</value>
+    <value>2FA non configurata</value>
   </data>
   <data name="2FA_Reset_Failed" xml:space="preserve">
-    <value>Impossibile reimpostare 2FA</value>
+    <value>Impossibile reimpostare la 2FA</value>
   </data>
   <data name="2FA_Reset_Successfully" xml:space="preserve">
-    <value>Reimpostazione 2FA riuscita</value>
+    <value>2FA reimpostata con successo</value>
   </data>
   <data name="2FA_Scan_With_App" xml:space="preserve">
     <value>Scansiona l'immagine seguente con la tua app</value>
   </data>
   <data name="2FA_Set_Failed" xml:space="preserve">
-    <value>Impossibile impostare 2FA</value>
+    <value>Impossibile configurare la 2FA</value>
   </data>
   <data name="2FA_Set_Successfully" xml:space="preserve">
-    <value>2FA configurato correttamente</value>
+    <value>2FA configurata con successo</value>
   </data>
   <data name="2FA_Set_Wipe" xml:space="preserve">
-    <value>Pulito con successo 2FA</value>
+    <value>2FA azzerata con successo</value>
   </data>
   <data name="2FA_Setup" xml:space="preserve">
-    <value>Setup 2FA</value>
+    <value>Configurazione 2FA</value>
   </data>
   <data name="2FA_Wipe_Message" xml:space="preserve">
-    <value>Sei sicuro di voler pulire 2FA?</value>
+    <value>Sei sicuro di voler azzerare la 2FA per l'utente '{name}'?</value>
   </data>
   <data name="400_Error_Message" xml:space="preserve">
-    <value>Se questo problema persiste contatta l'amministratore web</value>
+    <value>Se il problema persiste, contatta l'amministratore del sito</value>
   </data>
   <data name="400_Error_Title" xml:space="preserve">
-    <value>Opps, sembra che si sia verificato un errore inaspettato...</value>
+    <value>Ops, sembra che si sia verificato un errore imprevisto...</value>
   </data>
   <data name="401_Error_Message" xml:space="preserve">
-    <value>Sembra che non sei autorizzato a visualizzare quella pagina...</value>
+    <value>Sembra che tu non sia autorizzato a visualizzare questa pagina...</value>
   </data>
   <data name="401_Error_Title" xml:space="preserve">
     <value>Accesso negato</value>
   </data>
   <data name="402_Error_Message" xml:space="preserve">
-    <value>La chiave segreta fornita era errata</value>
+    <value>La chiave segreta fornita non è corretta</value>
   </data>
   <data name="402_Error_Title" xml:space="preserve">
     <value>Chiave segreta non valida</value>
   </data>
   <data name="403_Error_Message" xml:space="preserve">
-    <value>Il gellery specificato non esiste e non hai autorizzazioni per crearlo</value>
+    <value>La galleria specificata non esiste e non disponi delle autorizzazioni per crearla</value>
   </data>
   <data name="403_Error_Title" xml:space="preserve">
     <value>Accesso negato</value>
   </data>
   <data name="405_Error_Message" xml:space="preserve">
-    <value>Hai raggiunto il limite massimo di creazione galleria</value>
+    <value>Hai raggiunto il limite massimo di creazione di gallerie</value>
   </data>
   <data name="405_Error_Title" xml:space="preserve">
     <value>Limite raggiunto</value>
@@ -119,22 +119,22 @@
     <value>La galleria specificata non esiste</value>
   </data>
   <data name="406_Error_Title" xml:space="preserve">
-    <value>Galleria Invalid</value>
+    <value>Galleria non valida</value>
   </data>
   <data name="407_Error_Message" xml:space="preserve">
-    <value>C'era un problema durante il tentativo di verificare il tuo account. Assicurarsi che il link di verifica sia valido.</value>
+    <value>Si è verificato un problema durante la verifica del tuo account. Assicurati che il link di verifica sia valido.</value>
   </data>
   <data name="407_Error_Title" xml:space="preserve">
-    <value>Verifica non valida Link</value>
+    <value>Link di verifica non valido</value>
   </data>
   <data name="408_Error_Message" xml:space="preserve">
-    <value>C'era un problema durante il tentativo di ripristinare la password del tuo account. Assicurarsi che il link di verifica sia valido.</value>
+    <value>Si è verificato un problema durante la reimpostazione della password del tuo account. Assicurati che il link di verifica sia valido.</value>
   </data>
   <data name="408_Error_Title" xml:space="preserve">
-    <value>Link di ripristino della password non valida</value>
+    <value>Link di reimpostazione della password non valido</value>
   </data>
   <data name="Accept" xml:space="preserve">
-    <value>Accettare</value>
+    <value>Accetta</value>
   </data>
   <data name="Account" xml:space="preserve">
     <value>Account</value>
@@ -146,19 +146,19 @@
     <value>Azioni</value>
   </data>
   <data name="Activate" xml:space="preserve">
-    <value>Attivare</value>
+    <value>Attiva</value>
   </data>
   <data name="Activate_Failed" xml:space="preserve">
-    <value>Non attivato l'account</value>
+    <value>Impossibile attivare l'account</value>
   </data>
   <data name="Activate_Successfully" xml:space="preserve">
     <value>Account attivato con successo</value>
   </data>
   <data name="Activate_User" xml:space="preserve">
-    <value>Attiva l'utente</value>
+    <value>Attiva utente</value>
   </data>
   <data name="Activate_User_Message" xml:space="preserve">
-    <value>Sei sicuro di voler attivare questo account</value>
+    <value>Sei sicuro di voler attivare questo account?</value>
   </data>
   <data name="Add" xml:space="preserve">
     <value>Aggiungi</value>
@@ -176,25 +176,25 @@
     <value>Approva</value>
   </data>
   <data name="Approved" xml:space="preserve">
-    <value>Approvazione</value>
+    <value>Approvato</value>
   </data>
   <data name="Ascending" xml:space="preserve">
-    <value>Finanziamenti</value>
+    <value>Crescente</value>
   </data>
   <data name="Audit" xml:space="preserve">
     <value>Audit</value>
   </data>
   <data name="Audit_Account_Registered" xml:space="preserve">
-    <value>Account utente</value>
+    <value>L'utente ha registrato un account</value>
   </data>
   <data name="Audit_ActivateUser" xml:space="preserve">
     <value>Utente attivato</value>
   </data>
   <data name="Audit_BulkApproveReviews" xml:space="preserve">
-    <value>Bulk ha approvato tutte le recensioni in sospeso</value>
+    <value>Approvate in blocco tutte le revisioni in sospeso</value>
   </data>
   <data name="Audit_BulkRejectReviews" xml:space="preserve">
-    <value>Bulk ha respinto tutte le recensioni in sospeso</value>
+    <value>Rifiutate in blocco tutte le revisioni in sospeso</value>
   </data>
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Un visitatore ha approvato l'utilizzo dei cookie</value>
@@ -209,85 +209,85 @@
     <value>Creato nuovo utente</value>
   </data>
   <data name="Audit_CustomResourceDeleted" xml:space="preserve">
-    <value>Risorse personalizzate cancellate</value>
+    <value>Risorsa personalizzata eliminata</value>
   </data>
   <data name="Audit_CustomResourceUploaded" xml:space="preserve">
-    <value>Risorse personalizzate caricate</value>
+    <value>Risorsa personalizzata caricata</value>
   </data>
   <data name="Audit_DeletedCollection" xml:space="preserve">
-    <value>Collezione cancellata</value>
+    <value>Collezione eliminata</value>
   </data>
   <data name="Audit_DeletedGallery" xml:space="preserve">
-    <value>Galleria cancellata</value>
+    <value>Galleria eliminata</value>
   </data>
   <data name="Audit_DeletedUser" xml:space="preserve">
-    <value>Utente cancellato</value>
+    <value>Utente eliminato</value>
   </data>
   <data name="Audit_Email_Verified" xml:space="preserve">
-    <value>L'utente ha verificato il loro indirizzo email</value>
+    <value>L'utente ha verificato il proprio indirizzo email</value>
   </data>
   <data name="Audit_ExportedBackup" xml:space="preserve">
-    <value>Esportato un backup</value>
+    <value>Backup esportato</value>
   </data>
   <data name="Audit_FailedLoginAttemptDetected" xml:space="preserve">
-    <value>Rilevato tentativo di login non corretto</value>
+    <value>Rilevato tentativo di accesso non riuscito</value>
   </data>
   <data name="Audit_FailedLoginAttemptReset" xml:space="preserve">
-    <value>Ripristino dei tentativi di login falliti</value>
+    <value>Azzerato il conteggio dei tentativi di accesso non riusciti</value>
   </data>
   <data name="Audit_Forgot_Password" xml:space="preserve">
-    <value>L'utente ha richiesto un ripristino della password</value>
+    <value>L'utente ha richiesto la reimpostazione della password</value>
   </data>
   <data name="Audit_FrozeUser" xml:space="preserve">
-    <value>Froze utente</value>
+    <value>Utente bloccato</value>
   </data>
   <data name="Audit_ImportedBackup" xml:space="preserve">
-    <value>Importato un backup</value>
+    <value>Backup importato</value>
   </data>
   <data name="Audit_ItemApprovedInGallery" xml:space="preserve">
-    <value>approvato in galleria</value>
+    <value>approvato nella galleria</value>
   </data>
   <data name="Audit_ItemDeletedInGallery" xml:space="preserve">
-    <value>cancellato in galleria</value>
+    <value>eliminato nella galleria</value>
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
-    <value>respinto in galleria</value>
+    <value>rifiutato nella galleria</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
-    <value>Quanti registri mostrare</value>
+    <value>Quanti log mostrare</value>
   </data>
   <data name="Audit_Limit_Label" xml:space="preserve">
     <value>Limite</value>
   </data>
   <data name="Audit_List_Failed" xml:space="preserve">
-    <value>Impossibile ottenere la lista di audit</value>
+    <value>Impossibile ottenere l'elenco di audit</value>
   </data>
   <data name="Audit_LoggedOut" xml:space="preserve">
-    <value>Ho cercato</value>
+    <value>Disconnesso</value>
   </data>
   <data name="Audit_Logs" xml:space="preserve">
-    <value>Audit Logs</value>
+    <value>Log di audit</value>
   </data>
   <data name="Audit_MultiFactorAdded" xml:space="preserve">
-    <value>Aggiunto multifattore al loro account</value>
+    <value>Aggiunta l'autenticazione a più fattori al proprio account</value>
   </data>
   <data name="Audit_MultiFactorPassed" xml:space="preserve">
-    <value>Token multifattore corretto</value>
+    <value>Fornito un token multifattore corretto</value>
   </data>
   <data name="Audit_MultiFactorReset" xml:space="preserve">
-    <value>Reimpostare la chiave multifattore</value>
+    <value>Reimpostata la propria chiave multifattore</value>
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
-    <value>Ripristina multifattore per l'utente</value>
+    <value>Reimpostata l'autenticazione a più fattori per l'utente</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
-    <value>L'utente ha richiesto un ripristino della password</value>
+    <value>L'utente ha reimpostato la propria password</value>
   </data>
   <data name="Audit_RelinkedCustomResource" xml:space="preserve">
-    <value>Cambiato proprietario di risorse personalizzate</value>
+    <value>Cambiato il proprietario della risorsa personalizzata</value>
   </data>
   <data name="Audit_RelinkedGallery" xml:space="preserve">
-    <value>Proprietario della galleria</value>
+    <value>Cambiato il proprietario della galleria</value>
   </data>
   <data name="Audit_SearchTerm_Help" xml:space="preserve">
     <value>Filtra i log in base a un termine di ricerca</value>
@@ -296,13 +296,13 @@
     <value>Termine di ricerca</value>
   </data>
   <data name="Audit_Sent_Test_Notification" xml:space="preserve">
-    <value>Inviare una notifica di prova</value>
+    <value>Inviata una notifica di prova</value>
   </data>
   <data name="Audit_SettingsUpdated" xml:space="preserve">
-    <value>Impostazioni aggiornate per galleria</value>
+    <value>Impostazioni aggiornate per la galleria</value>
   </data>
   <data name="Audit_Severity_Help" xml:space="preserve">
-    <value>Il livello di registro minimo da mostrare</value>
+    <value>Il livello di log minimo da mostrare</value>
   </data>
   <data name="Audit_SharedGallery" xml:space="preserve">
     <value>Galleria condivisa con l'utente</value>
@@ -311,10 +311,10 @@
     <value>Utente sbloccato</value>
   </data>
   <data name="Audit_UnSharedGallery" xml:space="preserve">
-    <value>Galleria non condivisa con l'utente</value>
+    <value>Rimossa la condivisione della galleria con l'utente</value>
   </data>
   <data name="Audit_UpdatedCollection" xml:space="preserve">
-    <value>Raccolta aggiornata</value>
+    <value>Collezione aggiornata</value>
   </data>
   <data name="Audit_UpdatedGallery" xml:space="preserve">
     <value>Galleria aggiornata</value>
@@ -323,16 +323,16 @@
     <value>Utente aggiornato</value>
   </data>
   <data name="Audit_UserLoggedIn" xml:space="preserve">
-    <value>Utente registrato</value>
+    <value>L'utente ha effettuato l'accesso</value>
   </data>
   <data name="Audit_WipeAllGalleries" xml:space="preserve">
-    <value>Ho pulito tutte le gallerie</value>
+    <value>Svuotate tutte le gallerie</value>
   </data>
   <data name="Audit_WipedGallery" xml:space="preserve">
-    <value>Galleria pulita</value>
+    <value>Galleria svuotata</value>
   </data>
   <data name="Audit_WipeSystem" xml:space="preserve">
-    <value>Sistema Wi-Fi</value>
+    <value>Sistema svuotato</value>
   </data>
   <data name="AutoDetect" xml:space="preserve">
     <value>Rilevamento automatico</value>
@@ -344,31 +344,31 @@
     <value>Il colore dello sfondo</value>
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
-    <value>Contesto</value>
+    <value>Sfondo</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Blu</value>
   </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
-    <value>Il browser non supporta questa funzionalità</value>
+    <value>Il tuo browser non supporta questa funzionalità</value>
   </data>
   <data name="Bulk_Delete_Items" xml:space="preserve">
-    <value>Bulk Elimina articoli</value>
+    <value>Elimina elementi in blocco</value>
   </data>
   <data name="Bulk_Delete_Items_Failed" xml:space="preserve">
-    <value>Non riuscito a eliminare gli elementi</value>
+    <value>Impossibile eliminare gli elementi</value>
   </data>
   <data name="Bulk_Delete_Items_Success" xml:space="preserve">
-    <value>Oggetti eliminati con successo</value>
+    <value>Elementi eliminati con successo</value>
   </data>
   <data name="Bulk_Review" xml:space="preserve">
-    <value>Revisione in Blocco</value>
+    <value>Revisione in blocco</value>
   </data>
   <data name="Bulk_Review_Approve_Failed" xml:space="preserve">
-    <value>Non approvare tutti gli elementi</value>
+    <value>Impossibile approvare tutti gli elementi</value>
   </data>
   <data name="Bulk_Review_Approve_Failed_MultiSelect" xml:space="preserve">
-    <value>Non approvare gli elementi selezionati</value>
+    <value>Impossibile approvare gli elementi selezionati</value>
   </data>
   <data name="Bulk_Review_Message" xml:space="preserve">
     <value>Vuoi approvare o rifiutare tutti gli elementi in sospeso?</value>
@@ -380,37 +380,37 @@
     <value>Impossibile rifiutare tutti gli elementi</value>
   </data>
   <data name="Bulk_Review_Reject_Failed_MultiSelect" xml:space="preserve">
-    <value>Rifiuto di rifiutare gli elementi selezionati</value>
+    <value>Impossibile rifiutare gli elementi selezionati</value>
   </data>
   <data name="Camera" xml:space="preserve">
-    <value>Telecamera</value>
+    <value>Fotocamera</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Annulla</value>
   </data>
   <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
-    <value>Non è possibile modificare il livello e il livello delle autorizzazioni degli utenti attivi. Si prega di avere un altro amministratore fare questa modifica per evitare il blocco di sistema</value>
+    <value>Non è possibile modificare il livello o il piano dell'utente attualmente connesso. Chiedi a un altro amministratore di effettuare questa modifica, per evitare di rimanere esclusi dal sistema</value>
   </data>
   <data name="Cannot_Change_Only_Admin" xml:space="preserve">
-    <value>Incapace di modificare il livello e il livello delle autorizzazioni degli utenti in quanto è l'unico amministratore attivo. In questo modo può portare a blocco di sistema</value>
+    <value>Impossibile modificare il livello o il piano dell'utente perché è l'unico amministratore attivo. Farlo potrebbe causare l'esclusione dal sistema</value>
   </data>
   <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
-    <value>Non è possibile disattivare l'account in quanto viene utilizzato dall'utente corrente</value>
+    <value>Non è possibile disattivare l'account perché è in uso dall'utente corrente</value>
   </data>
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
-    <value>Incapace di disattivare l'account in quanto è l'unico amministratore attivo. In questo modo può portare a blocco di sistema</value>
+    <value>Impossibile disattivare l'account perché è l'unico amministratore attivo. Farlo potrebbe causare l'esclusione dal sistema</value>
   </data>
   <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
-    <value>Non cancelli galleria come fa parte di una collezione</value>
+    <value>Impossibile eliminare la galleria perché fa parte di una collezione</value>
   </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
-    <value>Non è possibile rimuovere l'account amministratore predefinito. Puoi comunque congelarlo per evitare il login</value>
+    <value>Non è possibile eliminare l'account amministratore predefinito. Puoi comunque bloccarlo per impedirne l'accesso</value>
   </data>
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
-    <value>Non è possibile rimuovere la galleria predefinita</value>
+    <value>Non è possibile eliminare la galleria predefinita</value>
   </data>
   <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
-    <value>Cannot relink gallery come fa parte di una collezione</value>
+    <value>Impossibile cambiare il proprietario della galleria perché fa parte di una collezione</value>
   </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Cambia identità</value>
@@ -422,13 +422,13 @@
     <value>Cambia password</value>
   </data>
   <data name="Change_Theme" xml:space="preserve">
-    <value>Cambiamento Tema</value>
+    <value>Cambia tema</value>
   </data>
   <data name="Check_Account_State_Failed" xml:space="preserve">
     <value>Impossibile verificare lo stato dell'account</value>
   </data>
   <data name="Clean" xml:space="preserve">
-    <value>Pulire</value>
+    <value>Pulisci</value>
   </data>
   <data name="Clean_Confirmation" xml:space="preserve">
     <value>Sei sicuro di voler pulire questa galleria?</value>
@@ -446,46 +446,46 @@
     <value>Collezione</value>
   </data>
   <data name="Collection_Create" xml:space="preserve">
-    <value>Crea una collezione</value>
+    <value>Crea collezione</value>
   </data>
   <data name="Collection_Create_Failed" xml:space="preserve">
-    <value>Non è riuscito a creare la collezione</value>
+    <value>Impossibile creare la collezione</value>
   </data>
   <data name="Collection_Create_Success" xml:space="preserve">
     <value>Collezione creata con successo</value>
   </data>
   <data name="Collection_Delete" xml:space="preserve">
-    <value>Eliminare la raccolta</value>
+    <value>Elimina collezione</value>
   </data>
   <data name="Collection_Delete_Failed" xml:space="preserve">
-    <value>Non riuscito a cancellare la raccolta</value>
+    <value>Impossibile eliminare la collezione</value>
   </data>
   <data name="Collection_Delete_Success" xml:space="preserve">
     <value>Collezione eliminata con successo</value>
   </data>
   <data name="Collection_Edit" xml:space="preserve">
-    <value>Modifica della raccolta</value>
+    <value>Modifica collezione</value>
   </data>
   <data name="Collection_Edit_Failed" xml:space="preserve">
-    <value>Non è riuscito ad aggiornare la raccolta</value>
+    <value>Impossibile aggiornare la collezione</value>
   </data>
   <data name="Collection_Edit_Success" xml:space="preserve">
     <value>Collezione aggiornata con successo</value>
   </data>
   <data name="Collection_Identifier_Help" xml:space="preserve">
-    <value>Si prega di inserire l'identificatore della raccolta che si desidera visitare.</value>
+    <value>Inserisci l'identificatore della collezione che desideri visitare.</value>
   </data>
   <data name="Collection_List_Failed" xml:space="preserve">
-    <value>Non riuscito a ottenere la lista di raccolta</value>
+    <value>Impossibile ottenere l'elenco delle collezioni</value>
   </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
-    <value>Inserisci un nuovo nome di raccolta</value>
+    <value>Inserisci un nuovo nome per la collezione</value>
   </data>
   <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
-    <value>Almeno due gallerie sono necessarie per creare una collezione</value>
+    <value>Servono almeno due gallerie per creare una collezione</value>
   </data>
   <data name="Collection_Settings" xml:space="preserve">
-    <value>Impostazioni di raccolta</value>
+    <value>Impostazioni della collezione</value>
   </data>
   <data name="Collection_Settings_Managed_By_Gallery" xml:space="preserve">
     <value>Queste impostazioni sono specifiche della galleria e non possono essere gestite dalla collezione</value>
@@ -497,64 +497,64 @@
     <value>Impostazioni comuni</value>
   </data>
   <data name="Contact_Admin_For_Access" xml:space="preserve">
-    <value>Contattare un amministratore del sito per fornire l'accesso</value>
+    <value>Contatta un amministratore del sito per ottenere l'accesso</value>
   </data>
   <data name="Cookie_Audit_Error" xml:space="preserve">
-    <value>Non è riuscito a registrare un messaggio di audit per l'approvazione dei cookie</value>
+    <value>Impossibile registrare un messaggio di audit per l'approvazione dei cookie</value>
   </data>
   <data name="CookiePolicy_Button_Text" xml:space="preserve">
     <value>Informativa sui cookie</value>
   </data>
   <data name="CookiePolicy_Message_Short" xml:space="preserve">
-    <value>Utilizzando questo sito web accetti il nostro utilizzo dei cookie di base in conformità ai nostri termini di utilizzo dei cookie. Per saperne di più si prega di vedere il nostro</value>
+    <value>Utilizzando questo sito web accetti l'uso dei cookie di base in conformità con i nostri termini di utilizzo dei cookie. Per saperne di più consulta la nostra</value>
   </data>
   <data name="Create" xml:space="preserve">
     <value>Crea</value>
   </data>
   <data name="Critical" xml:space="preserve">
-    <value>Critica</value>
+    <value>Critico</value>
   </data>
   <data name="Culture" xml:space="preserve">
     <value>Cultura</value>
   </data>
   <data name="Culture_Name_Hint" xml:space="preserve">
-    <value>Seleziona una cultura del display</value>
+    <value>Seleziona una lingua di visualizzazione</value>
   </data>
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Attualmente non hai accesso</value>
   </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
-    <value>Relink Risorse personalizzate</value>
+    <value>Cambia proprietario della risorsa personalizzata</value>
   </data>
   <data name="Custom_Resource_Relink_Failed" xml:space="preserve">
-    <value>Non è riuscito a relink risorse personalizzate</value>
+    <value>Impossibile cambiare il proprietario della risorsa personalizzata</value>
   </data>
   <data name="Custom_Resource_Relink_Success" xml:space="preserve">
-    <value>Ricollegato con successo alle risorse personalizzate</value>
+    <value>Proprietario della risorsa personalizzata cambiato con successo</value>
   </data>
   <data name="Custom_Resources" xml:space="preserve">
     <value>Risorse personalizzate</value>
   </data>
   <data name="Custom_Resources_Failed" xml:space="preserve">
-    <value>Impossibile ottenere risorse personalizzate</value>
+    <value>Impossibile ottenere le risorse personalizzate</value>
   </data>
   <data name="Custom_Resources_Upload_Help" xml:space="preserve">
-    <value>Selezionare un file di immagine da caricare</value>
+    <value>Seleziona un file immagine da caricare</value>
   </data>
   <data name="Custom_Resources_Upload_Label" xml:space="preserve">
-    <value>Carica risorse personalizzate</value>
+    <value>Carica risorsa personalizzata</value>
   </data>
   <data name="Custom_Theme" xml:space="preserve">
-    <value>Personale Tema</value>
+    <value>Tema personalizzato</value>
   </data>
   <data name="CustomResource_Delete_Failed" xml:space="preserve">
-    <value>Impossibile eliminare risorse personalizzate</value>
+    <value>Impossibile eliminare la risorsa personalizzata</value>
   </data>
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
-    <value>Impossibile caricare risorse personalizzate</value>
+    <value>Impossibile caricare la risorsa personalizzata</value>
   </data>
   <data name="Danger_Color_Help" xml:space="preserve">
-    <value>Il colore del pericolo</value>
+    <value>Il colore di pericolo</value>
   </data>
   <data name="Danger_Color_Label" xml:space="preserve">
     <value>Pericolo</value>
@@ -563,7 +563,7 @@
     <value>Zona di pericolo</value>
   </data>
   <data name="Dark" xml:space="preserve">
-    <value>Oscuro</value>
+    <value>Scuro</value>
   </data>
   <data name="DarkBlue" xml:space="preserve">
     <value>Blu scuro</value>
@@ -572,7 +572,7 @@
     <value>Verde scuro</value>
   </data>
   <data name="DarkPink" xml:space="preserve">
-    <value>Rosa</value>
+    <value>Rosa scuro</value>
   </data>
   <data name="DarkRed" xml:space="preserve">
     <value>Rosso scuro</value>
@@ -587,7 +587,7 @@
     <value>Predefinito</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Cancella</value>
+    <value>Elimina</value>
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Sei sicuro di voler eliminare?</value>
@@ -596,49 +596,52 @@
     <value>Sei sicuro di voler eliminare questa galleria?</value>
   </data>
   <data name="Delete_Item" xml:space="preserve">
-    <value>Cancella elemento</value>
+    <value>Elimina elemento</value>
   </data>
   <data name="Delete_Item_Failed" xml:space="preserve">
     <value>Impossibile eliminare l'elemento</value>
   </data>
   <data name="Delete_Item_Id_Missing" xml:space="preserve">
-    <value>L'id non può essere vuoto</value>
+    <value>L'ID non può essere vuoto</value>
+  </data>
+  <data name="Delete_Item_Message" xml:space="preserve">
+    <value>Sei sicuro di voler eliminare '{name}'?</value>
   </data>
   <data name="Delete_Item_Success" xml:space="preserve">
     <value>Elemento eliminato correttamente</value>
   </data>
   <data name="Demo_Message" xml:space="preserve">
-    <value>Questa è una versione demo. Tutte le configurazioni vengono periodicamente cancellate per garantire una lavanda pulita per i futuri tester.</value>
+    <value>Questa è una versione demo. Tutte le configurazioni vengono cancellate periodicamente per offrire un ambiente pulito ai futuri tester.</value>
   </data>
   <data name="Descending" xml:space="preserve">
-    <value>Discussione</value>
+    <value>Decrescente</value>
   </data>
   <data name="Deselect" xml:space="preserve">
-    <value>Deciso</value>
+    <value>Deseleziona</value>
   </data>
   <data name="Deselect_All" xml:space="preserve">
-    <value>Deselect Tutti</value>
+    <value>Deseleziona tutto</value>
   </data>
   <data name="Destructive_Action_Collection" xml:space="preserve">
-    <value>L'azione distruttiva 'Delete' è stata eseguita su raccolta</value>
+    <value>L'azione distruttiva 'Elimina' è stata eseguita sulla collezione</value>
   </data>
   <data name="Destructive_Action_Gallery" xml:space="preserve">
-    <value>L'azione distruttiva 'Delete' è stata eseguita in galleria</value>
+    <value>L'azione distruttiva 'Elimina' è stata eseguita sulla galleria</value>
   </data>
   <data name="Destructive_Action_Performed" xml:space="preserve">
-    <value>Azione distruttiva Eseguita</value>
+    <value>Azione distruttiva eseguita</value>
   </data>
   <data name="Details" xml:space="preserve">
     <value>Dettagli</value>
   </data>
   <data name="Disabled" xml:space="preserve">
-    <value>Disabili</value>
+    <value>Disabilitato</value>
   </data>
   <data name="Disabled_Color_Help" xml:space="preserve">
-    <value>Colore dei disabili</value>
+    <value>Il colore degli elementi disabilitati</value>
   </data>
   <data name="Disabled_Color_Label" xml:space="preserve">
-    <value>Disabili</value>
+    <value>Disabilitato</value>
   </data>
   <data name="Download" xml:space="preserve">
     <value>Scarica</value>
@@ -653,10 +656,10 @@
     <value>Download</value>
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
-    <value>Trascina e Rilascia</value>
+    <value>Trascina e rilascia qui i file per caricarli nella galleria</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
-    <value>File duplicato rilevato</value>
+    <value>Rilevato file duplicato</value>
   </data>
   <data name="Email" xml:space="preserve">
     <value>Email</value>
@@ -671,7 +674,7 @@
     <value>Errore</value>
   </data>
   <data name="ErrorReporting" xml:space="preserve">
-    <value>Rapporti di errore</value>
+    <value>Segnalazione errori</value>
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Errori</value>
@@ -680,10 +683,10 @@
     <value>Sperimentale</value>
   </data>
   <data name="Export" xml:space="preserve">
-    <value>Esportazione</value>
+    <value>Esporta</value>
   </data>
   <data name="Export_Data" xml:space="preserve">
-    <value>Esportazione dei dati</value>
+    <value>Esporta dati</value>
   </data>
   <data name="Export_Data_Failed" xml:space="preserve">
     <value>Impossibile esportare i dati</value>
@@ -695,7 +698,7 @@
     <value>Dati esportati con successo</value>
   </data>
   <data name="Failed_Add_Collection" xml:space="preserve">
-    <value>Non è riuscito a creare la collezione</value>
+    <value>Impossibile creare la collezione</value>
   </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Impossibile creare la galleria</value>
@@ -704,10 +707,10 @@
     <value>Impossibile creare l'utente</value>
   </data>
   <data name="Failed_Delete_Collection" xml:space="preserve">
-    <value>Non riuscito a cancellare la raccolta</value>
+    <value>Impossibile eliminare la collezione</value>
   </data>
   <data name="Failed_Delete_Gallery" xml:space="preserve">
-    <value>Impossibile cancellare la galleria</value>
+    <value>Impossibile eliminare la galleria</value>
   </data>
   <data name="Failed_Delete_User" xml:space="preserve">
     <value>Impossibile eliminare l'utente</value>
@@ -716,10 +719,10 @@
     <value>Impossibile scaricare la galleria</value>
   </data>
   <data name="Failed_Download_Gallery_Invalid_Key" xml:space="preserve">
-    <value>Impossibile scaricare la galleria. La chiave segreta era invalida</value>
+    <value>Impossibile scaricare la galleria. La chiave segreta non è valida</value>
   </data>
   <data name="Failed_Edit_Collection" xml:space="preserve">
-    <value>Non è riuscito ad aggiornare la raccolta</value>
+    <value>Impossibile aggiornare la collezione</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
     <value>Impossibile aggiornare la galleria</value>
@@ -734,37 +737,37 @@
     <value>Impossibile trovare il file</value>
   </data>
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
-    <value>Non riuscito a ottenere la lista della galleria</value>
+    <value>Impossibile ottenere l'elenco delle gallerie</value>
   </data>
   <data name="Failed_Get_Share_List" xml:space="preserve">
-    <value>Non riuscito a ottenere la lista delle azioni</value>
+    <value>Impossibile ottenere l'elenco delle condivisioni</value>
   </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
-    <value>Non riuscito a ottenere l'elenco degli utenti</value>
+    <value>Impossibile ottenere l'elenco degli utenti</value>
   </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Impossibile importare i dati</value>
   </data>
   <data name="Failed_Reviewing_Media" xml:space="preserve">
-    <value>Impossibile rivedere l'elemento</value>
+    <value>Impossibile revisionare l'elemento</value>
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
-    <value>Non inviare la notifica di prova</value>
+    <value>Impossibile inviare la notifica di prova</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Impossibile aggiornare le impostazioni</value>
   </data>
   <data name="Failed_Wipe_Galleries" xml:space="preserve">
-    <value>Impossibile cancellare le gallerie</value>
+    <value>Impossibile svuotare le gallerie</value>
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
     <value>Impossibile svuotare la galleria</value>
   </data>
   <data name="Failed_Wipe_System" xml:space="preserve">
-    <value>Non cancellato il sistema</value>
+    <value>Impossibile svuotare il sistema</value>
   </data>
   <data name="Feature_Coming_Soon" xml:space="preserve">
-    <value>Questa funzione è ancora in fase di sviluppo, ma dovrebbe essere disponibile presto</value>
+    <value>Questa funzionalità è ancora in fase di sviluppo, ma dovrebbe essere disponibile a breve</value>
   </data>
   <data name="Feature_Unavailable_Demo_Mode" xml:space="preserve">
     <value>Questa funzione non è disponibile in modalità demo</value>
@@ -779,7 +782,7 @@
     <value>Impossibile caricare il file</value>
   </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
-    <value>Un file con lo stesso nome esiste già</value>
+    <value>Esiste già un file con lo stesso nome</value>
   </data>
   <data name="Filter" xml:space="preserve">
     <value>Filtro</value>
@@ -797,16 +800,16 @@
     <value>Indirizzo email</value>
   </data>
   <data name="ForgotPassword_Failed" xml:space="preserve">
-    <value>Non è possibile inviare email di reset password</value>
+    <value>Impossibile inviare l'email di reimpostazione della password</value>
   </data>
   <data name="ForgotPassword_Sent" xml:space="preserve">
-    <value>Password reset link inviato. Controlla la tua email</value>
+    <value>Link di reimpostazione della password inviato. Controlla la tua email</value>
   </data>
   <data name="Freeze" xml:space="preserve">
     <value>Blocca</value>
   </data>
   <data name="Freeze_Failed" xml:space="preserve">
-    <value>Account non bloccato</value>
+    <value>Impossibile bloccare l'account</value>
   </data>
   <data name="Freeze_Successfully" xml:space="preserve">
     <value>Account bloccato con successo</value>
@@ -815,10 +818,10 @@
     <value>Blocca utente</value>
   </data>
   <data name="Freeze_User_Message" xml:space="preserve">
-    <value>Sei sicuro di voler bloccare l'account</value>
+    <value>Sei sicuro di voler bloccare questo account?</value>
   </data>
   <data name="Full_Sponsors_List_Link_Message" xml:space="preserve">
-    <value>Clicca qui per visualizzare l'elenco completo di sponsor e stelle</value>
+    <value>Clicca qui per vedere l'elenco completo di sponsor e sostenitori</value>
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>Gallerie</value>
@@ -827,7 +830,7 @@
     <value>Galleria</value>
   </data>
   <data name="Gallery_Create" xml:space="preserve">
-    <value>Crea Galleria</value>
+    <value>Crea galleria</value>
   </data>
   <data name="Gallery_Create_Failed" xml:space="preserve">
     <value>Impossibile creare la galleria</value>
@@ -836,13 +839,16 @@
     <value>Galleria creata con successo</value>
   </data>
   <data name="Gallery_Delete" xml:space="preserve">
-    <value>Cancella Galleria</value>
+    <value>Elimina galleria</value>
   </data>
   <data name="Gallery_Delete_Failed" xml:space="preserve">
-    <value>Impossibile cancellare la galleria</value>
+    <value>Impossibile eliminare la galleria</value>
+  </data>
+  <data name="Gallery_Delete_Message" xml:space="preserve">
+    <value>Sei sicuro di voler eliminare la galleria '{name}'?</value>
   </data>
   <data name="Gallery_Delete_Success" xml:space="preserve">
-    <value>Galleria cancellata con successo</value>
+    <value>Galleria eliminata con successo</value>
   </data>
   <data name="Gallery_Does_Not_Exist" xml:space="preserve">
     <value>La galleria richiesta non è stata trovata o non esiste</value>
@@ -860,25 +866,31 @@
     <value>Attualmente non ci sono ricordi condivisi</value>
   </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
-    <value>Attualmente non ci sono ricordi condivisi, perché non caricate il vostro sopra!</value>
+    <value>Attualmente non ci sono ricordi condivisi: perché non carichi i tuoi qui sopra!</value>
   </data>
   <data name="Gallery_Full" xml:space="preserve">
-    <value>Galleria è piena e ha superato la dimensione massima di</value>
+    <value>La galleria è piena e ha superato la dimensione massima di</value>
+  </data>
+  <data name="Gallery_Identifier" xml:space="preserve">
+    <value>Identificatore della galleria</value>
   </data>
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Inserisci l'identificatore della galleria che desideri visitare.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>il mio matrimonio</value>
+    <value>la-mia-galleria</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
-    <value>Invalid gallery nome o chiave segreta, si prega di riprovare</value>
+    <value>Nome della galleria o chiave segreta non validi, riprova</value>
+  </data>
+  <data name="Gallery_Invalid_Name" xml:space="preserve">
+    <value>Specifica un nome valido per la galleria</value>
   </data>
   <data name="Gallery_Invalid_Secret_Key" xml:space="preserve">
-    <value>Chiave segreta non valida, si prega di riprovare</value>
+    <value>Chiave segreta non valida, riprova</value>
   </data>
   <data name="Gallery_Key" xml:space="preserve">
-    <value>Galleria chiave</value>
+    <value>Chiave della galleria</value>
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>Inserisci la chiave segreta.</value>
@@ -886,59 +898,80 @@
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Inserisci la chiave segreta qui</value>
   </data>
+  <data name="Gallery_Limit_Reached" xml:space="preserve">
+    <value>È stato raggiunto il numero massimo di gallerie consentite</value>
+  </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
-    <value>Impossibile ottenere la lista della galleria</value>
+    <value>Impossibile ottenere l'elenco delle gallerie</value>
   </data>
   <data name="Gallery_Login" xml:space="preserve">
-    <value>Galleria Login</value>
+    <value>Accesso alla galleria</value>
   </data>
   <data name="Gallery_Login_Help" xml:space="preserve">
-    <value>Questa è una galleria protetta. Si prega di inserire la chiave segreta per visualizzare il suo contenuto.</value>
+    <value>Questa è una galleria protetta. Inserisci la chiave segreta per visualizzarne il contenuto.</value>
+  </data>
+  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
+    <value>Esiste già una galleria con questo nome</value>
+  </data>
+  <data name="Gallery_Name" xml:space="preserve">
+    <value>Nome della galleria</value>
+  </data>
+  <data name="Gallery_Missing_Name" xml:space="preserve">
+    <value>Il nome della galleria non può essere vuoto</value>
+  </data>
+  <data name="Gallery_Missing_Id" xml:space="preserve">
+    <value>L'ID della galleria non può essere vuoto</value>
   </data>
   <data name="Gallery_Name_Hint" xml:space="preserve">
-    <value>Inserisci un nuovo nome della galleria</value>
+    <value>Inserisci un nuovo nome per la galleria</value>
   </data>
   <data name="Gallery_Relink" xml:space="preserve">
-    <value>Relink Gallery</value>
+    <value>Cambia proprietario della galleria</value>
   </data>
   <data name="Gallery_Relink_Failed" xml:space="preserve">
-    <value>Non ho ricollegato la galleria</value>
+    <value>Impossibile cambiare il proprietario della galleria</value>
   </data>
   <data name="Gallery_Relink_Success" xml:space="preserve">
-    <value>Galleria di successo ricollegato</value>
+    <value>Proprietario della galleria cambiato con successo</value>
+  </data>
+  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
+    <value>Inserisci una nuova chiave segreta</value>
+  </data>
+  <data name="Gallery_Secret_Key" xml:space="preserve">
+    <value>Chiave segreta</value>
   </data>
   <data name="Gallery_Selection" xml:space="preserve">
-    <value>Selezione Galleria</value>
+    <value>Selezione della galleria</value>
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
-    <value>Selezione galleria</value>
+    <value>Selettore galleria</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
-    <value>Selezione galleria</value>
+    <value>Selettore galleria</value>
   </data>
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Impostazioni della galleria</value>
   </data>
   <data name="Gallery_Share" xml:space="preserve">
-    <value>Condividi su Twitter</value>
+    <value>Condividi galleria</value>
   </data>
   <data name="Gallery_Share_Failed" xml:space="preserve">
-    <value>Non condividere galleria</value>
+    <value>Impossibile condividere la galleria</value>
   </data>
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Galleria condivisa con successo</value>
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
-    <value>Tipo di galleria da filtrare</value>
+    <value>Tipo di galleria in base a cui filtrare</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
-    <value>Svuota Galleria</value>
+    <value>Svuota galleria</value>
   </data>
   <data name="Gallery_Wipe_Failed" xml:space="preserve">
     <value>Impossibile svuotare la galleria</value>
   </data>
   <data name="Gallery_Wipe_Message" xml:space="preserve">
-    <value>Sei sicuro di voler pulire la galleria?</value>
+    <value>Sei sicuro di voler svuotare la galleria '{name}'?</value>
   </data>
   <data name="Gallery_Wipe_Success" xml:space="preserve">
     <value>Galleria svuotata con successo</value>
@@ -950,13 +983,13 @@
     <value>Generale</value>
   </data>
   <data name="Generate" xml:space="preserve">
-    <value>Generazione</value>
+    <value>Genera</value>
   </data>
   <data name="Generating_Download" xml:space="preserve">
-    <value>Generando Download</value>
+    <value>Generazione del download in corso</value>
   </data>
   <data name="Gotify" xml:space="preserve">
-    <value>Complimenti</value>
+    <value>Gotify</value>
   </data>
   <data name="Green" xml:space="preserve">
     <value>Verde</value>
@@ -968,31 +1001,31 @@
     <value>Nascondi impostazioni avanzate</value>
   </data>
   <data name="Homepage_Load_Error" xml:space="preserve">
-    <value>Si è verificato un errore caricare la homepage</value>
+    <value>Si è verificato un errore durante il caricamento della homepage</value>
   </data>
   <data name="Hover" xml:space="preserve">
     <value>Hover</value>
   </data>
   <data name="Identifier" xml:space="preserve">
-    <value>Identificazione</value>
+    <value>Identificatore</value>
   </data>
   <data name="Identity_Check" xml:space="preserve">
-    <value>Controllo identità</value>
+    <value>Nome dell'ospite</value>
   </data>
   <data name="Identity_Check_Change" xml:space="preserve">
     <value>Modifica</value>
   </data>
   <data name="Identity_Check_Change_Identity" xml:space="preserve">
-    <value>Cambia identità</value>
+    <value>Cambia il nome dell'ospite</value>
   </data>
   <data name="Identity_Check_Email" xml:space="preserve">
     <value>Indirizzo email</value>
   </data>
   <data name="Identity_Check_Email_Hint" xml:space="preserve">
-    <value>Dicci la tua e-mail per poterti contattare.</value>
+    <value>Dicci la tua email così potremo contattarti.</value>
   </data>
   <data name="Identity_Check_Email_Placeholder" xml:space="preserve">
-    <value>Ad esempio, john.doe@mail.com</value>
+    <value>Es. mario.rossi@mail.com</value>
   </data>
   <data name="Identity_Check_Invalid_Email" xml:space="preserve">
     <value>E-mail non valida</value>
@@ -1000,20 +1033,26 @@
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Si prega di specificare un'email valida</value>
   </data>
+  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
+    <value>Specifica un nome valido</value>
+  </data>
+  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
+    <value>Nome non valido</value>
+  </data>
   <data name="Identity_Check_Name" xml:space="preserve">
     <value>Nome</value>
   </data>
   <data name="Identity_Check_Name_Hint" xml:space="preserve">
-    <value>Dicci chi sei cosi' sappiamo chi ha caricato i ricordi.</value>
+    <value>Dicci chi sei, così sapremo chi ha caricato i ricordi.</value>
   </data>
   <data name="Identity_Check_Name_Placeholder" xml:space="preserve">
-    <value>Per esempio, Jane Doe, Jimmy, zio Bob</value>
+    <value>Es. Maria Rossi, Marco, zio Beppe</value>
   </data>
   <data name="Identity_Check_Set_Failed" xml:space="preserve">
     <value>Impossibile impostare l'identità dell'utente</value>
   </data>
   <data name="Identity_Check_Stay_Anonymous" xml:space="preserve">
-    <value>Non Dircelo</value>
+    <value>Non dircelo</value>
   </data>
   <data name="Identity_Check_Tell_Us" xml:space="preserve">
     <value>Diccelo</value>
@@ -1028,16 +1067,16 @@
     <value>Immagini</value>
   </data>
   <data name="Import" xml:space="preserve">
-    <value>Importazioni</value>
+    <value>Importa</value>
   </data>
   <data name="Import_Data" xml:space="preserve">
-    <value>Importazione dei dati</value>
+    <value>Importa dati</value>
   </data>
   <data name="Import_Data_Backup_File" xml:space="preserve">
     <value>File di backup</value>
   </data>
   <data name="Import_Data_Backup_Hint" xml:space="preserve">
-    <value>Selezionare un archivio di backup</value>
+    <value>Seleziona un archivio di backup di WeddingShare</value>
   </data>
   <data name="Import_Data_Failed" xml:space="preserve">
     <value>Impossibile importare i dati</value>
@@ -1055,22 +1094,22 @@
     <value>Il token di accesso fornito non è valido</value>
   </data>
   <data name="Invalid_Collection_Id" xml:space="preserve">
-    <value>Collezione non valida Id</value>
+    <value>ID della collezione non valido</value>
   </data>
   <data name="Invalid_File_Type" xml:space="preserve">
     <value>Il tipo di file non è valido</value>
   </data>
   <data name="Invalid_Gallery_Id" xml:space="preserve">
-    <value>Galleria non valida Id</value>
+    <value>ID galleria non valido</value>
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
-    <value>Galleria non valida chiave</value>
+    <value>Chiave della galleria non valida</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nome non valido</value>
   </data>
   <data name="Invalid_Name_Msg" xml:space="preserve">
-    <value>Si prega di specificare un nome valido</value>
+    <value>Specifica un nome valido</value>
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Una richiesta è stata fatta utilizzando una chiave segreta non valida</value>
@@ -1079,7 +1118,7 @@
     <value>Chiave</value>
   </data>
   <data name="Landscape" xml:space="preserve">
-    <value>Paesaggio</value>
+    <value>Orizzontale</value>
   </data>
   <data name="Language" xml:space="preserve">
     <value>Lingua</value>
@@ -1091,16 +1130,16 @@
     <value>Seleziona una lingua di visualizzazione</value>
   </data>
   <data name="Layout" xml:space="preserve">
-    <value>Telaio</value>
+    <value>Layout</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Livello</value>
   </data>
   <data name="Light" xml:space="preserve">
-    <value>Luce</value>
+    <value>Chiaro</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
-    <value>Il limite massimo consentito è stato raggiunto</value>
+    <value>È stato raggiunto il limite massimo consentito</value>
   </data>
   <data name="Link" xml:space="preserve">
     <value>Link</value>
@@ -1130,7 +1169,7 @@
     <value>Password</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
-    <value>Registrati per completare questa azione</value>
+    <value>Accedi per completare questa azione</value>
   </data>
   <data name="Login_Username_Help" xml:space="preserve">
     <value>Inserisci il nome utente dell'account.</value>
@@ -1148,22 +1187,22 @@
     <value>Gestione dei dati</value>
   </data>
   <data name="Max_File_Size" xml:space="preserve">
-    <value>Dimensione del file max è</value>
+    <value>La dimensione massima dei file è</value>
   </data>
   <data name="MediaType" xml:space="preserve">
-    <value>Media Tipo</value>
+    <value>Tipo di media</value>
   </data>
   <data name="Members" xml:space="preserve">
     <value>Membri</value>
   </data>
   <data name="Missing_Id" xml:space="preserve">
-    <value>Id non può essere vuoto</value>
+    <value>L'ID non può essere vuoto</value>
   </data>
   <data name="Missing_Name" xml:space="preserve">
     <value>Il nome non può essere vuoto</value>
   </data>
   <data name="Missing_Username" xml:space="preserve">
-    <value>Nome utente non può essere vuoto</value>
+    <value>Il nome utente non può essere vuoto</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Impossibile impostare 2FA</value>
@@ -1178,22 +1217,22 @@
     <value>Il nome della galleria non può essere vuoto</value>
   </data>
   <data name="Navbar_Background_Color_Help" xml:space="preserve">
-    <value>Il colore dello sfondo navbar</value>
+    <value>Il colore di sfondo della barra di navigazione</value>
   </data>
   <data name="Navbar_Background_Color_Label" xml:space="preserve">
-    <value>Sfondo di Navbar</value>
+    <value>Sfondo barra di navigazione</value>
   </data>
   <data name="Navbar_Title_Color_Help" xml:space="preserve">
-    <value>Il colore del testo del titolo navbar</value>
+    <value>Il colore del testo del titolo nella barra di navigazione</value>
   </data>
   <data name="Navbar_Title_Color_Label" xml:space="preserve">
-    <value>Navbar Titolo</value>
+    <value>Titolo barra di navigazione</value>
   </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Nuovi elementi in attesa revisione</value>
   </data>
   <data name="Next" xml:space="preserve">
-    <value>Il prossimo</value>
+    <value>Successivo</value>
   </data>
   <data name="No_Custom_Resources" xml:space="preserve">
     <value>Nessuna risorsa personalizzata caricata</value>
@@ -1202,31 +1241,31 @@
     <value>Nessun dato</value>
   </data>
   <data name="No_Export_Content" xml:space="preserve">
-    <value>Nessun contenuto è stato selezionato per l'esportazione</value>
+    <value>Nessun contenuto selezionato per l'esportazione</value>
   </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>Nessun file è stato rilevato per il caricamento</value>
   </data>
   <data name="No_Galleries" xml:space="preserve">
-    <value>Nessuna galleria creata ancora</value>
+    <value>Nessuna galleria creata finora</value>
   </data>
   <data name="No_Pending_Uploads" xml:space="preserve">
-    <value>Nessuna revisione in sospeso</value>
+    <value>Nessun caricamento in attesa di revisione</value>
   </data>
   <data name="None" xml:space="preserve">
     <value>Nessuno</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
-    <value>Test di notifica</value>
+    <value>Notifica di prova</value>
   </data>
   <data name="Notifications" xml:space="preserve">
-    <value>Notifica</value>
+    <value>Notifiche</value>
   </data>
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
   <data name="Open" xml:space="preserve">
-    <value>Aperto</value>
+    <value>Apri</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>O</value>
@@ -1235,19 +1274,19 @@
     <value>Proprietario</value>
   </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
-    <value>La password è stata ripristinata. Se non hai richiesto un reset della password, contatta immediatamente un amministratore.</value>
+    <value>La tua password è stata reimpostata. Se non hai richiesto tu la reimpostazione, contatta immediatamente un amministratore.</value>
   </data>
   <data name="Password_Reset_Changed_Title" xml:space="preserve">
     <value>La tua password è stata aggiornata!</value>
   </data>
   <data name="Password_Reset_Requested_Message" xml:space="preserve">
-    <value>Sul tuo account è stato richiesto un reset della password. Se hai richiesto una modifica della password, clicca sul link sottostante per aggiornarla.</value>
+    <value>È stata richiesta la reimpostazione della password per il tuo account. Se sei stato tu a richiederla, clicca sul link qui sotto per aggiornarla.</value>
   </data>
   <data name="Password_Reset_Requested_Title" xml:space="preserve">
     <value>Problemi di accesso al tuo account?</value>
   </data>
   <data name="Password_Validation_Confirm" xml:space="preserve">
-    <value>Conferma le corrispondenze della password</value>
+    <value>La password di conferma corrisponde</value>
   </data>
   <data name="Password_Validation_Length" xml:space="preserve">
     <value>Almeno 8 caratteri</value>
@@ -1265,25 +1304,25 @@
     <value>Lettere maiuscole</value>
   </data>
   <data name="PasswordReset" xml:space="preserve">
-    <value>Ripristino della password</value>
+    <value>Reimpostazione della password</value>
   </data>
   <data name="PasswordReset_Failed" xml:space="preserve">
-    <value>Non è possibile inviare email di reset password.</value>
+    <value>Impossibile reimpostare la password dell'account</value>
   </data>
   <data name="PasswordReset_Success" xml:space="preserve">
-    <value>La password è stata ripristinata con successo</value>
+    <value>La password è stata reimpostata con successo</value>
   </data>
   <data name="Payments" xml:space="preserve">
     <value>Pagamenti</value>
   </data>
   <data name="Paywall_Feature" xml:space="preserve">
-    <value>Si prega di aggiornare l'iscrizione al tuo account per ottenere l'accesso a questa funzione</value>
+    <value>Esegui l'upgrade del tuo abbonamento per accedere a questa funzionalità</value>
   </data>
   <data name="Pending" xml:space="preserve">
-    <value>Finanziamenti</value>
+    <value>In sospeso</value>
   </data>
   <data name="Pending_Uploads" xml:space="preserve">
-    <value>Caricamento in corso</value>
+    <value>Caricamenti in sospeso</value>
   </data>
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>Impossibile ottenere i caricamenti in sospeso</value>
@@ -1298,7 +1337,7 @@
     <value>Seleziona un utente</value>
   </data>
   <data name="Portrait" xml:space="preserve">
-    <value>Ritratto</value>
+    <value>Verticale</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Presentazione</value>
@@ -1322,13 +1361,13 @@
     <value>Primario 2</value>
   </data>
   <data name="Protected_Name" xml:space="preserve">
-    <value>I nomi protetti non sono ammessi. Si prega di provare un nome diverso</value>
+    <value>I nomi protetti non sono consentiti. Prova con un nome diverso</value>
   </data>
   <data name="QR_Codes" xml:space="preserve">
     <value>Codici QR</value>
   </data>
   <data name="Random" xml:space="preserve">
-    <value>Random</value>
+    <value>Casuale</value>
   </data>
   <data name="Recent" xml:space="preserve">
     <value>Recenti</value>
@@ -1337,13 +1376,13 @@
     <value>Rosso</value>
   </data>
   <data name="Register" xml:space="preserve">
-    <value>Registrazione</value>
+    <value>Registrati</value>
   </data>
   <data name="Register_Account" xml:space="preserve">
-    <value>Account di registrazione</value>
+    <value>Registra account</value>
   </data>
   <data name="Register_CPassword_Help" xml:space="preserve">
-    <value>Conferma la password</value>
+    <value>Conferma la tua password</value>
   </data>
   <data name="Register_CPassword_Label" xml:space="preserve">
     <value>Conferma la password</value>
@@ -1367,7 +1406,7 @@
     <value>Cognome</value>
   </data>
   <data name="Register_Password_Help" xml:space="preserve">
-    <value>Password inserire una password.</value>
+    <value>Inserisci una password.</value>
   </data>
   <data name="Register_Password_Label" xml:space="preserve">
     <value>Password</value>
@@ -1385,13 +1424,13 @@
     <value>La password di conferma non corrisponde</value>
   </data>
   <data name="Registration_Email_Send_Failed" xml:space="preserve">
-    <value>Non ha inviato email di registrazione all'utente.</value>
+    <value>Impossibile inviare l'email di registrazione all'utente.</value>
   </data>
   <data name="Registration_Email_Taken" xml:space="preserve">
     <value>Esiste già un account con l'indirizzo email specificato</value>
   </data>
   <data name="Registration_Failed" xml:space="preserve">
-    <value>Non registrati nuovi utenti</value>
+    <value>Impossibile registrare il nuovo utente</value>
   </data>
   <data name="Registration_Invalid_CPassword" xml:space="preserve">
     <value>La password di conferma non corrisponde alla password</value>
@@ -1400,40 +1439,40 @@
     <value>Si prega di specificare un indirizzo email valido</value>
   </data>
   <data name="Registration_Invalid_Firstname" xml:space="preserve">
-    <value>Si prega di specificare un nome valido tra 1 e 50 caratteri</value>
+    <value>Specifica un nome valido tra 1 e 50 caratteri</value>
   </data>
   <data name="Registration_Invalid_Lastname" xml:space="preserve">
-    <value>Si prega di specificare un cognome valido tra 1 e 50 caratteri</value>
+    <value>Specifica un cognome valido tra 1 e 50 caratteri</value>
   </data>
   <data name="Registration_Invalid_Password" xml:space="preserve">
-    <value>Si prega di specificare una password valida tra 8 e 100 caratteri, contenente almeno 1 lettera maiuscola superiore, 1 lettera minuscola, 1 numero e 1 carattere speciale</value>
+    <value>Specifica una password valida tra 8 e 100 caratteri, contenente almeno 1 lettera maiuscola, 1 lettera minuscola, 1 numero e 1 carattere speciale</value>
   </data>
   <data name="Registration_Invalid_Username" xml:space="preserve">
-    <value>Si prega di specificare un nome utente valido tra 5 e 50 caratteri</value>
+    <value>Specifica un nome utente valido tra 5 e 50 caratteri</value>
   </data>
   <data name="Registration_Invalid_Verification_Link" xml:space="preserve">
-    <value>C'è stato un problema di elaborazione del link di verifica e-mail</value>
+    <value>Si è verificato un problema durante l'elaborazione del link di verifica dell'email</value>
   </data>
   <data name="Registration_Success" xml:space="preserve">
     <value>Account creato con successo</value>
   </data>
   <data name="Registration_Success_Message" xml:space="preserve">
-    <value>L'account è stato registrato con successo e in attesa di accedere</value>
+    <value>Il tuo account è stato registrato con successo ed è in attesa del tuo primo accesso</value>
   </data>
   <data name="Registration_Success_Title" xml:space="preserve">
     <value>Benvenuto!</value>
   </data>
   <data name="Registration_Success_Validation" xml:space="preserve">
-    <value>Il tuo account è stato creato ma il tuo indirizzo email ha bisogno di convalidare prima di poter accedere</value>
+    <value>Il tuo account è stato creato, ma il tuo indirizzo email deve essere convalidato prima di poter accedere</value>
   </data>
   <data name="Registration_Success_Verification" xml:space="preserve">
-    <value>Il tuo account è stato registrato, ma deve essere verificato prima di poterlo accedere. Si prega di attivare il tuo account facendo clic sul link qui sotto.</value>
+    <value>Il tuo account è stato registrato, ma deve essere verificato prima di potervi accedere. Attiva il tuo account cliccando sul link qui sotto.</value>
   </data>
   <data name="Registration_Username_Taken" xml:space="preserve">
-    <value>Il nome utente esiste già. Si prega di selezionare una nuova</value>
+    <value>Il nome utente esiste già. Scegline uno nuovo</value>
   </data>
   <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>La password specificata è facilmente indovinata. Si prega di selezionare una password più sicura.</value>
+    <value>La password specificata è facile da indovinare. Scegli una password più sicura.</value>
   </data>
   <data name="Reject" xml:space="preserve">
     <value>Rifiuta</value>
@@ -1442,25 +1481,25 @@
     <value>Versione di rilascio</value>
   </data>
   <data name="Relink_Username_Hint" xml:space="preserve">
-    <value>Il nuovo nome utente dei proprietari</value>
+    <value>Il nome utente del nuovo proprietario</value>
   </data>
   <data name="Remove" xml:space="preserve">
     <value>Rimuovi</value>
   </data>
   <data name="Rename" xml:space="preserve">
-    <value>Nome</value>
+    <value>Rinomina</value>
   </data>
   <data name="Request_Background_Worker_Failed" xml:space="preserve">
-    <value>Non è riuscito a avviare l'attività di sfondo</value>
+    <value>Impossibile avviare l'attività in background</value>
   </data>
   <data name="Request_Background_Worker_Success" xml:space="preserve">
-    <value>Il compito di sfondo è iniziato con successo</value>
+    <value>Attività in background avviata con successo</value>
   </data>
   <data name="Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Reimposta</value>
   </data>
   <data name="ResetPassword_Invalid_Reset_Link" xml:space="preserve">
-    <value>C'è stato un problema di elaborazione del link di ripristino password</value>
+    <value>Si è verificato un problema durante l'elaborazione del link di reimpostazione della password</value>
   </data>
   <data name="Resources" xml:space="preserve">
     <value>Risorse</value>
@@ -1472,31 +1511,31 @@
     <value>Revisione</value>
   </data>
   <data name="Review_Failed" xml:space="preserve">
-    <value>Impossibile rivedere l'elemento</value>
+    <value>Impossibile revisionare l'elemento</value>
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
-    <value>Non riesco a trovare l'id dell'oggetto</value>
+    <value>Impossibile trovare l'ID dell'elemento</value>
   </data>
   <data name="Reviews" xml:space="preserve">
-    <value>Recensioni</value>
+    <value>Revisioni</value>
   </data>
   <data name="Run" xml:space="preserve">
-    <value>Corri</value>
+    <value>Esegui</value>
   </data>
   <data name="Save_QR" xml:space="preserve">
-    <value>Salvare il QR</value>
+    <value>Salva QR</value>
   </data>
   <data name="Save_To_Custom_Resources_Failed" xml:space="preserve">
     <value>Impossibile salvare la risorsa personalizzata</value>
   </data>
   <data name="Save_To_Gallery_Failed" xml:space="preserve">
-    <value>Impossibile salvare l'immagine alla galleria</value>
+    <value>Impossibile salvare l'immagine nella galleria</value>
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Scansiona il codice QR con il telefono per condividere le tue immagini</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
-    <value>Filtro basato su un termine di ricerca</value>
+    <value>Filtra in base a un termine di ricerca</value>
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Termine di ricerca</value>
@@ -1526,7 +1565,7 @@
     <value>Seleziona tutto</value>
   </data>
   <data name="Sending" xml:space="preserve">
-    <value>Inviare</value>
+    <value>Invio in corso</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Impostazioni</value>
@@ -1535,37 +1574,37 @@
     <value>Account</value>
   </data>
   <data name="Settings_Account_Lockout_Attempts_Help" xml:space="preserve">
-    <value>Quanti login falliti prima che un utente sia bloccato</value>
+    <value>Quanti accessi falliti prima che un utente venga bloccato</value>
   </data>
   <data name="Settings_Account_Lockout_Attempts_Label" xml:space="preserve">
-    <value>I tentativi di blocco</value>
+    <value>Tentativi prima del blocco</value>
   </data>
   <data name="Settings_Account_Lockout_Mins_Help" xml:space="preserve">
-    <value>Quanto tempo dovrebbe essere bloccato</value>
+    <value>Per quanto tempo un utente deve rimanere bloccato</value>
   </data>
   <data name="Settings_Account_Lockout_Mins_Label" xml:space="preserve">
-    <value>Lockout Minuti</value>
+    <value>Minuti di blocco</value>
   </data>
   <data name="Settings_Account_Profile_Icon_Help" xml:space="preserve">
-    <value>Se l'icona del profilo appare nell'intestazione</value>
+    <value>Indica se mostrare l'icona del profilo nell'intestazione</value>
   </data>
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
-    <value>Profilo Icon</value>
+    <value>Icona del profilo</value>
   </data>
   <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
-    <value>Quanti articoli dovrebbero mostrare nella sezione galleria recente?</value>
+    <value>Quanti elementi mostrare nella sezione delle gallerie recenti?</value>
   </data>
   <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
-    <value>Galleria Storia Limite</value>
+    <value>Limite cronologia gallerie</value>
   </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
-    <value>Gli ospiti possono registrare i conti?</value>
+    <value>Gli ospiti possono registrare degli account?</value>
   </data>
   <data name="Settings_Account_Registration_Enabled_Label" xml:space="preserve">
     <value>Registrazione abilitata</value>
   </data>
   <data name="Settings_Account_Registration_RequireEmailValidation_Help" xml:space="preserve">
-    <value>Gli utenti sono tenuti a verificare la loro e-mail per attivare il proprio account?</value>
+    <value>Gli utenti devono verificare la propria email per attivare l'account?</value>
   </data>
   <data name="Settings_Account_Registration_RequireEmailValidation_Label" xml:space="preserve">
     <value>Richiedi la convalida e-mail</value>
@@ -1574,37 +1613,37 @@
     <value>Avvisi</value>
   </data>
   <data name="Settings_Alerts_Account_Lockout_Help" xml:space="preserve">
-    <value>Dovrebbe essere inviato avvisi quando i conti sono bloccati fuori</value>
+    <value>Indica se inviare avvisi quando gli account vengono bloccati</value>
   </data>
   <data name="Settings_Alerts_Account_Lockout_Label" xml:space="preserve">
     <value>Blocco dell'account</value>
   </data>
   <data name="Settings_Alerts_Destructive_Action_Help" xml:space="preserve">
-    <value>Dovrebbe essere inviato avvisi quando viene eseguita un'azione distruttiva</value>
+    <value>Indica se inviare avvisi quando viene eseguita un'azione distruttiva</value>
   </data>
   <data name="Settings_Alerts_Destructive_Action_Label" xml:space="preserve">
     <value>Azioni distruttive</value>
   </data>
   <data name="Settings_Alerts_Failed_Login_Help" xml:space="preserve">
-    <value>Dovrebbero essere inviati avvisi su tentativi di login falliti</value>
+    <value>Indica se inviare avvisi in caso di tentativi di accesso non riusciti</value>
   </data>
   <data name="Settings_Alerts_Failed_Login_Label" xml:space="preserve">
-    <value>Registrazione non riuscita</value>
+    <value>Accesso non riuscito</value>
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
-    <value>Dovrebbe essere inviato avvisi se un nuovo elemento è in attesa di revisione</value>
+    <value>Indica se inviare avvisi quando un nuovo elemento è in attesa di revisione</value>
   </data>
   <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Revisione di prestito</value>
+    <value>In attesa di revisione</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
-    <value>I registri e gli eventi degli utenti devono essere registrati</value>
+    <value>Indica se registrare i log e gli eventi degli utenti</value>
   </data>
   <data name="Settings_Audit_Retention_Help" xml:space="preserve">
-    <value>Quanti giorni devono essere memorizzati i registri di audit</value>
+    <value>Per quanti giorni conservare i log di audit</value>
   </data>
   <data name="Settings_BackgroundServices" xml:space="preserve">
-    <value>Servizi in Background</value>
+    <value>Servizi in background</value>
   </data>
   <data name="Settings_BackgroundServices_Cleanup_Help" xml:space="preserve">
     <value>Pulisce i file temporanei</value>
@@ -1613,7 +1652,7 @@
     <value>Pulizia</value>
   </data>
   <data name="Settings_BackgroundServices_DirectoryScanner_Help" xml:space="preserve">
-    <value>Raccoglie i file caduti direttamente nella cartella della galleria</value>
+    <value>Rileva i file inseriti direttamente nella cartella della galleria</value>
   </data>
   <data name="Settings_BackgroundServices_DirectoryScanner_Label" xml:space="preserve">
     <value>Scanner di directory</value>
@@ -1625,103 +1664,103 @@
     <value>Report via email</value>
   </data>
   <data name="Settings_Basic" xml:space="preserve">
-    <value>Base di base</value>
+    <value>Base</value>
   </data>
   <data name="Settings_Basic_AllowInsecureGalleries_Help" xml:space="preserve">
-    <value>Sono consentite gallerie vuote chiavi segrete</value>
+    <value>Indica se consentire gallerie con chiave segreta vuota</value>
   </data>
   <data name="Settings_Basic_AllowInsecureGalleries_Label" xml:space="preserve">
-    <value>Consentire le gallerie insicure</value>
+    <value>Consenti gallerie non sicure</value>
   </data>
   <data name="Settings_Basic_BaseUrl_Help" xml:space="preserve">
-    <value>La base Url da utilizzare nei link e nelle notifiche</value>
+    <value>L'URL di base da utilizzare nei link e nelle notifiche</value>
   </data>
   <data name="Settings_Basic_BaseUrl_Label" xml:space="preserve">
-    <value>Base Url</value>
+    <value>URL di base</value>
   </data>
   <data name="Settings_Basic_EmailReport_Help" xml:space="preserve">
-    <value>Se un rapporto di posta elettronica viene inviato con le statistiche della galleria</value>
+    <value>Indica se inviare un report via email con le statistiche della galleria</value>
   </data>
   <data name="Settings_Basic_EmailReport_Label" xml:space="preserve">
-    <value>Rapporto e-mail</value>
+    <value>Report via email</value>
   </data>
   <data name="Settings_Basic_ForceHttps_Help" xml:space="preserve">
-    <value>Dovrebbe Gli utenti Http sono costretti a https</value>
+    <value>Indica se reindirizzare forzatamente gli utenti HTTP verso HTTPS</value>
   </data>
   <data name="Settings_Basic_ForceHttps_Label" xml:space="preserve">
-    <value>Forza Https</value>
+    <value>Forza HTTPS</value>
   </data>
   <data name="Settings_Basic_GallerySelectorDropdown_Help" xml:space="preserve">
     <value>Come gli utenti selezionano una galleria</value>
   </data>
   <data name="Settings_Basic_GallerySelectorDropdown_Label" xml:space="preserve">
-    <value>Selezione galleria Tipo</value>
+    <value>Tipo di selettore galleria</value>
   </data>
   <data name="Settings_Basic_GallerySelectorHideDefault_Help" xml:space="preserve">
-    <value>Se l'opzione della galleria predefinita è visibile</value>
+    <value>Indica se l'opzione della galleria predefinita deve essere visibile</value>
   </data>
   <data name="Settings_Basic_GallerySelectorHideDefault_Label" xml:space="preserve">
-    <value>Mostra la galleria di default</value>
+    <value>Mostra galleria predefinita</value>
   </data>
   <data name="Settings_Basic_GuestGalleryCreation_Help" xml:space="preserve">
-    <value>Gli ospiti dovrebbero poter Crea nuove gallerie</value>
+    <value>Indica se gli ospiti possono creare nuove gallerie</value>
   </data>
   <data name="Settings_Basic_GuestGalleryCreation_Label" xml:space="preserve">
-    <value>Galleria degli ospiti Creazione</value>
+    <value>Creazione gallerie da parte degli ospiti</value>
   </data>
   <data name="Settings_Basic_HideKeyFromQRCode_Help" xml:space="preserve">
-    <value>Se la chiave segreta fosse inclusa nel codice QR</value>
+    <value>Indica se includere la chiave segreta nel codice QR</value>
   </data>
   <data name="Settings_Basic_HideKeyFromQRCode_Label" xml:space="preserve">
-    <value>Codici QR insicuri</value>
+    <value>Codici QR non sicuri</value>
   </data>
   <data name="Settings_Basic_HomeLink_Help" xml:space="preserve">
-    <value>Dovrebbe fare clic sul link di casa reindirizzare l'utente</value>
+    <value>Indica se il clic sul link della home deve reindirizzare l'utente</value>
   </data>
   <data name="Settings_Basic_HomeLink_Label" xml:space="preserve">
-    <value>Clicable Home Link</value>
+    <value>Link home cliccabile</value>
   </data>
   <data name="Settings_Basic_LinksOpenNewTab_Help" xml:space="preserve">
-    <value>I link dovrebbero essere aperti in nuove schede</value>
+    <value>Indica se i link devono aprirsi in nuove schede</value>
   </data>
   <data name="Settings_Basic_LinksOpenNewTab_Label" xml:space="preserve">
-    <value>Nuovi collegamenti della scheda</value>
+    <value>Link in nuova scheda</value>
   </data>
   <data name="Settings_Basic_Logo_Help" xml:space="preserve">
-    <value>L'icona da mostrare intestazioni e schede</value>
+    <value>L'icona da mostrare nelle intestazioni e nelle schede</value>
   </data>
   <data name="Settings_Basic_Logo_Label" xml:space="preserve">
     <value>Logo</value>
   </data>
   <data name="Settings_Basic_MaxGalleryCount_Help" xml:space="preserve">
-    <value>Quante gallerie sono gli utenti autorizzati a Crea</value>
+    <value>Quante gallerie possono creare gli utenti</value>
   </data>
   <data name="Settings_Basic_MaxGalleryCount_Label" xml:space="preserve">
-    <value>Max Gallery Conte</value>
+    <value>Numero massimo di gallerie</value>
   </data>
   <data name="Settings_Basic_SingleGalleryMode_Help" xml:space="preserve">
-    <value>Dovrebbe esserci una o più gallerie</value>
+    <value>Indica se ci devono essere una o più gallerie</value>
   </data>
   <data name="Settings_Basic_SingleGalleryMode_Label" xml:space="preserve">
     <value>Modalità Galleria</value>
   </data>
   <data name="Settings_Basic_ThumbnailSize_Help" xml:space="preserve">
-    <value>Pixel massimi in qualsiasi direzione per miniature</value>
+    <value>Numero massimo di pixel in qualsiasi direzione per le miniature</value>
   </data>
   <data name="Settings_Basic_ThumbnailSize_Label" xml:space="preserve">
-    <value>Risoluzione del Thumbnail</value>
+    <value>Risoluzione miniature</value>
   </data>
   <data name="Settings_Basic_Title_Help" xml:space="preserve">
-    <value>Il nome da mostrare in intestazioni e schede</value>
+    <value>Il nome da mostrare nelle intestazioni e nelle schede</value>
   </data>
   <data name="Settings_Basic_Title_Label" xml:space="preserve">
     <value>Titolo</value>
   </data>
   <data name="Settings_CustomCookiePolicy_Help" xml:space="preserve">
-    <value>Il contenuto da visualizzare nella pagina informativa CookiePolicy</value>
+    <value>Il contenuto da visualizzare nella pagina dell'informativa sui cookie</value>
   </data>
   <data name="Settings_CustomCookiePolicy_Label" xml:space="preserve">
-    <value>Informativa sui cookie personali</value>
+    <value>Informativa sui cookie personalizzata</value>
   </data>
   <data name="Settings_CustomPolicies" xml:space="preserve">
     <value>Politiche personalizzate</value>
@@ -1730,13 +1769,13 @@
     <value>Impossibile ottenere le impostazioni</value>
   </data>
   <data name="Settings_Failed_To_Get" xml:space="preserve">
-    <value>Non riuscito a ottenere le impostazioni</value>
+    <value>Impossibile ottenere le impostazioni</value>
   </data>
   <data name="Settings_Gallery" xml:space="preserve">
-    <value>Predefiniti della galleria</value>
+    <value>Impostazioni predefinite della galleria</value>
   </data>
   <data name="Settings_Gallery_AllowedFileTypes_Help" xml:space="preserve">
-    <value>Quali tipi di file sono gli ospiti autorizzati a caricare</value>
+    <value>Quali tipi di file possono caricare gli ospiti</value>
   </data>
   <data name="Settings_Gallery_AllowedFileTypes_Label" xml:space="preserve">
     <value>Tipi di file consentiti</value>
@@ -1745,61 +1784,61 @@
     <value>Un'immagine da visualizzare in cima alla galleria</value>
   </data>
   <data name="Settings_Gallery_BannerImage_Label" xml:space="preserve">
-    <value>Immagine di banner</value>
+    <value>Immagine banner</value>
   </data>
   <data name="Settings_Gallery_CameraUploads_Help" xml:space="preserve">
-    <value>Gli ospiti dovrebbero avere l'opzione tra il raccoglitore di file o la fotocamera</value>
+    <value>Indica se gli ospiti possono scegliere tra selezione file e fotocamera</value>
   </data>
   <data name="Settings_Gallery_CameraUploads_Label" xml:space="preserve">
-    <value>Caricamento della fotocamera</value>
+    <value>Caricamenti da fotocamera</value>
   </data>
   <data name="Settings_Gallery_Columns_Help" xml:space="preserve">
     <value>Il numero di colonne da visualizzare</value>
   </data>
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
-    <value>Conteggio colonne</value>
+    <value>Numero di colonne</value>
   </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
-    <value>Qual è il filtro di galleria predefinito</value>
+    <value>Qual è il filtro predefinito della galleria</value>
   </data>
   <data name="Settings_Gallery_DefaultFilter_Label" xml:space="preserve">
     <value>Filtro predefinito</value>
   </data>
   <data name="Settings_Gallery_DefaultGroup_Help" xml:space="preserve">
-    <value>Qual è il gruppo di galleria predefinito</value>
+    <value>Qual è il raggruppamento predefinito della galleria</value>
   </data>
   <data name="Settings_Gallery_DefaultGroup_Label" xml:space="preserve">
-    <value>Gruppo di default</value>
+    <value>Raggruppamento predefinito</value>
   </data>
   <data name="Settings_Gallery_DefaultOrder_Help" xml:space="preserve">
-    <value>Qual è l'ordine predefinito della galleria</value>
+    <value>Qual è l'ordinamento predefinito della galleria</value>
   </data>
   <data name="Settings_Gallery_DefaultOrder_Label" xml:space="preserve">
-    <value>Ordine di default</value>
+    <value>Ordinamento predefinito</value>
   </data>
   <data name="Settings_Gallery_DefaultView_Help" xml:space="preserve">
-    <value>Qual è la visualizzazione della galleria predefinita</value>
+    <value>Qual è la visualizzazione predefinita della galleria</value>
   </data>
   <data name="Settings_Gallery_DefaultView_Label" xml:space="preserve">
-    <value>Vista predefinita</value>
+    <value>Visualizzazione predefinita</value>
   </data>
   <data name="Settings_Gallery_Download_Help" xml:space="preserve">
-    <value>Gli ospiti dovrebbero essere autorizzati a scaricare elementi</value>
+    <value>Indica se gli ospiti possono scaricare gli elementi</value>
   </data>
   <data name="Settings_Gallery_Download_Label" xml:space="preserve">
-    <value>Consentire di scaricare</value>
+    <value>Consenti download</value>
   </data>
   <data name="Settings_Gallery_FullWidth_Help" xml:space="preserve">
     <value>La larghezza della galleria</value>
   </data>
   <data name="Settings_Gallery_FullWidth_Label" xml:space="preserve">
-    <value>Tipo di esposizione</value>
+    <value>Tipo di visualizzazione</value>
   </data>
   <data name="Settings_Gallery_IdleRefreshMins_Help" xml:space="preserve">
-    <value>Dopo quanto tempo dovrebbe rinfrescare la galleria per ottenere nuovi contenuti</value>
+    <value>Dopo quanto tempo la galleria deve aggiornarsi per recuperare nuovi contenuti</value>
   </data>
   <data name="Settings_Gallery_IdleRefreshMins_Label" xml:space="preserve">
-    <value>Mins di ricambio</value>
+    <value>Minuti di aggiornamento automatico</value>
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Help" xml:space="preserve">
     <value>Il numero massimo di elementi da mostrare per pagina</value>
@@ -1808,127 +1847,133 @@
     <value>Elementi per pagina</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
-    <value>Qual è il più grande in MB un file caricato può essere</value>
+    <value>La dimensione massima in MB che può avere un file caricato</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Label" xml:space="preserve">
     <value>Dimensione massima del file (MB)</value>
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Help" xml:space="preserve">
-    <value>Quanto grande in MB è la galleria permesso crescere</value>
+    <value>Fino a quanti MB può crescere la galleria</value>
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
-    <value>Dimensione Max Gallery (MB)</value>
+    <value>Dimensione massima della galleria (MB)</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
-    <value>Dovrebbero essere respinti automaticamente gli elementi duplicati</value>
+    <value>Indica se rifiutare automaticamente gli elementi duplicati</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Label" xml:space="preserve">
-    <value>Prevenire duplicati</value>
+    <value>Impedisci duplicati</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultGroup_Help" xml:space="preserve">
-    <value>Una volta scansionato cosa dovrebbe raggruppare gli elementi</value>
+    <value>Una volta scansionato, in base a cosa raggruppare gli elementi</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultGroup_Label" xml:space="preserve">
-    <value>Gruppo QR predefinito</value>
+    <value>Raggruppamento QR predefinito</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Help" xml:space="preserve">
-    <value>Una volta scanner che ordine dovrebbe apparire</value>
+    <value>Una volta scansionato, in che ordine devono apparire gli elementi</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Label" xml:space="preserve">
-    <value>QR predefinito Ordine</value>
+    <value>Ordinamento QR predefinito</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultView_Help" xml:space="preserve">
-    <value>Una volta scansionato quale layout dovrebbe vedere l'utente</value>
+    <value>Una volta scansionato, quale layout deve vedere l'utente</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultView_Label" xml:space="preserve">
-    <value>QR predefinito Vista</value>
+    <value>Visualizzazione QR predefinita</value>
   </data>
   <data name="Settings_Gallery_QRCodeEnabled_Help" xml:space="preserve">
-    <value>In caso di visualizzazione del codice QR</value>
+    <value>Indica se mostrare il codice QR</value>
   </data>
   <data name="Settings_Gallery_QRCodeEnabled_Label" xml:space="preserve">
-    <value>Mostra il codice QR</value>
+    <value>Mostra codice QR</value>
   </data>
   <data name="Settings_Gallery_QRCodeIncludeCulture_Help" xml:space="preserve">
-    <value>Se il codice QR specifica la lingua di visualizzazione</value>
+    <value>Indica se il codice QR deve specificare la lingua di visualizzazione</value>
   </data>
   <data name="Settings_Gallery_QRCodeIncludeCulture_Label" xml:space="preserve">
-    <value>Includere la cultura in QR</value>
+    <value>Includi lingua nel QR</value>
   </data>
   <data name="Settings_Gallery_Quote_Help" xml:space="preserve">
-    <value>Un quote da visualizzare in cima alla galleria</value>
+    <value>Una citazione da visualizzare in cima alla galleria</value>
   </data>
   <data name="Settings_Gallery_Quote_Label" xml:space="preserve">
-    <value>Quote</value>
+    <value>Citazione</value>
   </data>
   <data name="Settings_Gallery_RequireReview_Help" xml:space="preserve">
-    <value>Fare elementi devono essere esaminati prima che appaiono sul sito</value>
+    <value>Indica se gli elementi devono essere revisionati prima di apparire sul sito</value>
   </data>
   <data name="Settings_Gallery_RequireReview_Label" xml:space="preserve">
-    <value>Revisione richiesta</value>
+    <value>Richiedi revisione</value>
   </data>
   <data name="Settings_Gallery_RetainRejectedItems_Help" xml:space="preserve">
-    <value>Dovrebbero essere archiviati oggetti rifiutati per un uso successivo</value>
+    <value>Indica se conservare gli elementi rifiutati per un uso successivo</value>
   </data>
   <data name="Settings_Gallery_RetainRejectedItems_Label" xml:space="preserve">
-    <value>Mantenere gli oggetti respinti</value>
+    <value>Conserva elementi rifiutati</value>
   </data>
   <data name="Settings_Gallery_ReviewCounter_Help" xml:space="preserve">
-    <value>Se il contatore di revisione deve essere mostrato</value>
+    <value>Indica se mostrare il contatore delle revisioni</value>
   </data>
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
-    <value>Revisione Contatore</value>
+    <value>Contatore revisioni</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
-    <value>L'utente dovrebbe essere in grado di filtrare e raggruppare i supporti?</value>
+    <value>Indica se l'utente può filtrare e raggruppare i media</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Mostra filtri</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
-    <value>Se il titolo viene visualizzato in cima alla galleria</value>
+    <value>Indica se mostrare il titolo in cima alla galleria</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
-    <value>Mostra il titolo</value>
+    <value>Mostra titolo</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
-    <value>Gli ospiti dovrebbero essere autorizzati a caricare elementi</value>
+    <value>Indica se gli ospiti possono caricare elementi</value>
   </data>
   <data name="Settings_Gallery_Upload_Label" xml:space="preserve">
-    <value>Consentire Caricamenti</value>
+    <value>Consenti caricamenti</value>
   </data>
   <data name="Settings_Gallery_UploadPeriod_Help" xml:space="preserve">
-    <value>Limitare gli upload a un determinato periodo</value>
+    <value>Limita i caricamenti a un periodo specifico</value>
   </data>
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
-    <value>Periodi di carico</value>
+    <value>Periodi di caricamento</value>
   </data>
   <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Help" xml:space="preserve">
-    <value>Se il nome dell'identificatore viene visualizzato nel menu a tendina</value>
+    <value>Indica se mostrare l'identificatore della galleria nel menu a tendina</value>
   </data>
   <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Label" xml:space="preserve">
-    <value>Visualizza Gallery Identifiers</value>
+    <value>Mostra identificatori delle gallerie</value>
   </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
-    <value>Se il nome della galleria viene visualizzato nel menu a tendina</value>
+    <value>Indica se mostrare il nome della galleria nel menu a tendina</value>
   </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
-    <value>Mostra nomi Galleria</value>
+    <value>Mostra nomi delle gallerie</value>
   </data>
   <data name="Settings_GallerySelector_ShowUsernames_Help" xml:space="preserve">
-    <value>Se il proprietario della galleria viene visualizzato nel selettore della galleria</value>
+    <value>Indica se mostrare il proprietario della galleria nel selettore delle gallerie</value>
   </data>
   <data name="Settings_GallerySelector_ShowUsernames_Label" xml:space="preserve">
-    <value>Visualizza i proprietari della Galleria</value>
+    <value>Mostra proprietari delle gallerie</value>
+  </data>
+  <data name="Settings_Gotify" xml:space="preserve">
+    <value>Gotify</value>
   </data>
   <data name="Settings_Gotify_Enabled_Help" xml:space="preserve">
-    <value>Dovrebbe essere inviata Ntfy avvisi</value>
+    <value>Indica se inviare gli avvisi Gotify</value>
+  </data>
+  <data name="Settings_Gotify_Enabled_Label" xml:space="preserve">
+    <value>Abilitato</value>
   </data>
   <data name="Settings_Gotify_Endpoint_Help" xml:space="preserve">
     <value>L'indirizzo del server Gotify</value>
   </data>
   <data name="Settings_Gotify_Endpoint_Label" xml:space="preserve">
-    <value>Fine</value>
+    <value>Endpoint</value>
   </data>
   <data name="Settings_Gotify_Priority_Help" xml:space="preserve">
     <value>Il valore di importanza degli avvisi</value>
@@ -1943,64 +1988,76 @@
     <value>Token di accesso</value>
   </data>
   <data name="Settings_IdentityCheck" xml:space="preserve">
-    <value>Controllo identità</value>
+    <value>Identità ospite</value>
   </data>
   <data name="Settings_IdentityCheck_Enabled_Help" xml:space="preserve">
-    <value>Utenti prompt per il loro nome</value>
+    <value>Chiedi agli utenti il loro nome</value>
+  </data>
+  <data name="Settings_IdentityCheck_Enabled_Label" xml:space="preserve">
+    <value>Abilitato</value>
   </data>
   <data name="Settings_IdentityCheck_PageLoad_Help" xml:space="preserve">
-    <value>Se il controllo dell'identità viene visualizzato al carico della pagina</value>
+    <value>Indica se mostrare la richiesta del nome dell'ospite al caricamento della pagina</value>
   </data>
   <data name="Settings_IdentityCheck_PageLoad_Label" xml:space="preserve">
-    <value>Prompt di carico di pagina</value>
+    <value>Richiesta al caricamento della pagina</value>
   </data>
   <data name="Settings_IdentityCheck_RequireEmail_Help" xml:space="preserve">
-    <value>Se gli utenti devono inserire un indirizzo email</value>
+    <value>Indica se gli utenti devono inserire un indirizzo email</value>
   </data>
   <data name="Settings_IdentityCheck_RequireEmail_Label" xml:space="preserve">
-    <value>Richiedere Indirizzo e-mail</value>
+    <value>Richiedi indirizzo email</value>
   </data>
   <data name="Settings_IdentityCheck_RequireName_Help" xml:space="preserve">
-    <value>Se gli utenti devono inserire un nome</value>
+    <value>Indica se gli utenti devono inserire un nome</value>
   </data>
   <data name="Settings_IdentityCheck_RequireName_Label" xml:space="preserve">
-    <value>Richiesta nome</value>
+    <value>Richiedi nome</value>
   </data>
   <data name="Settings_IdentityCheck_Upload_Help" xml:space="preserve">
-    <value>Se il controllo dell'identità è necessario per caricare i media</value>
+    <value>Indica se richiedere il nome dell'ospite per poter caricare i media</value>
   </data>
   <data name="Settings_IdentityCheck_Upload_Label" xml:space="preserve">
-    <value>Prompt di carico</value>
+    <value>Richiesta al caricamento</value>
   </data>
   <data name="Settings_Languages" xml:space="preserve">
     <value>Lingue</value>
   </data>
   <data name="Settings_Languages_Default_Help" xml:space="preserve">
-    <value>La lingua del sito predefinito se non è selezionata</value>
+    <value>La lingua predefinita del sito se non ne è selezionata una</value>
   </data>
   <data name="Settings_Languages_Default_Label" xml:space="preserve">
-    <value>Lingua di default</value>
+    <value>Lingua predefinita</value>
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
-    <value>Permettere agli utenti di cambiare la lingua</value>
+    <value>Consenti agli utenti di cambiare lingua</value>
+  </data>
+  <data name="Settings_Languages_Enabled_Label" xml:space="preserve">
+    <value>Abilitato</value>
   </data>
   <data name="Settings_Logging" xml:space="preserve">
     <value>Registrazione</value>
   </data>
   <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
-    <value>Quando abilitato, i rapporti di errore vengono inviati automaticamente al fine di aiutare a rilevare e correggere i bug. Le modifiche a questa impostazione si applicano solo sul riavvio del contenitore</value>
+    <value>Se abilitato, le segnalazioni di errore vengono inviate automaticamente per aiutare a individuare e correggere i bug. Le modifiche a questa impostazione hanno effetto solo al riavvio del container</value>
   </data>
   <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
     <value>Aiuta a migliorare questo sito</value>
   </data>
+  <data name="Settings_Ntfy" xml:space="preserve">
+    <value>Ntfy</value>
+  </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
-    <value>Dovrebbe essere inviata Ntfy avvisi</value>
+    <value>Indica se inviare gli avvisi Ntfy</value>
+  </data>
+  <data name="Settings_Ntfy_Enabled_Label" xml:space="preserve">
+    <value>Abilitato</value>
   </data>
   <data name="Settings_Ntfy_Endpoint_Help" xml:space="preserve">
     <value>L'indirizzo del server Ntfy</value>
   </data>
   <data name="Settings_Ntfy_Endpoint_Label" xml:space="preserve">
-    <value>Fine</value>
+    <value>Endpoint</value>
   </data>
   <data name="Settings_Ntfy_Priority_Help" xml:space="preserve">
     <value>Il valore di importanza degli avvisi</value>
@@ -2015,13 +2072,16 @@
     <value>Token di accesso</value>
   </data>
   <data name="Settings_Ntfy_Topic_Help" xml:space="preserve">
-    <value>L'argomento per inviare avvisi a</value>
+    <value>L'argomento a cui inviare gli avvisi</value>
   </data>
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>Argomento</value>
   </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
-    <value>L'utente dovrebbe vedere i popup di stile GDPR?</value>
+    <value>Indica se mostrare all'utente i popup in stile GDPR</value>
+  </data>
+  <data name="Settings_PoliciesEnabled_Label" xml:space="preserve">
+    <value>Abilitato</value>
   </data>
   <data name="Settings_SearchTerm_Help" xml:space="preserve">
     <value>Filtra le impostazioni in base a un termine di ricerca</value>
@@ -2033,13 +2093,13 @@
     <value>Slideshow</value>
   </data>
   <data name="Settings_Slideshow_Fade_Help" xml:space="preserve">
-    <value>Quanto tempo dovrebbe essere la transizione tra le diapositive</value>
+    <value>Quanto deve durare la transizione tra le diapositive</value>
   </data>
   <data name="Settings_Slideshow_Fade_Label" xml:space="preserve">
-    <value>Fade</value>
+    <value>Dissolvenza</value>
   </data>
   <data name="Settings_Slideshow_Interval_Help" xml:space="preserve">
-    <value>Quanto tempo in secondi dovrebbe uno slide show prima di passare alla prossima diapositiva</value>
+    <value>Per quanti secondi deve essere mostrata una diapositiva prima di passare alla successiva</value>
   </data>
   <data name="Settings_Slideshow_Interval_Label" xml:space="preserve">
     <value>Intervallo</value>
@@ -2051,22 +2111,28 @@
     <value>Limite</value>
   </data>
   <data name="Settings_Slideshow_Share_Slide_Help" xml:space="preserve">
-    <value>Se il codice QR dovesse essere smontato alla fine per gli ospiti a scansione</value>
+    <value>Indica se mostrare il codice QR alla fine, così gli ospiti possono scansionarlo</value>
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
-    <value>Includere lo scorrevole in condivisione</value>
+    <value>Includi diapositiva di condivisione</value>
+  </data>
+  <data name="Settings_Smtp" xml:space="preserve">
+    <value>Email</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
-    <value>Il nome utente amichevole mittente</value>
+    <value>Il nome mittente visualizzato</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Label" xml:space="preserve">
-    <value>Nome dell'esposizione</value>
+    <value>Nome visualizzato</value>
   </data>
   <data name="Settings_Smtp_Enabled_Help" xml:space="preserve">
-    <value>Se si inviano avvisi via email</value>
+    <value>Indica se inviare avvisi via email</value>
+  </data>
+  <data name="Settings_Smtp_Enabled_Label" xml:space="preserve">
+    <value>Abilitato</value>
   </data>
   <data name="Settings_Smtp_From_Help" xml:space="preserve">
-    <value>L'indirizzo email dell'avviso viene inviato da</value>
+    <value>L'indirizzo email da cui viene inviato l'avviso</value>
   </data>
   <data name="Settings_Smtp_From_Label" xml:space="preserve">
     <value>Da</value>
@@ -2087,19 +2153,19 @@
     <value>La porta utilizzata dal provider SMTP</value>
   </data>
   <data name="Settings_Smtp_Port_Label" xml:space="preserve">
-    <value>Porto</value>
+    <value>Porta</value>
   </data>
   <data name="Settings_Smtp_Recipient_Help" xml:space="preserve">
-    <value>Un elenco separato da virgola degli indirizzi email</value>
+    <value>Un elenco di indirizzi email separati da virgola</value>
   </data>
   <data name="Settings_Smtp_Recipient_Label" xml:space="preserve">
-    <value>Recipienti</value>
+    <value>Destinatari</value>
   </data>
   <data name="Settings_Smtp_Use_SSL_Help" xml:space="preserve">
-    <value>Il provider SMTP utilizza SSL</value>
+    <value>Indica se il provider SMTP utilizza SSL</value>
   </data>
   <data name="Settings_Smtp_Use_SSL_Label" xml:space="preserve">
-    <value>Utilizzare SSL</value>
+    <value>Usa SSL</value>
   </data>
   <data name="Settings_Smtp_Username_Help" xml:space="preserve">
     <value>Il nome utente utilizzato per autenticare la richiesta</value>
@@ -2111,76 +2177,79 @@
     <value>Temi</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Permettere agli utenti di selezionare il tema personalizzato</value>
+    <value>Consenti agli utenti di selezionare un tema personalizzato</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
-    <value>Il tema del sito predefinito se nessuno è selezionato</value>
+    <value>Il tema predefinito del sito se non ne è selezionato uno</value>
   </data>
   <data name="Settings_Themes_Default_Label" xml:space="preserve">
-    <value>Predefinito Tema</value>
+    <value>Tema predefinito</value>
   </data>
   <data name="Settings_Themes_Enabled_Help" xml:space="preserve">
-    <value>Permettere agli utenti di cambiare il tema</value>
+    <value>Consenti agli utenti di cambiare tema</value>
+  </data>
+  <data name="Settings_Themes_Enabled_Label" xml:space="preserve">
+    <value>Abilitato</value>
   </data>
   <data name="Settings_Trackers" xml:space="preserve">
-    <value>Tracciatori</value>
+    <value>Tracker</value>
   </data>
   <data name="Settings_Trackers_Umami_Endpoint_Help" xml:space="preserve">
-    <value>L'indirizzo finale di Umami</value>
+    <value>L'indirizzo dell'endpoint di Umami</value>
   </data>
   <data name="Settings_Trackers_Umami_Endpoint_Label" xml:space="preserve">
-    <value>Fine</value>
+    <value>Endpoint</value>
   </data>
   <data name="Settings_Trackers_Umami_PerformanceTracking_Help" xml:space="preserve">
-    <value>Dovrebbe seguire le prestazioni</value>
+    <value>Indica se monitorare le prestazioni</value>
   </data>
   <data name="Settings_Trackers_Umami_PerformanceTracking_Label" xml:space="preserve">
     <value>Monitoraggio delle prestazioni</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_BlockSelector_Help" xml:space="preserve">
-    <value>Quali elementi dovrebbero essere nascosti dalla registrazione</value>
+    <value>Quali elementi nascondere dalla registrazione</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_BlockSelector_Label" xml:space="preserve">
     <value>Selettore di blocco</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_Help" xml:space="preserve">
-    <value>Dovrebbe Umami tracciare ripetizioni utente</value>
+    <value>Indica se Umami deve registrare i replay delle sessioni utente</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_Label" xml:space="preserve">
-    <value>Registratore</value>
+    <value>Replay</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_MaskLevel_Help" xml:space="preserve">
-    <value>Quanti dati sensibili devono essere nascosti</value>
+    <value>Quanti dati sensibili nascondere</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_MaskLevel_Label" xml:space="preserve">
-    <value>Livello della maschera</value>
+    <value>Livello di mascheramento</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_MaxDuration_Help" xml:space="preserve">
-    <value>Qual è la lunghezza massima di una sessione registrata</value>
+    <value>La durata massima di una sessione registrata</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_MaxDuration_Label" xml:space="preserve">
-    <value>Durata massima (Mins)</value>
+    <value>Durata massima (min)</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_SampleRate_Help" xml:space="preserve">
-    <value>Come spesso devono essere presi dei campioni</value>
+    <value>Con quale frequenza campionare le sessioni</value>
   </data>
   <data name="Settings_Trackers_Umami_Replay_SampleRate_Label" xml:space="preserve">
-    <value>Tasso di campionamento (%)</value>
+    <value>Frequenza di campionamento (%)</value>
   </data>
   <data name="Settings_Trackers_Umami_ScriptName_Help" xml:space="preserve">
-    <value>Nome script</value>
+    <value>Il nome dello script di Umami</value>
   </data>
   <data name="Settings_Trackers_Umami_ScriptName_Label" xml:space="preserve">
-    <value>Il nome del copione Umami</value>
+    <value>Nome script</value>
   </data>
   <data name="Settings_Trackers_Umami_WebsiteId_Help" xml:space="preserve">
-    <value>Il sito di Umami Id</value>
+    <value>L'ID del sito web su Umami</value>
   </data>
   <data name="Settings_Trackers_Umami_WebsiteId_Label" xml:space="preserve">
-    <value>Sito web Id</value>
+    <value>ID sito web</value>
   </data>
   <data name="Severity" xml:space="preserve">
-    <value>Severo</value>
+    <value>Gravità</value>
   </data>
   <data name="Share" xml:space="preserve">
     <value>Condividi</value>
@@ -2189,10 +2258,10 @@
     <value>Codice di condivisione</value>
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
-    <value>Condividere link copiato a clipboard</value>
+    <value>Link di condivisione copiato negli appunti</value>
   </data>
   <data name="Shared_With_You" xml:space="preserve">
-    <value>Condividi con te</value>
+    <value>Condivise con te</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Mostra impostazioni avanzate</value>
@@ -2207,7 +2276,7 @@
     <value>Slideshow</value>
   </data>
   <data name="Sort" xml:space="preserve">
-    <value>Ordine</value>
+    <value>Ordinamento</value>
   </data>
   <data name="Space_Percent_Used" xml:space="preserve">
     <value>Utilizzo</value>
@@ -2225,19 +2294,19 @@
     <value>Impossibile caricare la lista degli sponsor</value>
   </data>
   <data name="Square" xml:space="preserve">
-    <value>Piazza</value>
+    <value>Quadrato</value>
   </data>
   <data name="Submit" xml:space="preserve">
-    <value>Inviare</value>
+    <value>Invia</value>
   </data>
   <data name="Success_Send_Test_Notification" xml:space="preserve">
     <value>Notifica di prova inviata con successo</value>
   </data>
   <data name="Supporters" xml:space="preserve">
-    <value>Supporti</value>
+    <value>Sostenitori</value>
   </data>
   <data name="Switch" xml:space="preserve">
-    <value>Interruttore</value>
+    <value>Cambia</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Test</value>
@@ -2246,7 +2315,7 @@
     <value>Questo è un messaggio di prova</value>
   </data>
   <data name="Text_Color_Help" xml:space="preserve">
-    <value>Il colore dello sfondo</value>
+    <value>Il colore del testo</value>
   </data>
   <data name="Text_Color_Label" xml:space="preserve">
     <value>Testo</value>
@@ -2255,7 +2324,7 @@
     <value>Tema</value>
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
-    <value>Si prega di selezionare un tema di visualizzazione</value>
+    <value>Seleziona un tema di visualizzazione</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>
@@ -2276,7 +2345,7 @@
     <value>Si è verificato un errore inaspettato</value>
   </data>
   <data name="Unfreeze" xml:space="preserve">
-    <value>Non bloccare</value>
+    <value>Sblocca</value>
   </data>
   <data name="Unfreeze_Failed" xml:space="preserve">
     <value>Impossibile sbloccare l'account</value>
@@ -2288,7 +2357,7 @@
     <value>Sblocca utente</value>
   </data>
   <data name="Unfreeze_User_Message" xml:space="preserve">
-    <value>Sei sicuro di voler sbloccare l'account</value>
+    <value>Sei sicuro di voler sbloccare questo account?</value>
   </data>
   <data name="Unknown_Error" xml:space="preserve">
     <value>Errore sconosciuto</value>
@@ -2300,28 +2369,28 @@
     <value>Aggiorna</value>
   </data>
   <data name="Update_Settings" xml:space="preserve">
-    <value>Aggiorna Impostazioni</value>
+    <value>Aggiorna impostazioni</value>
   </data>
   <data name="Update_Settings_Failed" xml:space="preserve">
     <value>Impossibile aggiornare le impostazioni</value>
   </data>
   <data name="Update_Settings_No_Change" xml:space="preserve">
-    <value>Nessuna modifica è stata apportata al salvataggio</value>
+    <value>Nessuna modifica da salvare</value>
   </data>
   <data name="Update_Settings_Success" xml:space="preserve">
     <value>Impostazioni aggiornate con successo</value>
   </data>
   <data name="Upgrade" xml:space="preserve">
-    <value>Aggiornamento</value>
+    <value>Esegui upgrade</value>
   </data>
   <data name="Upgrade_Account_Message" xml:space="preserve">
-    <value>Attualmente si utilizza la versione gratuita. Per sbloccare più archiviazione galleria e altre grandi funzionalità considerare l'aggiornamento del tuo account</value>
+    <value>Stai utilizzando la versione gratuita. Per sbloccare più spazio di archiviazione per le gallerie e altre fantastiche funzionalità, considera l'upgrade del tuo account</value>
   </data>
   <data name="Upgrade_To_Unlock" xml:space="preserve">
-    <value>Aggiornamento per sbloccare</value>
+    <value>Esegui l'upgrade per sbloccare</value>
   </data>
   <data name="Upload" xml:space="preserve">
-    <value>Caricamento</value>
+    <value>Carica</value>
   </data>
   <data name="Upload_Failed" xml:space="preserve">
     <value>Si è verificato un problema durante il caricamento di alcuni file</value>
@@ -2333,28 +2402,28 @@
     <value>Impossibile trovare l'URL di caricamento</value>
   </data>
   <data name="Upload_Media" xml:space="preserve">
-    <value>Caricamento Media</value>
+    <value>Carica media</value>
   </data>
   <data name="Upload_Method" xml:space="preserve">
-    <value>Seleziona un metodo di upload</value>
+    <value>Seleziona un metodo di caricamento</value>
   </data>
   <data name="Upload_No_Files_Detected" xml:space="preserve">
     <value>Nessun file rilevato da caricare</value>
   </data>
   <data name="Upload_Progress" xml:space="preserve">
-    <value>Elemento di caricamento</value>
+    <value>Caricamento elemento {index} di {count}...</value>
   </data>
   <data name="Upload_Success" xml:space="preserve">
-    <value>Articoli caricati con successo</value>
+    <value>Caricati con successo {count} elemento/i</value>
   </data>
   <data name="Upload_Success_Pending_Review" xml:space="preserve">
-    <value>Successivo caricato articoli in attesa di recensione</value>
+    <value>Caricati con successo {count} elemento/i in attesa di revisione</value>
   </data>
   <data name="Uploaded_By" xml:space="preserve">
     <value>Caricato da</value>
   </data>
   <data name="Uploader" xml:space="preserve">
-    <value>Caricatore</value>
+    <value>Autore del caricamento</value>
   </data>
   <data name="Uploads" xml:space="preserve">
     <value>Caricamenti</value>
@@ -2363,13 +2432,13 @@
     <value>Utente</value>
   </data>
   <data name="User_Confirm_Password" xml:space="preserve">
-    <value>Conferma la password</value>
+    <value>Conferma password</value>
   </data>
   <data name="User_Confirm_Password_Hint" xml:space="preserve">
     <value>Confermare la password</value>
   </data>
   <data name="User_CPassword_Missmatch" xml:space="preserve">
-    <value>La password fornita e la password confrim non corrispondono</value>
+    <value>La password e la password di conferma non corrispondono</value>
   </data>
   <data name="User_Create" xml:space="preserve">
     <value>Crea utente</value>
@@ -2381,10 +2450,13 @@
     <value>Utente creato con successo</value>
   </data>
   <data name="User_Delete" xml:space="preserve">
-    <value>Cancella utente</value>
+    <value>Elimina utente</value>
   </data>
   <data name="User_Delete_Failed" xml:space="preserve">
     <value>Impossibile eliminare l'utente</value>
+  </data>
+  <data name="User_Delete_Message" xml:space="preserve">
+    <value>Sei sicuro di voler eliminare l'utente '{name}'?</value>
   </data>
   <data name="User_Delete_Success" xml:space="preserve">
     <value>Utente eliminato con successo</value>
@@ -2402,13 +2474,13 @@
     <value>Email</value>
   </data>
   <data name="User_Email_Hint" xml:space="preserve">
-    <value>L'indirizzo email degli utenti</value>
+    <value>L'indirizzo email dell'utente</value>
   </data>
   <data name="User_Firstname" xml:space="preserve">
     <value>Nome</value>
   </data>
   <data name="User_Firstname_Hint" xml:space="preserve">
-    <value>Il primo nome dell'utente</value>
+    <value>Il nome dell'utente</value>
   </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Password e conferma password non corrispondono</value>
@@ -2417,40 +2489,58 @@
     <value>Si prega di specificare un indirizzo email valido</value>
   </data>
   <data name="User_Invalid_Firstname" xml:space="preserve">
-    <value>Si prega di specificare un nome valido</value>
+    <value>Specifica un nome valido</value>
   </data>
   <data name="User_Invalid_Lastname" xml:space="preserve">
-    <value>Si prega di specificare un cognome valido</value>
+    <value>Specifica un cognome valido</value>
   </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Il livello utente selezionato non è valido</value>
+  </data>
+  <data name="User_Invalid_Name" xml:space="preserve">
+    <value>Specifica un nome utente valido</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Si prega di specificare una password utente valida</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
-    <value>Il livello pagato selezionato è invalido</value>
+    <value>Il piano selezionato non è valido</value>
   </data>
   <data name="User_Invalid_Username" xml:space="preserve">
-    <value>Si prega di specificare un nome utente valido</value>
+    <value>Specifica un nome utente valido</value>
   </data>
   <data name="User_Lastname" xml:space="preserve">
     <value>Cognome</value>
   </data>
   <data name="User_Lastname_Hint" xml:space="preserve">
-    <value>L'ultimo nome dell'utente</value>
+    <value>Il cognome dell'utente</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Livello</value>
   </data>
   <data name="User_Level_Help" xml:space="preserve">
-    <value>Livello utente da filtrare</value>
+    <value>Livello utente in base a cui filtrare</value>
   </data>
   <data name="User_Level_Hint" xml:space="preserve">
-    <value>Il livello di accesso degli utenti</value>
+    <value>Il livello di accesso dell'utente</value>
+  </data>
+  <data name="User_Name_Hint" xml:space="preserve">
+    <value>Il nome utente del nuovo utente</value>
+  </data>
+  <data name="User_Name_Already_Exists" xml:space="preserve">
+    <value>Esiste già un utente con lo stesso nome</value>
+  </data>
+  <data name="User_Name" xml:space="preserve">
+    <value>Nome utente</value>
+  </data>
+  <data name="User_Missing_Name" xml:space="preserve">
+    <value>Il nome utente non può essere vuoto</value>
+  </data>
+  <data name="User_Missing_Id" xml:space="preserve">
+    <value>L'ID utente non può essere vuoto</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
-    <value>Non è possibile trovare l'utente specificato</value>
+    <value>Impossibile trovare l'utente specificato</value>
   </data>
   <data name="User_Password" xml:space="preserve">
     <value>Password</value>
@@ -2459,16 +2549,16 @@
     <value>La password del nuovo utente</value>
   </data>
   <data name="User_Tier" xml:space="preserve">
-    <value>Tiro</value>
+    <value>Piano</value>
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
-    <value>Gli utenti hanno pagato</value>
+    <value>Il piano a pagamento dell'utente</value>
   </data>
   <data name="User_Username" xml:space="preserve">
     <value>Nome utente</value>
   </data>
   <data name="User_Username_Already_Exists" xml:space="preserve">
-    <value>Aggiungi utente con lo stesso nome già esiste</value>
+    <value>Esiste già un utente con lo stesso nome utente</value>
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Il nome utente dell'utente</value>
@@ -2495,7 +2585,7 @@
     <value>Video</value>
   </data>
   <data name="View" xml:space="preserve">
-    <value>Vista</value>
+    <value>Visualizzazione</value>
   </data>
   <data name="View_Options" xml:space="preserve">
     <value>Opzioni di visualizzazione</value>
@@ -2504,22 +2594,22 @@
     <value>Visita</value>
   </data>
   <data name="Warning" xml:space="preserve">
-    <value>Avvertenza</value>
+    <value>Attenzione</value>
   </data>
   <data name="Wipe" xml:space="preserve">
-    <value>Wipe</value>
+    <value>Svuota</value>
   </data>
   <data name="Wipe_2FA" xml:space="preserve">
-    <value>Wipe 2FA</value>
+    <value>Azzera 2FA</value>
   </data>
   <data name="Wipe_All_Confirmation" xml:space="preserve">
-    <value>Sei sicuro di voler pulire tutte le gallerie?</value>
+    <value>Sei sicuro di voler svuotare tutte le gallerie?</value>
   </data>
   <data name="Wipe_Confirmation" xml:space="preserve">
-    <value>Sei sicuro di voler pulire questa galleria?</value>
+    <value>Sei sicuro di voler svuotare questa galleria?</value>
   </data>
   <data name="Wipe_Data" xml:space="preserve">
-    <value>Cancella Dati</value>
+    <value>Cancella dati</value>
   </data>
   <data name="Wipe_Data_Failed" xml:space="preserve">
     <value>Impossibile cancellare i dati</value>
