@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>คลังภาพที่ใช้ร่วมกันสําเร็จแล้ว</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>การปรับปรุงคลังภาพเรียบร้อยแล้ว</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>ชนิดของแกลเลอรีภาพที่จะกรอง</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>แกลเลอรีที่ยังไม่แบ่งส่วนสําเร็จ</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>กวาดคลังภาพ</value>

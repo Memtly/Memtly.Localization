@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Matagumpay na pinagsaluhan ang galerya</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Ang matagumpay na binagong mga bahagi ng galerya ay ibinabahagi</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Gallery uri ng pansala sa pamamagitan ng</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Matagumpay na hindi kabahaging galerya</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Eklerya sa Wikipedia</value>

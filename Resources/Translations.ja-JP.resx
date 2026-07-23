@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>共有ギャラリー</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>更新されたギャラリーの株式</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>ギャラリータイプでフィルタリング</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>うまくいかないギャラリー</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>ワイプギャラリー</value>

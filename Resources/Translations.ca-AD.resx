@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>La galeria compartida correctament</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>S' han actualitzat correctament els recursos compartits de la galeria</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Tipus de galeria a filtrar per</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>La galeria no s' ha restaurat correctament</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Esborrat Gallery</value>

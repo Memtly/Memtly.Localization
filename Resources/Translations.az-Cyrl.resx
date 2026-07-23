@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Ətraflı paylaşılan gallery</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Ətraflı yeniləndirilmiş gallery məlumatları</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Qeydiyyat növü</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Müxtəlif un-shared gallery</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Qeydiyyat</value>

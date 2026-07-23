@@ -931,6 +931,9 @@
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galleritype å filtrere etter</value>
   </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Vellykket udelt galleri</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Wipe Gallery</value>
   </data>

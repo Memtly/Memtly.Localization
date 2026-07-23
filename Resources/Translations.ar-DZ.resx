@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>معرض مشترك ناجح</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>أسهم المعرض المستكمل بنجاح</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>نوع المعرض إلى التصفية</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>معرض ناجح غير متقاسم</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>معرض الأرملة</value>

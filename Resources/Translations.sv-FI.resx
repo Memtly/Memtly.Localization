@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Framgångsrikt delat galleri</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Framgångsrikt uppdaterade galleriaktier</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Gallerityp för att filtrera efter</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Framgångsrikt odelat galleri</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Wipe Gallery</value>

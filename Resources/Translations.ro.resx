@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Galerie cu succes comună</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Acțiuni de galerie actualizate cu succes</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerie tip de filtrare prin</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Galerie cu succes neîmpărtășită</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Şterge Galeria</value>

@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Galeri e përbashkët me sukses</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Aksione galerie të përditësuara me sukses</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Lloji i koleksionit nga filtro</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Grumbullim i suksesshëm i paharruar</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Fshi galerinë</value>

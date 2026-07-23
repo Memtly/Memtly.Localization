@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Úspěšně sdílená galerie</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Úspěšně aktualizované podíly galerie</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Typ galerie pro filtrování</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Úspěšně nesdílená galerie</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Galerie stírání</value>

@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>موفق به اشتراک گذاری گالری</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>اشتراک های موفق گالری به روز</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>نوع گالری برای فیلتر کردن</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>موفق به اشتراک گذاری گالری</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>گالری Wipe</value>

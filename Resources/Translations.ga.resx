@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Gailearaí roinnte rathúil</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Scaireanna gailearaí nuashonraithe go rathúil</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Cineál Gailearaí scagaire ag</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Go rathúil gailearaí unshared</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Gailearaí Wipe</value>

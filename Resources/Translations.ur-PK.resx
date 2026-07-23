@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>کامیاب گیلری</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>کامیابی سے تعمیر شدہ گیلری شیئرز</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>فلٹر کرنے کے لیے گیلری قسم</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>غیر متصل گیلری کامیاب</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>ویپ گیلری</value>

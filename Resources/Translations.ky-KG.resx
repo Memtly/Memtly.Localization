@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Галереяны ийгиликтүү бөлүшүү</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Галереянын акциялары ийгиликтүү жаңыртылган</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Галереянын түрү</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Бөлүштүрүлбөгөн галерея</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Зымдуу галерея</value>

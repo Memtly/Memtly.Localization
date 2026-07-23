@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>সাফল্যের সাথে শেয়ার করা হয়েছে</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>সাফল্যের সাথে আপডেট করা হয়েছে</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>ফিল্টার করার জন্য চিহ্নিত গ্যালারির ধরন</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>সাফল্যের সাথে আন-মাউন্ট করা হয়েছে</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Wippe গ্যালারি</value>

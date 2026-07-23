@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Uspešno deljena galerija</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Uspešno posodobljeni deli galerije</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Vrsta galerije za filtriranje po</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Uspešno nedeljena galerija</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Galerija obriši</value>

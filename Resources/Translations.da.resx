@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Succesfuldt delt galleri</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Succesfuldt opdaterede galleriaktier</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galleri type til at filtrere ved</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Succesfuldt udelt galleri</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Tør galleri</value>

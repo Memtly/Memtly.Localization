@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Успішно поширена галерея</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Успішно оновлено галерею акцій</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Тип галереї для фільтра по</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Успішно неохайна галерея</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Відео галерея</value>

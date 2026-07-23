@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Galeri yang sukses dibagi</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Saham galeri yang telah diperbarui sukses</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Jenis galeri untuk menyaring oleh</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Galeri yang tidak dibagi sukses</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Hapus Galeri</value>

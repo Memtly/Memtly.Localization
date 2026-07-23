@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Sėkmingai dalijamasi galerija</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Sėkmingai atnaujintos galerijos akcijos</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>@ info: whatsthis</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Sėkmingai nedalinama galerija</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Šalinti galeriją</value>

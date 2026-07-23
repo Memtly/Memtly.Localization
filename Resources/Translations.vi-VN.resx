@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Phòng trưng bày chia sẻ thành công</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Chia sẻ phòng trưng bày đã cập nhật thành công</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Kiểu nơi trưng bày cần lọc theo</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Phòng trưng bày không chia sẻ thành công</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Gallery</value>

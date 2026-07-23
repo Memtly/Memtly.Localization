@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Επιτυχής κοινόχρηστη γκαλερί</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Επιτυχής ενημέρωση μετοχών γκαλερί</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Τύπος συλλογής για να φιλτράρετε</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Επιτυχής μη κοινόχρηστη γκαλερί</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Γκαλερί σκουπίσματος</value>

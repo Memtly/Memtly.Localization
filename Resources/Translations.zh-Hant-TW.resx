@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>成功共享相簿</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>已成功更新相簿相簿相簿</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>要过滤的相簿型態由</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>已成功分取相簿</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>擦除图片库</value>

@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Sikeresen megosztott galéria</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Sikeresen frissített galéria részvények</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galéria típus szűrés által</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Sikeresen megosztott galéria</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Törlőgaléria</value>

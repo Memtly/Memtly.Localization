@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Udana wspólna galeria</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Udane zaktualizowanie akcji galerii</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Typ galerii do filtrowania przez</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Pomyślnie nieudostępniona galeria</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Galeria wycieraczek</value>

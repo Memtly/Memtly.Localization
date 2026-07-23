@@ -928,8 +928,14 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Galerie partagée avec succès</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Mise à jour des galeries</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Type de galerie à filtrer par</value>
+  </data>
+  <data name="Gallery_UnShare_Success" xml:space="preserve">
+    <value>Galerie non partagée réussie</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Effacer la galerie</value>
