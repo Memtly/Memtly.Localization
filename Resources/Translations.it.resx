@@ -2494,6 +2494,9 @@
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Impossibile ottenere l'elenco degli utenti</value>
   </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Utenti con accesso</value>
+  </data>
   <data name="Validate" xml:space="preserve">
     <value>Convalida</value>
   </data>

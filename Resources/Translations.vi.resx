@@ -2494,6 +2494,9 @@
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Lỗi lấy danh sách người dùng</value>
   </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Người dùng có truy cập</value>
+  </data>
   <data name="Validate" xml:space="preserve">
     <value>Kiểm tra</value>
   </data>

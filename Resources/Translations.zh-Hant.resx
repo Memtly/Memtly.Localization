@@ -2494,6 +2494,9 @@
   <data name="Users_List_Failed" xml:space="preserve">
     <value>获取用户列表失败</value>
   </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>有存取的使用者</value>
+  </data>
   <data name="Validate" xml:space="preserve">
     <value>校验</value>
   </data>

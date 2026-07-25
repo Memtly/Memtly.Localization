@@ -2494,6 +2494,9 @@
   <data name="Users_List_Failed" xml:space="preserve">
     <value>לא מצליחים לקבל רשימת משתמשים</value>
   </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>משתמשים עם Access</value>
+  </data>
   <data name="Validate" xml:space="preserve">
     <value>אימות</value>
   </data>

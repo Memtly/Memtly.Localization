@@ -2494,6 +2494,9 @@
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Sawi sa pagkuha ng listahan ng mga gumagamit</value>
   </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Mga Gumagamit na May Kakayahan</value>
+  </data>
   <data name="Validate" xml:space="preserve">
     <value>Maging Makatuwiran</value>
   </data>

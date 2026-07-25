@@ -2494,6 +2494,9 @@
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Nepodarilo sa získať zoznam používateľov</value>
   </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Používatelia s prístupom</value>
+  </data>
   <data name="Validate" xml:space="preserve">
     <value>Overiť</value>
   </data>

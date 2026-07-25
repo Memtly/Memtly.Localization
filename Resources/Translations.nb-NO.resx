@@ -928,6 +928,9 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>Vellykket delt galleri</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>Vellykket oppdaterte galleriaksjer</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galleritype å filtrere etter</value>
   </data>
@@ -2490,6 +2493,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Klarte ikke å skaffe brukerliste</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Brukere med tilgang</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Valider</value>

@@ -2494,6 +2494,9 @@
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Покинути список користувачів</value>
   </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Користувачі з доступом</value>
+  </data>
   <data name="Validate" xml:space="preserve">
     <value>Подати заявку</value>
   </data>

@@ -928,6 +928,9 @@
   <data name="Gallery_Share_Success" xml:space="preserve">
     <value>সাফল্যের সাথে শেয়ার করা হয়েছে</value>
   </data>
+  <data name="Gallery_Share_Update_Success" xml:space="preserve">
+    <value>সাফল্যের সাথে আপডেট করা হয়েছে</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>ফিল্টার করার জন্য চিহ্নিত গ্যালারির ধরন</value>
   </data>
@@ -2490,6 +2493,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>ব্যবহারকারীর তালিকা প্রাপ্ত করতে ব্যর্থ</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>ব্যবহারকারী দ্বারা ব্যবহৃত</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>বৈধতা যাচাই</value>
