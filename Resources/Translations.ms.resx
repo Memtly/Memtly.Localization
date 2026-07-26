@@ -253,6 +253,9 @@
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>ditolak di galeri</value>
   </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Pengguna Kiri</value>
+  </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Login berapa banyak untuk ditunjukkan</value>
   </data>
@@ -1098,6 +1101,18 @@
   </data>
   <data name="Layout" xml:space="preserve">
     <value>Susunatur</value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>* Tinggalkan *</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Kau yakin mau pergi?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Gagal meninggalkan share</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Berjaya mengambil bagian kiri</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Aras</value>

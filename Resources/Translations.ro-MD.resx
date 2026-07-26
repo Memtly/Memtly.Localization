@@ -253,6 +253,9 @@
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>respins în galerie</value>
   </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Partea stângă a utilizatorului</value>
+  </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Câte jurnale de arătat</value>
   </data>
@@ -1098,6 +1101,18 @@
   </data>
   <data name="Layout" xml:space="preserve">
     <value>Aranjament</value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Pleacă</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Eşti sigur că vrei să pleci?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Nu a reușit să părăsească cota</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Partea stângă cu succes</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Nivel</value>

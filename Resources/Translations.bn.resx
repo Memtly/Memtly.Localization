@@ -253,6 +253,9 @@
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>গ্যালারির মধ্যে পরিত্যাগ করা হয়েছে</value>
   </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>ব্যবহারকারী স্থাপিত অংশ</value>
+  </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>লগ প্রদর্শনের জন্য একটি ফন্ট</value>
   </data>
@@ -1098,6 +1101,18 @@
   </data>
   <data name="Layout" xml:space="preserve">
     <value>বিন্যাস</value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>প্রস্থান করুন</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>আপনি কি নিশ্চিতরূপে প্রস্থান করতে ইচ্ছুক?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>শেয়ার করতে ব্যর্থ</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>সাফল্যের সাথে ভাগ করা হয়েছে</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>স্তর</value>

@@ -253,6 +253,9 @@
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>bị từ chối trong phòng trưng bày</value>
   </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Chia sẻ trái người dùng</value>
+  </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Có bao nhiêu bản ghi để hiển thị</value>
   </data>
@@ -1098,6 +1101,18 @@
   </data>
   <data name="Layout" xml:space="preserve">
     <value>Bố trí</value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Đi đi</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Cậu có chắc là muốn đi không?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Không thể để lại chia sẻ</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Chia sẻ trái thành công</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Trình độ</value>

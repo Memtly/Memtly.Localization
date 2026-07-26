@@ -253,6 +253,9 @@
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>elutasítva a galériában</value>
   </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>A felhasználó bal része</value>
+  </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Hány naplót kell megmutatni</value>
   </data>
@@ -1098,6 +1101,18 @@
   </data>
   <data name="Layout" xml:space="preserve">
     <value>Elrendezés</value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Távozz</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Biztos, hogy el akarsz menni?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Részesedés elhagyása sikertelen</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Sikeresen balra</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Szint</value>

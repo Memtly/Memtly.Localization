@@ -253,6 +253,9 @@
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>dhiúltaigh i gailearaí</value>
   </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Scair chlé Úsáideora</value>
+  </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Cé mhéad logs a thaispeáint</value>
   </data>
@@ -1098,6 +1101,18 @@
   </data>
   <data name="Layout" xml:space="preserve">
     <value>Leagan Amach</value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Plandaí faoi dhíon</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>An bhfuil tú cinnte gur mhaith leat a fhágáil?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Failed a fhágáil scair</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>D'fhág go rathúil sciar</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Leibhéal</value>

@@ -253,6 +253,9 @@
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>rejeté dans la galerie</value>
   </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Part de gauche de l'utilisateur</value>
+  </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Nombre de lignes à afficher</value>
   </data>
@@ -1098,6 +1101,18 @@
   </data>
   <data name="Layout" xml:space="preserve">
     <value>Mise en page</value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Congé</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Tu es sûre de vouloir partir ?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Échec du départ</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Part de gauche réussie</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Niveau</value>

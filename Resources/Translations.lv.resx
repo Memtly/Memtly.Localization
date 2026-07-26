@@ -253,6 +253,9 @@
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>noraidīts galerijā</value>
   </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Lietotāja kreisā daļa</value>
+  </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Cik žurnālus rādīt</value>
   </data>
@@ -1098,6 +1101,18 @@
   </data>
   <data name="Layout" xml:space="preserve">
     <value>Izkārtojums</value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Atvaļinājums</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Vai tiešām gribi doties prom?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Neizdevās atstāt kopīgojumu</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Daļa veiksmīgi palikusi</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Līmenis</value>

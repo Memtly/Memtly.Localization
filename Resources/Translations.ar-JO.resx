@@ -253,6 +253,9 @@
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>مرفوضة في المعرض</value>
   </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>الحصة اليسرى للمستعمل</value>
+  </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>كم عدد السجلات التي تظهر</value>
   </data>
@@ -1098,6 +1101,18 @@
   </data>
   <data name="Layout" xml:space="preserve">
     <value>#</value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>ارحل</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>هل أنت متأكد أنك تريد المغادرة؟?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>عدم ترك الحصة</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>الحصة المتبقية بنجاح</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>الرتبة</value>
