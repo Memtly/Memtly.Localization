@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>Päivämäärä</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Päivämäärä</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Ladattu</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Virhe</value>
   </data>

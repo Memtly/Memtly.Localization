@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>Ngày</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Chọn ngày</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Tải về</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Gỡ lỗi</value>
   </data>

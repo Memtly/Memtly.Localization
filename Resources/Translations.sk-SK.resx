@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>Dátum</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Dátum prijatia</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Dátum odoslania</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Ladiť</value>
   </data>

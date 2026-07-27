@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>Petsa</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Nakuhang Petsa</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Pinagsamang Petsa</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Debug</value>
   </data>

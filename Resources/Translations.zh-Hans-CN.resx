@@ -583,6 +583,9 @@
   <data name="Date" xml:space="preserve">
     <value>日期</value>
   </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>上传日期</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>调试</value>
   </data>

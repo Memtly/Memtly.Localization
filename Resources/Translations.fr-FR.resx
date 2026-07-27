@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>Date</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Date prise</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Date de chargement</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Débogues</value>
   </data>

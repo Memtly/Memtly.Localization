@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>তারিখ</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>ছবি তোলার তারিখ</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>আপলোড করা তারিখ</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>ডিবাগ</value>
   </data>

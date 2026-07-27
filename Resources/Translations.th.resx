@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>วันที่</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>วันที่</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>อัปโหลดวันที่แล้ว</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>ดีบั๊ก</value>
   </data>

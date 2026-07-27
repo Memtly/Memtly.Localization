@@ -583,6 +583,9 @@
   <data name="Date" xml:space="preserve">
     <value>Dato</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Dato tatt</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Feilsøk</value>
   </data>

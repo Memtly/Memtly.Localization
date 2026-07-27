@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>תאריך</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>תאריך Taken</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>תאריך עריכת</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>דיון</value>
   </data>

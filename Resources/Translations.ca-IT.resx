@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>Data</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Data d' agafar</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Pujada de data</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Depuració</value>
   </data>

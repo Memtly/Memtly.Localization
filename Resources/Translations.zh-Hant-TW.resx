@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>日期</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>取用日期</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>上傳日期</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>除錯</value>
   </data>

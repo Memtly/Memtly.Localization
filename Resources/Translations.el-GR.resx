@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>Ημερομηνία</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Ημερομηνία λήφθηκε</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Ημερομηνία αποστολής</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Αποσφαλμάτωση</value>
   </data>

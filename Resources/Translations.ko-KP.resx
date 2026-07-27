@@ -583,6 +583,12 @@
   <data name="Date" xml:space="preserve">
     <value>(주)</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>날짜 테이크</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>사이트 맵</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>디버그</value>
   </data>
