@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Ozadje</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Osnovno</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Modra</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Povleci</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Spusti</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Podvoji zaznano datoteko</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Trenutno ni skupnih spominov</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Nisi še delil spominov, zakaj jih ne naložiš zgoraj!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Upoštevajte, da je to spustna galerija in kot taka boste videli le slike, ki ste jih naložili ali jim je bil omogočen dostop do slike</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Trenutno ni skupnih spominov, zakaj ne naložiš svojih zgoraj!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Vrsta galerije za filtriranje po</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Kako naj izgleda galerija</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Uspešno nedeljena galerija</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Neveljaven ključ galerije</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Neveljavna vrsta galerije</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Neveljavno ime</value>

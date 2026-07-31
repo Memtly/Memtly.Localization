@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Atzeko planoa</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Oinarrizkoa</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Urdina</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Arrastatu</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Jaregin</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Bikoiztutako fitxategia detektatuta</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Une honetan ez dago oroitzapen partekaturik</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Oraindik ez duzu oroitzapenik partekatu, zergatik ez dituzu batzuk igotzen!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Kontuan izan hau goitibeherako galeria dela eta igo dituzun edo ikusteko sarbidea eman dizuten irudiak bakarrik ikusiko dituzula</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Une honetan ez dago oroitzapen partekaturik, zergatik ez duzu zurea igotzen!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galeria mota iragazteko</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Galeriak nola begiratu behar duen</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Arrakastarik gabeko galeria</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Galeria-gako baliogabea</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Galeria mota baliogabea</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Izen baliogabea</value>

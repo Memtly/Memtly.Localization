@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>기타</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>기본 정보</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>이름 *</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>사이트맵</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>기타</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>중복 파일 감지</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>현재 기억이 없습니다</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>당신은 아직 기억을 공유하지 않았다, 왜 당신이 위의 일부를 업로드하지 않습니다!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>해당 이용 후기에 달린 코멘트가 없습니다</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>현재 기억이 공유되지 않습니다. 왜 너를 업로드하지 않습니까!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>갤러리 유형 필터 로</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>갤러리가 보는 방법</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>성공적인 공유 갤러리</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>잘못된 갤러리 키</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>잘못된 갤러리 유형</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>잘못된 이름</value>

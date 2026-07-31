@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Súvislosti</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Základné</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Modrá</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Duplikovať detekovaný súbor</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Momentálne nie sú žiadne spoločné spomienky</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Ešte si nezdieľala žiadne spomienky, prečo nenahráš niečo vyššie!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Upozorňujeme, že toto je rozbaľovacia galéria a ako taká uvidíte iba obrázky, ktoré ste nahrali alebo ste získali prístup k zobrazeniu</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Momentálne nie sú zdieľané žiadne spomienky, prečo neuploadujete vaše vyššie!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Typ galérie na filtrovanie</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Ako by mala vyzerať galéria</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Úspešne nerozdelená galéria</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Neplatný kľúč galérie</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Neplatný typ galérie</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Neplatné meno</value>

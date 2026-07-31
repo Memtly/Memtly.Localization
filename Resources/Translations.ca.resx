@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Fons</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Bàsic</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blau</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Arrossega</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Deixa anar</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>S' ha detectat un fitxer duplicat</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Actualment no hi ha records compartits</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Encara no has compartit cap record, per què no puja una mica més amunt!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Si us plau, tingueu en compte que això és una galeria desplegable i com aquesta només veureu imatges pujades o que heu rebut accés per veure</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Ara mateix no hi ha records compartits, per què no puja les teves a dalt!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Tipus de galeria a filtrar per</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Com hauria d'estar la galeria</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>La galeria no s' ha restaurat correctament</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Clau de galeria no vàlida</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Tipus de galeria no vàlid</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nom no vàlid</value>

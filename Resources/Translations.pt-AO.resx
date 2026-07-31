@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Contexto</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Basic</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Azul</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Arraste</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Largar</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Arquivo duplicado detectado</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Atualmente não existem memórias compartilhadas</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Você ainda não compartilhou nenhuma memória, por que você não carrega alguma acima!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Por favor, note que esta é uma galeria drop e, como tal, você só verá imagens que você enviou ou teve acesso para ver</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Atualmente não há memórias compartilhadas, por que você não carrega seu acima!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Tipo de galeria a filtrar</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Como deve a galeria olhar</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Galeria não compartilhada com sucesso</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Chave de galeria inválida</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Tipo de galeria inválido</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nome inválido</value>

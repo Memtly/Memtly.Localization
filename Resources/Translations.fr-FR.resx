@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Historique</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Données de base</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Bleu</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Glissez et déposez ici</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Baisse</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Doublon détecté</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Il n'y a actuellement aucun souvenir partagé</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Vous n'avez pas encore partagé de souvenirs, pourquoi ne pas télécharger quelques-uns ci-dessus!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Veuillez noter qu'il s'agit d'une galerie déroulante et que, en tant que telle, vous ne verrez que les images que vous avez téléchargées ou que vous avez obtenu l'accès pour voir</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Il n'y a actuellement aucun souvenir partagé, pourquoi ne pas télécharger le vôtre ci-dessus!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Type de galerie à filtrer par</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Comment devrait ressembler la galerie</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Galerie non partagée réussie</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Clé de galerie non valide</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Type de galerie non valide</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nom non valide</value>

@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Achtergrond</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Basis</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blauw</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Sleep</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Vallen</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Bestand dupliceren gedetecteerd</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Er zijn momenteel geen herinneringen gedeeld</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Je hebt nog geen herinneringen gedeeld, waarom upload je er geen!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Houd er rekening mee dat dit een drop gallery is en als zodanig zul je alleen afbeeldingen zien die je hebt geüpload of toegang hebben gekregen om te zien</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Er zijn momenteel geen herinneringen gedeeld, waarom upload je de jouwe niet hierboven!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerijtype om door te filteren</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Hoe moet de galerie eruit zien</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Galerie met succes niet gedeeld</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Ongeldige galeriesleutel</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Ongeldig galerietype</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Ongeldige naam</value>

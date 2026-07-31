@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Підземелля</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Головна</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Синій</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Проксимус</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Зареєструватися</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Дублікатний файл виявлений</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>В даний час немає пам'яті</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Ви ще не поділилися спогадами, тому не завантажте!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Будь ласка, зауважте, що це галерея крапель, і як це ви побачите зображення, які ви завантажили або були надані доступ, щоб побачити</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>В даний час немає пам'яті, тому не ви завантажте вище!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Тип галереї для фільтра по</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Як виглядає галерея</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Успішно неохайна галерея</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid галерея ключ</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Тип галереї</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Ім'я користувача</value>

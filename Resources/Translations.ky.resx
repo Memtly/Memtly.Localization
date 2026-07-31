@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Негизги маалымат</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Негизги негизги негизги негизги</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Көк</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Драг</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Капкак</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Эки эселенген файл аныкталган</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Учурда эч кандай эскерүүлөр бөлүшүлбөйт</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Сиз азырынча эч кандай эскерүүлөрдү бөлүшкөн жоксуз, эмне үчүн сиз жогорудагыларды жүктөбөйсүз!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Бул галереяда сиз жүктөп алган же көрүүгө мүмкүнчүлүк алган сүрөттөрдү гана көрө аласыз</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Учурда эч кандай эскерүүлөр бөлүшүлбөйт, эмне үчүн сиз өзүңүздүн эскерүүлөрүңүздү жогоруда жүктөбөйсүз!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Галереянын түрү</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Галерея кандай көрүнүшү керек</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Бөлүштүрүлбөгөн галерея</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Галериянын жараксыз ачкычы</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Галериянын жараксыз түрү</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Жараксыз ысым</value>

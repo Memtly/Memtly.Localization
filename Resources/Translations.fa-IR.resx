@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>پس زمینه</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Basic</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>آبی</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>کشیدن</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>فایل تکراری شناسایی شده</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>در حال حاضر هیچ خاطره مشترکی وجود ندارد</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>هنوز هیچ خاطره ای به اشتراک نگذاشته اید، چرا برخی از آنها را در بالا آپلود نمی کنید!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>لطفا توجه داشته باشید که این یک گالری قطره است و به همین ترتیب شما فقط تصاویری را که آپلود کرده اید یا به آنها دسترسی دارید را مشاهده خواهید کرد</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>در حال حاضر هیچ خاطره ای به اشتراک گذاشته نشده است، چرا در بالا آپلود نمی کنید!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>نوع گالری برای فیلتر کردن</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>چگونه گالری نگاه کنیم</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>موفق به اشتراک گذاری گالری</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>گالری Invalid key</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>نوع گالری Invalid</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>نام Invalid</value>

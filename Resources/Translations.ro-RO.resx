@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Context</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Basic</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Albastru</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Trage</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Picătură</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Fișier duplicat detectat</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>În prezent nu există amintiri comune</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Încă nu ai împărtăşit nici o amintire, de ce nu încarci ceva mai sus!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Vă rugăm să rețineți că aceasta este o galerie picătură și, ca atare, veți vedea doar imagini pe care le-ați încărcat sau li s-a acordat acces pentru a vedea</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>În prezent nu există amintiri comune, de ce nu-l încarci pe al tău mai sus!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerie tip de filtrare prin</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Cum ar trebui să arate galeria</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Galerie cu succes neîmpărtășită</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Cheie galerie nevalidă</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Tip de galerie nevalidă</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Denumire nevalidă</value>

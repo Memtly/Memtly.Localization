@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Фон</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Основни</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Син</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Влачене</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Капка</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Дублиране на засечен файл</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>В момента няма споделени спомени</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Още не си споделила спомените си, защо не качиш малко по-горе!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Моля, обърнете внимание, че това е галерия за пускане и като такава ще видите само изображения, които сте качили или са получили достъп, за да видите</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>В момента няма общи спомени, защо не качиш твоите горе!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Вид галерия за филтриране чрез</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Как трябва да изглежда галерията</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Успешно несподелена галерия</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Невалиден ключ за галерия</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Невалиден тип галерия</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Невалидно име</value>

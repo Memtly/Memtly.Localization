@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Bakgrunn</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Basic</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blå</value>
   </data>
@@ -586,6 +589,9 @@
   <data name="DateTaken" xml:space="preserve">
     <value>Dato tatt</value>
   </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Dato Lastet opp</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Feilsøk</value>
   </data>
@@ -660,6 +666,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Dra</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Duplikatfil oppdaget</value>
@@ -865,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>For tiden er det ingen minner delt</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Du har ikke delt minner ennå, hvorfor ikke laste opp noen ovenfor!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Vennligst merk at dette er et drop galleri, og som sådan vil du bare se bilder du har lastet opp eller fått tilgang til å se</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Det er for tiden ingen minner delt, hvorfor ikke laste opp din ovenfor!</value>
   </data>
@@ -939,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galleritype å filtrere etter</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Hvordan skal galleriet se ut</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Vellykket udelt galleri</value>
@@ -1077,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Ugyldig gallerinøkkel</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Ugyldig galleritype</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Ugyldig navn</value>

@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Kontekst</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Podstawowe</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Niebieski</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Przeciągnij</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Rzuć</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Wykryto powtórzenie pliku</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Obecnie nie ma wspólnych wspomnień</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Nie dzieliłeś jeszcze żadnych wspomnień, dlaczego nie umieścisz ich wyżej!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Należy pamiętać, że jest to galeria kropli i jako takie można zobaczyć tylko obrazy, które zostały wysłane lub zostały przyznane dostęp do</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Obecnie nie ma wspólnych wspomnień, dlaczego nie można przesłać swoje powyżej!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Typ galerii do filtrowania przez</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Jak powinna wyglądać galeria</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Pomyślnie nieudostępniona galeria</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Nieprawidłowy klawisz galerii</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Nieprawidłowy typ galerii</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nieprawidłowa nazwa</value>

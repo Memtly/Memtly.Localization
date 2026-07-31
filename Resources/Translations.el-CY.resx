@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Ιστορικό</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Βασικό</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Μπλε</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Σύρσιμο</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Ανιχνεύθηκε διπλό αρχείο</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Προς το παρόν δεν υπάρχουν κοινές αναμνήσεις</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Δεν μοιράστηκες ακόμα αναμνήσεις, γιατί δεν ανεβάζεις λίγο παραπάνω!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Παρακαλείστε να σημειώσετε ότι αυτό είναι μια drop gallery και ως εκ τούτου θα δείτε μόνο εικόνες που έχετε ανεβάσει ή έχουν δοθεί πρόσβαση για να δείτε</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Προς το παρόν δεν υπάρχουν κοινές αναμνήσεις, γιατί δεν ανεβάζεις τις δικές σου πάνω!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Τύπος συλλογής για να φιλτράρετε</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Πώς να φαίνεται η γκαλερί</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Επιτυχής μη κοινόχρηστη γκαλερί</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Μη έγκυρο κλειδί συλλογής</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Μη έγκυρος τύπος συλλογής</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Μη έγκυρο όνομα</value>

@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Vispārīga informācija</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Vienkāršs</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Zils</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Vilkt</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Mest</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Atrasts dublikāts</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Šobrīd nav kopīgotu atmiņu</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Jūs vēl neesat dalījušies ar atmiņām, kāpēc jūs ne augšupielādēt dažas iepriekš!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Lūdzu, ņemiet vērā, ka šī ir nolaižamā galerija, un kā tāda jūs redzēsiet tikai augšupielādētus vai jums ir piešķirta piekļuve</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Šobrīd nav kopīgotu atmiņu, kāpēc augšupielādēt savējo augstāk!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerijas tips, ko filtrēt</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Kā galerija izskatās</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Veiksmīgi nedalīta galerija</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Nederīga galerijas atslēga</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Nederīgs galerijas tips</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nederīgs vārds</value>

@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Pinagmulan</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Pangunahin</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Asul</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Paghuhulog</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Natuklasan ang talaksang Diplicate</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Sa kasalukuyan ay wala pang alaalang naikukuwento</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Hindi pa ninyo naikukuwento ang anumang alaala, bakit hindi kayo mag - e -load ng ilan sa itaas!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Pakisuyong pansinin na ito'y isang galerya sa patak ng tubig at sa gayo'y makikita mo lamang ang mga larawan na nadiskarga mo o ikaw ay pinayagang makakita</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Sa kasalukuyan ay walang mga alaalang pinagsasaluhan, bakit hindi mo i - download ang iyong mga alaala sa itaas!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Gallery uri ng pansala sa pamamagitan ng</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Ano ang dapat na hitsura ng galerya</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Matagumpay na hindi kabahaging galerya</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Hindi tanggap na gallery key</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Hindi tanggap na uri ng galerya</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Hindi tanggap na Pangalan</value>

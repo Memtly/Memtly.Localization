@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Sfondi</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Bazë</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blu</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Hidhe</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>U zbulua një file i dyfishuar</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Nuk ka aktualisht asnjë kujtesë të përbashkët</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Nuk ke treguar akoma kujtime, pse nuk ngarkon ca sipër!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Ju lutem vini re se kjo është një galeri hedhjeje dhe si e tillë do të shihni vetëm imazhet që keni ngarkuar ose ju është dhënë mundësia për të parë</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Nuk ka aktualisht kujtime të ndara, pse nuk ngarkoni tuajat sipër!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Lloji i koleksionit nga filtro</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Si duhet të duket galeria</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Grumbullim i suksesshëm i paharruar</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Kyç galerie i pavlefshëm</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Lloj i pavlefshëm galerie</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Emër i pavlefshëm</value>

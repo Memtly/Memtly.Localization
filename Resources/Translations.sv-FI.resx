@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Bakgrund</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Grundläggande</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blå</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Duplicera filen upptäckt</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Det finns för närvarande inga minnen delas</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Du har inte delat några minnen ännu, varför laddar du inte upp några ovan!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Observera att detta är ett droppgalleri och som sådan ser du bara bilder som du har laddat upp eller har fått tillgång till för att se</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Det finns för närvarande inga minnen som delas, varför laddar du inte upp din ovan!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Gallerityp för att filtrera efter</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Hur ska galleriet se</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Framgångsrikt odelat galleri</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid galleri nyckel</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Invalid galleri typ</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Invalidt namn</value>

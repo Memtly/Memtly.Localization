@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Fono</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Baza</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blua</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Duplika dosiero detektis</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Ekzistas nuntempe neniuj memoroj</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Vi ankoraŭ ne havas memorojn, kial vi ne alŝutu iom supre!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Bonvolu noti ke tio estas guto galerio kaj kiel tia vi nur vidos bildojn kiujn vi alŝutis aŭ ricevis aliron vidi</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Ekzistas nuntempe neniuj memoroj dividitaj, kial vi ne alŝutas vian supre!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerio tipo por filtri per</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Kiel la galerio rigardas</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Sukcesa ne-partiigita galerio</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalida galerio</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Invalida galerio tipo</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Invalida nomo</value>

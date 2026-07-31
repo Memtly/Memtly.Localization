@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Taust</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Põhiline</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Sinine</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Lohista</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Viska maha</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Tuvastati topeltfail</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Hetkel ei ole mälestusi jagatud</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Sa ei ole veel ühtegi mälestust jaganud, miks sa ei võiks üles laadida mõned eespool!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Pange tähele, et see on rippgalerii ja sellisena näete ainult pilte, mille olete üles laadinud või millele on antud juurdepääs</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Praegu ei ole mälestusi jagatud, miks te ei lae üles oma eespool!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerii tüüp, mille järgi filtreerida</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Kuidas peaks galerii välja nägema</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Edukalt jagamata galerii</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Vigane galeriivõti</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Vigane galerii tüüp</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Vigane nimi</value>

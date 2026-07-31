@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Arka plan arka plan arka plan</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Temel</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blue</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Bırak</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Duplicate file detected</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Şu anda paylaşılan anılar yok</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Henüz herhangi bir anı paylaşmadınız, neden yukarıda bazı yüklersiniz!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Lütfen unutmayın ki bu bir damla galeridir ve bunun gibi sadece yüklediğiniz görüntüleri göreceksiniz ya da görmek için verilen erişimi göreceksiniz</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Şu anda paylaşılan bir hatıra yok, neden yukarıdakileri yüklemiyorsunuz!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Gallery type to filter Tarafından</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Galeri nasıl görünmelidir</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Başarılı bir şekilde paylaşılan galeri</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid galeri anahtarı</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Invalid galeri türü</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Invalid Name</value>

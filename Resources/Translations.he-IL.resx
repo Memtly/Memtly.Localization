@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>רקע</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>יסוד</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>כחול</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>דרגו</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>טיפות</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>קובץ Duplicate זוהה</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>כרגע אין זיכרונות משותפים</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>עדיין לא שיתפת זיכרונות, למה אתה לא מעלה קצת למעלה!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>אנא שימו לב כי מדובר בגלריית טיפות וככאלה שתראו רק תמונות שהעליתם או קיבלו גישה לראות</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>אין כרגע זיכרונות משותפים, למה אתה לא מעלה את שלך למעלה!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>סוג הגלריה לסינון</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>כיצד תיראה הגלריה</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>גלריה מוצלחת ללא שיתוף</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>מפתח גלריה</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>סוג גלריה</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>שם לא חוקי</value>

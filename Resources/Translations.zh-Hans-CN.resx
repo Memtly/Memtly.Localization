@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>背景情况</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>基础</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>蓝色</value>
   </data>
@@ -583,6 +586,9 @@
   <data name="Date" xml:space="preserve">
     <value>日期</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>拍摄日期</value>
+  </data>
   <data name="DateUploaded" xml:space="preserve">
     <value>上传日期</value>
   </data>
@@ -660,6 +666,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>拖动</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>丢弃</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>检测到复制文件</value>
@@ -865,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>目前没有共享的记忆</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>你还没有分享任何记忆, 为什么不上传一些上面!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>请注意,这是一个投放画廊,因此,你只能看到上传或获准查看的图像</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>目前没有共享的记忆,为什么不上传上你的!!</value>
   </data>
@@ -939,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>要过滤的图片库类型</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>画廊应该怎么样</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>成功未共享画廊</value>
@@ -1077,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>无效的画廊密钥</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>无效的画廊类型</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>无效的名称</value>

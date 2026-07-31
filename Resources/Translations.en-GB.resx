@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Background</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Basic</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blue</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag &amp; Drop files(s) here to upload them to the gallery</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Duplicate file detected</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>There are currently no memories shared</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>You haven't shared any memories yet, why don't you upload some above!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Please note that this is a drop gallery and as such you will only see images you have uploaded or have been granted access to see</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>There are currently no memories shared, why don't you upload yours above!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Gallery type to filter by</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>How should the gallery look</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Successfully un-shared gallery</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid gallery key</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Invalid gallery type</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Invalid Name</value>

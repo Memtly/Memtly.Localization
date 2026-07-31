@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>พื้นหลัง</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>พื้นฐาน</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>น้ําเงิน</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>ลาก</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>ทิ้ง</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>ตรวจพบแฟ้มซ้ํากัน</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>ตอนนี้ไม่มีความทรงจําร่วมกัน</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>คุณยังไม่ได้มีความทรงจําร่วมกันเลย ทําไมคุณไม่อัพโหลดบางอย่างข้างบน!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>โปรดสังเกตว่า นี่เป็นคลังภาพแบบหยด คุณจะได้เห็นเฉพาะภาพที่คุณได้อัปโหลดหรือได้รับสิทธิ์ในการดู</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>ตอนนี้ไม่มีความทรงจําร่วมกัน ทําไมคุณไม่อัพโหลดของคุณด้านบน!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>ชนิดของแกลเลอรีภาพที่จะกรอง</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>แกลลอรี่ควรดูเป็นยังไง</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>แกลเลอรีที่ยังไม่แบ่งส่วนสําเร็จ</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>กุญแจของคลังภาพใช้ไม่ได้</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>ชนิดของคลังภาพไม่ถูกต้อง</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>ชื่อไม่ถูกต้อง</value>

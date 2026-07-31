@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Clár na dToghthóirí</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Bunúsach</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Gorm éadrom</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Déan teagmháil linn</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Buail isteach</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Comhad dúbailte braitheadh</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Níl aon cuimhní roinnte faoi láthair</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Nach bhfuil tú roinnte aon cuimhní go fóill, cén fáth nach bhfuil tú a uaslódáil roinnt thuas!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Tabhair faoi deara, le do thoil, gur gailearaí titim é seo agus mar sin ní fheicfidh tú ach íomhánna a uaslódáil tú nó gur deonaíodh rochtain orthu chun a fheiceáil</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Níl aon cuimhní roinnte faoi láthair, cén fáth nach bhfuil tú a uaslódáil mise thuas!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Cineál Gailearaí scagaire ag</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Conas ba chóir an cuma gailearaí</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Go rathúil gailearaí unshared</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Eochair gailearaí luachmhar</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Cineál gailearaí marcaigh</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Ainm an chabhlaigh</value>

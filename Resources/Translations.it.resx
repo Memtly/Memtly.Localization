@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Contesto</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Base di base</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blu</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Trascina e Rilascia</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Goccia</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>File duplicato rilevato</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Attualmente non ci sono ricordi condivisi</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Non hai ancora condiviso nessun ricordo, perché non carica un po' sopra!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Si prega di notare che si tratta di una galleria a goccia e in quanto tale vedrai solo le immagini che hai caricato o ti hanno concesso l'accesso per vedere</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Attualmente non ci sono ricordi condivisi, perché non caricate il vostro sopra!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Tipo di galleria da filtrare</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Come dovrebbe guardare la galleria</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Galleria senza successo</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Galleria non valida chiave</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Tipo di galleria non valida</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nome non valido</value>

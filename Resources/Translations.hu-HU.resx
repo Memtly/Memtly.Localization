@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Háttér</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Alap</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Kék</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Húzás</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Dobja el</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>A kijelölt fájl másolása</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Jelenleg nincs közös emlékünk</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Még nem osztottál meg emlékeket, miért nem töltöttél fel egy kicsit!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Felhívjuk figyelmét, hogy ez egy drop galéria, és mint ilyen, akkor csak látni képeket feltöltött, vagy kapott hozzáférést, hogy</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Jelenleg nincs közös emlékünk, miért nem töltöd fel a tiédet!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galéria típus szűrés által</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Milyen legyen a galéria</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Sikeresen megosztott galéria</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Érvénytelen galéria kulcs</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Érvénytelen galéria típusa</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Érvénytelen név</value>

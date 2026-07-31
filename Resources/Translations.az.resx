@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Background</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Basic</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blue</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Daxil ol</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Yuxarı</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Qeyd olunan fayl</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Şu anda paylaşılan heç bir xüsusiyyət</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Siz hər hansı bir xüsusiyyət paylaşıb, səm bəzi yükləyirik!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Bu bir drop gallery olduğunu unutmayın və yalnız yüklədiyiniz şəkillər görəcək və ya görmək üçün giriş verildi</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Şu anda paylaşılan heç bir xüsusiyyət var, niyə aşağıdakıları yükləməyin!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Qeydiyyat növü</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Gallery baxmaq lazımdır</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Müxtəlif un-shared gallery</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid gallery əsas</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Invalid gallery tipli</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Ad Soyad</value>

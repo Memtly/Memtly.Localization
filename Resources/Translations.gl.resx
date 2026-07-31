@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Antecedentes</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Básico</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Azul</value>
   </data>
@@ -583,6 +586,12 @@
   <data name="Date" xml:space="preserve">
     <value>Data</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Data tomada</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Data subida</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Debug</value>
   </data>
@@ -657,6 +666,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Ficheiro duplicado detectado</value>
@@ -862,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Actualmente non hai memoria compartida</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Aínda non compartes memorias, por que non subas máis arriba!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Ten en conta que esta é unha galería de pingas e como tal só verás as imaxes que subiches ou que che concederon acceso para ver</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Actualmente non hai memoria compartida, por que non subir as súas!</value>
   </data>
@@ -936,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Tipo de galería para filtrar por</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Como ver a galería</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Galería non compartida</value>
@@ -1074,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Galerías Inválidas</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Tipo de galería inválida</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nome inválido</value>

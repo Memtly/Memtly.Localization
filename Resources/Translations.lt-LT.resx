@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Kontekstas</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Pagrindinis</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Mėlyna</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Vilkimas</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Mesti</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Name</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Dabar nėra bendrų prisiminimų</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Tu dar nedalinai prisiminimų, kodėl tau neįkėlus šiek tiek aukščiau!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Atkreipkite dėmesį, kad tai lašų galerija, ir dėl to Jūs pamatysite tik vaizdus, kuriuos įkelsite arba kuriems buvo suteikta prieiga prie</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Dabar nėra jokių prisiminimų, kodėl jums neįkelti savo aukščiau!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>@ info: whatsthis</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Kaipgalerija turėtų atrodyti</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Sėkmingai nedalinama galerija</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Blogas galerijos raktas</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Klaidingas galerijos tipas</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Blogas vardas</value>

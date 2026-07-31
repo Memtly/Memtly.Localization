@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Hintergrund</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Grund</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Blau</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag &amp; Drop Datei(en) hier, um sie in der Galerie hochzuladen</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Fall</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Duplikate Datei erkannt</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Derzeit gibt es keine geteilten Erinnerungen</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Sie haben noch keine Erinnerungen geteilt, warum laden Sie nicht einige oben!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Bitte beachten Sie, dass dies eine Drop-Galerie ist und Sie als solche nur Bilder sehen, die Sie hochgeladen haben oder Zugriff erhalten haben, um zu sehen</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Es gibt noch keine geteilten Erinnerungen, warum teilst du nicht deine?</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerietyp nach Filter</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Wie sollte die Galerie aussehen</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Erfolgreich ungeteilte Galerie</value>
@@ -1081,6 +1096,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Ungültiger Galerieschlüssel</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Invalide Galerie</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Invalide Bezeichnung</value>
   </data>
@@ -1118,7 +1136,7 @@
     <value>Nicht verfügbar</value>
   </data>
   <data name="Leave_Share_Success" xml:space="preserve">
-    <value>Erfolgreich linker Anteil</value>
+    <value>Erfolgreich linker Teilen</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Ebene</value>
@@ -2216,7 +2234,7 @@
     <value>Schwere</value>
   </data>
   <data name="Share" xml:space="preserve">
-    <value>Anteil</value>
+    <value>Teilen</value>
   </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Teile den Code</value>

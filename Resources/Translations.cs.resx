@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Pozadí</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Základní</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>Modrá</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Přetáhnout</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Zjištěn duplicitní soubor</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>V současné době nejsou sdíleny žádné vzpomínky</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Nesdílel jsi žádné vzpomínky, proč nenahráváš nějaké nahoře!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Vezměte prosím na vědomí, že se jedná o padací galerii a jako takové uvidíte pouze obrázky, které jste nahráli nebo měli přístup k vidění</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>V současné době nejsou žádné vzpomínky sdílené, proč si nenahrát svůj výše!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Typ galerie pro filtrování</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Jak by měla galerie vypadat</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Úspěšně nesdílená galerie</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Neplatný klíč galerie</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Neplatný typ galerie</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Neplatné jméno</value>

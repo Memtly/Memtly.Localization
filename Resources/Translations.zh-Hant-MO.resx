@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>背景</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>基本</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>有藍</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>拖动</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>下放</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>检测到复制文件</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>目前没有共享的记忆</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>你還沒有分享回憶 就上傳上傳上傳去!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>需要注意的是,這是放放相簿 因此您只會看到您已上傳或被授權去取看的相片</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>目前没有共享的记忆,为什么不上传上你的!!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>要过滤的相簿型態由</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>畫廊該怎么看</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>已成功分取相簿</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>无效的画廊密钥</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>不合法的相簿型態</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>不合法的名稱</value>

@@ -349,6 +349,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>पृष्ठभूमि</value>
   </data>
+  <data name="Basic" xml:space="preserve">
+    <value>मूल</value>
+  </data>
   <data name="Blue" xml:space="preserve">
     <value>नीला</value>
   </data>
@@ -664,6 +667,9 @@
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>खींचें</value>
   </data>
+  <data name="Drop" xml:space="preserve">
+    <value>ड्रॉप</value>
+  </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>डुप्लिकेट फ़ाइल का पता लगाया</value>
   </data>
@@ -868,6 +874,12 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>वर्तमान में साझा कोई याद नहीं है</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>आपने अभी तक किसी भी याद को साझा नहीं किया है, क्यों आप ऊपर कुछ अपलोड नहीं करते!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>कृपया ध्यान दें कि यह एक ड्रॉप गैलरी है और जैसे आप केवल उन छवियों को देखेंगे जिन्हें आपने अपलोड किया है या देखने के लिए एक्सेस प्रदान किया है।</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>वर्तमान में कोई यादें साझा नहीं हुई हैं, क्यों नहीं आप ऊपर अपना अपलोड!</value>
   </data>
@@ -942,6 +954,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>गैलरी प्रकार द्वारा फ़िल्टर करने के लिए</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>कैसे गैलरी देखना चाहिए</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>सफलतापूर्वक साझा गैलरी</value>
@@ -1080,6 +1095,9 @@
   </data>
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid गैलरी कुंजी</value>
+  </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>अमान्य गैलरी प्रकार</value>
   </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>अमान्य नाम</value>
