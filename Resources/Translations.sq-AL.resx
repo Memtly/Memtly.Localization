@@ -934,6 +934,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Zgjedhësi i Galerisë</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Ju lutem zgjidhni një galeri për të vizituar.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Zgjedhësi i Galerisë</value>
   </data>

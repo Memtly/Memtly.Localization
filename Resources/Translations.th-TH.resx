@@ -934,6 +934,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>เครื่องมือเลือกคลังภาพ</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>โปรดเลือกคลังภาพที่จะเยี่ยมชม.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>เครื่องมือเลือกคลังภาพ</value>
   </data>

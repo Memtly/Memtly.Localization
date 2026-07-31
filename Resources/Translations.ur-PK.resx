@@ -934,6 +934,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>گیلری منتخب کنندہ</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>براہ مہربانی ملاقات کے لیے گیلری منتخب کریں۔.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>گیلری منتخب کنندہ</value>
   </data>

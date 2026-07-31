@@ -934,6 +934,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>相簿選擇器</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>請選擇要參觀的相簿 .</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>图片库选择器</value>
   </data>

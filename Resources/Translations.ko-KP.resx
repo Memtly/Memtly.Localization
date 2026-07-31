@@ -934,6 +934,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>갤러리 선택</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>갤러리를 방문해 주세요.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>갤러리 선택</value>
   </data>

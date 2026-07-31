@@ -934,6 +934,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galería Selector</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Por favor seleccione una galería para visitar.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Galería Selector</value>
   </data>

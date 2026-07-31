@@ -934,6 +934,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>גלריה Selector</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>אנא בחרו גלריה לביקור.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>גלריה Selector</value>
   </data>

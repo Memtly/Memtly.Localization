@@ -934,6 +934,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galeriivalija</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Palun vali külastatav galerii.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Galeriivalija</value>
   </data>
