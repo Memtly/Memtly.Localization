@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Please note that this is a drop gallery and as such you will only see images you have uploaded or have been granted access to see</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Please note that this is a drop gallery and as an un-registered guest you will not be able to see any uploads</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Other users have already shared memories, why don't you upload some of yours above too!</value>
   </data>

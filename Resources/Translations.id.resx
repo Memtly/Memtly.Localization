@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Harap dicatat bahwa ini adalah galeri drop dan dengan demikian Anda hanya akan melihat gambar Anda telah diunggah atau telah diberikan akses untuk melihat</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Harap dicatat bahwa ini adalah sebuah galeri drop dan sebagai tamu tidak terdaftar Anda tidak akan dapat melihat upload</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Pengguna lain telah berbagi kenangan, kenapa tidak Anda upload beberapa dari Anda di atas juga!</value>
   </data>

@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>ドロップ・ギャラリーなど、アップロードした画像やアクセスを許可している画像のみが表示されますので、ご注意ください</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>これは、ドロップギャラリーであり、登録されていないゲストとして、任意のアップロードが見られないことに注意してください</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>他のユーザーはすでに共有された思い出を持っているので、上記のいくつかをアップロードしないでください!</value>
   </data>

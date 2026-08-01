@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Felhívjuk figyelmét, hogy ez egy drop galéria, és mint ilyen, akkor csak látni képeket feltöltött, vagy kapott hozzáférést, hogy</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Felhívjuk figyelmét, hogy ez egy drop galéria és mint egy nem regisztrált vendég nem lesz képes látni semmilyen feltöltés</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Más felhasználók már megosztották egymással az emlékeiket, miért nem töltenek fel néhányat maguk közül is!</value>
   </data>

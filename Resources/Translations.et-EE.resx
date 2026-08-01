@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Pange tähele, et see on rippgalerii ja sellisena näete ainult pilte, mille olete üles laadinud või millele on antud juurdepääs</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Pange tähele, et see on rippgalerii ja registreerimata külalisena ei näe te üleslaadimisi</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Teised kasutajad on juba jaganud mälestusi, miks te ei laadi ka mõnda oma ülalt!</value>
   </data>

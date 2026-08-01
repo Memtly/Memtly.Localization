@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>请注意,这是一个投放画廊,因此,你只能看到上传或获准查看的图像</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>请注意,这是一个投放画廊 作为未注册的客人,你将无法看到任何上传</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>其他用户已经分享了记忆!</value>
   </data>

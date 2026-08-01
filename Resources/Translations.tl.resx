@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Pakisuyong pansinin na ito'y isang galerya sa patak ng tubig at sa gayo'y makikita mo lamang ang mga larawan na nadiskarga mo o ikaw ay pinayagang makakita</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Pakisuyong pansinin na ito ay isang gallery sa patak ng tubig at bilang isang di-rehistrong bisita hindi mo makikita ang anumang uploads</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Ang ibang gumagamit ay nakapagbahagi na ng mga alaala, bakit hindi ka rin magkarga ng ilan sa iyong mga karanasan sa itaas!</value>
   </data>

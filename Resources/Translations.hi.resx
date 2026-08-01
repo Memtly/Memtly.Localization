@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>कृपया ध्यान दें कि यह एक ड्रॉप गैलरी है और जैसे आप केवल उन छवियों को देखेंगे जिन्हें आपने अपलोड किया है या देखने के लिए एक्सेस प्रदान किया है।</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>कृपया ध्यान दें कि यह एक ड्रॉप गैलरी है और एक पंजीकृत अतिथि के रूप में आप किसी भी अपलोड को देखने में सक्षम नहीं होंगे।</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>अन्य उपयोगकर्ताओं ने पहले से ही यादें साझा की हैं, क्यों आप ऊपर भी अपने कुछ अपलोड नहीं करते!</value>
   </data>

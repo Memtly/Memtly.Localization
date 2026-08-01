@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Tenga en cuenta que esta es una galería de gotas y como tal sólo verá imágenes que ha subido o se le ha concedido acceso para ver</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Tenga en cuenta que esta es una galería de gotas y como huésped no registrado no podrá ver ninguna subida</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Otros usuarios ya han compartido recuerdos, ¿por qué no subes algunos de los tuyos por encima también!</value>
   </data>

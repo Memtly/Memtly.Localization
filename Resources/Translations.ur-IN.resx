@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>براہ مہربانی دیکھیں کہ یہ ایک گرا ہوا گیلری ہے اور اس طرح آپ کو صرف تصاویر نظر آئیں گی یا دیکھنے تک رسائی حاصل کی گئی ہے۔</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>براہ مہربانی یہ نوٹ کریں کہ یہ ایک گرلز گیلری ہے اور غیر رجسٹر شدہ مہمان کے طور پر آپ کو کوئی اپلوڈ نہیں دیکھ سکیں گے۔</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>دوسرے صارفین نے بھی پہلے ہی یادگاریں تقسیم کی ہیں، تم بھی اپنے اوپر کچھ بوجھ اٹھانے کیوں نہیں کرتے!</value>
   </data>

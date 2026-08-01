@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Veuillez noter qu'il s'agit d'une galerie déroulante et que, en tant que telle, vous ne verrez que les images que vous avez téléchargées ou que vous avez obtenu l'accès pour voir</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Veuillez noter qu'il s'agit d'une galerie déroulante et qu'en tant qu'invité non inscrit, vous ne pourrez voir aucun téléchargement</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>D'autres utilisateurs ont déjà partagé des souvenirs, pourquoi ne pas télécharger certains des vôtres aussi!</value>
   </data>

@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>โปรดสังเกตว่า นี่เป็นคลังภาพแบบหยด คุณจะได้เห็นเฉพาะภาพที่คุณได้อัปโหลดหรือได้รับสิทธิ์ในการดู</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>โปรดสังเกตว่า นี่เป็นแกลเลอรีที่วางและเป็นแขกที่ไม่ได้รับช่วง คุณจะไม่สามารถเห็นการอัปโหลดใด ๆ ได้</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>ผู้ใช้อื่น ๆ ได้ใช้ความทรงจําร่วมกันอยู่แล้ว ทําไมคุณไม่อัพโหลดบางส่วนของคุณด้วย!</value>
   </data>

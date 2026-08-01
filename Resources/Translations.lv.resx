@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Lūdzu, ņemiet vērā, ka šī ir nolaižamā galerija, un kā tāda jūs redzēsiet tikai augšupielādētus vai jums ir piešķirta piekļuve</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Lūdzu, ņemiet vērā, ka šī ir nolaižamā galerija un kā nereģistrēts viesis jūs nevarēsiet redzēt nevienu augšupielāžu</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Citi lietotāji jau ir dalītas atmiņas, kāpēc jums nav augšupielādēt daži no jūsu pārāk!</value>
   </data>

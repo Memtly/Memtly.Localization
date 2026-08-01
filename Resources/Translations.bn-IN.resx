@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>উল্লেখ্য, এই ছবিটি একটি ড্রপ গ্যালারি এবং আপনি শুধুমাত্র আপনার আপলোড করা ছবি দেখতে পাবেন অথবা দেখার অনুমতি দেওয়া হয়েছে ।</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>দয়া করে লক্ষ্য করুন এটি একটি ড্রপ গ্যালারি এবং একটি নন শকুন অতিথি হিসেবে আপনি কোন আপলোড দেখতে পাবেন না</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>অন্যান্য ব্যবহারকারীরা ইতোমধ্যে তাঁদের স্মৃতি শেয়ার করেছেন, আপনারা উপরেও আপনার কিছু ছবি আপলোড করছেন না!</value>
   </data>

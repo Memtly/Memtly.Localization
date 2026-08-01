@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Si us plau, tingueu en compte que això és una galeria desplegable i com aquesta només veureu imatges pujades o que heu rebut accés per veure</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Si us plau, tingueu en compte que això és una galeria desplegable i com a convidat sense registrar no podreu veure cap pujada</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Altres usuaris ja han compartit records, per què no publiqueu alguns dels vostres sobre!</value>
   </data>

@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Należy pamiętać, że jest to galeria kropli i jako takie można zobaczyć tylko obrazy, które zostały wysłane lub zostały przyznane dostęp do</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Należy pamiętać, że jest to galeria drop i jako niezarejestrowany gość nie będzie w stanie zobaczyć żadnych plików</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Inni użytkownicy mają już wspólne wspomnienia, dlaczego nie przesłać niektórych swoich powyżej!</value>
   </data>

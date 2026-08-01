@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Upoštevajte, da je to spustna galerija in kot taka boste videli le slike, ki ste jih naložili ali jim je bil omogočen dostop do slike</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Prosimo, upoštevajte, da je to spust galerija in kot neregistrirani gost ne boste mogli videti nobenih prenosov</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Drugi uporabniki so že delili spomine, zakaj ne naložite tudi nekaj svojih zgoraj!</value>
   </data>

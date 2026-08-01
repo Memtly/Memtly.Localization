@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>需要注意的是,這是放放相簿 因此您只會看到您已上傳或被授權去取看的相片</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>需要注意,這是一間倒行畫廊,而作為未登記的客人,您將無法看到任何上傳</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>有其他使用者已分享回憶!</value>
   </data>

@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Ten en conta que esta é unha galería de pingas e como tal só verás as imaxes que subiches ou que che concederon acceso para ver</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Ten en conta que esta é unha galería de pingas e como invitado non rexistrado non poderá ver ningún subida</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Outros usuarios xa compartiron memorias, por que non subir algúns dos seus enriba tamén!</value>
   </data>

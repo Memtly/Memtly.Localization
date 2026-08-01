@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Будь ласка, зауважте, що це галерея крапель, і як це ви побачите зображення, які ви завантажили або були надані доступ, щоб побачити</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Будь ласка, зауважте, що це крапкова галерея і як незареєстрований гість ви не зможете побачити будь-яке завантаження</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Інші користувачі вже поділилися спогадами, чому б ви не завантажили деякі з ваших!</value>
   </data>

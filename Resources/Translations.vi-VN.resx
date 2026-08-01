@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Xin chú ý rằng đây là một phòng trưng bày thả và như vậy bạn sẽ chỉ thấy hình ảnh bạn đã tải lên hoặc đã được cho phép truy cập để xem</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Xin lưu ý rằng đây là một phòng trưng bày thả và như một khách không đăng ký bạn sẽ không thể nhìn thấy bất kỳ tải lên</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>Những người dùng khác đã chia sẻ ký ức, tại sao bạn không tải lên một số của bạn trên cao quá!</value>
   </data>

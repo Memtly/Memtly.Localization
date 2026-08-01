@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>해당 이용 후기에 달린 코멘트가 없습니다</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>해당 이용 후기에 달린 코멘트가 없습니다</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>다른 사용자는 이미 기억을 공유했습니다. 왜 너도 위의 일부를 업로드하지 않습니다!</value>
   </data>
