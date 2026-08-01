@@ -896,7 +896,7 @@
     <value>Palun sisestage galerii identifikaator, mida soovite külastada.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>pulmagalerii</value>
+    <value>78bff6a486ca465aaae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Vigane galerii nimi või salajane võti, palun proovi uuesti</value>

@@ -896,7 +896,7 @@
     <value>Si us plau, introduïu l' identificador de la galeria que voleu visitar.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>la meva passada d'un costat</value>
+    <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Nom de la galeria o clau secreta no vàlid, si us plau, torneu- ho a provar</value>

@@ -896,7 +896,7 @@
     <value>Prašome įvesti galerijos, kurioje norite apsilankyti, identifikatorius.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>my-wedding- galerija</value>
+    <value>78bff6a486ca4655a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Blogas galerijos pavadinimas arba slaptas raktas, bandykite dar kartą</value>

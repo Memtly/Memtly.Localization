@@ -896,7 +896,7 @@
     <value>请输入您想要访问的画廊的标识 .</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>我的婚礼彩礼</value>
+    <value>78bff6a486ca465aae9a65ca673e5fc0 (中文(简体) )</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>无效的画廊名称或密钥, 请再次尝试</value>

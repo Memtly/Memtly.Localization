@@ -896,7 +896,7 @@
     <value>Zadejte prosím identifikátor galerie, kterou chcete navštívit.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>moje svatební galerie</value>
+    <value>78bff6a486ca465aaaae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Neplatné jméno galerie nebo tajný klíč, zkuste to prosím znovu</value>

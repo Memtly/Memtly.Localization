@@ -896,7 +896,7 @@
     <value>Cuir aitheantóir an gailearaí ar mian leat cuairt a thabhairt air.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>mogallóireacht bainise-</value>
+    <value>foinse do bhfianaise faoi stiúir glan</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Ainm gailearaí luachmhar nó eochair rúnda, déan iarracht arís</value>

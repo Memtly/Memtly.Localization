@@ -896,7 +896,7 @@
     <value>Shkruaj i pari shtegu.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>mi-veshur-galleri im</value>
+    <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Emri i koleksionit të pavlefshëm apo kyçi sekret, ju lutem riprovo</value>
@@ -1344,6 +1344,9 @@
   </data>
   <data name="Pending" xml:space="preserve">
     <value>Në pritje</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Rishikim në pritje</value>
   </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Ngarkimet në pritje</value>

@@ -896,7 +896,7 @@
     <value>Skriv inn identifikatoren til galleriet du vil besøke.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>min wedding-gallery</value>
+    <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Ugyldig gallerinavn eller hemmelig nøkkel, prøv igjen</value>

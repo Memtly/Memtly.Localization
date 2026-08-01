@@ -896,7 +896,7 @@
     <value>Anna haluamasi gallerian tunniste.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>minun häägalleriani</value>
+    <value>78bff6a486a465aae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Virheellinen gallerian nimi tai salainen avain, yritä uudelleen</value>
