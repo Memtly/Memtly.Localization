@@ -1654,9 +1654,6 @@
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Nëse një element i ri është në pritje të shqyrtimit duhet dërguar alarme</value>
   </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Rishikim në pritje</value>
-  </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Nëse përdoruesi dhe aktivitetet duhen kryer</value>
   </data>

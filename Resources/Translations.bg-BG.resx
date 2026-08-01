@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>В очакване</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Предстои преразглеждане</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Изчакване на качването</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Трябва да се изпращат сигнали, ако предстои преразглеждане на нова точка</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Предстои преразглеждане</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>В случай, че потребителските дневници и събития бъдат регистрирани</value>

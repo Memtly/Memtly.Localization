@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>În așteptare</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Revizuire în așteptare</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Încărcare în așteptare</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>În cazul în care semnalările sunt trimise în cazul în care un nou element este în curs de revizuire</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Revizuire în așteptare</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Ar trebui logate jurnalele și evenimentele utilizatorilor</value>

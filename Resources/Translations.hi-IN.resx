@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>कृपया ध्यान दें कि यह एक ड्रॉप गैलरी है और जैसे आप केवल उन छवियों को देखेंगे जिन्हें आपने अपलोड किया है या देखने के लिए एक्सेस प्रदान किया है।</value>
   </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>कृपया ध्यान दें कि यह एक ड्रॉप गैलरी है और एक पंजीकृत अतिथि के रूप में आप किसी भी अपलोड को देखने में सक्षम नहीं होंगे।</value>
+  </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
     <value>अन्य उपयोगकर्ताओं ने पहले से ही यादें साझा की हैं, क्यों आप ऊपर भी अपने कुछ अपलोड नहीं करते!</value>
   </data>
@@ -1342,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>लंबित</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>लंबित समीक्षा</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>लंबित अपलोड</value>
   </data>
@@ -1650,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>यदि एक नया आइटम लंबित समीक्षा है तो अलर्ट भेजा जाना चाहिए</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>लंबित समीक्षा</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>क्या उपयोगकर्ता लॉग और घटनाओं को लॉग इन करना चाहिए</value>

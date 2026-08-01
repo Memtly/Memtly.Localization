@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>Oodates</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Menetluses olev läbivaatamine</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Oodatavad üleslaadimised</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Kas saata hoiatusi, kui uus punkt on läbivaatamisel</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Menetluses olev läbivaatamine</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Kas logida kasutaja logid ja sündmused</value>

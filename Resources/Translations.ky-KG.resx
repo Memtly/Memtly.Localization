@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>Күтүлбөгөн</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Кайра карап чыгуу күтүлүп жатат</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Жүктү жүктөө</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Эгерде жаңы пункт кайра каралып жаткан болсо, эскертүүлөр жөнөтүлүшү керекпи</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Кайра карап чыгуу күтүлүп жатат</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Колдонуучунун журналдары жана окуялары жазылышы керекпи</value>

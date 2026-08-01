@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>Venter</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Venter gjennomgang</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Venter på opplastinger</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Skal varsler sendes hvis et nytt element er i vente</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Venter gjennomgang</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Skal brukerlogger og hendelser logges</value>

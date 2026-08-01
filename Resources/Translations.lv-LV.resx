@@ -1654,9 +1654,6 @@
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Ja tiek sūtīti brīdinājumi, ja tiek gaidīta pārskatīšana</value>
   </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Gaida pārskatīšanu</value>
-  </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Ja lietotājs žurnālus un notikumus reģistrēt</value>
   </data>

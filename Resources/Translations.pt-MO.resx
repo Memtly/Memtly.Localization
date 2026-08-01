@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>Pendente</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Revisão pendente</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Carregamentos pendentes</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Caso os alertas sejam enviados se um novo item estiver pendente de revisão</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Revisão de Pendente</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Devem ser registrados registros de usuário e eventos</value>

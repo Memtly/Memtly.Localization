@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>Oczekiwanie</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>W oczekiwaniu na przegląd</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Oczekiwanie na wysłanie</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Należy wysyłać wpisy, jeżeli nowy punkt jest w trakcie przeglądu</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>W oczekiwaniu na przegląd</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Jeśli logi użytkowników i zdarzenia zostaną zalogowane</value>

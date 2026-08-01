@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>Pendiente</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Examen pendiente</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Subidas pendientes</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Si se envían alertas si un nuevo artículo está pendiente de revisión</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Examen pendiente</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Si los registros y eventos del usuario se registran</value>

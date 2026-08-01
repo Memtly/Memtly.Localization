@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>จํานวนครั้งที่เล่น</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>การ ทบทวน อย่าง ต่อ เนื่อง</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>อัปโหลดไปยังส่วนต่าง ๆ</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>ควรส่งแจ้งเตือนเมื่อมีรายการใหม่เกิดขึ้นก่อนการทบทวน</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>การ ทบทวน อย่าง ต่อ เนื่อง</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>ควรให้ผู้ใช้ล็อกอินและบันทึกเหตุการณ์หรือไม่</value>

@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>بازگشت</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>دانلود بازی Pending Review</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Pendings</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>باید هشدار داده شود اگر یک مورد جدید در حال بررسی است</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>دانلود بازی Pending Review</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>اگر ثبت نام کاربر و رویدادها ثبت شود</value>

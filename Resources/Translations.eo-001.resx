@@ -1654,9 +1654,6 @@
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Se alarmoj estus senditaj se nova objekto estas ne klarigita revizio</value>
   </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Serĉante Revizion</value>
-  </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Se uzantregistroj kaj okazaĵoj estas registraditaj</value>
   </data>

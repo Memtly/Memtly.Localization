@@ -1345,6 +1345,9 @@
   <data name="Pending" xml:space="preserve">
     <value>Probíhá</value>
   </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Probíhající přezkum</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Probíhá nahrávání</value>
   </data>
@@ -1653,9 +1656,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Měly by být zaslány záznamy, pokud je nová položka předmětem přezkumu</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Probíhající přezkum</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Mělo by být zaznamenáno hlášení uživatelů a události</value>
