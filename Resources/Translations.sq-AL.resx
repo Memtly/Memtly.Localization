@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Ju lutem vini re se kjo është një galeri hedhjeje dhe si e tillë do të shihni vetëm imazhet që keni ngarkuar ose ju është dhënë mundësia për të parë</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Shfrytëzuesit e tjerë tashmë kanë ndarë kujtime, pse nuk ngarkoni disa nga tuajat mbi shumë!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Nuk ka aktualisht kujtime të ndara, pse nuk ngarkoni tuajat sipër!</value>
   </data>

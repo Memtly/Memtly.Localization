@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Bonvolu noti ke tio estas guto galerio kaj kiel tia vi nur vidos bildojn kiujn vi alŝutis aŭ ricevis aliron vidi</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Aliaj uzantoj jam partumis memorojn, kial vi ne alŝutas iujn el via supre!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Ekzistas nuntempe neniuj memoroj dividitaj, kial vi ne alŝutas vian supre!</value>
   </data>

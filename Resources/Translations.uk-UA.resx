@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Будь ласка, зауважте, що це галерея крапель, і як це ви побачите зображення, які ви завантажили або були надані доступ, щоб побачити</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Інші користувачі вже поділилися спогадами, чому б ви не завантажили деякі з ваших!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>В даний час немає пам'яті, тому не ви завантажте вище!</value>
   </data>

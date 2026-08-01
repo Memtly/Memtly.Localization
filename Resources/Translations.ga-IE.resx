@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Tabhair faoi deara, le do thoil, gur gailearaí titim é seo agus mar sin ní fheicfidh tú ach íomhánna a uaslódáil tú nó gur deonaíodh rochtain orthu chun a fheiceáil</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Tá úsáideoirí eile cuimhní roinnte cheana féin, cén fáth nach bhfuil tú a uaslódáil roinnt de mise thuas freisin!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Níl aon cuimhní roinnte faoi láthair, cén fáth nach bhfuil tú a uaslódáil mise thuas!</value>
   </data>

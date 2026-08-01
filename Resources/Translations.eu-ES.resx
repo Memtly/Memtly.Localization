@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Kontuan izan hau goitibeherako galeria dela eta igo dituzun edo ikusteko sarbidea eman dizuten irudiak bakarrik ikusiko dituzula</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Beste erabiltzaile batzuek oroitzapen partekatuak dituzte, zergatik ez dituzu zureak ere igotzen!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Une honetan ez dago oroitzapen partekaturik, zergatik ez duzu zurea igotzen!</value>
   </data>

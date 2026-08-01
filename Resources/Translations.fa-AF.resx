@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>لطفا توجه داشته باشید که این یک گالری قطره است و به همین ترتیب شما فقط تصاویری را که آپلود کرده اید یا به آنها دسترسی دارید را مشاهده خواهید کرد</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>کاربران دیگر در حال حاضر خاطرات مشترکی دارند، چرا برخی از شما را در بالا آپلود نمی کنید!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>در حال حاضر هیچ خاطره ای به اشتراک گذاشته نشده است، چرا در بالا آپلود نمی کنید!</value>
   </data>

@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Vezměte prosím na vědomí, že se jedná o padací galerii a jako takové uvidíte pouze obrázky, které jste nahráli nebo měli přístup k vidění</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Ostatní uživatelé již sdíleli vzpomínky, proč si nenahrát některé z vašich nahoře taky!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>V současné době nejsou žádné vzpomínky sdílené, proč si nenahrát svůj výše!</value>
   </data>

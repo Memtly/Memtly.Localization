@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Бул галереяда сиз жүктөп алган же көрүүгө мүмкүнчүлүк алган сүрөттөрдү гана көрө аласыз</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Башка колдонуучулар буга чейин эле эскерүүлөрүн бөлүшүшкөн, эмне үчүн сиз да кээ бирлериңизди жогоруда жүктөбөйсүз!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Учурда эч кандай эскерүүлөр бөлүшүлбөйт, эмне үчүн сиз өзүңүздүн эскерүүлөрүңүздү жогоруда жүктөбөйсүз!</value>
   </data>

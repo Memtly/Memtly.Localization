@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Observera att detta är ett droppgalleri och som sådan ser du bara bilder som du har laddat upp eller har fått tillgång till för att se</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Andra användare har redan delade minnen, varför laddar du inte upp några av dina ovan också!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Det finns för närvarande inga minnen som delas, varför laddar du inte upp din ovan!</value>
   </data>

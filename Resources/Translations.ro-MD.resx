@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Vă rugăm să rețineți că aceasta este o galerie picătură și, ca atare, veți vedea doar imagini pe care le-ați încărcat sau li s-a acordat acces pentru a vedea</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Alți utilizatori au deja amintiri comune, de ce nu încărcați unele dintre ale tale de mai sus prea!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>În prezent nu există amintiri comune, de ce nu-l încarci pe al tău mai sus!</value>
   </data>

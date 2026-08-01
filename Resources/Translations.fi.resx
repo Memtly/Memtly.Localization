@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Huomaathan, että tämä on pudotusgalleria ja siksi näet vain kuvia, jotka olet ladannut tai joille on myönnetty pääsy katsomaan</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Muilla käyttäjillä on jo jaettuja muistoja, mikset lataisi joitakin omiasi myös yllä!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Tällä hetkellä ei ole yhteisiä muistoja, mikset lataa omaasi yllä!</value>
   </data>

@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Bitte beachten Sie, dass dies eine Drop-Galerie ist und Sie als solche nur Bilder sehen, die Sie hochgeladen haben oder Zugriff erhalten haben, um zu sehen</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Andere Benutzer haben bereits gemeinsame Erinnerungen, warum laden Sie nicht einige Ihrer oben auch!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Es gibt noch keine geteilten Erinnerungen, warum teilst du nicht deine?</value>
   </data>

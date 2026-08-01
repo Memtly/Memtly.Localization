@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Atkreipkite dėmesį, kad tai lašų galerija, ir dėl to Jūs pamatysite tik vaizdus, kuriuos įkelsite arba kuriems buvo suteikta prieiga prie</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Kiti vartotojai jau dalijasi prisiminimus, kodėl jums neįkelti kai savo per daug!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Dabar nėra jokių prisiminimų, kodėl jums neįkelti savo aukščiau!</value>
   </data>

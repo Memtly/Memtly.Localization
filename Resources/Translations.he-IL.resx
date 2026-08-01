@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>אנא שימו לב כי מדובר בגלריית טיפות וככאלה שתראו רק תמונות שהעליתם או קיבלו גישה לראות</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>משתמשים אחרים כבר חלקו זיכרונות, למה גם אתם לא מעלים חלק מכם!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>אין כרגע זיכרונות משותפים, למה אתה לא מעלה את שלך למעלה!</value>
   </data>

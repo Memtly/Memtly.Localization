@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Houd er rekening mee dat dit een drop gallery is en als zodanig zul je alleen afbeeldingen zien die je hebt geüpload of toegang hebben gekregen om te zien</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Andere gebruikers hebben al gedeelde herinneringen, waarom upload je niet sommige van de jouwe hierboven ook!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Er zijn momenteel geen herinneringen gedeeld, waarom upload je de jouwe niet hierboven!</value>
   </data>

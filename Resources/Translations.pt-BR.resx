@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Por favor, note que esta é uma galeria de lançamentos e, como tal, você só verá imagens que você enviou ou teve acesso para ver</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Outros usuários já compartilharam memórias, por que você não carrega algumas das suas para cima também!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Atualmente não há memórias compartilhadas, por que você não carrega seu acima!</value>
   </data>

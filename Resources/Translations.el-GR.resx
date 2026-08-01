@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Παρακαλείστε να σημειώσετε ότι αυτό είναι μια drop gallery και ως εκ τούτου θα δείτε μόνο εικόνες που έχετε ανεβάσει ή έχουν δοθεί πρόσβαση για να δείτε</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Άλλοι χρήστες έχουν ήδη μοιραστεί αναμνήσεις, γιατί δεν ανεβάζεις και μερικές δικές σου παραπάνω!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Προς το παρόν δεν υπάρχουν κοινές αναμνήσεις, γιατί δεν ανεβάζεις τις δικές σου πάνω!</value>
   </data>
@@ -933,6 +936,9 @@
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Επιλογέας συλλογής</value>
+  </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Παρακαλώ επιλέξτε μια γκαλερί για να επισκεφθείτε.</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Επιλογέας συλλογής</value>

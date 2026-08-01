@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>يرجى ملاحظة أن هذا هو معرض قطرة، وعلى هذا النحو، سوف نرى فقط الصور التي قمت بتحميلها أو تم منحها الوصول إلى رؤية</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>مستعملون آخرون قد تشاطروا الذكريات، لماذا لا تحملوا بعضكم فوق أيضا!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>لا توجد حالياً ذكريات مشتركة لماذا لا تحملين ذكرياتك!</value>
   </data>

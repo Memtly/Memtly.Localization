@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Bu bir drop gallery olduğunu unutmayın və yalnız yüklədiyiniz şəkillər görəcək və ya görmək üçün giriş verildi</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Digər istifadəçilər artıq xüsusi xüsusiyyətləri paylaşmışdır, niyə də yaxşı yuxarıda sizin bir səhifə yükləyirsiniz!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Şu anda paylaşılan heç bir xüsusiyyət var, niyə aşağıdakıları yükləməyin!</value>
   </data>

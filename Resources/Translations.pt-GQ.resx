@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Por favor, note que esta é uma galeria drop e, como tal, você só verá imagens que você enviou ou teve acesso para ver</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Outros usuários já compartilharam memórias, por que você não faz upload de algumas das suas acima também!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Atualmente não há memórias compartilhadas, por que você não carrega seu acima!</value>
   </data>
@@ -933,6 +936,9 @@
   </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Selector de Galerias</value>
+  </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Selecione uma galeria para visitar.</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Seletor de galeria</value>

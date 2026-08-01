@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Lütfen unutmayın ki bu bir damla galeridir ve bunun gibi sadece yüklediğiniz görüntüleri göreceksiniz ya da görmek için verilen erişimi göreceksiniz</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Diğer kullanıcılar zaten anıları paylaştılar, neden yukarıdakilerin bazılarını yüklemiyorsunuz!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Şu anda paylaşılan bir hatıra yok, neden yukarıdakileri yüklemiyorsunuz!</value>
   </data>

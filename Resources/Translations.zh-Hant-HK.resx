@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>需要注意的是,這是放放相簿 因此您只會看到您已上傳或被授權去取看的相片</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>有其他使用者已分享回憶!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>目前没有共享的记忆,为什么不上传上你的!!</value>
   </data>

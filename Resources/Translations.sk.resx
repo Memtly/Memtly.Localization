@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Upozorňujeme, že toto je rozbaľovacia galéria a ako taká uvidíte iba obrázky, ktoré ste nahrali alebo ste získali prístup k zobrazeniu</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Ostatní používatelia majú už zdieľané spomienky, prečo neuploadujete niektoré z vašich vyššie taky!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Momentálne nie sú zdieľané žiadne spomienky, prečo neuploadujete vaše vyššie!</value>
   </data>

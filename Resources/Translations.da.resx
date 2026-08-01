@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Bemærk, at dette er et drop galleri, og som sådan vil du kun se billeder, du har uploadet eller har fået adgang til at se</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Andre brugere har allerede delt minder, hvorfor uploader du ikke nogle af dine ovenfor også!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Der er i øjeblikket ingen minder delt, hvorfor uploader du ikke din ovenfor!</value>
   </data>

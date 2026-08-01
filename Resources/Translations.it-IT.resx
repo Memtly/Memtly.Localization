@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Si prega di notare che si tratta di una galleria a goccia e in quanto tale vedrai solo le immagini che hai caricato o ti hanno concesso l'accesso per vedere</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Altri utenti hanno già condiviso ricordi, perché non caricare alcuni dei vostri sopra anche!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Attualmente non ci sono ricordi condivisi, perché non caricate il vostro sopra!</value>
   </data>

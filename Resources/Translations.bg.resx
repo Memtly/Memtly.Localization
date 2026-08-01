@@ -880,6 +880,9 @@
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Моля, обърнете внимание, че това е галерия за пускане и като такава ще видите само изображения, които сте качили или са получили достъп, за да видите</value>
   </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Други потребители вече споделят спомени, защо не качите някои от вашите по-горе също!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>В момента няма общи спомени, защо не качиш твоите горе!</value>
   </data>
