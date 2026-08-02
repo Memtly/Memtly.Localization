@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>Одобрен</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Одобрена галерия</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>Възходящо</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Показване на филтрите</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Трябва ли потребителите да могат да видят очакваните си качвания в галерии?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Изчакване на качването</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Ако заглавието бъде показано в горната част на галерията</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Успешно изтрити данни</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Очакваните Ви качвания</value>
   </data>
 </root>

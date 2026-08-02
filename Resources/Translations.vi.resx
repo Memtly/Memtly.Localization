@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>Được chấp nhận</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Tải lên nơi trưng bày được chấp nhận</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>Tăng dần</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Hiện bộ lọc</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Người dùng có thể thấy các bản tải lên đang chờ của mình trong phòng trưng bày không?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Hiện các việc tải lên đang chờ</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Nếu hiển thị tiêu đề ở trên cùng của phòng trưng bày</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Đã xóa thành công dữ liệu</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Comment</value>
   </data>
 </root>

@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>অনুমোদিত</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>অনুমোদনকৃত গ্যালারি আপলোড</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>ছোট থেকে বড়</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>ফিল্টার দেখাও</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>ব্যবহারকারীদের কি ফাঁসির গ্যালারিতে আপলোড করতে দেখা উচিত?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Flickr-এ আপলোড করা হবে</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>সংকলনের মধ্যে উইন্ডো প্রদর্শন করা হবে কি না</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>সাফল্যের সাথে তথ্য মুছে ফেলা হয়েছে</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>আপনার অসমাপ্ত আপলোড</value>
   </data>
 </root>

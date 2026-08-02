@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>אישור</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>אדריכלות: Uploads</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>עלייה</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>הצג פילטרs</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>האם משתמשים יכולים לראות את ההעלאה הצפויה שלהם בגלריות?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>עקבו אחרי Uploads</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>צריך להציג את הכותרת בראש הגלריה</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>נתונים מוצלחים נמחקים</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>החתימות שלך</value>
   </data>
 </root>

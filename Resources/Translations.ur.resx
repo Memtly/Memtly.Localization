@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>غیر متصل</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>گلّہ‌بانی کا بوجھ</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>قابلیت</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>فائلز</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>کیا صارفین کو گلی‌کوچوں میں اُٹھائے گئے اُوپر اُٹھا کر دیکھ سکتے ہیں ؟?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>سرور اپ لوڈ کریں</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>گیلری کے اوپر والے حصے پر عنوان ظاہر کیا جانا چاہئے</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>کامیابی سے اعداد و شمار ختم کیے گئے ہیں۔</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>آپ کا پُراسرار بوجھ</value>
   </data>
 </root>

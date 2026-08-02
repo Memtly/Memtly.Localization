@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>Έγκριση</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Εγκεκριμένες αποστολές Gallery</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>Αυξάνεται</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Εμφάνιση φίλτρων</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Θα πρέπει οι χρήστες να είναι σε θέση να δουν τις εκκρεμείς αποστολές τους σε γκαλερί?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Εμφάνιση αναρτήσεων σε αναμονή</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Σε περίπτωση εμφάνισης του τίτλου στην κορυφή της συλλογής</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Επιτυχής διαγραφή δεδομένων</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Οι Εκκρεμείς Μεταφορτώσεις σας</value>
   </data>
 </root>

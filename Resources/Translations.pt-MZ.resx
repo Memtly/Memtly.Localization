@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>Aprovado</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Envios de Galeria Aprovados</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>Ascendente</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Mostrar filtros</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Os usuários devem ser capazes de ver seus uploads pendentes em galerias?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Mostrar envios pendentes</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Caso o título seja exibido no topo da galeria</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Dados bem limpos</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Seus Envios Pendentes</value>
   </data>
 </root>

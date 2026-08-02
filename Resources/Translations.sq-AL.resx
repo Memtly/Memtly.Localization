@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>I miratuar</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Ngarkimet në galeri të miratuara</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>Në ngjitje</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Shfaq filtrat</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>A duhet të jenë në gjendje përdoruesit të shohin ngarkimin e tyre në pritje në galeri?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Shfaq</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Nëse titulli është shfaqur në krye të koleksionit</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Të dhëna të fshirëa me sukses</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Ngarkimet tuaja në pritje</value>
   </data>
 </root>

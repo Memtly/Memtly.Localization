@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>인증 및 인증</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>인증된 갤러리 업로드</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>회사 소개</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>필터 보기</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>사용자는 갤러리에 자신의 권투 업로드를 볼 수 있습니까?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Pending 블로그</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>제목이 갤러리의 상단에 표시됩니다</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>성공적으로 닦은 자료</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>당신의 팬딩 업로드</value>
   </data>
 </root>

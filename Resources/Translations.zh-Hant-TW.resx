@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>核定数</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>已核准相簿上傳</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>上升</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>显示过滤器</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>在相簿上可以看到自己要上傳的東西嗎?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>顯示要上傳的內容</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>如果标题显示在画廊的顶端</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>成功擦除数据</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>您要上傳</value>
   </data>
 </root>

@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>Goedgekeurd</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Goedgekeurde galerie-uploads</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>Oplopend</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Filters tonen</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Moeten gebruikers hun lopende uploads in galeries kunnen zien?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>In afwachting van uploads tonen</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Moet de titel bovenaan de galerij getoond worden</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Gegevens met succes gewist</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Uw in behandeling zijnde uploads</value>
   </data>
 </root>

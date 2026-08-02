@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>Odobreno</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Odobrene galerije</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>Naraščajoče</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Prikaži filtre</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Ali naj bodo uporabniki sposobni videti svoje nerešene prenose v galerijah?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Prikaži nerešene prenose</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Ali naj bo naslov prikazan na vrhu galerije</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Uspešno izbrisani podatki</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Vaš nerešeni prenos</value>
   </data>
 </root>

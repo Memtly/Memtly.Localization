@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>Aprobado</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Subidas de galería aprobadas</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>Ascendencia</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Mostrar filtros</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>¿Deberían los usuarios poder ver sus subidas pendientes en galerías?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Mostrar cargas pendientes</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Si el título se muestra en la parte superior de la galería</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Datos eliminados con éxito</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Su Pending Uploads</value>
   </data>
 </root>

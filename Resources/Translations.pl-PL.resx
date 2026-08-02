@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>Zatwierdzone</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Zatwierdzone pliki do galerii</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>Wznoszenie</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Pokaż filtry</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Czy użytkownicy powinni być w stanie zobaczyć swoje oczekujące pliki w galeriach?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Pokaż oczekujące pliki</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Czy tytuł powinien być wyświetlany w górnej części galerii</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Udane wymazanie danych</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Twoje oczekujące wysyłania</value>
   </data>
 </root>

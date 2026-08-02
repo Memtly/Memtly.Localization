@@ -178,6 +178,9 @@
   <data name="Approved" xml:space="preserve">
     <value>Aprobu</value>
   </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Aprobis galeriojn sur ŝarĝoj</value>
+  </data>
   <data name="Ascending" xml:space="preserve">
     <value>Ascending</value>
   </data>
@@ -1945,6 +1948,12 @@
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Montri Filters</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Ĉu la uzantoj povas vidi siajn pendaĵojn en galerioj?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Montranta supre</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Se la titolo estus elmontrita ĉe la pinto de la galerio</value>
   </data>
@@ -2595,5 +2604,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Sukcesajn informojn</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Via Pendanta Uploads</value>
   </data>
 </root>
