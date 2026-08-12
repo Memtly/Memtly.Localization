@@ -46,6 +46,9 @@
       </xsd:complexType>
     </xsd:element>
   </xsd:schema>
+  <data name="2FA" xml:space="preserve">
+    <value>2FA</value>
+  </data>
   <data name="2FA_Code_Hint" xml:space="preserve">
     <value>Bitte gib den Code ein, den deine 2FA-App erzeugt hat</value>
   </data>
@@ -346,6 +349,9 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Verfügbare Galerien</value>
   </data>
+  <data name="Back" xml:space="preserve">
+    <value>Zurück</value>
+  </data>
   <data name="Background_Color_Help" xml:space="preserve">
     <value>Die Farbe des Hintergrunds</value>
   </data>
@@ -435,6 +441,9 @@
   </data>
   <data name="Check_Account_State_Failed" xml:space="preserve">
     <value>Fehler beim Prüfen des Kontostatus</value>
+  </data>
+  <data name="Choose_Your_Color" xml:space="preserve">
+    <value>Wähle deine Farbe</value>
   </data>
   <data name="Clean" xml:space="preserve">
     <value>Leeren</value>
@@ -532,6 +541,9 @@
   <data name="Currently_No_Access" xml:space="preserve">
     <value>Du hast derzeit keinen Zugriff</value>
   </data>
+  <data name="Custom" xml:space="preserve">
+    <value>Eigenes Design</value>
+  </data>
   <data name="Custom_Resource_Relink" xml:space="preserve">
     <value>Eigene Ressource neu zuordnen</value>
   </data>
@@ -585,6 +597,9 @@
   </data>
   <data name="DarkRed" xml:space="preserve">
     <value>Dunkelrot</value>
+  </data>
+  <data name="Data" xml:space="preserve">
+    <value>Daten</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Datum</value>
@@ -675,6 +690,9 @@
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Doppelte Datei erkannt</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Bearbeiten</value>
   </data>
   <data name="Email" xml:space="preserve">
     <value>E-Mail</value>
@@ -1093,6 +1111,9 @@
   <data name="Import_Data_Success" xml:space="preserve">
     <value>Daten erfolgreich importiert</value>
   </data>
+  <data name="Import_Failed" xml:space="preserve">
+    <value>Fehler beim Importieren der Daten</value>
+  </data>
   <data name="Information" xml:space="preserve">
     <value>Information</value>
   </data>
@@ -1183,6 +1204,9 @@
   <data name="Login_Invalid_Username" xml:space="preserve">
     <value>Bitte gib einen gültigen Benutzernamen ein</value>
   </data>
+  <data name="Login_Password" xml:space="preserve">
+    <value>Passwort</value>
+  </data>
   <data name="Login_Password_Help" xml:space="preserve">
     <value>Bitte gib das Passwort des Kontos ein.</value>
   </data>
@@ -1191,6 +1215,9 @@
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Bitte melde dich an, um diese Aktion abzuschliessen</value>
+  </data>
+  <data name="Login_Username" xml:space="preserve">
+    <value>Benutzername</value>
   </data>
   <data name="Login_Username_Help" xml:space="preserve">
     <value>Bitte gib den Benutzernamen des Kontos ein.</value>
@@ -1504,6 +1531,9 @@
   <data name="Registration_Username_Taken" xml:space="preserve">
     <value>Der Benutzername existiert bereits. Bitte wähle einen anderen</value>
   </data>
+  <data name="Registration_Weak_Password" xml:space="preserve">
+    <value>Das angegebene Passwort ist leicht zu erraten. Bitte wähle ein sichereres Passwort.</value>
+  </data>
   <data name="Reject" xml:space="preserve">
     <value>Ablehnen</value>
   </data>
@@ -1551,6 +1581,9 @@
   </data>
   <data name="Run" xml:space="preserve">
     <value>Ausführen</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Speichern</value>
   </data>
   <data name="Save_QR" xml:space="preserve">
     <value>QR-Code speichern</value>
@@ -2334,6 +2367,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Bitte wähle ein Design aus</value>
+  </data>
+  <data name="Themes" xml:space="preserve">
+    <value>Designs</value>
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>Vorschaubilder</value>
