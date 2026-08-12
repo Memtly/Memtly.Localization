@@ -770,7 +770,7 @@
     <value>Fehler beim Senden der Testbenachrichtigung</value>
   </data>
   <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
-    <value>Versäumt, ein Miniaturbild zu erzeugen</value>
+    <value>Fehler beim Erstellen des Vorschaubildes</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Fehler beim Aktualisieren der Einstellungen</value>
@@ -1964,10 +1964,10 @@
     <value>Titel anzeigen</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Thumbnail Style</value>
+    <value>Wie sollen Vorschaubilder angezeigt werden?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Wie sollten Medien-Daumenails angezeigt werden?</value>
+    <value>Stil der Vorschaubilder</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Sollen Gäste Elemente hochladen dürfen</value>
@@ -2336,7 +2336,7 @@
     <value>Bitte wähle ein Design aus</value>
   </data>
   <data name="Thumbnails" xml:space="preserve">
-    <value>Thumbnails</value>
+    <value>Vorschaubilder</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Zeitstempel</value>
