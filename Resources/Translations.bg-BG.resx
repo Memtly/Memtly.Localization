@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Грешка при изпращане на уведомление за изпитване</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Грешка при генериране на изображение на ноктите</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Грешка при обновяване на настройките</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Показване на заглавието</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Стил на палеца</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Как трябва да бъдат показани ноктите на медиите?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Ако гостите имат право да качват предмети</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Моля, изберете тема за показване</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Нокти</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Времеви печат</value>

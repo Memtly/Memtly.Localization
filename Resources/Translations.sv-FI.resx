@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Underlåten att skicka testmeddelande</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Misslyckades med att skapa en miniatyrbild</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Underlåten att uppdatera inställningar</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Visa titel</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Thumbnail Style</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Hur ska media miniatyrer visas?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Om gästerna får ladda upp objekt</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Vänligen välj ett displaytema</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Thumbnails</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>

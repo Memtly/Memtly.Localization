@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>נכשל לשלוח הודעת מבחן</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>לא מצליח ליצור תמונת אצבע</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>נכשל לעדכן הגדרות</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>הצג Title</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>סגנון Thumbnail</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>כיצד ניתן להציג את האגודלים של התקשורת?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>יש לאפשר לאורחים להעלות פריטים</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>נא לבחור ערכת תצוגה</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Thumbnails</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>

@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Nie udało się wysłać powiadomienia o teście</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Nie udało się wygenerować obrazu miniatur</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Nie udało się zaktualizować ustawień</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Pokaż tytuł</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Styl miniatur</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Jak wyświetlić miniatury mediów?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Czy goście mogą wysyłać przedmioty</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Proszę wybrać motyw wyświetlania</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Miniaturki</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Znacznik czasu</value>

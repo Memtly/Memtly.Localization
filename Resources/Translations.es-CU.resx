@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Failed to send test notification</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Failed to generate a thumbnail image</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Failed to update settings</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Mostrar título</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Estilo Thumbnail</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>¿Cómo se deben mostrar las miniaturas de los medios?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Si se permite a los huéspedes subir artículos</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Por favor seleccione un tema de visualización</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Thumbnails</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>

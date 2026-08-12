@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Αποτυχία αποστολής ειδοποίησης δοκιμής</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Αποτυχία δημιουργίας εικόνας επισκόπησης</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Αποτυχία ενημέρωσης ρυθμίσεων</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Εμφάνιση τίτλου</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Στυλ εικόνας επισκόπησης</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Πώς πρέπει να εμφανίζονται οι εικόνες επισκόπησης των μέσων ενημέρωσης?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Σε περίπτωση που επιτρέπεται στους επισκέπτες να ανεβάζουν αντικείμενα</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Παρακαλώ επιλέξτε ένα θέμα εμφάνισης</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Εικόνες επισκόπησης</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Χρονοσφραγίδα</value>

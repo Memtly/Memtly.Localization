@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Huts egin du probako jakinarazpena bidaltzean</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Huts egin du koadro txiki bat sortzean</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Huts egin du ezarpenak eguneratzean</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Erakutsi titulua</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Koadro txikien estiloa</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Nola bistaratuko dira multimediaren koadro txikiak?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Gonbidatuek elementuak igo ditzakete</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Hautatu bistaratze-gai bat</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Koadro txikiak</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>

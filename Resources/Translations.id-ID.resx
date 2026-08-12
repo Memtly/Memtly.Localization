@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Gagal mengirim notifikasi tes</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Gagal membuat gambar miniatur</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Gagal memutakhirkan pengaturan</value>
   </data>
@@ -1960,6 +1963,9 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Tampilkan Judul</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Bagaimana seharusnya gambar mini media ditampilkan?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Haruskah tamu diijinkan untuk mengunggah item</value>
   </data>
@@ -2325,6 +2331,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Silakan pilih tema tampilan</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Miniatur</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Penanda waktu</value>

@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Відхилений для відправки тестових повідомлень</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Не вдалося створити мініатюрний образ</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Заборонено оновлювати налаштування</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Головна</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Стиль пухкі</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Як буде показано медіа мініатюри?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Чи можна завантажити товари</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Виберіть тему відображення</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Рушники</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Таймер</value>

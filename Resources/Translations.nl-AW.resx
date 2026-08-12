@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Kon testmelding niet versturen</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Kon geen miniatuurafbeelding aanmaken</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Bijwerken van instellingen is mislukt</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Titel tonen</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Miniatuurstijl</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Hoe moeten media miniaturen worden weergegeven?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Mochten gasten items mogen uploaden</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Selecteer een weergavethema</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Miniaturen</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Tijdstempel</value>

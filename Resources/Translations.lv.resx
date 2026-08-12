@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Neizdevās nosūtīt testa paziņojumu</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Neizdevās ģenerēt sīktēla attēlu</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Neizdevās atjaunināt iestatījumus</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Rādīt nosaukumu</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Sīktēla stils</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Kā rādīt multivides sīktēlus?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Ja viesiem ir atļauts augšupielādēt ierakstus</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Lūdzu izvēlieties attēlošanas tēmu</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Sīktēli</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Laika zīmogs</value>

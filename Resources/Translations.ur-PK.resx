@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>ٹیسٹ بھیجنے میں ناکامی</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>ایک تصویر بنانے میں ناکام</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>ترتیبات دوبارہ شروع کرنے میں ناکامی</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>طےشدہ</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>تمل طرزِزندگی</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>میڈیا پلے کریں ۔?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>مہمانوں کو اپ لوڈ کرنے کی اجازت ہے</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>براہ کرم نمائش کا موضوع منتخب کريں</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>ٹوٹنا</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>
