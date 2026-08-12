@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>ล้มเหลวในการส่งการแจ้งเตือน</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>ล้มเหลวในการสร้างอิมเมจของภาพตัวอย่าง</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>ล้มเหลวในการปรับปรุงการตั้งค่า</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>แสดงชื่อเรื่อง</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>รูปแบบภาพตัวอย่าง</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>จะให้แสดงภาพตัวอย่างของสื่ออย่างไร?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>ควรอนุญาตให้แขกทําการอัปโหลดรายการ</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>โปรดเลือกชุดภาพไอคอนการแสดงผล</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>ภาพตัวอย่าง</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>นาฬิกา</value>

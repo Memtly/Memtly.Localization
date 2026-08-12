@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Lỗi gửi thông báo thử</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Lỗi tạo ảnh mẫu ảnh</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Lỗi cập nhật thiết lập</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Hiện tiêu đề</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Kiểu mẫu</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Các mẫu ảnh phương tiện truyền thông nên được hiển thị như thế nào?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Nếu khách được phép tải lên mục</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Hãy chọn một sắc thái hiển thị</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Hình thu nhỏ</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Nhãn thời gian</value>

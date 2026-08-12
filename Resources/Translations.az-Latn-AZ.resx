@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Test bildirişini göndərmək</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Bir başqa bir görüntü yaratmaq</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Planlaşdırma</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Qeydiyyat</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Daxili Style</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Media başqaları necə göstərilir?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Qeydiyyatdan keçmək lazımdır</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Bir ekran mövzu seçin</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Daxili</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Kateqoriya</value>

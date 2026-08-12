@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>A eșuat trimiterea notificării de încercare</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Nu a putut genera o imagine miniatură</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Actualizarea configurărilor a eșuat</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Arată titlul</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Stil miniatură</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Cum ar trebui să fie afișate miniaturi media?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>În cazul în care oaspeților li se permite să încarce elemente</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Alegeți o temă de afișare</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Unghii</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>

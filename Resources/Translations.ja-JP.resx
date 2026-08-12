@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>テスト通知を送信する失敗</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>サムネイル画像を生成する失敗</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>更新設定が失敗</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>タイトルを表示</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>サムネイルスタイル</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>メディアサムネイルの表示方法は?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>お客様が商品をアップロードできる場合</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>表示テーマを選択してください</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>サムネイル</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>タイムスタンプ</value>

@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Сыноо жөнүндө билдирүүнү жөнөтпөгөн</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Бармактын кабыргасын жасоодо ийгиликсиз</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Орнотууларды жаңыртуу мүмкүн эмес</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Аталышын көрсөтүңүз</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Thumbnail стили</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Маалымат каражаттарынын манжалары кантип көрсөтүлүшү керек?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Конокторго буюмдарды жүктөөгө уруксат берилиши керекпи</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Сураныч, дисплей темасын тандаңыз</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Тумбн темир жолдору</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Убакыт белгиси</value>

@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Kunne ikke sende prøvningsmeddelelse</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Kunne ikke generere et miniaturebillede</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Kunne ikke opdatere indstillinger</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Vis titel</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Miniaturestil</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Hvordan skal medier miniaturer vises?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Skal gæsterne have lov til at uploade elementer</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Vælg et visningstema</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Miniaturer</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Tidsstempel</value>

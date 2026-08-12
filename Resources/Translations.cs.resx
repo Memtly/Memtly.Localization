@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Nepodařilo se odeslat oznámení o zkoušce</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Nepodařilo se vytvořit obrázek miniatury</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Chyba při aktualizaci nastavení</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Zobrazit název</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Styl náhledu</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Jak by se měly zobrazovat náhledy médií?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Mělo by být hostům dovoleno nahrávat položky</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Prosím vyberte téma zobrazení</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Náhledy</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Časový údaj</value>

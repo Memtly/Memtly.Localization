@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>테스트 알림을 보낼 실패</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>썸네일 이미지를 생성하기 위해 실패</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>설정 업데이트 실패</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>공지사항</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Thumbnail 스타일</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>미디어 썸네일이 어떻게 표시되어야 합니까?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>자주 묻는 질문</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>본문 바로가기</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>뚱 베어</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>스크린 샷</value>

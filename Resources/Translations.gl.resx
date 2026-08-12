@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Non enviar notificación de proba</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Non foi posible crear unha imaxe en miniatura</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Non se puido actualizar a configuración</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Mostrar título</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Estilo Thumbnail</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Como se deben mostrar as miniaturas dos medios?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Se os invitados poden subir elementos</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Seleccione un tema de exhibición</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Tumbnails</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>

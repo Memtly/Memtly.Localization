@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>发送测试通知失败</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>生成缩略图图像失败</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>更新设置失败</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>显示标题</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>缩略图样式</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>如何显示媒体缩略图 ?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>是否允许客人上传项目</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>请选择一个显示主题</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>缩略图</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>时间戳</value>

@@ -769,6 +769,9 @@
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Dërgimi i njoftimit të provës dështoi</value>
   </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Krijimi i një figure të miniatura dështoi</value>
+  </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>I pamundur rifreskimi i rregullimeve</value>
   </data>
@@ -1960,6 +1963,12 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Shfaq Titulli</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Stili i Miniatrit</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Si duhet shfaqur miniaturat e medias?</value>
+  </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>A duhen lejuar të ftuarit të ngarkojnë elementët</value>
   </data>
@@ -2325,6 +2334,9 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Zgjidhni temën e ekranit</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Miniaturat</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Unit-format</value>
