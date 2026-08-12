@@ -161,7 +161,7 @@
     <value>Benutzer aktivieren</value>
   </data>
   <data name="Activate_User_Message" xml:space="preserve">
-    <value>Möchtest du dieses Konto wirklich aktivieren?</value>
+    <value>Möchtest du wirklich das folgende Konto aktivieren:</value>
   </data>
   <data name="Add" xml:space="preserve">
     <value>Hinzufügen</value>
@@ -854,7 +854,7 @@
     <value>Benutzer sperren</value>
   </data>
   <data name="Freeze_User_Message" xml:space="preserve">
-    <value>Möchtest du dieses Konto wirklich sperren?</value>
+    <value>Möchtest du wirklich das folgende Konto sperren:</value>
   </data>
   <data name="Full_Sponsors_List_Link_Message" xml:space="preserve">
     <value>Klicke hier, um die vollständige Liste der Sponsoren und Stars anzuzeigen</value>
@@ -2405,7 +2405,7 @@
     <value>Benutzer entsperren</value>
   </data>
   <data name="Unfreeze_User_Message" xml:space="preserve">
-    <value>Möchtest du dieses Konto wirklich entsperren?</value>
+    <value>Möchtest du wirklich das folgende Konto entsperren:</value>
   </data>
   <data name="Unknown_Error" xml:space="preserve">
     <value>Unbekannter Fehler</value>
