@@ -1964,10 +1964,10 @@
     <value>Shfaq Titulli</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Stili i Miniatrit</value>
+    <value>Si duhet shfaqur miniaturat e medias?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Si duhet shfaqur miniaturat e medias?</value>
+    <value>Stili i Miniatrit</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>A duhen lejuar të ftuarit të ngarkojnë elementët</value>

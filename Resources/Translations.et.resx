@@ -1964,10 +1964,10 @@
     <value>Näita tiitlit</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Pisipildi stiil</value>
+    <value>Kuidas näidata pisipilte meedias?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Kuidas näidata pisipilte meedias?</value>
+    <value>Pisipildi stiil</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Kas külalistel lubatakse üles laadida</value>

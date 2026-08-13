@@ -1964,10 +1964,10 @@
     <value>Mostra il titolo</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Stile di Thumbnail</value>
+    <value>Come dovrebbero essere visualizzate le miniature dei media?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Come dovrebbero essere visualizzate le miniature dei media?</value>
+    <value>Stile di Thumbnail</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Gli ospiti dovrebbero essere autorizzati a caricare elementi</value>

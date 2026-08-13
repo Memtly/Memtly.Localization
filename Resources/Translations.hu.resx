@@ -1964,10 +1964,10 @@
     <value>A cím megjelenítése</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>A hüvelykujj stílus</value>
+    <value>Hogyan kell megjeleníteni a média fotóalbumokat?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Hogyan kell megjeleníteni a média fotóalbumokat?</value>
+    <value>A hüvelykujj stílus</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>A vendégek számára lehetővé kell tenni a tételek feltöltését</value>

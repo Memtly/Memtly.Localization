@@ -1964,10 +1964,10 @@
     <value>Féach ar an bpróifíl</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Stíl Mharcála</value>
+    <value>Cén chaoi ar cheart mionsamhlacha meán a thaispeáint?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Cén chaoi ar cheart mionsamhlacha meán a thaispeáint?</value>
+    <value>Stíl Mharcála</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Má cheadaíonn aíonna míreanna a uaslódáil</value>

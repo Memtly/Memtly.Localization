@@ -1964,10 +1964,10 @@
     <value>Afficher le titre</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Style de vignette</value>
+    <value>Comment afficher les vignettes des médias ?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Comment afficher les vignettes des médias ?</value>
+    <value>Style de vignette</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Si les clients sont autorisés à télécharger des articles</value>

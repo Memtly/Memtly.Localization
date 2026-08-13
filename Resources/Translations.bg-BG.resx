@@ -1964,10 +1964,10 @@
     <value>Показване на заглавието</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Стил на палеца</value>
+    <value>Как трябва да бъдат показани ноктите на медиите?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Как трябва да бъдат показани ноктите на медиите?</value>
+    <value>Стил на палеца</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Ако гостите имат право да качват предмети</value>

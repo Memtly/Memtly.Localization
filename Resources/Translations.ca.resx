@@ -1964,10 +1964,10 @@
     <value>Mostra el títol</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Estil de miniatures</value>
+    <value>Com es mostraran les miniatures dels suports?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Com es mostraran les miniatures dels suports?</value>
+    <value>Estil de miniatures</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Cal que els convidats pugin elements</value>

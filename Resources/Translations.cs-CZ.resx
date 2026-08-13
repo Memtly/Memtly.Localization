@@ -1964,10 +1964,10 @@
     <value>Zobrazit název</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Styl náhledu</value>
+    <value>Jak by se měly zobrazovat náhledy médií?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Jak by se měly zobrazovat náhledy médií?</value>
+    <value>Styl náhledu</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Mělo by být hostům dovoleno nahrávat položky</value>

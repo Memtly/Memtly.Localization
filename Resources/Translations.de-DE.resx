@@ -1964,10 +1964,10 @@
     <value>Titel anzeigen</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Thumbnail Style</value>
+    <value>Wie sollten Medien-Daumenails angezeigt werden?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Wie sollten Medien-Daumenails angezeigt werden?</value>
+    <value>Thumbnail Style</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Sollten die Gäste Gegenstände hochladen dürfen</value>

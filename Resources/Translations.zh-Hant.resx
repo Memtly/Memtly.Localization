@@ -1964,9 +1964,6 @@
     <value>显示标题</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>縮圖樣式</value>
-  </data>
-  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
     <value>如何顯示媒體縮圖?</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">

@@ -1964,10 +1964,10 @@
     <value>Erakutsi titulua</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Koadro txikien estiloa</value>
+    <value>Nola bistaratuko dira multimediaren koadro txikiak?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Nola bistaratuko dira multimediaren koadro txikiak?</value>
+    <value>Koadro txikien estiloa</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Gonbidatuek elementuak igo ditzakete</value>

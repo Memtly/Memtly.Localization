@@ -1964,10 +1964,10 @@
     <value>Show Title</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Torinail Style</value>
+    <value>Medya parmakları nasıl gösterilmelidir?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Medya parmakları nasıl gösterilmelidir?</value>
+    <value>Torinail Style</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Konuklar eşyaları yüklemeye izin verilmelidir</value>

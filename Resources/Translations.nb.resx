@@ -1964,10 +1964,10 @@
     <value>Vis tittel</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Miniatyrstil</value>
+    <value>Hvordan skal medieminiatyrer vises?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Hvordan skal medieminiatyrer vises?</value>
+    <value>Miniatyrstil</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Hvis gjestene får lov til å laste opp varer</value>

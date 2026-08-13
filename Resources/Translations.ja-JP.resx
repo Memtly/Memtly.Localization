@@ -1964,10 +1964,10 @@
     <value>タイトルを表示</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>サムネイルスタイル</value>
+    <value>メディアサムネイルの表示方法は?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>メディアサムネイルの表示方法は?</value>
+    <value>サムネイルスタイル</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>お客様が商品をアップロードできる場合</value>

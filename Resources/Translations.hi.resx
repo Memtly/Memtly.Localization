@@ -1964,10 +1964,10 @@
     <value>शीर्षक दिखाएं</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>थंबनेल स्टाइल</value>
+    <value>कैसे मीडिया थंबनेल प्रदर्शित किया जाना चाहिए?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>कैसे मीडिया थंबनेल प्रदर्शित किया जाना चाहिए?</value>
+    <value>थंबनेल स्टाइल</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>क्या मेहमानों को आइटम अपलोड करने की अनुमति है</value>

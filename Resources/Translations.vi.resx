@@ -1964,10 +1964,10 @@
     <value>Hiện tiêu đề</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Kiểu mẫu</value>
+    <value>Các mẫu ảnh phương tiện truyền thông nên được hiển thị như thế nào?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Các mẫu ảnh phương tiện truyền thông nên được hiển thị như thế nào?</value>
+    <value>Kiểu mẫu</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Nếu khách được phép tải lên mục</value>

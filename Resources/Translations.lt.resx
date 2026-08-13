@@ -1964,10 +1964,10 @@
     <value>Rodyti pavadinimą</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Miniatiūrų stilius</value>
+    <value>NAME OF TRANSLATORS?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>NAME OF TRANSLATORS?</value>
+    <value>Miniatiūrų stilius</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Gal reikėtų leisti svečiams įkelti elementus</value>

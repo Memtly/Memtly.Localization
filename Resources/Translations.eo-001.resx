@@ -1964,10 +1964,10 @@
     <value>Ĉefa artikolo</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Thumbnail Style</value>
+    <value>Kiel oni povas montri al la amaskomunikiloj?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Kiel oni povas montri al la amaskomunikiloj?</value>
+    <value>Thumbnail Style</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Ĉu gastoj rajtas alŝuti erojn</value>

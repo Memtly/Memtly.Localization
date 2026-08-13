@@ -1964,10 +1964,10 @@
     <value>Tampilkan Judul</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Gaya Kuku</value>
+    <value>Bagaimana seharusnya gambar mini media ditampilkan?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Bagaimana seharusnya gambar mini media ditampilkan?</value>
+    <value>Gaya Kuku</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Haruskah tamu diijinkan untuk mengunggah item</value>

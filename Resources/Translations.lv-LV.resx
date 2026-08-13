@@ -1964,10 +1964,10 @@
     <value>Rādīt nosaukumu</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Sīktēla stils</value>
+    <value>Kā rādīt multivides sīktēlus?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Kā rādīt multivides sīktēlus?</value>
+    <value>Sīktēla stils</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Ja viesiem ir atļauts augšupielādēt ierakstus</value>

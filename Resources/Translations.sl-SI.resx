@@ -1964,10 +1964,10 @@
     <value>Prikaži naslov</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Slog sličice</value>
+    <value>Kako naj bodo prikazani večpredstavnostni sličice?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Kako naj bodo prikazani večpredstavnostni sličice?</value>
+    <value>Slog sličice</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Ali je gostom dovoljeno nalaganje predmetov</value>

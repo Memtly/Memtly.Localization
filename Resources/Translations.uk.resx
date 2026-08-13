@@ -1964,10 +1964,10 @@
     <value>Головна</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Стиль пухкі</value>
+    <value>Як буде показано медіа мініатюри?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Як буде показано медіа мініатюри?</value>
+    <value>Стиль пухкі</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Чи можна завантажити товари</value>

@@ -1964,10 +1964,10 @@
     <value>শিরোনাম প্রদর্শন</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>থাম্ব-নেইলের বিন্যাস</value>
+    <value>মিডিয়া থাম্ব-নেইল কীভাবে প্রদর্শন করা হবে?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>মিডিয়া থাম্ব-নেইল কীভাবে প্রদর্শন করা হবে?</value>
+    <value>থাম্ব-নেইলের বিন্যাস</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>আপলোড করার জন্য অতিথিকে অনুমতি প্রদান করা হবে</value>

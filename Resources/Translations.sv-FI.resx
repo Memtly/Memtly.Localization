@@ -1964,10 +1964,10 @@
     <value>Visa titel</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Thumbnail Style</value>
+    <value>Hur ska media miniatyrer visas?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>Hur ska media miniatyrer visas?</value>
+    <value>Thumbnail Style</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Om gästerna får ladda upp objekt</value>

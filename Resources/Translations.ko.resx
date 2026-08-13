@@ -1964,10 +1964,10 @@
     <value>공지사항</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
-    <value>Thumbnail 스타일</value>
+    <value>미디어 썸네일이 어떻게 표시되어야 합니까?</value>
   </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
-    <value>미디어 썸네일이 어떻게 표시되어야 합니까?</value>
+    <value>Thumbnail 스타일</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>자주 묻는 질문</value>
