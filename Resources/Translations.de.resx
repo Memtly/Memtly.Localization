@@ -86,7 +86,7 @@
     <value>2FA einrichten</value>
   </data>
   <data name="2FA_Wipe_Message" xml:space="preserve">
-    <value>Möchtest du die 2FA wirklich löschen?</value>
+    <value>Bist du dir sicher, dass du die 2FA für Nutzer '{name}' löschen möchtest?</value>
   </data>
   <data name="400_Error_Message" xml:space="preserve">
     <value>Falls dieses Problem weiterhin besteht, wende dich bitte an den Administrator der Website</value>
@@ -197,10 +197,10 @@
     <value>Benutzer aktiviert</value>
   </data>
   <data name="Audit_BulkApproveReviews" xml:space="preserve">
-    <value>Alle ausstehenden Prüfungen per Massenaktion genehmigt</value>
+    <value>Alle ausstehenden Freigaben per Massenaktion genehmigt</value>
   </data>
   <data name="Audit_BulkRejectReviews" xml:space="preserve">
-    <value>Alle ausstehenden Prüfungen per Massenaktion abgelehnt</value>
+    <value>Alle ausstehenden Freigaben per Massenaktion abgelehnt</value>
   </data>
   <data name="Audit_CookieConsentApproved" xml:space="preserve">
     <value>Ein Besucher hat der Verwendung von Cookies zugestimmt</value>
@@ -377,7 +377,7 @@
     <value>Elemente erfolgreich gelöscht</value>
   </data>
   <data name="Bulk_Review" xml:space="preserve">
-    <value>Massenprüfung</value>
+    <value>Massenfreigabe</value>
   </data>
   <data name="Bulk_Review_Approve_Failed" xml:space="preserve">
     <value>Es konnten nicht alle Elemente genehmigt werden</value>
@@ -404,11 +404,11 @@
     <value>Abbrechen</value>
   </data>
   <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
-    <value>Berechtigungsstufe und Tarif des aktiven Benutzers können nicht geändert werden. Bitte lass diese Änderung von einem anderen Administrator vornehmen, damit du dich nicht selbst aus dem System aussperrst</value>
-  </data>
+    <value>Berechtigungsstufe und Tarif des aktiven Benutzers können nicht geändert werden. Bitte lass einen anderen Administrator diese Änderung vornehmen, um ein System-Lockout zu verhindern.</value>
+  <comment>Error message shown to the user. Used in Memtly.Core/Controllers/AccountController.cs</comment></data>
   <data name="Cannot_Change_Only_Admin" xml:space="preserve">
     <value>Berechtigungsstufe und Tarif des Benutzers können nicht geändert werden, da es der einzige aktive Administrator ist. Das könnte dazu führen, dass niemand mehr Zugriff auf das System hat</value>
-  </data>
+  <comment>Error message shown to the user. Used in Memtly.Core/Controllers/AccountController.cs</comment></data>
   <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
     <value>Das Konto kann nicht deaktiviert werden, da es gerade vom aktuellen Benutzer verwendet wird</value>
   </data>
@@ -557,7 +557,7 @@
     <value>Eigene Ressourcen</value>
   </data>
   <data name="Custom_Resources_Failed" xml:space="preserve">
-    <value>Fehler beim Laden der eigenen Ressourcen</value>
+    <value>Fehler beim Abrufen der benutzerdefinierten Ressourcen.</value>
   </data>
   <data name="Custom_Resources_Upload_Help" xml:space="preserve">
     <value>Bitte wähle eine Bilddatei zum Hochladen aus</value>
@@ -581,7 +581,7 @@
     <value>Gefahr</value>
   </data>
   <data name="Danger_Zone" xml:space="preserve">
-    <value>Gefahrenbereich</value>
+    <value>Gefahrenzone</value>
   </data>
   <data name="Dark" xml:space="preserve">
     <value>Dunkel</value>
@@ -782,7 +782,7 @@
     <value>Fehler beim Importieren der Daten</value>
   </data>
   <data name="Failed_Reviewing_Media" xml:space="preserve">
-    <value>Fehler beim Prüfen des Elements</value>
+    <value>Fehler beim Freigeben des Elements</value>
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Fehler beim Senden der Testbenachrichtigung</value>
@@ -1001,7 +1001,7 @@
     <value>Fehler beim Leeren der Galerie</value>
   </data>
   <data name="Gallery_Wipe_Message" xml:space="preserve">
-    <value>Möchtest du die Galerie wirklich leeren?</value>
+    <value>Möchtest du die Galerie '{name}' wirklich leeren?</value>
   </data>
   <data name="Gallery_Wipe_Success" xml:space="preserve">
     <value>Galerie erfolgreich geleert</value>
@@ -1058,7 +1058,7 @@
     <value>z. B. john.doe@mail.com</value>
   </data>
   <data name="Identity_Check_Invalid_Email" xml:space="preserve">
-    <value>Ungültige E-Mail-Adresse</value>
+    <value>Ungültige E-Mail</value>
   </data>
   <data name="Identity_Check_Invalid_Email_Msg" xml:space="preserve">
     <value>Bitte gib eine gültige E-Mail-Adresse an</value>
@@ -1073,7 +1073,7 @@
     <value>z. B. Jane Doe, Jimmy, Onkel Bob</value>
   </data>
   <data name="Identity_Check_Set_Failed" xml:space="preserve">
-    <value>Fehler beim Festlegen des Gastnamens</value>
+    <value>Fehler beim Setzen der Benutzeridentität</value>
   </data>
   <data name="Identity_Check_Stay_Anonymous" xml:space="preserve">
     <value>Anonym bleiben</value>
@@ -1277,7 +1277,7 @@
     <value>Titel der Navigationsleiste</value>
   </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
-    <value>Neue Elemente warten auf Prüfung</value>
+    <value>Neue Elemente warten auf Freigabe</value>
   </data>
   <data name="Next" xml:space="preserve">
     <value>Weiter</value>
@@ -1298,7 +1298,7 @@
     <value>Es wurden noch keine Galerien erstellt</value>
   </data>
   <data name="No_Pending_Uploads" xml:space="preserve">
-    <value>Es warten keine Uploads auf Prüfung</value>
+    <value>Es warten keine Uploads auf Freigabe</value>
   </data>
   <data name="No_Users_Found_Matching" xml:space="preserve">
     <value>Es wurden keine Benutzer gefunden für den Suchbegriff</value>
@@ -1397,7 +1397,7 @@
     <value>Bitte wähle einen Benutzer aus</value>
   </data>
   <data name="Portrait" xml:space="preserve">
-    <value>Hochformat</value>
+    <value>Porträt</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Präsentation</value>
@@ -1568,10 +1568,10 @@
     <value>Aufbewahrungsdauer</value>
   </data>
   <data name="Review" xml:space="preserve">
-    <value>Prüfen</value>
+    <value>Freigabe</value>
   </data>
   <data name="Review_Failed" xml:space="preserve">
-    <value>Fehler beim Prüfen des Elements</value>
+    <value>Fehler beim Freigeben des Elements</value>
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>Die Element-ID konnte nicht gefunden werden</value>
@@ -1694,7 +1694,7 @@
     <value>Fehlgeschlagene Anmeldung</value>
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
-    <value>Sollen Warnmeldungen gesendet werden, wenn ein neues Element auf Prüfung wartet</value>
+    <value>Sollen Warnmeldungen gesendet werden, wenn ein neues Element auf Freigabe wartet</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Sollen Benutzeraktionen und Ereignisse protokolliert werden</value>
@@ -1826,7 +1826,7 @@
     <value>Eigene Richtlinien</value>
   </data>
   <data name="Settings_Failed" xml:space="preserve">
-    <value>Fehler beim Laden der Einstellungen</value>
+    <value>Fehler beim Abrufen der Einstellungen.</value>
   </data>
   <data name="Settings_Failed_To_Get" xml:space="preserve">
     <value>Fehler beim Laden der Einstellungen</value>
@@ -1961,10 +1961,10 @@
     <value>Zitat</value>
   </data>
   <data name="Settings_Gallery_RequireReview_Help" xml:space="preserve">
-    <value>Müssen Elemente geprüft werden, bevor sie auf der Website erscheinen</value>
+    <value>Müssen Elemente freigegeben werden, bevor sie auf der Website erscheinen</value>
   </data>
   <data name="Settings_Gallery_RequireReview_Label" xml:space="preserve">
-    <value>Prüfung erforderlich</value>
+    <value>Freigabe erforderlich</value>
   </data>
   <data name="Settings_Gallery_RetainRejectedItems_Help" xml:space="preserve">
     <value>Sollen abgelehnte Elemente für eine spätere Verwendung gespeichert werden</value>
@@ -1973,10 +1973,10 @@
     <value>Abgelehnte Elemente behalten</value>
   </data>
   <data name="Settings_Gallery_ReviewCounter_Help" xml:space="preserve">
-    <value>Soll der Prüfzähler angezeigt werden</value>
+    <value>Soll der Freigabezähler angezeigt werden</value>
   </data>
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
-    <value>Prüfzähler</value>
+    <value>Freigabezähler</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Soll der Benutzer Medien filtern und gruppieren können?</value>
@@ -2147,7 +2147,7 @@
     <value>Wie lang soll der Übergang zwischen den Bildern sein</value>
   </data>
   <data name="Settings_Slideshow_Fade_Label" xml:space="preserve">
-    <value>Überblendung</value>
+    <value>Übergang</value>
   </data>
   <data name="Settings_Slideshow_Interval_Help" xml:space="preserve">
     <value>Wie viele Sekunden soll ein Bild angezeigt werden, bevor zum nächsten gewechselt wird</value>
@@ -2339,7 +2339,7 @@
     <value>Quadratisch</value>
   </data>
   <data name="Submit" xml:space="preserve">
-    <value>Absenden</value>
+    <value>Abschicken</value>
   </data>
   <data name="Success_Send_Test_Notification" xml:space="preserve">
     <value>Testbenachrichtigung erfolgreich gesendet</value>
@@ -2411,7 +2411,7 @@
     <value>Unbekannter Fehler</value>
   </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
-    <value>Unbekannte Prüfaktion</value>
+    <value>Unbekannte Freigabeaktion</value>
   </data>
   <data name="Update" xml:space="preserve">
     <value>Aktualisieren</value>
@@ -2459,13 +2459,13 @@
     <value>Es wurden keine Dateien zum Hochladen gefunden</value>
   </data>
   <data name="Upload_Progress" xml:space="preserve">
-    <value>Element wird hochgeladen</value>
+    <value>Element {index} von {count} wird hochgeladen...</value>
   </data>
   <data name="Upload_Success" xml:space="preserve">
     <value>Elemente erfolgreich hochgeladen</value>
   </data>
   <data name="Upload_Success_Pending_Review" xml:space="preserve">
-    <value>Elemente erfolgreich hochgeladen – sie warten nun auf Prüfung</value>
+    <value>Elemente erfolgreich hochgeladen – sie warten nun auf Freigabe</value>
   </data>
   <data name="Uploaded_By" xml:space="preserve">
     <value>Hochgeladen von</value>
@@ -2528,7 +2528,7 @@
     <value>Der Vorname des Benutzers</value>
   </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
-    <value>Die beiden Passwörter stimmen nicht überein</value>
+    <value>Passwörter stimmen nicht überein</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Bitte gib eine gültige E-Mail-Adresse an</value>
@@ -2603,7 +2603,7 @@
     <value>Benutzer mit Zugriff</value>
   </data>
   <data name="Validate" xml:space="preserve">
-    <value>Bestätigen</value>
+    <value>Prüfen</value>
   </data>
   <data name="Verbose" xml:space="preserve">
     <value>Ausführlich</value>
@@ -2655,5 +2655,98 @@
   </data>
   <data name="Your_Pending_Uploads" xml:space="preserve">
     <value>Deine ausstehenden Uploads</value>
+  </data>
+  <data name="Delete_Item_Message" xml:space="preserve">
+    <value>Bist du dir sicher, dass du '{name}' löschen möchtest?</value>
+  </data>
+  <data name="Gallery_Delete_Message" xml:space="preserve">
+    <value>Möchtest du die Galerie wirklich löschen?</value>
+  </data>
+  <data name="Gallery_Identifier" xml:space="preserve">
+    <value>Galerie-Bezeichnung</value>
+  </data>
+  <data name="Gallery_Invalid_Name" xml:space="preserve">
+    <value>Bitte gib einen gültigen Galerie-Namen an.</value>
+  </data>
+  <data name="Gallery_Limit_Reached" xml:space="preserve">
+    <value>Du hast die maximale Anzahl an Galerien erreicht.</value>
+  </data>
+  <data name="Gallery_Missing_Id" xml:space="preserve">
+    <value>Galerie-ID darf nicht leer sein.</value>
+  </data>
+  <data name="Gallery_Missing_Name" xml:space="preserve">
+    <value>Der Galeriename darf nicht leer sein</value>
+  </data>
+  <data name="Gallery_Name" xml:space="preserve">
+    <value>Galerie Name</value>
+  </data>
+  <data name="Gallery_Name_Already_Exists" xml:space="preserve">
+    <value>Galerie existiert bereits.</value>
+  </data>
+  <data name="Gallery_Secret_Key" xml:space="preserve">
+    <value>Schlüsselwort</value>
+  </data>
+  <data name="Gallery_Secret_Key_Hint" xml:space="preserve">
+    <value>Bitte gib einen neuen geheimen Schlüssel ein.</value>
+  </data>
+  <data name="Identity_Check_Invalid_Name" xml:space="preserve">
+    <value>Ungültiger Name</value>
+  </data>
+  <data name="Identity_Check_Invalid_Name_Msg" xml:space="preserve">
+    <value>Bitte gib einen gültigen Namen an.</value>
+  </data>
+  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
+    <value>Zur Freigabe ausstehend</value>
+  </data>
+  <data name="Settings_Gotify" xml:space="preserve">
+    <value>Gotify</value>
+  </data>
+  <data name="Settings_Gotify_Enabled_Label" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Settings_IdentityCheck_Enabled_Label" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Settings_Languages_Enabled_Label" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Settings_Ntfy" xml:space="preserve">
+    <value>NTFY</value>
+  </data>
+  <data name="Settings_Ntfy_Enabled_Label" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Settings_PoliciesEnabled_Label" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Settings_Smtp" xml:space="preserve">
+    <value>E-Mail-Adresse</value>
+  </data>
+  <data name="Settings_Smtp_Enabled_Label" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Settings_Themes_Enabled_Label" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="User_Delete_Message" xml:space="preserve">
+    <value>Bist du dir sicher, dass du den Benutzer '{name}' löschen möchtest?</value>
+  </data>
+  <data name="User_Invalid_Name" xml:space="preserve">
+    <value>Bitte gib einen gültigen Benutzernamen an.</value>
+  </data>
+  <data name="User_Missing_Id" xml:space="preserve">
+    <value>Benutzer-ID darf nicht leer sein.</value>
+  </data>
+  <data name="User_Missing_Name" xml:space="preserve">
+    <value>Benutzername darf nicht leer sein.</value>
+  </data>
+  <data name="User_Name" xml:space="preserve">
+    <value>Benutzername</value>
+  </data>
+  <data name="User_Name_Already_Exists" xml:space="preserve">
+    <value>Benutzer mit demselben Namen existiert bereits.</value>
+  </data>
+  <data name="User_Name_Hint" xml:space="preserve">
+    <value>The username of the new user</value>
   </data>
 </root>
