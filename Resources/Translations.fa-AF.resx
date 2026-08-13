@@ -1963,6 +1963,9 @@
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>عنوان نمایش</value>
   </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>چگونه باید تصاویر رسانه ای نمایش داده شوند؟?</value>
+  </data>
   <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
     <value>سبک بازی Thumbnail Style</value>
   </data>
