@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>Ezkerreko zatia ongi atera da</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Maila</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>Edo</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Jatorrizkoa</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Zeurea</value>

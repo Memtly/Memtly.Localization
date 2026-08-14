@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>Partida esquerda com sucesso</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Caixa de Cartas</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Nível</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>Ou</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Original</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Dono de você</value>

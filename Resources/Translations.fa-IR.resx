@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>موفق به چپ سهام</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>نامه</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>سطح</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>یا</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>نسخه اصلی</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>متعلق به شما</value>

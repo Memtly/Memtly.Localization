@@ -1297,6 +1297,9 @@
   <data name="Or" xml:space="preserve">
     <value>Ose</value>
   </data>
+  <data name="Original" xml:space="preserve">
+    <value>Origjinale</value>
+  </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Të zotëron</value>
   </data>

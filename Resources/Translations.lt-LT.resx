@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>Sėkmingai palikta akcija</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Lygis</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>Arba</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Originalas</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Jums priklauso</value>

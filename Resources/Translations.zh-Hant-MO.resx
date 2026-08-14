@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>已成功分出相簿</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>信箱</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>等級</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>或者说</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>原始</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>有你</value>

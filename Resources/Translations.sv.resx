@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>Framgångsrikt vänster andel</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Nivå</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>Eller</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Original original</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Ägd av dig</value>

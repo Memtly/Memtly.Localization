@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>Успішно ліва частка</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Кошик</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Рівень</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>Оригінал</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Головна</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Ви</value>

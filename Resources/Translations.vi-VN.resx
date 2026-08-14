@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>Chia sẻ trái thành công</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Hộp thư</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Trình độ</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>Hoặc</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Gốc</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Được sở hữu bởi bạn</value>

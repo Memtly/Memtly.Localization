@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>Udane pozostawienie udziału</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Skrzynka na listy</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Poziom</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>Lub</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Oryginał</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Owned By You</value>

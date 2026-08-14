@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>সাফল্যের সাথে ভাগ করা হয়েছে</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>লেটারবক্স</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>স্তর</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>অথবা</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>মূল</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>আপনি নিজে</value>

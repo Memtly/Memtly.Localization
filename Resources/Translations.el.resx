@@ -1153,6 +1153,9 @@
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>Επιτυχής αριστερή μετοχή</value>
   </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Γραμματοκιβώτιο</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Επίπεδο</value>
   </data>
@@ -1296,6 +1299,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>Ή</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Αρχικό</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Ιδιοκτησία σου</value>
