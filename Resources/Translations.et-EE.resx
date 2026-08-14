@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>Roheline</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Võrk</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Grupp</value>
   </data>
@@ -2343,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>Pöidlaküüned</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Tilk</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Ajatempel</value>

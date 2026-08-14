@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>Hijau</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Grid</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Grup</value>
   </data>
@@ -2343,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>Miniatur</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Ubin</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Penanda waktu</value>

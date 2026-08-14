@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>Vihreä</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Ruudukko</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Ryhmä</value>
   </data>
@@ -2343,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>Peukalot</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Tiili</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Aikaleima</value>

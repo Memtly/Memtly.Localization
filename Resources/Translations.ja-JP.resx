@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>グリーン</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>グリッド</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>グループ</value>
   </data>
@@ -2343,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>サムネイル</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>タイル</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>タイムスタンプ</value>

@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>Πράσινο</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Πλέγμα</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Ομάδα</value>
   </data>
@@ -2343,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>Εικόνες επισκόπησης</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Πλακάκι</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Χρονοσφραγίδα</value>

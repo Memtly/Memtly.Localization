@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>I gjelbër</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Rrjeta</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Grupi</value>
   </data>
@@ -1152,6 +1155,9 @@
   </data>
   <data name="Leave_Share_Success" xml:space="preserve">
     <value>Pjesë e majtë me sukses</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letra</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Niveli</value>
@@ -2340,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>Miniaturat</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Tile</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Unit-format</value>

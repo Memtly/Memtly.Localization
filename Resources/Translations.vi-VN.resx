@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>Lục</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Lưới</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Nhóm</value>
   </data>
@@ -2343,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>Hình thu nhỏ</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Lát</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Nhãn thời gian</value>

@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>Zielony</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Sieć</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Grupa</value>
   </data>
@@ -2343,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>Miniaturki</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Kafelki</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Znacznik czasu</value>

@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>綠</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>网格</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>组</value>
   </data>
@@ -2343,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>縮圖</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>平板</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>时间戳</value>

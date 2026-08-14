@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>เขียว</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>ตาราง</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>กลุ่ม</value>
   </data>
@@ -2343,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>ภาพตัวอย่าง</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>การจัดวาง</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>นาฬิกา</value>

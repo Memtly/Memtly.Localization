@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>(주)그린</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>제품정보</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>그룹</value>
   </data>
@@ -2343,6 +2346,9 @@
   </data>
   <data name="Thumbnails" xml:space="preserve">
     <value>뚱 베어</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>제품 정보</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>스크린 샷</value>
