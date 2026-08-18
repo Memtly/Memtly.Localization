@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Nabibilang na mga Pahina</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Buksan</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Ang QR code kasama ang iyong telepono upang ibahagi ang iyong mga larawan</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Pasan habang ikaw ay nasa balumbon</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Pansala batay sa isang termino sa paghahanap</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max Gallery Size (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Paano nagkakarga ang mga gumagamit ng higit pang mga bagay sa galerya?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Istilo ng Pag - aayos</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Kung kusang tanggihan ang mga bagay na kinopya</value>

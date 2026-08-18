@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Trang có số</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Mở</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Quét mã QR với điện thoại của bạn để chia sẻ ảnh của bạn</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Tải khi bạn di chuyển</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Lọc dựa trên thuật ngữ tìm kiếm</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Cỡ nơi trưng bày tối đa (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Người dùng nạp thêm vật dụng trưng bày như thế nào?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Kiểu chú giải</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Nên tự động gỡ bỏ mục</value>

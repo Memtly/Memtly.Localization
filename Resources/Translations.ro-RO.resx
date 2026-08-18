@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Pagini numerotate</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Deschide</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Scanați codul QR cu telefonul pentru a partaja imaginile</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Încărcaţi pe măsură ce derulaţi</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtru bazat pe un termen de căutare</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Dimensiune Galerie Max (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Cum încarcă utilizatorii mai multe obiecte de galerie?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Stil de paginare</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>În cazul în care elementele duplicate sunt respinse automat</value>

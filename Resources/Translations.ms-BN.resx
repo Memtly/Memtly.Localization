@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Tidak nyaman</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Halaman Bernomor-nomor</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Open</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Memindai kode QR dengan telepon Anda untuk berbagi gambar Anda</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Muat saat kau menggulung</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filter berdasarkan istilah pencarian</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Ukuran Galeri Maks (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Bagaimana pengguna memuat lebih banyak barang galeri?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Gaya Paginasi</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Tiruan seharusnya duplikat item secara otomatis ditolak</value>

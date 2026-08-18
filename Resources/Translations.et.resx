@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Nummerdatud leheküljed</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Avage</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skaneerige oma telefoniga QR-koodi, et jagada oma pilte</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Laadimine kerimisel</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Otsinguterminil põhinev filter</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Maksimaalne galerii suurus (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Kuidas saavad kasutajad rohkem galeriisid laadida?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination stiil</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Kas dubleerivad elemendid lükatakse automaatselt tagasi</value>

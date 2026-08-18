@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Nummererede sider</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Åbn</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Scan QR-koden med telefonen for at dele dine billeder</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Indlæs som du ruller</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filter baseret på et søgeudtryk</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Maks. galleristørrelse (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Hvordan indlæser brugerne flere galleri-elementer?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagineringsstil</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Hvis duplikater automatisk afvises</value>

@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Sayılan Sayfalar</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Open</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Görüntülerinizi paylaşmak için telefonunuzun QR kodunu görüntülemek</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Sizin gibi yük</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Bir arama terimine dayanan filtre</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max Gallery Boyut (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Kullanıcılar daha galeri öğelerini nasıl yükler?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination Style</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Tekrarlanan öğeler otomatik olarak reddedilmelidir</value>

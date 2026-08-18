@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Numrerade sidor</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Öppet</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skanna QR-koden med din telefon för att dela dina bilder</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Load as you scroll</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filter baserat på en sökterm</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max Gallery Size (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Hur laddar användarna fler galleriobjekt?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination Style</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Om dubbla objekt automatiskt avvisas</value>

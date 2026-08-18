@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>نیت</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>متعدد صفحات</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>کھولیں</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>اپنے فون کے ساتھ کیو آر کوڈ کو اپنی تصاویر شیئر کرنے کے لئے</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>جب آپ کتاب پڑھتے ہیں لوڈ کریں</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>تلاش کی اصطلاح پر مبنی فائلز</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>میکس گیلری حجم (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>صارفین مزید گیلری مصنوعات کیسے اٹھا سکتے ہیں؟?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>پُرتگالی طرزِزندگی</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>خود کار طور پر چیزوں کو رد کرنا چاہئے</value>

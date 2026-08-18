@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>ন্যাটfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>পৃষ্ঠার সংখ্যা</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>খুলুন</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>আপনার ছবি শেয়ার করার জন্য RQR কোড স্ক্যান করুন</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>মুক্ত ভাবে লোড করুন</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>অনুসন্ধানের ফিল্টার অনুযায়ী ফিল্টার করা হবে</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>সর্বাধিক গ্যালারির মাপ (B)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>ব্যবহারকারীদেরকে আরও সংকলনের বস্তু লোড করা হবে কি?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>পার্থজ শৈলী</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>স্বয়ংক্রিয়ভাবে বস্তু ডাউনলোড করা হবে কি না</value>

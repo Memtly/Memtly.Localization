@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>뚱 베어</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>번호</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>기타</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>QR 코드를 휴대폰으로 스캔하여 이미지를 공유</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>당신이 스크롤로로드</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>검색 용어를 기반으로 필터</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>최대 갤러리 크기 (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>사용자는 더 많은 갤러리 항목을로드합니까?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination 작풍</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>자주 묻는 질문</value>

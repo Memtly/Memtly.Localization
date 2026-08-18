@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Номерленген баракчалар</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Ачык ачык ачык</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Сүрөттөрүңүздү бөлүшүү үчүн телефонуңуз менен QR кодун текшериңиз</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Жүктү жылдырып жатканда</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Издөө терминине негизделген чыпкалоо</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Макс галереясынын өлчөмү (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Колдонуучулар галереядагы буюмдарды кантип жүктөп алышат?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Пагинация стили</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Эки эселенген буюмдар автоматтык түрдө четке кагылышы керек</value>

@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Pàgines numerades</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Obre</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Escaneja el codi QR amb el telèfon per compartir les imatges</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Carrega quan et moguis</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtre basat en un terme de cerca</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Mida màx. de Gallery (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Com poden els usuaris carregar més elements de la galeria?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Estil de segmentació</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Els elements duplicats s' han de rebutjar automàticament</value>

@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Déan Teagmháil Linn</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Naisc go dtí suíomhanna eile</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Oscailt Oscailte</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Scan an cód QR le do ghuthán a roinnt do íomhánna</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Luchtaigh mar scrollbharra tú</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Scagaire bunaithe ar théarma cuardaigh</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Méid na Gailearaí Max (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Conas a dhéanann úsáideoirí míreanna gailearaí níos mó a luchtú?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Stíl Tosaithe</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Ar chóir dúbailt míreanna diúltaíodh go huathoibríoch</value>

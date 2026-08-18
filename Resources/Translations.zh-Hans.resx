@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>不对</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>编号页面</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>打开</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>用手机扫描 QR 代码以共享图像</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>滚动时装入</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>基于搜索词的过滤器</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>最大画廊大小 (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>用户如何加载更多相册项目 ?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>缓冲样式</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>重复的项目应自动拒绝</value>

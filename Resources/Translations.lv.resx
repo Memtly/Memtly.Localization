@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Skaitļotas lapas</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Atvērt</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skenējiet QR kodu ar tālruni, lai kopīgotu attēlus</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Ielādēt ritinot</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtrs balstīts uz meklēšanas terminu</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max galerijas izmērs (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Kā lietotāji ielādē vairāk galeriju?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Paginācijas stils</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Ja dublikāti tiek automātiski noraidīti</value>

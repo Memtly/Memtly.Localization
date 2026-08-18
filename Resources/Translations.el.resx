@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Αριθμημένες σελίδες</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Άνοιγμα</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Σαρώστε τον κωδικό QR με το τηλέφωνό σας για να μοιραστείτε τις εικόνες σας</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Φόρτωση κατά την κύλιση</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Φίλτρο βασισμένο σε έναν όρο αναζήτησης</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Μέγιστο μέγεθος συλλογής (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Πώς φορτώνουν οι χρήστες περισσότερα αντικείμενα γκαλερί?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Στυλ παγοποίησης</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Σε περίπτωση αυτόματης απόρριψης διπλών αντικειμένων</value>

@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>عدد الصفحات</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>مفتوح</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>قوموا بمسح شفرة (كيو آر) بهواتفكم لتشاركوا صوركم</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>انحنوا كما تصرخون</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>قائمة على فترة بحث</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>مقاس ماكس غالاري</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>كيف يقوم المستعملون بتحميل المزيد من الأشياء؟?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>نموذج المحركات</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>في حالة رفض ازدواجية البنود تلقائياً</value>

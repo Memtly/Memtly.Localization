@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Numeruoti puslapiai</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Open</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skaitykite QR kodą su savo telefonu, kad bendrintumėte savo paveikslėlius</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Įkelti kaip slinkties</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtras pagal paieškos terminą</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Maks. galerijos dydis (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>NAME OF TRANSLATORS?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Gerinimo stilius</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Gal dubliuoti elementus automatiškai atmesti</value>

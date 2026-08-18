@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Nombro da paĝoj</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Malfermita</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>La QR-kodo kun via telefono dividi viajn bildojn</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Prunte kiel vi rulas</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filter surbaze de serĉperiodo</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max Gallery Size (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Kiel uzantoj ŝarĝas pli da galerioj?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination Style</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Se duplikaj eroj estu aŭtomate malaprobitaj</value>

@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>ภาษาไทยName</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>จํานวนหน้า</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>เปิด</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>สแกนรหัส QR ด้วยโทรศัพท์ของคุณเพื่อแบ่งปันภาพต่าง ๆ ของคุณ</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>โหลดเมื่อทําการเลื่อน</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>ตัวกรอง อิงจากคําค้น</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>ขนาดสูงสุดของแกลเลอรีภาพ (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>ผู้ใช้จะโหลดรายการของแกลเลอรีมากขึ้นได้อย่างไร?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>รูปแบบการวางกระดาษ</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>ควรปฏิเสธรายการซ้ําหรือไม่</value>

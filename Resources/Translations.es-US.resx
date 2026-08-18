@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Páginas numeradas</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Abierto</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Analice el código QR con su teléfono para compartir sus imágenes</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Carga como quieras</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtro basado en un término de búsqueda</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max Gallery Size (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>¿Cómo se cargan los usuarios más elementos de galería?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Estilo de Pagina</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Si los artículos duplicados se rechazan automáticamente</value>

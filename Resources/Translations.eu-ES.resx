@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Orrialde kopurua</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Ireki</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Eskaneatu QR kodea telefonoarekin irudiak partekatzeko</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Kargatu korritu ahala</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Bilaketa-terminoetan oinarritutako iragazkia</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max Gallery Tamaina (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Nola kargatzen dituzte erabiltzaileek galeria-elementu gehiago?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination Style</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Elementu bikoiztuak automatikoki baztertu behar dira</value>

@@ -1006,6 +1006,9 @@
   <data name="Green" xml:space="preserve">
     <value>I gjelbër</value>
   </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Rrjeta</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Grupi</value>
   </data>
@@ -1294,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfi</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Faqe të numëruara</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Hap</value>
   </data>
@@ -1569,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Kontrollo kodin QR me telefonin tënd për të ndarë imazhet e tua</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Ngarko</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtër në bazë të një termi kërkimi</value>
@@ -1890,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Madhësia e Galerisë Max (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Si i ngarkojnë përdoruesit më shumë elementë galerie?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Stili i shlyerjes</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Ndrysho elementët</value>

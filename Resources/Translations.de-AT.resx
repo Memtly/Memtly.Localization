@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Angemeldete Seiten</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Öffnen</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Scanne den QR-Code mit deinem Smartphone, um deine Bilder zu teilen</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Wie Sie scrollen</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Nach einem Suchbegriff filtern</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max. Galeriegröße (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Wie laden Benutzer mehr Galerie-Elemente?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination Stil</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Sollen doppelte Elemente automatisch abgelehnt werden</value>

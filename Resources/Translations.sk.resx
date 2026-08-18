@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Počet strán</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Otvoriť</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skenovanie QR kódu telefónom zdieľať obrázky</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Načítať ako sa posúvate</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filter založený na vyhľadávacom výraze</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Maximálna veľkosť galérie (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Ako používatelia načítajú viac galérie?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Štýl paginácie</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Ak sa duplicitné položky automaticky odmietnu</value>

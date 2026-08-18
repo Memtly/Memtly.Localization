@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Számozott oldalak</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Megnyitás</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Keresse meg a QR kódot a telefonjával a képek megosztásához</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Tölts, ahogy forgatsz</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Keresés kifejezésen alapuló szűrő</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max. galéria mérete (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Hogyan tölthetnek be a felhasználók több galéria tárgyakat?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Paginációs stílus</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>A két tételt automatikusan el kell utasítani</value>

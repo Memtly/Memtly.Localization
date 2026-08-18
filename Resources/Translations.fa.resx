@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>عدم رضایت</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>تعداد صفحات</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Open</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>کد QR را با تلفن خود اسکن کنید تا تصاویر خود را به اشتراک بگذارید</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>بار به عنوان شما اسکرول</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>فیلتر بر اساس یک اصطلاح جستجو</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>اندازه گالری مکس (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>کاربران چگونه اقلام گالری بیشتری را بارگذاری می کنند؟?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>سبک Pagination</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>باید موارد تکراری به طور خودکار رد شوند</value>

@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Qeydiyyat</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Saytın sayı</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Açıq</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Sizin şəkillər bölüşmək üçün telefon ilə QR kodu</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Siz çıxış kimi</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Domen adı qeydiyyatdan keçirt »</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max Gallery Ölçüsü (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Necə istifadəçilər daha çox gallery maddələri yükləyir?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination Style</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Xüsusi maddələr avtomatlaşdırılmışdır</value>

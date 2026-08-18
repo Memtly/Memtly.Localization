@@ -1297,6 +1297,9 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Брой страници</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Отваряне</value>
   </data>
@@ -1572,6 +1575,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Сканирайте QR кода с телефона си, за да споделите изображенията си</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Зареждайте, докато превъртате</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Филтър въз основа на термин за търсене</value>
@@ -1893,6 +1899,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Максимален размер на галерията (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Как потребителите зареждат повече галерии?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Стил на въображението</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Ако дублираните елементи бъдат автоматично отхвърлени</value>
