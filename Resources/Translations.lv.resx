@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Parole</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Lūdzu izveidojiet kontu vai pieteikšanos komentēt</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Lūdzu ieiet, lai pabeigtu šo darbību</value>
   </data>

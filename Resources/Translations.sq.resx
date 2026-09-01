@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Fjalëkalimi</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Ju lutem shkruani një profil ose një hyrje për të komentuar</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Shkruaj akcion</value>
   </data>

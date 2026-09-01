@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Contrasenya</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Si us plau, creeu un compte o una connexió a comentar</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Si us plau, registre per completar aquesta acció</value>
   </data>

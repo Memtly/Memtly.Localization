@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Pasvorto</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Bonvolu krei konton aŭ ensaluti por komenti</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Bonvolu ensaluti por kompletigi tiun agon</value>
   </data>

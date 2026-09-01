@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>סיסמה</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>צור חשבון או כניסה להערות</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>אנא היכנסו להשלמת הפעולה</value>
   </data>

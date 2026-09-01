@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Contrasinal</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Crear unha conta ou login para comentar</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Por favor, inicia sesión para completar esta acción</value>
   </data>

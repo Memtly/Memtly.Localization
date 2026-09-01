@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Post a fhógairt</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Cruthaigh cuntas nó logáil isteach chun trácht a dhéanamh</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Logáil isteach chun an gníomh seo a chomhlánú</value>
   </data>

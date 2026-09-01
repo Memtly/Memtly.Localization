@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Parool</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Palun loo konto või logi kommentaariks sisse</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Palun logi sisse selle toimingu lõpuleviimiseks</value>
   </data>

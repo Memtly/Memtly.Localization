@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Geslo</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Prosim ustvarite račun ali prijavo za komentar</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Prosimo, prijavite se za dokončanje tega dejanja</value>
   </data>

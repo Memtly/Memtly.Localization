@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Parolă</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Vă rugăm să creați un cont sau login pentru a comenta</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Te rog autentifică-te pentru a finaliza această acțiune</value>
   </data>

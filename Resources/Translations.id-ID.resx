@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Sandi</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Silakan buat akun atau log masuk ke komentar</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Silakan log masuk untuk menyelesaikan aksi ini</value>
   </data>

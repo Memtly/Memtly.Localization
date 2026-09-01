@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Mật khẩu</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Vui lòng tạo một tài khoản hoặc thông báo đăng nhập</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Xin đăng nhập để hoàn tất hành động này</value>
   </data>

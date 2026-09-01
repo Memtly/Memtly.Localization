@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Κωδικός πρόσβασης</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Παρακαλώ δημιουργήστε ένα λογαριασμό ή συνδεθείτε για να σχολιάσετε</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Παρακαλώ συνδεθείτε για να ολοκληρώσετε αυτή την ενέργεια</value>
   </data>

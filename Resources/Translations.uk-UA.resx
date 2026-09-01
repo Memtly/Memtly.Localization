@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Логін</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Введіть номер мобільного, який Ви вказали при укладаннi договору</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Будь ласка, увійдіть, щоб завершити цю дію</value>
   </data>

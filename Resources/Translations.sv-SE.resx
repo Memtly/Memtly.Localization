@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Lösenord</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Skapa ett konto eller logga in för att kommentera</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Vänligen logga in för att slutföra denna åtgärd</value>
   </data>

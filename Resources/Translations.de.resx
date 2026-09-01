@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Passwort</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Bitte erstellen Sie ein Konto oder Login zum Kommentar</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Bitte melde dich an, um diese Aktion abzuschließen</value>
   </data>

@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Adgangskode</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Opret en konto eller log ind for at kommentere</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Log ind for at fuldføre denne handling</value>
   </data>

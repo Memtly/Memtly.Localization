@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Heslo</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Prosím vytvoriť účet alebo prihlásiť sa na komentár</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Prosím prihláste sa na dokončenie tejto akcie</value>
   </data>

@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Пароль сөзү</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Сураныч, комментарий берүү үчүн эсеп же кирүү түзүңүз</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Бул иш-аракетти аягына чыгаруу үчүн, сураныч, каттаңыз</value>
   </data>

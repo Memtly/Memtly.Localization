@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>পাসওয়ার্ড</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>অনুগ্রহ করে একটি অ্যাকাউন্ট অথবা লগ-ইন প্রক্রিয়া ব্যবহার করুন</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>অনুগ্রহ করে এই কাজের জন্য লগ-ইন করুন</value>
   </data>

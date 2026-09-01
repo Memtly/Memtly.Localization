@@ -1204,6 +1204,9 @@
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Şifre</value>
   </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Lütfen bir hesap oluşturmak veya yorum yapmak için giriş</value>
+  </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Lütfen bu eylemi tamamlamak için oturum açma</value>
   </data>
