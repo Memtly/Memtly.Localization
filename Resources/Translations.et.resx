@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Kollektsioonid</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Kommentaar</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Märkused</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Ühised seadistused</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Valgus</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Nagu</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Maksimaalne lubatud piirmäär on saavutatud</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Kolonnide loend</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Kas kasutajatel peaks olema võimalik galeriisid kommenteerida?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Kommentaaride lubamine</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Mis on vaikimisi galerii filter</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Elemendid lehekülje kohta</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Kas kasutajatele peaks meeldima galeriid?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Meeldib lubamine</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Mis on MB-s suurim üleslaaditud fail</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Kasutaja kasutajanimi</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Kasutajate suhtlus</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Kasutajanimi</value>

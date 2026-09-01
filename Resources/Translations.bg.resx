@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Колекции</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Коментар</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Коментари</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Общи настройки</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Светлина</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Като</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Максимално допустимата граница е достигната</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Брой колони</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Трябва ли потребителите да могат да коментират галерията?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Включване на коментари</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Какъв е филтърът за галерия по подразбиране</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Обекти на страница</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Трябва ли потребителите да могат да харесват галерията?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Включване на харесвания</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Кое е най-голямото в MB качен файл може да бъде</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Потребителско име на потребителя</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Взаимодействие с потребителя</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Потребител</value>

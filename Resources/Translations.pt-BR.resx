@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Coleções</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Comentário</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Comentários</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Configurações comuns</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Luz</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Como</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>O limite máximo permitido foi alcançado</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Contagem de coluna</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Os usuários devem ser capazes de comentar sobre itens da galeria?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Activar Comentários</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Qual é o filtro de galeria padrão</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Itens por página</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Os usuários deveriam gostar de itens da galeria?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Activar Gostos</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>O que é o maior em MB um arquivo carregado pode ser</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>O nome do usuário</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Interações do usuário</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nome de utilizador</value>

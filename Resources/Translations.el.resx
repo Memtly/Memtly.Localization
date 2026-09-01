@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Συλλογές</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Σχόλιο</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Σχόλια</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Κοινές ρυθμίσεις</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Φως</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Όπως..</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Το ανώτατο επιτρεπόμενο όριο έχει επιτευχθεί</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Αριθμός στηλών</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Θα πρέπει οι χρήστες να είναι σε θέση να σχολιάσουν τα αντικείμενα γκαλερί?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Ενεργοποίηση σχολίων</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Ποιο είναι το προκαθορισμένο φίλτρο συλλογής</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Αντικείμενα ανά σελίδα</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Θα πρέπει οι χρήστες να είναι σε θέση να συμπαθούν αντικείμενα γκαλερί?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Ενεργοποίηση αρεστών</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Ποιο είναι το μεγαλύτερο σε MB ένα φορτωμένο αρχείο μπορεί να είναι</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Το όνομα χρήστη του χρήστη</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Αλληλεπιδράσεις χρήστη</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Όνομα χρήστη</value>

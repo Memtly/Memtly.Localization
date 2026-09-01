@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Kolekcijas</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Komentārs</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Piezīmes</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Kopējie iestatījumi</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Gaišs</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Kā</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Ir sasniegta maksimālā pieļaujamā robeža</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Kolonnu skaits</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Vai lietotājiem vajadzētu būt iespējai komentēt galeriju preces?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Ieslēgt komentārus</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Kas ir noklusētais galerijas filtrs</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Vienības uz vienu lapu</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Vai lietotājiem vajadzētu būt iespējai baudīt galeriju preces?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Ieslēgt līdzīgus</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Kas ir lielākais no MB augšupielādētais fails var būt</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Lietotāja lietotājvārds</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Lietotāju mijiedarbība</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Lietotājvārds</value>

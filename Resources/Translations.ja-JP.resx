@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>コレクション</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>コメント</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>コメント</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>共通設定</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>ライトライト</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>お問い合わせ</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>上限に達した</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>列数</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>ユーザーがギャラリーのアイテムにコメントできる必要がありますか?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>コメントを有効にする</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>デフォルトのギャラリーフィルタとは</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>ページごとのアイテム</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>ユーザーがギャラリーアイテムを好きならいいですか?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>いいね を有効にする</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>アップロードされたファイルの中で最も大きいものは、</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>ユーザーのユーザー名</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>ユーザーインタラクション</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>ユーザ名</value>

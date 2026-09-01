@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Colecții</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Comentație</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Observații</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Configurări comune</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Lumină</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Ca</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Limita maximă admisă a fost atinsă</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Număr coloană</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Ar trebui ca utilizatorii să poată comenta cu privire la elementele de galerie?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Activează comentariile</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Ce este filtrul de galerie implicit</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Elemente pe pagină</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Ar trebui ca utilizatorilor să le placă obiectele de galerie?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Activează placi</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Care este cel mai mare din MB un fișier încărcat poate fi</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Numele utilizatorului</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Interacţiuni cu utilizatorul</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nume utilizator</value>

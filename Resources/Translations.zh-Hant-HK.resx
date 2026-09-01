@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>二. 收藏</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>註解</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>註解</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>常见設定值</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>有光</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>如:</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>已達到最大限限值</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>列数</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>使用者能對相簿項目作評論嗎?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>開啟註解</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>默认画廊过滤器是什么</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>每页的项目</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>使用者能喜歡相簿項目嗎?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>開啟相關</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>上传文件在 MB 中最大的是什么呢 </value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>使用者名</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>使用者交互</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>用户名</value>

@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Kolektoj</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Komentoj</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Komentoj</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Oftaj aranĝoj</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Lumo de lumo</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Kiel</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>La maksimuma permesita limo estis atingita</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Kolono Count</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Ĉu uzantoj povas komenti galeriobjektojn?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Komentoj pri komentoj</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Kio estas la defaŭlta galerio filtrilo</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Ĝi estas per paĝo</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Ĉu uzantoj povas ŝati galeriobjektojn?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Enable Likes</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Kio estas la plej granda en MB alŝutita dosiero povas esti</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>La uzantnomo de la uzanto</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Uzante interagadojn</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Uzantnomo</value>

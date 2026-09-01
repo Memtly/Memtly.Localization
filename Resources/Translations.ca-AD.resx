@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Col· leccions</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Comentari</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Comentaris</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Arranjament comú</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Llum</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Com ara</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>S' ha arribat al límit màxim permès</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Comptador de columnes</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Els usuaris haurien de poder comentar els elements de la galeria?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Habilita els comentaris</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Quin és el filtre de galeria per omissió</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Elements per pàgina</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Els usuaris haurien de ser capaços d'agradar els elements de la galeria?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Habilita les li agraden</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Què és el més gran de MB un fitxer pujat pot ser</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>El nom d' usuari</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Interaccions d' usuari</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nom d' usuari</value>

@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Коллекциялар</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Комментарий</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Эскертүүлөр</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Бирдиктүү шарттар</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Жарык жарыгы</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Окшош</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Уруксат берилген максималдуу чекке жетти</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Колонналардын саны</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Колдонуучулар галерея буюмдарына комментарий бере алышы керекпи?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Комментарийлер</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Демейки галерея чыпкасы деген эмне</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Бир баракка пункттар</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Колдонуучулар галерея буюмдарын жактырышы керекпи?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Каалаган нерселер</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>МБда жүктөлгөн файлдын эң чоңу</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Колдонуучунун аты-жөнү</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Колдонуучунун өз ара аракеттенүүсү</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Колдонуучунун аты-жөнү</value>

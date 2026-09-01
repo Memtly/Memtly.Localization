@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>회사 소개</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>일반 설정</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>제품 정보</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>이름 *</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>최대 허용한 제한이 도달되었습니다</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>열 조사</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>사용자는 갤러리 항목에 댓글을 달릴 수 있습니까?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>자주 묻는 질문</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>기본 갤러리 필터는 무엇인가요</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>페이지 당 항목</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>사용자는 갤러리 아이템을 좋아할 수 있습니까?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>자주 묻는 질문</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>MB에서 가장 큰 파일은 업로드 할 수 있습니다</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>사용자의 이름</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>사용자 상호 작용</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>사용자 이름</value>

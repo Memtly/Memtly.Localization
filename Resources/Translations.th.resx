@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>ชุดสะสม</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>หมายเหตุ</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>หมายเหตุ</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>ตั้งค่าทั่วไป</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>แสง</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>เหมือน</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>ถึงขีดจํากัดที่อนุญาตสูงสุดแล้ว</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>จํานวนคอลัมน์</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>ผู้ใช้ควรจะสามารถออกความเห็นเกี่ยวกับรายการของแกลเลอรี่หรือไม่?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>เปิดการใช้งานหมายเหตุ</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>ตัวกรองปริยายของคลังภาพคืออะไร</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>รายการต่อหน้า</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>ผู้ใช้ควรจะชอบรายการของ แกลลอรี่ไหม?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>เปิดใช้งานเช่น</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>แฟ้มที่มีขนาดใหญ่ที่สุดใน MB แฟ้มที่อัปโหลดมาได้</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>ชื่อผู้ใช้ของผู้ใช้</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>ส่วนติดต่อผู้ใช้</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>ชื่อผู้ใช้</value>

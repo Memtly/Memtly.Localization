@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Gyűjtemények</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Megjegyzés</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Megjegyzések</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Általános beállítások</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Fény</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Például</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>A megengedett maximális határértéket elérték</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Oszlopszám</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Lehetővé kell tenni a felhasználók számára, hogy kommentálják galéria elemek?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Hozzászólások engedélyezése</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Mi az alapértelmezett galéria szűrő</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Oldalanként</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Lehetővé kell tenni a felhasználók számára, hogy kedveljék a galéria tárgyakat?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Like engedélyezése</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Mi a legnagyobb MB egy feltöltött fájl lehet</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>A felhasználó neve</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Felhasználói kölcsönhatások</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Felhasználónév</value>

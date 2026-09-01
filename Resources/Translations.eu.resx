@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Bildumak</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Iruzkina</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Iruzkinak</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Ezarpen komunak</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Argia</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Like</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Baimendutako gehienezko muga gainditu da</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Zutabe kopurua</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Erabiltzaileek galeria-elementuei buruzko iruzkinak egin ahal izango dituzte?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Gaitu iruzkinak</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Zer da galeria-iragazki lehenetsia</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Orrialdeko elementuak</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Galeriako elementuak atsegin al dituzte erabiltzaileek?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Gaitu gogokoak</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Zein da igotako fitxategirik handiena MBn</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Erabiltzailearen izena</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Erabiltzailearen interakzioak</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Erabiltzaile-izena</value>

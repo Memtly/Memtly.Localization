@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>مجموعه ها</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>نظرات</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>نظرات</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>تنظیمات مشترک</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>نور</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>مانند</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>حداکثر حد مجاز رسیده است</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>ستون شمارش</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>آیا کاربران باید بتوانند در مورد موارد گالری اظهار نظر کنند؟?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>قابلیت Enable Comments</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>فیلتر گالری پیش فرض چیست</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>آیتم های Per Page</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>آیا کاربران باید بتوانند اقلام گالری را دوست داشته باشند؟?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>فعال سازی Likes</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>بزرگترین در MB یک فایل آپلود شده می تواند</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>نام کاربری کاربر</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>تعامل کاربر</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Username</value>

@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>پرنٹ</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>جواب</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>تبصرے</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>عام ترتیبات</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>روشنی</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>طرح</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>زیادہ تر اجازت دی گئی ہے۔</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>رنگون کاؤنٹی</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>کیا صارفین گیلری چیزوں پر تبصرہ کرنے کے قابل ہونگے ؟?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>تبصروں کو تقویت دیں</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>دیہی گیلری فیلڈ کیا ہے؟</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>صفحہ ۲۴</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>کیا صارفین کو گیلری چیزوں کو پسند کرنا چاہئے ؟?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>طرح فعال</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>MB اپلوڈ فائل میں سب سے بڑی چیز کیا ہو سکتی ہے۔</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>صارف کا صارف</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>صارف interaction</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>پرنٹ</value>

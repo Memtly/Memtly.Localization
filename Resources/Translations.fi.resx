@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Kokoelmat</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Kommentti</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Huomautukset</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Yleiset asetukset</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Valo</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Kuten</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Sallittu enimmäismäärä on saavutettu</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Sarakemäärä</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Pitäisikö käyttäjien voida kommentoida galleria kohteita?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Käytä kommentteja</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Mikä on oletus galleriasuodatin</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Kappaleita sivua kohti</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Pitäisikö käyttäjien voida pitää galleria kohteita?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Käytä tykkäyksiä</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Mikä on suurin MB ladattu tiedosto voi olla</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Käyttäjätunnus</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Yhteisvaikutukset</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Käyttäjätunnus</value>

@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Irl - Library Service</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Comment</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Tuairimí Comments</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Naisc ábhartha eile</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Solas na Gréine</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Cosúil le</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Tá an uasteorainn a cheadaítear bainte amach</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Comhaireamh na Colún</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Ar chóir d'úsáideoirí a bheith in ann trácht ar míreanna gailearaí?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Tuairimí Cumasaigh</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Cad é an scagaire gailearaí réamhshocraithe</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Míreanna in aghaidh Leathanach</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Ar chóir d'úsáideoirí a bheith in ann cosúil le míreanna gailearaí?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Cumasaigh Cosúil</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Cad é an ceann is mó i MB is féidir comhad a uaslódáil a bheith</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Ainm úsáideora an úsáideora</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Idirghníomhaíochtaí Úsáideoir</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Ainm úsáideora</value>

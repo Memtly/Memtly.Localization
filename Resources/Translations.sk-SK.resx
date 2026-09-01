@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Zbierky</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Poznámka</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Poznámky</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Spoločné nastavenia</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Svetlo</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Ako</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Maximálny povolený limit sa dosiahol</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Počet stĺpcov</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Mali by mať používatelia možnosť komentovať položky galérie?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Povoliť komentáre</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Čo je predvolený filter galérie</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Položky na stránku</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Mali by mať používatelia možnosť mať radi galérie?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Povoliť typy</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Čo je najväčšie v MB nahraný súbor môže byť</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Užívateľské meno užívateľa</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Interakcie používateľov</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Užívateľské meno</value>

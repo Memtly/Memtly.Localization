@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>संग्रह</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>टिप्पणी</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>टिप्पणियाँ</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>आम सेटिंग</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>प्रकाश</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>लाइक</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>अधिकतम अनुमति सीमा तक पहुंच गई है</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>कॉलम गणना</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>क्या उपयोगकर्ता गैलरी आइटम पर टिप्पणी करने में सक्षम होना चाहिए?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>टिप्पणियाँ सक्षम करें</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>डिफ़ॉल्ट गैलरी फ़िल्टर क्या है</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>प्रति पृष्ठ आइटम</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>क्या उपयोगकर्ताओं को गैलरी आइटम पसंद करने में सक्षम होना चाहिए?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Enable Likes</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>एमबी में सबसे बड़ा क्या है एक अपलोड की गई फ़ाइल हो सकती है</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>उपयोगकर्ता का नाम</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>उपयोगकर्ता पारस्परिक क्रिया</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>उपयोगकर्ता नाम</value>

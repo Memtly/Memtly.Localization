@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Koleksi</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Komentar</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Komentar</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Pengaturan Umum</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Terang</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Suka</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Batas maksimum diizinkan telah dicapai</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Kolum Kolum Kolum</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Haruskah pengguna dapat mengomentari item galeri?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Membenarkan Komentar</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Apa itu saringan galeri baku</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Item Per Halaman</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Haruskah pengguna dapat menyukai barang galeri?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Orang yang Boleh Disukai</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Apa yang terbesar dalam MB file upload bisa</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Nama pengguna</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Interaksi Pengguna</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Namapengguna</value>

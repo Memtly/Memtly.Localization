@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Tập hợp</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Chú thích</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Chú thích</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Thiết lập chung</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Làm sáng</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Như</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Giới hạn được phép tối đa đã tới</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Số đếm cột</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Người dùng có thể bình luận về các mục trưng bày không?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Bật chú thích</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Bộ lọc phòng trưng bày mặc định là gì</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Mục trên mỗi trang</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Người dùng có thể thích các mục trưng bày không?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Bật</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Tập tin lớn nhất trong MB có thể được tải lên là gì</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Tên người dùng</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Người dùng tương tác</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Tên người dùng</value>

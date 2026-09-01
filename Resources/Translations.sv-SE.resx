@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Samlingar</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Kommentar</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Kommentarer</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Vanliga inställningar</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Ljus ljus</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Som liknar</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Den maximala tillåtna gränsen har uppnåtts</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Column Count</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Ska användare kunna kommentera galleriobjekt?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Möjliga kommentarer</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Vad är standard gallerifilter</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Föremål per sida</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Ska användare kunna gilla galleriobjekt?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Aktivera likes</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Vad är den största i MB en uppladdad fil kan vara</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Användarens användarnamn</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Användarinteraktioner</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Användarnamn</value>

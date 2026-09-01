@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Collections</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Comment</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Comments</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Common Settings</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Light</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Like</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>The maximum allowed limit has been reached</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Column Count</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Should users be able to comment on gallery items?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Enable Comments</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>What is the default gallery filter</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Items Per Page</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Should users be able to like gallery items?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Enable Likes</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>What is the largest in MB an uploaded file can be</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>The username of the user</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>User Interactions</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Username</value>

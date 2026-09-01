@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Recouvrement</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Commentaire</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Commentaires</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Paramètres communs</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Lumière</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Comme</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>La limite maximale autorisée a été atteinte</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Nombre de colonnes</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Les utilisateurs devraient-ils pouvoir commenter les objets de la galerie ?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Activer les commentaires</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Quel est le filtre de galerie par défaut</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Articles par page</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Les utilisateurs devraient-ils pouvoir aimer les objets de galerie ?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Activer les J'aime</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Quel est le plus grand en MB un fichier téléchargé peut être</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Nom d'utilisateur</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Interactions avec les utilisateurs</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nom d'utilisateur</value>

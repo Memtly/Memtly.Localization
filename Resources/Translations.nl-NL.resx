@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Verzamelingen</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Opmerking</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Opmerkingen</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Gemeenschappelijke instellingen</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Licht</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Zoals</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>De maximaal toegestane limiet is bereikt</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Aantal kolommen</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Moeten gebruikers kunnen reageren op galerij items?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Opmerkingen inschakelen</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Wat is het standaard galerijfilter</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Items per pagina</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Moeten gebruikers van gallery items kunnen houden?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Likes inschakelen</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Wat is de grootste in MB een geüpload bestand kan zijn</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>De gebruikersnaam van de gebruiker</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Gebruikersinteracties</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Gebruikersnaam</value>

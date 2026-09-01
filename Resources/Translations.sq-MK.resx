@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>Koleksione</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Komenti</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Komenti</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Rregullimet e përbashkëta</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>Drita</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Si</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Kufiri maksimum i lejuar është arritur</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Numërimi i kollonës</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>A duhet të jenë në gjendje përdoruesit të komentojnë mbi elementët e koleksionit?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Aktivizo komentet</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Cili është filtri i prezgjedhur i koleksionit</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Elementë faqe</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>A duhet të jenë në gjendje përdoruesit të pëlqejnë elementët e koleksionit?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Aktivo:</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Ajo që është më e madhja në MB mund të jetë një file i ngarkuar</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Përdoruesi i përdoruesit</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Përdoruesi</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Përdoruesi</value>

@@ -502,6 +502,12 @@
   <data name="Collections" xml:space="preserve">
     <value>אוסף</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>הערות</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>הערות</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>הגדרות נפוצות</value>
   </data>
@@ -1164,6 +1170,9 @@
   </data>
   <data name="Light" xml:space="preserve">
     <value>אור</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>כמו</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>הגבול המותר המקסימלי הושג</value>
@@ -1840,6 +1849,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>תגית Count</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>האם משתמשים יכולים להגיב על פריטי גלריה?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>הערות אפשריות</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>מה זה ברירת המחדל גלריה filter</value>
   </data>
@@ -1887,6 +1902,12 @@
   </data>
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>פריטים בעמוד</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>האם משתמשים יכולים לאהוב פריטים?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>אוהבות</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>מה הגדול ביותר ב- MB קובץ מועלה יכול להיות</value>
@@ -2577,6 +2598,9 @@
   </data>
   <data name="User_Username_Hint" xml:space="preserve">
     <value>שם המשתמש</value>
+  </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>אינטראקציה למשתמש</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>שם המשתמש</value>
