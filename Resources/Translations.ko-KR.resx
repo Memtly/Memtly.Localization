@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>이름 *</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>자주 묻는 질문</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>당신의 의견은 너무 길다. 바로가기</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>이름 *</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>포트레이트(Portrait)</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>게시물 댓글</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>주요연혁</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>성공적으로 닦은 자료</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>당신의 팬딩 업로드</value>
   </data>
 </root>

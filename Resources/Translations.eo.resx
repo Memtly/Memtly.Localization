@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Komentoj</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Bonvolu eniri validan komentan valoron</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Via komento estas tro longa. Bonvolu fari ĝin pli mallonga</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Komentoj</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portreto de Portreto</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>La komento</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Prezento</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Sukcesajn informojn</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Via Pendanta Uploads</value>
   </data>
 </root>

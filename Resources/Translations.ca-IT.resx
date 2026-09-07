@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Comentari</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Si us plau, introduïu un valor de comentari vàlid</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>El teu comentari és massa llarg. Si us plau, fes-ho més curt</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Comentaris</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Vertical</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Comentari de l' article</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Presentació</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>S' han esborrat correctament les dades</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Les pujades pendents</value>
   </data>
 </root>

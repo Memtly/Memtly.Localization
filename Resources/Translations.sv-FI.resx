@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Kommentar</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Ange ett giltigt kommentarsvärde</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Din kommentar är för lång. Gör det kortare</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Kommentarer</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Porträtt</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Post Comment</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Presentation</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Framgångsrikt torkade data</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Din väntande uppladdningar</value>
   </data>
 </root>

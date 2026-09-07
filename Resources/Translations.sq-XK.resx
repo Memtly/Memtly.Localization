@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Komenti</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Shkruaj a komenti</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Komenti yt është shumë i gjatë. Të lutem, bëje më të shkurtër</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Komenti</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Vertikale</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Komenti</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Prezantim</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Të dhëna të fshirëa me sukses</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Ngarkimet tuaja në pritje</value>
   </data>
 </root>

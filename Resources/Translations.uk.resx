@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Про нас</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Будь ласка, введіть дійсне значення коментаря</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Ваш коментар занадто довго. Будь ласка, зробіть його коротшим</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Коментарі</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Портрети</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Залишити коментар</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Презентація</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Успішно протирати дані</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Ваше закінчення завантаження</value>
   </data>
 </root>

@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>หมายเหตุ</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>โปรดป้อนค่าหมายเหตุที่ถูกต้อง</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>ความคิดเห็นของคุณมันยาวเกินไป ได้โปรดทําให้มันสั้นลง</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>หมายเหตุ</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>ภาพ</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>หมายเหตุหลัง</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>การนําเสนอ</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>ลบข้อมูลเรียบร้อยแล้ว</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>อัปโหลดไปยังอุปกรณ์ของคุณ</value>
   </data>
 </root>

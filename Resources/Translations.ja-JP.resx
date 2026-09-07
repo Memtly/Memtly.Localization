@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>コメント</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>有効なコメント値を入力してください</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>あなたのコメントはあまりにも長いです。 お問い合わせ</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>コメント</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>ポートレート</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>投稿コメント</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>プレゼンテーション</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>データの完全消去</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>あなたのPendingアップロード</value>
   </data>
 </root>

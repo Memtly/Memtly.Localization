@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>মন্তব্য</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>অনুগ্রহ করে একটি বৈধ মন্তব্য লিখুন</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>আপনার মন্তব্য অনেক লম্বা। অনুগ্রহ করে এটি ছোট করুন</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>মন্তব্য</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>পোর্ট্রেট</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>মন্তব্য</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>প্রেসেন্টেশন</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>সাফল্যের সাথে তথ্য মুছে ফেলা হয়েছে</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>আপনার অসমাপ্ত আপলোড</value>
   </data>
 </root>

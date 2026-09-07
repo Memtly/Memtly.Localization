@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>註解</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>請輸入合法的註解值</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>你的評論太長了. 就快了取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取出取取取取取取取取取取取取取取取取取取取取取取出取取取取取取取取取取出取取取取出出取取取取取出取取</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>註解</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>外观</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>后注解</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>列报</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>成功擦除数据</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>您要上傳</value>
   </data>
 </root>

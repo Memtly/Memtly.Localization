@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Komentārs</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Lūdzu ievadiet derīgu komentāru vērtību</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Jūsu komentārs ir pārāk garš. Lūdzu, saīsiniet</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Piezīmes</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portrets</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Komentēt</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Prezentācija</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Veiksmīgi noslaucīti dati</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Jūsu plānotās augšupielādes</value>
   </data>
 </root>

@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>注释</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>请输入一个有效的注释值</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>你的评论太长了 请缩短时间</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>评论</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>外观</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>邮政注释</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>列报</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>成功擦除数据</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>您的上传</value>
   </data>
 </root>

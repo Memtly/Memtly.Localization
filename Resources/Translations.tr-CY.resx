@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Yorum bırakın</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Lütfen geçerli bir yorum değerine girin</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Yorumunuz çok uzun. Lütfen daha kısa sürede yapın</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Yorumlar</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portre</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Post Comment</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Sunum</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Başarılı bir şekilde silinmiş veriler</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Pending Uploads</value>
   </data>
 </root>

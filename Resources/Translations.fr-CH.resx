@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Commentaire</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Veuillez saisir une valeur de commentaire valide</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Votre commentaire est trop long. S'il vous plaît, raccourcissez-la</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Commentaires</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portrait</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Commentaires</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Présentation</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Données effacées avec succès</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Vos chargements en cours</value>
   </data>
 </root>

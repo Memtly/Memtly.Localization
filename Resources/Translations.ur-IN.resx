@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>جواب</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>براہِ‌مہربانی مناسب تبصرے میں داخل کریں</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>آپ کا تبصرہ بہت طویل ہے۔ براہ مہربانی اسے مختصر بنائیں</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>تبصرے</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>پرنٹ</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>پوسٹ جواب</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>جگہ</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>کامیابی سے اعداد و شمار ختم کیے گئے ہیں۔</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>آپ کا پُراسرار بوجھ</value>
   </data>
 </root>

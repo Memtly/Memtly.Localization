@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Komentar</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Pengguna silakan masukkan nilai komentar yang sah</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Komentarmu terlalu panjang. Tolong buat lebih pendek</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Komentar</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Potret</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Comment</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Persembahan</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Kejayaan data dihapus</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Upload Tertangguh Anda</value>
   </data>
 </root>

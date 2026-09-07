@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Komento</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Pakisuyong magpasok ng angkop na halaga ng komento</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Ang iyong komento ay napakahaba. Pakisuyong gawing mas maikli ito</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Mga Komento</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Larawan</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Pagkatapos ng Komento</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Paghaharap</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Matagumpay na nabura ang datos</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Ang Iyong Pagtaas</value>
   </data>
 </root>

@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Opmerking</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Voer een geldige commentaarwaarde in</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Je commentaar is te lang. Maak het alsjeblieft korter</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Opmerkingen</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portret</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Postcommentaar</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Presentatie</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Gegevens met succes gewist</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Uw in behandeling zijnde uploads</value>
   </data>
 </root>

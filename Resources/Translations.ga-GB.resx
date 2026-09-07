@@ -505,6 +505,12 @@
   <data name="Comment" xml:space="preserve">
     <value>Comment</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Cuir isteach luach tráchta bailí</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Tá do comment ró-fhada. Déan níos giorra</value>
+  </data>
   <data name="Comments" xml:space="preserve">
     <value>Tuairimí Comments</value>
   </data>
@@ -1395,6 +1401,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Irl - Library Service</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Post a fhógairt</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Cur i láthair</value>
@@ -2667,8 +2676,5 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Sonraí wiped rathúil</value>
-  </data>
-  <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Do Uploads feitheamh</value>
   </data>
 </root>
