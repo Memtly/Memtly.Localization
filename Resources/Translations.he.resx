@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>אתה בטוח שאתה רוצה למחוק?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>המונחים:</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>אתה בטוח שאתה רוצה למחוק את הגלריה?</value>
   </data>

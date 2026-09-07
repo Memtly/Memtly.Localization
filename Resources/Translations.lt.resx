@@ -505,6 +505,9 @@
   <data name="Comment" xml:space="preserve">
     <value>Komentaras</value>
   </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Įveskite teisingą komentaro reikšmę</value>
+  </data>
   <data name="Comment_Value_Too_Long" xml:space="preserve">
     <value>Jūsų komentaras yra per ilgas. Prašau jį sutrumpinti</value>
   </data>
@@ -615,6 +618,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Jūs tikrai norite ištrinti?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Trinti komentarą</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Jūs tikrai norite ištrinti šią galeriją?</value>

@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Сигурна ли си, че искаш да изтриеш?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Изтриване на коментар</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Сигурен ли си, че искаш да изтриеш галерията?</value>
   </data>

@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>削除したいですか?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>コメントを削除</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>このギャラリーを削除したいですか?</value>
   </data>

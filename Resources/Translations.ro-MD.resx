@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Sigur doriți să ștergeți?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Șterge comentariul</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Sigur doriți să ștergeți această galerie?</value>
   </data>

@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>An bhfuil tú cinnte gur mhaith leat a scriosadh?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Déan teagmháil anois</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>An bhfuil tú cinnte gur mhaith leat an gailearaí seo a scriosadh?</value>
   </data>

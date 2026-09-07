@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>您確定要刪除嗎 ?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>刪除註解</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>您确定要删除此画廊吗 ?</value>
   </data>

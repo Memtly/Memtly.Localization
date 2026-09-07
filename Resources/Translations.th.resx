@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>คุณแน่ใจหรือว่าต้องการจะลบ?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>ลบหมายเหตุ</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>คุณแน่ใจหรือว่าต้องการจะลบคลังภาพนี้?</value>
   </data>

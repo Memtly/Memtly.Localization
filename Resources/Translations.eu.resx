@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Ziur zaude ezabatu nahi duzula?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Ezabatu iruzkina</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Ziur zaude galeria hau ezabatu nahi duzula?</value>
   </data>

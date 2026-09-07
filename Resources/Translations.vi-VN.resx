@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Bạn có chắc muốn xoá không?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Xoá chú thích</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Bạn có chắc muốn xoá nơi trưng bày này không?</value>
   </data>

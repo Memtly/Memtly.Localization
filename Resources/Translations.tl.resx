@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Sigurado ka bang gusto mong mag - delete?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Malabong Komento</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Tiyak mo bang nais mong alisin ang galeryang ito?</value>
   </data>

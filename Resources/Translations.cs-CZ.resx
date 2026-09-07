@@ -619,6 +619,9 @@
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Určitě to chceš smazat?</value>
   </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Smazat komentář</value>
+  </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Jste si jistý, že chcete tuto galerii smazat?</value>
   </data>
