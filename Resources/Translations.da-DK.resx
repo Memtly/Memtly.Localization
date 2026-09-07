@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>En anmodning blev fremsat ved hjælp af en ugyldig hemmelig nøgle</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Lige nu</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Nøgle</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Brugernavn kan ikke være tomt</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Kunne ikke oprette 2FA</value>

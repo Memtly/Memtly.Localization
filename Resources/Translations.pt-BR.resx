@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Um pedido foi feito usando uma chave secreta inválida</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Agora mesmo</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Chaveiro</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Nome de usuário não pode estar vazio</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Momentos atrás</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Falhado para configurar 2FA</value>

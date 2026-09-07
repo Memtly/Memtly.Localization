@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>不正な秘密鍵を使ってリクエストをした</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>今すぐ登録</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>キーキー</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>ユーザー名は空にすることはできません</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>モーメント・エイゴ</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FAをセットアップできなかった</value>

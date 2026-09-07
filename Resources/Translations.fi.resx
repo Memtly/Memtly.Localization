@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Pyyntö tehtiin käyttäen virheellinen salainen avain</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Juuri nyt</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Avain</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Käyttäjätunnus ei voi olla tyhjä</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Hetket Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA:n perustaminen epäonnistui</value>

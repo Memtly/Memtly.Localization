@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Запит було зроблено з використанням недійсного секретного ключа</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Просто зараз</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Головна</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Ім'я користувача не може бути порожнім</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Моменти Аго</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Не вдалося встановити 2FA</value>

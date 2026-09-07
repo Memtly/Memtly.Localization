@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Permintaan dilakukan menggunakan kunci rahasia tidak sah</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Hanya sekarang</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Kunci</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Nama pengguna tidak boleh kosong</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Gagal mendirikan 2FA</value>

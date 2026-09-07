@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Сураныч жараксыз жашыруун ачкычты колдонуу менен берилген</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Эми жөн гана азыр</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Негизги ачкыч</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Колдонуучунун аты бош болушу мүмкүн эмес</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Кечиккен учурлар</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA түзүлгөн эмес</value>

@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>قُدم طلب باستخدام مفتاح سري غير صحيح</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>الآن</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>المفتاح</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>لا يمكن أن يكون اسم المستخدم فارغا</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>فشل في إنشاء 2FA</value>

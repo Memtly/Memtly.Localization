@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>มีการร้องขอโดยใช้กุญแจลับไม่ถูกต้อง</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>ตอนนี้</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>คีย์</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>ชื่อผู้ใช้ไม่สามารถว่างไว้ได้</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>ช่วงเวลา</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>ล้มเหลวในการตั้งค่า 2FA</value>

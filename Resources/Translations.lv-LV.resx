@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Pieprasījums tika veikts, izmantojot nederīgu slepeno atslēgu</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Tikai tagad</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Atslēga</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Lietotājvārds nevar būt tukšs</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Neizdevās iestatīt 2FA</value>

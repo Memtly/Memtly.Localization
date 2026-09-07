@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>S' ha fet una petició usant una clau secreta no vàlida</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Ara</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Clau</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>El nom d' usuari no pot estar buit</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Ha fallat en establir la 2FA</value>

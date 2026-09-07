@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>একটি অবৈধ গোপনীয় কি নির্ধারণ করা হয়েছে</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>এখন</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>কি</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>ব্যবহারকারীর নাম বৈধ নয়</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>আম</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>পরিচয় নির্ধারণ করতে ব্যর্থ</value>

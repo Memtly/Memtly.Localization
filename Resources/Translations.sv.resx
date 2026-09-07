@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>En begäran gjordes med en ogiltig hemlig nyckel</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Just nu</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Nyckeln</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Användarnamn kan inte vara tomt</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Misslyckades med att ställa in 2FA</value>

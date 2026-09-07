@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Μια αίτηση υποβλήθηκε με χρήση ενός μη έγκυρου μυστικού κλειδιού</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Μόλις τώρα</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Κλειδί</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Το όνομα χρήστη δεν μπορεί να είναι κενό</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Στιγμές Πριν</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Αποτυχία δημιουργίας 2FA</value>

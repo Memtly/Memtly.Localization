@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Rinneadh iarratas ag baint úsáide as eochair rúnda neamhbhailí</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Díreach Anois</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Uisce agus Séarachas</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Ní féidir ainm úsáideora folamh</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Amharc ar gach eolas</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Failed a chur ar bun 2FA</value>

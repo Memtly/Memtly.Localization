@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Bir istek geçersiz bir gizli anahtar kullanarak yapıldı</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Just Now</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Anahtar</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Kullanıcı adı boş olamaz</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA'yı kurmak için başarısız oldu</value>

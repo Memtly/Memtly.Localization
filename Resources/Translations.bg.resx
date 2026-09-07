@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Беше отправено искане с невалиден таен ключ</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Сега</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Ключ</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Потребителското име не може да бъде празно</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Моменти преди</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Грешка при създаване на 2FA</value>

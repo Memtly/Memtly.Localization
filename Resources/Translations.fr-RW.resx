@@ -1141,6 +1141,9 @@
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Une demande a été faite à l'aide d'une clé secrète invalide</value>
   </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Juste maintenant</value>
+  </data>
   <data name="Key" xml:space="preserve">
     <value>Clé</value>
   </data>
@@ -1251,6 +1254,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>L'utilisateur ne peut pas être vide</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Quelques instants</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Échec de la mise en place de 2FA</value>
