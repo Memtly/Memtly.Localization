@@ -443,7 +443,7 @@
     <value>Voulez-vous vraiment nettoyer cette galerie ?</value>
   </data>
   <data name="Click_To_Upload" xml:space="preserve">
-    <value>Cliquez ici pour sélectionner les fichiers à télécharger</value>
+    <value>Cliquez ici pour choisir les fichiers à envoyer</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Fermer</value>
@@ -683,7 +683,7 @@
     <value>Téléchargements</value>
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
-    <value>Glissez et déposez ici</value>
+    <value>Glissez-déposez vos fichiers ici</value>
   </data>
   <data name="Drop" xml:space="preserve">
     <value>Baisse</value>
@@ -896,7 +896,7 @@
     <value>Il n'y a actuellement aucun souvenir partagé</value>
   </data>
   <data name="Gallery_Empty_Drop" xml:space="preserve">
-    <value>Vous n'avez pas encore partagé de souvenirs, pourquoi ne pas télécharger quelques-uns ci-dessus!</value>
+    <value>Vous n'avez pas encore partagé de souvenirs, pourquoi ne pas en envoyer ?</value>
   </data>
   <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
     <value>Veuillez noter qu'il s'agit d'une galerie déroulante et que, en tant que telle, vous ne verrez que les images que vous avez téléchargées ou que vous avez obtenu l'accès pour voir</value>
@@ -905,10 +905,10 @@
     <value>Veuillez noter qu'il s'agit d'une galerie déroulante et qu'en tant qu'invité non inscrit, vous ne pourrez voir aucun téléchargement</value>
   </data>
   <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
-    <value>D'autres utilisateurs ont déjà partagé des souvenirs, pourquoi ne pas télécharger certains des vôtres aussi!</value>
+    <value>D'autres invités ont déjà partagé leurs souvenirs, pourquoi ne pas envoyer les vôtres ?</value>
   </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
-    <value>Il n'y a actuellement aucun souvenir partagé, pourquoi ne pas télécharger le vôtre ci-dessus!</value>
+    <value>Aucun souvenir n'a encore été partagé, pourquoi ne pas envoyer les vôtres ?</value>
   </data>
   <data name="Gallery_Full" xml:space="preserve">
     <value>Galerie est pleine et a dépassé la taille maximale de</value>
@@ -1040,7 +1040,7 @@
     <value>Identificateur</value>
   </data>
   <data name="Identity_Check" xml:space="preserve">
-    <value>Vérification de l'identité</value>
+    <value>Nom de l'invité</value>
   </data>
   <data name="Identity_Check_Change" xml:space="preserve">
     <value>Changer</value>
@@ -1052,7 +1052,7 @@
     <value>Adresse électronique</value>
   </data>
   <data name="Identity_Check_Email_Hint" xml:space="preserve">
-    <value>Dites-nous votre email pour qu'on puisse vous contacter.</value>
+    <value>Indiquez votre adresse e-mail pour que nous puissions vous contacter.</value>
   </data>
   <data name="Identity_Check_Email_Placeholder" xml:space="preserve">
     <value>Par exemple, john.doe@mail.com</value>
@@ -1067,7 +1067,7 @@
     <value>Nom</value>
   </data>
   <data name="Identity_Check_Name_Hint" xml:space="preserve">
-    <value>Dites-nous qui vous êtes afin de permettre aux autre de savoir qui à partagé vos magnifiques photos.</value>
+    <value>Dites-nous qui vous êtes, pour que chacun sache qui a partagé ces photos.</value>
   </data>
   <data name="Identity_Check_Name_Placeholder" xml:space="preserve">
     <value>Par exemple, Jane Doe, Jimmy, Oncle Bob</value>
@@ -1079,7 +1079,7 @@
     <value>Rester anonyme</value>
   </data>
   <data name="Identity_Check_Tell_Us" xml:space="preserve">
-    <value>Dites-nous</value>
+    <value>Valider</value>
   </data>
   <data name="Identity_Session_Error" xml:space="preserve">
     <value>Impossible de définir l'identité de l'utilisateur - Nom</value>
@@ -2480,7 +2480,7 @@
     <value>Impossible de trouver le téléchargement Autres</value>
   </data>
   <data name="Upload_Media" xml:space="preserve">
-    <value>Télécharger les médias</value>
+    <value>Envoyer vos photos et vidéos</value>
   </data>
   <data name="Upload_Method" xml:space="preserve">
     <value>Veuillez sélectionner une méthode de téléchargement</value>
