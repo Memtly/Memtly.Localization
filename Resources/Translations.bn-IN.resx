@@ -2203,6 +2203,12 @@
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>শেয়ার স্লাইড-শো অন্তর্ভুক্ত করুন</value>
   </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>স্লাইড-শো রূপে ভিডিও যোগ করা হবে</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>ভিডিও স্লাইড-শো অন্তর্ভুক্ত করুন</value>
+  </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>প্রেরকের নাম</value>
   </data>

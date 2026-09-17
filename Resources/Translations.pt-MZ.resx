@@ -2203,6 +2203,12 @@
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Incluir Compartilhar Slide</value>
   </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Devem ser incluídos vídeos na apresentação</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Incluir slides de vídeo</value>
+  </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>O nome do remetente amigável</value>
   </data>

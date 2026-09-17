@@ -2203,6 +2203,12 @@
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Partekatu diapositiba</value>
   </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Bideoak diapositiba-aurkezpenean sartu behar dira</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Sartu bideoaren diapositibak</value>
+  </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Erabiltzailearen bidaltzailearen izena</value>
   </data>

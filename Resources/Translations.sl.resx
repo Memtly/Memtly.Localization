@@ -2203,6 +2203,12 @@
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Vključi prosojnico souporabe</value>
   </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Ali naj bodo videoposnetki vključeni v diaprojekcijo</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Vključi video prosojnice</value>
+  </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Uporabniški prijazni pošiljatelj</value>
   </data>

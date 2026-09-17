@@ -2203,6 +2203,12 @@
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>شیئر سلفڈ شامل ہیں۔</value>
   </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>ویڈیووں کو پلیٹ فارم میں شامل کیا جانا چاہئے</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>جن میں ویڈیو سیلائڈ بھی شامل ہیں۔</value>
+  </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>صارف دوستانہ نام بھیجتا ہے</value>
   </data>

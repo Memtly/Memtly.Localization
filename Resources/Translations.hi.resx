@@ -2203,6 +2203,12 @@
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>साझा स्लाइड</value>
   </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>क्या वीडियो स्लाइड शो में शामिल होना चाहिए</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>वीडियो स्लाइड शामिल करें</value>
+  </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>उपयोगकर्ता के अनुकूल प्रेषक का नाम</value>
   </data>

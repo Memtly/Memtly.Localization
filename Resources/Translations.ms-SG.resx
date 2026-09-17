@@ -2203,6 +2203,9 @@
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Sertakan Slide Kongsi</value>
   </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Termasuk Slide Video</value>
+  </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Nama pengirim ramah pengguna</value>
   </data>

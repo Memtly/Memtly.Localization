@@ -2203,6 +2203,12 @@
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Συμπερίληψη share slide</value>
   </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Σε περίπτωση που τα βίντεο συμπεριληφθούν στην προβολή σλάιντ</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Συμπερίληψη σλάιντ βίντεο</value>
+  </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Το φιλικό προς το χρήστη όνομα αποστολέα</value>
   </data>
