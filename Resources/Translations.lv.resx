@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Atkārtojuma skaitītājs</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Ja meklēšanas josla ir redzama galerijas augšā</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Rādīt meklēšanas joslu</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Vai lietotājam vajadzētu būt iespējai filtrēt un grupēt datu nesēju?</value>
   </data>

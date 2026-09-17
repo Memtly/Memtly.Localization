@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Licznik przeglądów</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Jeśli pasek wyszukiwania zostanie wyświetlony na górze galerii</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Pokaż pasek wyszukiwania</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Czy użytkownik powinien być w stanie filtrować i grupować nośniki?</value>
   </data>

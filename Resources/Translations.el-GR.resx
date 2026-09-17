@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Μετρητής αναθεώρησης</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Σε περίπτωση που η γραμμή αναζήτησης εμφανιστεί στην κορυφή της γκαλερί</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Εμφάνιση γραμμής αναζήτησης</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Θα πρέπει ο χρήστης να μπορεί να φιλτράρει και να ομαδοποιήσει τα μέσα?</value>
   </data>

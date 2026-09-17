@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Počítadlo preskúmania</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Ak sa vyhľadávací panel zobrazí v hornej časti galérie</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Zobraziť panel hľadania</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Mal by byť užívateľ schopný filtrovať a zoskupiť médiá?</value>
   </data>

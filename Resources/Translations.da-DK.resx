@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Anmeldelsestæller</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Skal søgelinjen vises øverst i galleriet</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Vis søgelinje</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Skal brugeren kunne filtrere og gruppere medier?</value>
   </data>

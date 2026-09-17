@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Rishikim kundër</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Nëse shtylla e kërkimit duhet shfaqur në krye të koleksionit</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Shfaq shtyllën e kërkimit</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>A duhet të jetë përdoruesi në gjendje të filtrojë dhe grupojë media?</value>
   </data>

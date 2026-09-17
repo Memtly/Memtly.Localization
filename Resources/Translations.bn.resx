@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>পর্যালোচনা</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>সংকলনের মধ্যে অনুসন্ধানের বার প্রদর্শন করা হবে কি না</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>অনুসন্ধান বার দেখাও@ action: inmenu Tools</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>ব্যবহারকারী কি ফিল্টার ও দলগুলোকে মিডিয়া করতে ইচ্ছুক?</value>
   </data>

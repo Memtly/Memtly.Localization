@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Каршы текшерүү</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Издөө тилкеси галереянын үстүндө көрсөтүлүшү керекпи</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Издөө тилкесин көрсөтүңүз</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Колдонуучу маалымат каражаттарын чыпкалоо жана топтоо мүмкүнчүлүгүнө ээ болушу керекпи?</value>
   </data>

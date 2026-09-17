@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Revizio kontraŭ</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Se la serĉdrinkejo estu elmontrita ĉe la pinto de la galerio</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Vidu ankaŭ: Search Bar</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Ĉu la uzanto povas filtri kaj grupigi amaskomunikilojn?</value>
   </data>

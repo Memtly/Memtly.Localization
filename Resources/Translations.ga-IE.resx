@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Athbhreithniú Counter</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Ba chóir an barra cuardaigh a chur ar taispeáint ag barr an gailearaí</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Taispeáin Cuardach</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Ar chóir an t-úsáideoir a bheith in ann a scagadh agus na meáin ghrúpa?</value>
   </data>

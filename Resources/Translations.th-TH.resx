@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>ตัวโต้แย้งการทบทวน</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>ควรให้แสดงแถบการค้นหาที่ด้านบนสุดของแกลเลอรี่</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>แสดงแถบการค้นหา</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>จะให้ผู้ใช้สามารถกรองและจัดกลุ่มสื่อได้หรือไม่?</value>
   </data>

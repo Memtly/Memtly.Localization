@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Berrikusi kontagailua</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Bilaketa-barra galeriaren goialdean bistaratu behar den ala ez</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Erakutsi bilaketa-barra</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Erabiltzaileak gai izan behar du euskarria iragazteko eta taldekatzeko?</value>
   </data>

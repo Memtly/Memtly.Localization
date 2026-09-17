@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>تجدید کار</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>درخواست بار کو گیلری کے اوپر دکھائی دے</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>تلاش بار دکھائیں</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>صارف کو فیلڈر اور گروپ میڈیا کے قابل ہونا چاہیے؟?</value>
   </data>

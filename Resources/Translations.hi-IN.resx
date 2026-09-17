@@ -2008,6 +2008,12 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>समीक्षा काउंटर</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>क्या खोज बार गैलरी के शीर्ष पर प्रदर्शित किया जाना चाहिए</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>शो सर्च बार</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>क्या उपयोगकर्ता मीडिया को फ़िल्टर और समूहित करने में सक्षम होना चाहिए?</value>
   </data>
