@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>お問い合わせ</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>アクセス拒否</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>パスワード</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>背景タスクが正常に開始</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>再起動が必要です</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>リセット</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>検索条件</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>ブラウザが閉じた後であっても、ユーザーセッションが永続的である必要がありますか?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>パーシストのアイデンティティ</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>自動的にログアウトされる前に、ユーザーのセッションがどのくらい続きますか?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>セッションタイムアウト</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>スライドショー</value>

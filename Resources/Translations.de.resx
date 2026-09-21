@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Akzeptieren</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Zugang verweigert</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Konto</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Hintergrundaufgabe erfolgreich gestartet</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Erforderliche Restart</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Zurücksetzen</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Suchbegriff</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Sollten Benutzersitzungen auch nach dem Schließen des Browsers bestehen?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Persistische Identitäten</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Wie lange sollten Benutzersitzungen dauern, bevor sie automatisch ausgeloggt werden?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Sitzungsdauer</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Diashow</value>

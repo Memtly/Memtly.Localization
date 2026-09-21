@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>स्वीकार करना</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>एक्सेस डेनिडी</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>लेखा</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>पृष्ठभूमि कार्य सफलतापूर्वक शुरू हुआ</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>रिस्टार्ट की आवश्यकता</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>रीसेट करें</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>खोज अवधि</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>क्या उपयोगकर्ता ब्राउज़र बंद होने के बाद भी सत्र जारी रखता है?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>पर्सिस्ट पहचान</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>जब तक वे स्वचालित रूप से लॉग आउट हो जाते हैं तो उपयोगकर्ता सत्र कितने समय तक चल सकता है?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>सत्र टाइमआउट</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>स्लाइड शो</value>

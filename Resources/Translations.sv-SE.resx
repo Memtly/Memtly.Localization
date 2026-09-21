@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Acceptera</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Tillgång nekad</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Kontokonto</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Background uppgift började framgångsrikt</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Kräver omstart</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Återställ</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Sök Term</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Ska användarsessioner kvarstå även efter att webbläsaren har stängts?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Persist identiteter</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Hur länge ska användarsessionerna vara innan de automatiskt loggas ut?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Session Timeout</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slideshow</value>

@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>গ্রহণ করুন</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>প্রবেশাধিকার প্রত্যাখ্যাত</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>অ্যাকাউন্ট</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>সাফল্যের সাথে পটভূমির কাজ আরম্ভ করা হয়েছে</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>পুনরায় আরম্ভ করা আবশ্যক</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>পুনরায় নির্ধারণ</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>অনুসন্ধানের স্থান</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>ব্রাউজার বন্ধ করার পরেও কি ব্যবহারকারীর সেশন চালিয়ে যাওয়া উচিত?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>বিভেদ</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>স্বয়ংক্রিয়ভাবে লগ-আউট করার পূর্বে ব্যবহারকারীর সেশান কত সময় অবধি অপেক্ষা করা হবে?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>সেশানের সময়সীমা</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>স্লাইড-শো</value>

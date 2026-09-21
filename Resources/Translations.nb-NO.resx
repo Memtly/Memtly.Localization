@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Godta</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Adgang nektet</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Konto</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Bakgrunnsoppgave startet</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Krever omstart</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Nullstill</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Søkeord</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Bør brukerøktene fortsette selv etter at nettleseren har stengt?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Persistisk identitet</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Hvor lenge bør brukerøktene vare før de automatisk logges ut?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Tidsgrense for økt</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Lysbilde</value>

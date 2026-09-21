@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Tanggapin</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Itinakwil ang Access</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Ulat</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Matagumpay na sinimulan ang trabaho sa likuran</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Mga Pangangailangan sa Pagreresta</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Mulingset</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Paghahanap</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Dapat bang magpatuloy ang mga sesyon ng mga gumagamit kahit na natapos na ang browser?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Patuloy na Pag - iisip</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Gaano katagal dapat tumagal ang mga sesyon ng gumagamit bago kusang maitala ang mga ito?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Panahon ng Pag - aayos</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Paglalaho</value>

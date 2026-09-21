@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Sprejmi</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Dostop zavrnjen</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Račun</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Osnovna naloga se je uspešno začela</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Zahteva ponovni zagon</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Ponastavi</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Iskalni izraz</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Ali naj uporabniške seje trajajo tudi po zaprtju brskalnika?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Perzistne identitete</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Kako dolgo naj trajajo seje uporabnikov, preden se samodejno odpišejo?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Zakasnitev seje</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Pregled</value>

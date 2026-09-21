@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>پذیرش</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>دسترسی به انکار</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>حساب</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>کار پس زمینه با موفقیت آغاز شد</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>نیاز به Restart</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>تنظیم مجدد</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>جستجو</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>آیا جلسات کاربر باید حتی پس از بسته شدن مرورگر ادامه یابد؟?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>ویژگی های Identities</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>چه مدت باید جلسات کاربر قبل از اینکه به طور خودکار ثبت شوند، ادامه یابد؟?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>جلسه Timeout</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slideshow</value>

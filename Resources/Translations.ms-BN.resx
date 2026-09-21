@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Terima</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Akses Tak Ditolak</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Akun</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Tugas background dimulai dengan sukses</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Keperluan Restart</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>KAN</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Term pencarian</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Haruskah sesi pengguna Bounded bertahan bahkan setelah peramban ditutup?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Identitas yang Teguh</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Ogodon Berapa lama harus pengguna sesi terakhir sebelum mereka secara otomatis log keluar?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Kehabisan Sesi Ubuntu</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slideshow</value>

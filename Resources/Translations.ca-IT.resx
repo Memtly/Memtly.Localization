@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Accepta</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>S' ha denegat l' accés</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Compte</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>La tasca de fons s' ha iniciat correctament</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Cal reiniciar</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Inicialitza</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Terme de cerca</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Les sessions d' usuari haurien de persisteixar encara que el navegador hagi tancat?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Identitats Persist</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Quant de temps hauria de trigar les sessions d' usuari abans de sortir?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Expiració de la sessió</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Passi de diapositives</value>

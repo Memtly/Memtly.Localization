@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Hyväksy</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Pääsy evätty</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Tili</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Taustatehtävä käynnistyi onnistuneesti</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Vaaditaan uudelleenkäynnistystä</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Nollaa</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Hakusana</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Pitäisikö käyttäjän istuntoja jatkaa myös selaimen sulkemisen jälkeen?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Persistiset tunnisteet</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Kuinka kauan käyttäjäistuntojen pitäisi kestää ennen kuin ne kirjataan automaattisesti ulos?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Istunnon aikakatkaisu</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Diaesitys</value>

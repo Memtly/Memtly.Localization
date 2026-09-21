@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Akceptuj</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Brak dostępu</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Konto</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Tło zadanie rozpoczęło się pomyślnie</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Wymaga wznowienia</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Reset</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Termin wyszukiwania</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Czy sesje użytkowników powinny trwać nawet po zamknięciu przeglądarki?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Identyfikatory Persist</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Jak długo powinny trwać sesje użytkownika zanim zostaną automatycznie wylogowane?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Czas sesji</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Pokaz slajdów</value>

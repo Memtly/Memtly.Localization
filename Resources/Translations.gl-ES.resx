@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Aceptar</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Acceso negado</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Conta</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>A tarefa de fondo comezou con éxito</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Require reestructuración</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Reset</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Termo de busca</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>As sesións de usuario deben durar mesmo despois de que o navegador estea pechado?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Identidades persistentes</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Canto tempo deben durar as sesións de usuario antes de que se produzan automaticamente?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Sesión Timeout</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slideshow</value>

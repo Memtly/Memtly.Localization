@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Glacadh le</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Rochtain a Fháil</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Cuntas deimhnithe</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Cuireadh tús leis an tasc cúlra go rathúil</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Éilíonn Atosú</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Athshocraigh</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Cuardaigh Téarma</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Ar chóir seisiúin úsáideora fós fiú tar éis an bhrabhsálaí dúnta?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Aitheantas Persist</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Cé chomh fada ba chóir seisiúin úsáideora deireanach sula bhfuil siad logáilte amach go huathoibríoch?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Am na Seisiún</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Seirbhís do Chustaiméirí</value>

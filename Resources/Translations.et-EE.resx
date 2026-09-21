@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Nõustun</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Juurdepääs keelatud</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Konto</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Taustaülesanne käivitati edukalt</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Vajab taaskäivitamist</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Taasta lähtestamine</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Otsingutermin</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Kas kasutaja seansid peaksid kestma ka pärast brauseri sulgemist?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Püsivad identiteedid</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Kui kaua peaks kasutaja seansid kestma, enne kui need automaatselt välja logitakse?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Seansi aegumine</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slaidiseanss</value>

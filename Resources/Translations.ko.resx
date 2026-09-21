@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>이름 *</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>연락처</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>계좌정보</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>배경 작업 성공적으로 시작</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>자주 묻는 질문</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>지원하다</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>검색 기간</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>브라우저가 닫히는 후에도 사용자 세션이 지속되어야 합니까?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Persist 식별</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>사용자 세션이 자동 로그인되기 전에 지속되어야합니까?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>세션 타임아웃</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>슬라이드 쇼</value>

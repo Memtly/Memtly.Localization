@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Прийняти</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Доступ</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Облік</value>
   </data>
@@ -1567,6 +1570,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Попереднє завдання розпочато</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Вимагає перезавантаження</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Зареєструватися</value>
   </data>
@@ -2175,6 +2181,18 @@
   </data>
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Термін дії</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Чи закрило користувацькі сесії навіть після закінчення браузера?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Ідентифікатори</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Як довго повинні користуватись сеансами, які знаходяться в автоматичному режимі?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Сесія</value>
   </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Розсилка</value>
