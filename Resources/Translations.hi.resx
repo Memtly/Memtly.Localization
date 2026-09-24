@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>सफलतापूर्वक डेटा मिटाना</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>आपका लंबित अपलोड</value>
+  </data>
 </root>

@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Datuak ongi ezabatu dira</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Igotzeko eskailerak</value>
+  </data>
 </root>

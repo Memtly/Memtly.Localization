@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>成功擦除数据</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>您要上傳</value>
+  </data>
 </root>

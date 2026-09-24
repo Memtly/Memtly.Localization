@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Kejayaan data dihapus</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Upload Tertangguh Anda</value>
+  </data>
 </root>

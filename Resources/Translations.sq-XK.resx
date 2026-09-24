@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Të dhëna të fshirëa me sukses</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Ngarkimet tuaja në pritje</value>
+  </data>
 </root>

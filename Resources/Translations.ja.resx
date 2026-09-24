@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>データの完全消去</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>あなたのPendingアップロード</value>
+  </data>
 </root>

@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Uspešno izbrisani podatki</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Vaš nerešeni prenos</value>
+  </data>
 </root>

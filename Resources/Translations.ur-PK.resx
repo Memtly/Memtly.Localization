@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>کامیابی سے اعداد و شمار ختم کیے گئے ہیں۔</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>آپ کا پُراسرار بوجھ</value>
+  </data>
 </root>

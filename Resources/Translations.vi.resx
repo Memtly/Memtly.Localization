@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Đã xóa thành công dữ liệu</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Comment</value>
+  </data>
 </root>

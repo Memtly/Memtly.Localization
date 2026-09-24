@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Imagens removidas</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Seus envios pendentes</value>
+  </data>
 </root>

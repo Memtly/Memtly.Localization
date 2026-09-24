@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Успешно изтрити данни</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Очакваните Ви качвания</value>
+  </data>
 </root>

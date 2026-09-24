@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>البيانات الممسحة بنجاح</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>حمولاتك الوشيكة</value>
+  </data>
 </root>

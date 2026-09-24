@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Udane wymazanie danych</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Twoje oczekujące wysyłania</value>
+  </data>
 </root>

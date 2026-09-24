@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Επιτυχής διαγραφή δεδομένων</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Οι Εκκρεμείς Μεταφορτώσεις σας</value>
+  </data>
 </root>

@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>موفق به از بین بردن داده ها</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>دانلود آهنگ Your Pendings</value>
+  </data>
 </root>

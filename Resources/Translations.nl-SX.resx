@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Gegevens met succes gewist</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Uw in behandeling zijnde uploads</value>
+  </data>
 </root>

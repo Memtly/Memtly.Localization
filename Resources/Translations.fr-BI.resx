@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Accepter</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Accès refusé</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Compte</value>
   </data>
@@ -2712,5 +2715,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Données effacées avec succès</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Vos chargements en cours</value>
   </data>
 </root>

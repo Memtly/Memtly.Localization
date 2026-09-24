@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Datos borrados con éxito</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>As túas penas subidas</value>
+  </data>
 </root>

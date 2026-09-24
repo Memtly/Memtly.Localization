@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Úspěšně vymazána data</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Vaše probíhající nahrávání</value>
+  </data>
 </root>

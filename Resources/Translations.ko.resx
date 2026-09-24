@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>성공적으로 닦은 자료</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>당신의 팬딩 업로드</value>
+  </data>
 </root>

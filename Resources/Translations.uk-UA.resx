@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Прийняти</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Доступ</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Облік</value>
   </data>
@@ -2712,5 +2715,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Успішно протирати дані</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Ваше закінчення завантаження</value>
   </data>
 </root>

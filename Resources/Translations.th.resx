@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>ลบข้อมูลเรียบร้อยแล้ว</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>อัปโหลดไปยังอุปกรณ์ของคุณ</value>
+  </data>
 </root>

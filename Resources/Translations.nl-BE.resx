@@ -2182,6 +2182,9 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Zoekterm</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Moeten gebruikerssessies aanhouden zelfs nadat de browser is gesloten?</value>
+  </data>
   <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
     <value>Persistische identiteiten</value>
   </data>
@@ -2712,5 +2715,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Gegevens met succes gewist</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Uw in behandeling zijnde uploads</value>
   </data>
 </root>

@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>S' han esborrat correctament les dades</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Les pujades pendents</value>
+  </data>
 </root>

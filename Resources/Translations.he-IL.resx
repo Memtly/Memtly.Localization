@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>נתונים מוצלחים נמחקים</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>החתימות שלך</value>
+  </data>
 </root>

@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Dati cancellati con successo</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>I tuoi carichi di attesa</value>
+  </data>
 </root>

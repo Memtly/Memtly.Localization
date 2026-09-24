@@ -2716,4 +2716,7 @@
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Matagumpay na nabura ang datos</value>
   </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Ang Iyong Pagtaas</value>
+  </data>
 </root>
