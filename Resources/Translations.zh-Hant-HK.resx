@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>待决</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>有東西要取出!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>二. 未决项目</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>待审查</value>
   </data>
@@ -2715,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>成功擦除数据</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>您要上傳</value>
   </data>
 </root>

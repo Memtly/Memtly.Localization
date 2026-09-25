@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Oczekiwanie</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Masz rzeczy oczekujące na recenzję!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Sprawozdanie dotyczące pozycji oczekujących</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>W oczekiwaniu na przegląd</value>
   </data>

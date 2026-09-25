@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Čakanje</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Imate predmete čaka pregled!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Poročilo o tekočih postavkah</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>V pričakovanju pregleda</value>
   </data>
@@ -2715,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Uspešno izbrisani podatki</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Vaš nerešeni prenos</value>
   </data>
 </root>

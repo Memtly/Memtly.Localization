@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>ペンディング</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>アイテムはレビューを終わらせています!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>終了アイテムレポート</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>ペンディングレビュー</value>
   </data>

@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Pendente</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Você tem itens pendentes revisão!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Relatório de rubricas pendentes</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Revisão pendente</value>
   </data>

@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Закінчення</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>У вас є статті, що закінчуються оглядом!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Звіт про закінчення предметів</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Попередній огляд</value>
   </data>

@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>待决</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>你有东西要审查!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>待处理项目报告</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>待审议</value>
   </data>

@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Probíhá</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Máte věci na přezkoumání!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Zpráva o očekávaných položkách</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Probíhající přezkum</value>
   </data>

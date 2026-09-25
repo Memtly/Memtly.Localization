@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Në pritje</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Keni objekte në pritje të shqyrtimit!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Raporti i elementëve në pritje</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Rishikim në pritje</value>
   </data>

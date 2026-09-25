@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Paglalagay</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Mayroon kang mga bagay na naghihintay na repasuhin!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Report ng Paglalagay ng mga Bagay - Bagay</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Pagrerepaso sa Paglalagay ng Selyo</value>
   </data>

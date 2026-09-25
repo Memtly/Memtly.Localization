@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>In sospeso</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Hai articoli in attesa di recensione!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Rapporto articoli in sospeso</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Recensione di prestito</value>
   </data>

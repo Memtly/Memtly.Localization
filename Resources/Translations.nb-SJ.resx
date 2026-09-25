@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Venter</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Du har elementer som venter på gjennomgang!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Avventende elementrapport</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Venter gjennomgang</value>
   </data>

@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>관련 기사</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>자주 묻는 질문!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Pending 아이템 리포트</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Pending 검토</value>
   </data>

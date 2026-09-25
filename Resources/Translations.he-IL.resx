@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>עקבו</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>יש לכם פריטים שממתינים לסקירה!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>דוח פריטים</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>ביקורת</value>
   </data>

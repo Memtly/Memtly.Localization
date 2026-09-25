@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>În așteptare</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Ai elemente în curs de revizuire!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Raport de elemente în așteptare</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Revizuire în așteptare</value>
   </data>

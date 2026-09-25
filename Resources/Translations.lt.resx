@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Laukiama</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Jūs turite elementus, kurie dar neperžiūrėti!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>NAME OF TRANSLATORS</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Laukiama peržiūros</value>
   </data>

@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>অসমাপ্ত</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>উপাদান পর্যালোচনা করা হচ্ছে!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>পাঠ হওয়া বস্তু</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>পর্যালোচনা</value>
   </data>

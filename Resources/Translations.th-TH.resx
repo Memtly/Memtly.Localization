@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>จํานวนครั้งที่เล่น</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>คุณมีข้อมูล รอการทบทวน!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>รายงานรายการที่ทํางานอยู่</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>การ ทบทวน อย่าง ต่อ เนื่อง</value>
   </data>

@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>I väntan</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Du har objekt i väntan på recension!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>I väntan på objektrapport</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Pending Review</value>
   </data>

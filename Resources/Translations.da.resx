@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Afventer</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Du har ting, der venter!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Afsluttede poster Rapport</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Afventer revision</value>
   </data>

@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>लंबित</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>आपके पास आइटम लंबित समीक्षा है!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>लंबित आइटम रिपोर्ट</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>लंबित समीक्षा</value>
   </data>

@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Atendante</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Vi havas erojn atendantajn revizion!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Pendante Items Report</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Serĉante Revizion</value>
   </data>

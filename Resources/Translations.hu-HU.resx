@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Függőben</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Vannak dolgok, amiket még át kell nézned!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Függőben lévő tételek jelentése</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Felülvizsgálat előtt</value>
   </data>
@@ -2715,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Sikeresen törölt adatok</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>A függőben lévő feltöltések</value>
   </data>
 </root>

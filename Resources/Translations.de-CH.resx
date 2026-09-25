@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Ausstehend</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Sie haben Artikel ausstehende Überprüfung!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Bericht über die Zahlungsbilanz</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Ausstehende Prüfung</value>
   </data>

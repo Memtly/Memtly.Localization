@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>En attente</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Vous avez des articles en attente d'examen !</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Rapport sur les points en suspens</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Examen en cours</value>
   </data>

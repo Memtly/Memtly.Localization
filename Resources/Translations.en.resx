@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Pending</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>You have items pending review!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Pending Items Report</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Pending Review</value>
   </data>

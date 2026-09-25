@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Go dtí go</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Tá tú míreanna ar feitheamh athbhreithniú!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Tuairiscí Míreanna ar feitheamh</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Athbhreithniú ar feitheamh</value>
   </data>

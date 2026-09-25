@@ -1393,6 +1393,12 @@
   <data name="Pending" xml:space="preserve">
     <value>Күтүлбөгөн</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Силерде кайра карап чыгууга тийиш болгон нерселер бар!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Калган пункттар боюнча отчет</value>
+  </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Кайра карап чыгуу күтүлүп жатат</value>
   </data>
