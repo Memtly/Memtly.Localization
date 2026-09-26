@@ -137,7 +137,7 @@
     <value>Akzeptieren</value>
   </data>
   <data name="Access_Denied" xml:space="preserve">
-    <value>Zugang verweigert</value>
+    <value>Zugriff verweigert</value>
   </data>
   <data name="Account" xml:space="preserve">
     <value>Konto</value>
@@ -506,16 +506,16 @@
     <value>Sammlungen</value>
   </data>
   <data name="Comment" xml:space="preserve">
-    <value>Anmerkung</value>
+    <value>Kommentar</value>
   </data>
   <data name="Comment_Empty_Value" xml:space="preserve">
-    <value>Bitte geben Sie einen gültigen Kommentarwert ein</value>
+    <value>Bitte gib einen gültigen Kommentar ein</value>
   </data>
   <data name="Comment_Value_Too_Long" xml:space="preserve">
-    <value>Ihr Kommentar ist zu lang. Bitte machen Sie es kürzer</value>
+    <value>Dein Kommentar ist zu lang. Bitte kürze ihn</value>
   </data>
   <data name="Comments" xml:space="preserve">
-    <value>Bemerkungen</value>
+    <value>Kommentare</value>
   </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Gemeinsame Einstellungen</value>
@@ -1145,7 +1145,7 @@
     <value>Es wurde eine Anfrage mit einem ungültigen geheimen Schlüssel gestellt</value>
   </data>
   <data name="Just_Now" xml:space="preserve">
-    <value>Nur jetzt</value>
+    <value>Gerade eben</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Schlüssel</value>
@@ -1178,7 +1178,7 @@
     <value>Freigabe erfolgreich verlassen</value>
   </data>
   <data name="Letterbox" xml:space="preserve">
-    <value>Briefkasten</value>
+    <value>Letterbox</value>
   </data>
   <data name="Level" xml:space="preserve">
     <value>Stufe</value>
@@ -1187,7 +1187,7 @@
     <value>Hell</value>
   </data>
   <data name="Like" xml:space="preserve">
-    <value>Wie</value>
+    <value>Gefällt mir</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Das zulässige Maximum wurde erreicht</value>
@@ -1220,7 +1220,7 @@
     <value>Passwort</value>
   </data>
   <data name="Login_To_Comment" xml:space="preserve">
-    <value>Bitte erstellen Sie ein Konto oder Login zum Kommentar</value>
+    <value>Bitte erstelle ein Konto oder melde dich an, um zu kommentieren</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Bitte melde dich an, um diese Aktion abzuschließen</value>
@@ -1259,7 +1259,7 @@
     <value>Der Benutzername darf nicht leer sein</value>
   </data>
   <data name="Moments_Ago" xml:space="preserve">
-    <value>Momente</value>
+    <value>Vor wenigen Augenblicken</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Fehler beim Einrichten der 2FA</value>
@@ -1328,7 +1328,7 @@
     <value>Ntfy</value>
   </data>
   <data name="NumberBar" xml:space="preserve">
-    <value>Angemeldete Seiten</value>
+    <value>Nummerierte Seiten</value>
   </data>
   <data name="Open" xml:space="preserve">
     <value>Öffnen</value>
@@ -1394,10 +1394,10 @@
     <value>Ausstehend</value>
   </data>
   <data name="Pending_Items_Report_Heading" xml:space="preserve">
-    <value>Sie haben Artikel ausstehende Überprüfung!</value>
+    <value>Du hast Elemente, die auf Freigabe warten!</value>
   </data>
   <data name="Pending_Items_Report_Subject" xml:space="preserve">
-    <value>Bericht über die Zahlungsbilanz</value>
+    <value>Bericht über ausstehende Elemente</value>
   </data>
   <data name="Pending_Review" xml:space="preserve">
     <value>Ausstehende Prüfung</value>
@@ -1421,7 +1421,7 @@
     <value>Porträt</value>
   </data>
   <data name="Post_Comment" xml:space="preserve">
-    <value>Post-Kommando</value>
+    <value>Kommentar senden</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Präsentation</value>
@@ -1577,7 +1577,7 @@
     <value>Hintergrundaufgabe erfolgreich gestartet</value>
   </data>
   <data name="Requires_Restart" xml:space="preserve">
-    <value>Erforderliche Restart</value>
+    <value>Neustart erforderlich</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>Zurücksetzen</value>
@@ -1619,7 +1619,7 @@
     <value>Scanne den QR-Code mit deinem Smartphone, um deine Bilder zu teilen</value>
   </data>
   <data name="ScrollLoading" xml:space="preserve">
-    <value>Wie Sie scrollen</value>
+    <value>Beim Scrollen laden</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Nach einem Suchbegriff filtern</value>
@@ -1883,7 +1883,7 @@
     <value>Anzahl Spalten</value>
   </data>
   <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
-    <value>Sollten Benutzer in der Lage sein, auf Galerieartikel zu kommentieren?</value>
+    <value>Sollen Benutzer Galerie-Elemente kommentieren können?</value>
   </data>
   <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
     <value>Kommentare aktivieren</value>
@@ -1937,10 +1937,10 @@
     <value>Elemente pro Seite</value>
   </data>
   <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
-    <value>Sollten Nutzer Galerieartikel mögen können?</value>
+    <value>Sollen Benutzer Galerie-Elemente liken können?</value>
   </data>
   <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
-    <value>Ermögliche Likes</value>
+    <value>Likes aktivieren</value>
   </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Wie groß darf eine hochgeladene Datei in MB höchstens sein</value>
@@ -1958,7 +1958,7 @@
     <value>Wie laden Benutzer mehr Galerie-Elemente?</value>
   </data>
   <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
-    <value>Pagination Stil</value>
+    <value>Paginierungsstil</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Sollen doppelte Elemente automatisch abgelehnt werden</value>
@@ -2021,10 +2021,10 @@
     <value>Freigabezähler</value>
   </data>
   <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
-    <value>Sollte die Suchleiste oben auf der Galerie angezeigt werden</value>
+    <value>Soll die Suchleiste oben in der Galerie angezeigt werden</value>
   </data>
   <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
-    <value>Seite nicht gefunden</value>
+    <value>Suchleiste anzeigen</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Soll der Benutzer Medien filtern und gruppieren können?</value>
@@ -2189,13 +2189,13 @@
     <value>Suchbegriff</value>
   </data>
   <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
-    <value>Sollten Benutzersitzungen auch nach dem Schließen des Browsers bestehen?</value>
+    <value>Sollen Benutzersitzungen auch nach dem Schließen des Browsers erhalten bleiben?</value>
   </data>
   <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
-    <value>Persistische Identitäten</value>
+    <value>Identitäten beibehalten</value>
   </data>
   <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
-    <value>Wie lange sollten Benutzersitzungen dauern, bevor sie automatisch ausgeloggt werden?</value>
+    <value>Wie lange sollen Benutzersitzungen dauern, bevor Benutzer automatisch abgemeldet werden?</value>
   </data>
   <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
     <value>Sitzungsdauer</value>
@@ -2228,10 +2228,10 @@
     <value>Abschlussbild zum Teilen</value>
   </data>
   <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
-    <value>Sollten Videos in der Diashow enthalten sein</value>
+    <value>Sollen Videos in die Diashow aufgenommen werden</value>
   </data>
   <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
-    <value>Inklusive Video-Slides</value>
+    <value>Videos einbeziehen</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Der lesbare Name des Absenders</value>
@@ -2438,7 +2438,7 @@
     <value>Vorschaubilder</value>
   </data>
   <data name="Tile" xml:space="preserve">
-    <value>Fliesen</value>
+    <value>Kacheln</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Zeitstempel</value>
@@ -2723,6 +2723,6 @@
     <value>Daten erfolgreich gelöscht</value>
   </data>
   <data name="Your_Pending_Uploads" xml:space="preserve">
-    <value>Ihre Pending Uploads</value>
+    <value>Deine ausstehenden Uploads</value>
   </data>
 </root>
