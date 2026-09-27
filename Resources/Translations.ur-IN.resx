@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>قبول کرو</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>رسائی رسائی</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>اکاؤنٹ</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>غیر متصل</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>گلّہ‌بانی کا بوجھ</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>قابلیت</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>گیلری میں رد عمل</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>صارف شیئر چھوڑ دیا</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>کتنے لاگس دکھانے کے لئے</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>غیر متصل</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>بنیادی</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>نیلا</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>پرنٹ</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>جواب</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>براہِ‌مہربانی مناسب تبصرے میں داخل کریں</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>آپ کا تبصرہ بہت طویل ہے۔ براہ مہربانی اسے مختصر بنائیں</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>تبصرے</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>عام ترتیبات</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>تاریخ</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>تاریخ</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>تاریخ اپ لوڈ</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>ڈی بگ</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>کیا آپ واقعی حذف کرنا چاہتے ہیں؟?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>تبصرے حذف</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>کیا آپ واقعی اس گیلری کو حذف کرنا چاہتے ہیں؟?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>چلا وٴ</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>گرب</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>تنصیب کردہ فائل</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>ٹیسٹ بھیجنے میں ناکامی</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>ایک تصویر بنانے میں ناکام</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>ترتیبات دوبارہ شروع کرنے میں ناکامی</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>اس وقت کوئی یادگار مشترکہ نہیں ہے۔</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>تم نے ابھی تک کوئی یادوں میں شریک نہیں کیا ہے، تم اوپر کچھ بوجھ کیوں نہیں اٹھا!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>براہ مہربانی دیکھیں کہ یہ ایک گرا ہوا گیلری ہے اور اس طرح آپ کو صرف تصاویر نظر آئیں گی یا دیکھنے تک رسائی حاصل کی گئی ہے۔</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>براہ مہربانی یہ نوٹ کریں کہ یہ ایک گرلز گیلری ہے اور غیر رجسٹر شدہ مہمان کے طور پر آپ کو کوئی اپلوڈ نہیں دیکھ سکیں گے۔</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>دوسرے صارفین نے بھی پہلے ہی یادگاریں تقسیم کی ہیں، تم بھی اپنے اوپر کچھ بوجھ اٹھانے کیوں نہیں کرتے!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>اس وقت کوئی یادگار شیئر نہیں ہے، آپ اوپر اپ اپ اپ اپ کیوں نہیں ہے!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>براہ کرم آپ جانا چاہتے ہیں گیلری کے شناخت کنندہ داخل کریں۔.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>میری ہفتہ وار گیلری</value>
+    <value>78bff6486ca465aae9a65ca673e5fc0 -</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>خفیہ لفظ یا خفیہ کلید میں دوبارہ کوشش کریں۔</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>گیلری منتخب کنندہ</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>براہ مہربانی ملاقات کے لیے گیلری منتخب کریں۔.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>گیلری منتخب کنندہ</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>فلٹر کرنے کے لیے گیلری قسم</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>گیلری کو کیسے دیکھنا چاہئے</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>غیر متصل گیلری کامیاب</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>سبز</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>گرd</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>گروپ</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>گلی‌کوچوں میں</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>گلی‌کوچوں میں</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>غیر متصل نام</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>ایک نامناسب خفیہ کلید استعمال کرتے ہوئے درخواست کی گئی</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>ابھی</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>کلید</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>آؤٹ</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>چھوڑ دو</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>آپ واقعی جانا چاہتے ہیں؟?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>شیئر کرنے میں ناکامی</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>کامیابی سے حصہ لیا گیا</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>حرف باکس</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>درجات</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>روشنی</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>طرح</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>زیادہ تر اجازت دی گئی ہے۔</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>پاس ورڈ</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>براہ کرم تبصرے کرنے کے لیے کھاتہ یا لاگس تخلیق کريں</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>اس عمل کو مکمل کرنے کے لیے براہ مہربانی لاگ ان داخل کریں</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>خالی نہیں کیا جا سکتا</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>ترجیحات</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA مقرر کرنے میں ناکامی</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>نیت</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>متعدد صفحات</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>کھولیں</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>یا</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>اصل</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>خود سے پوچھیں :</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>پَک</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>آپ کے پاس تمام چیزیں موجود ہیں !</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>پُراسرار معلومات</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>پرنٹ</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>پُراسرار بوجھ</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>پرنٹ</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>پوسٹ جواب</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>جگہ</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>کام کامیابی سے شروع ہوا</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>درخواست درکار ہے</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>مصر</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>اپنے فون کے ساتھ کیو آر کوڈ کو اپنی تصاویر شیئر کرنے کے لئے</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>جب آپ کتاب پڑھتے ہیں لوڈ کریں</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>تلاش کی اصطلاح پر مبنی فائلز</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>اگر نیا آئٹمنگ چیک ہو تو خبردار کیا جانا چاہئے</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>پرنٹ</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>اگر صارف لاگس اور واقعات لاگ ان کئے جائیں</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>رنگون کاؤنٹی</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>کیا صارفین گیلری چیزوں پر تبصرہ کرنے کے قابل ہونگے ؟?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>تبصروں کو تقویت دیں</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>دیہی گیلری فیلڈ کیا ہے؟</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>صفحہ ۲۴</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>کیا صارفین کو گیلری چیزوں کو پسند کرنا چاہئے ؟?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>طرح فعال</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>MB اپلوڈ فائل میں سب سے بڑی چیز کیا ہو سکتی ہے۔</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>میکس گیلری حجم (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>صارفین مزید گیلری مصنوعات کیسے اٹھا سکتے ہیں؟?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>پُرتگالی طرزِزندگی</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>خود کار طور پر چیزوں کو رد کرنا چاہئے</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>تجدید کار</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>درخواست بار کو گیلری کے اوپر دکھائی دے</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>تلاش بار دکھائیں</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>صارف کو فیلڈر اور گروپ میڈیا کے قابل ہونا چاہیے؟?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>فائلز</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>کیا صارفین کو گلی‌کوچوں میں اُٹھائے گئے اُوپر اُٹھا کر دیکھ سکتے ہیں ؟?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>سرور اپ لوڈ کریں</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>گیلری کے اوپر والے حصے پر عنوان ظاہر کیا جانا چاہئے</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>طےشدہ</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>میڈیا پلے کریں ۔?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>تمل طرزِزندگی</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>مہمانوں کو اپ لوڈ کرنے کی اجازت ہے</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>تلاش</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>کیا صارف سیشن بند ہونے کے بعد بھی جاری رہنا چاہئے؟?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>مستقل متن</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>خودکار طور پر خارج ہونے سے پہلے صارف کی تقریبات کو کتنا دیر کرنا چاہئے؟?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>وقت ختم</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>مٹی کی نمائش</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>شیئر سلفڈ شامل ہیں۔</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>ویڈیووں کو پلیٹ فارم میں شامل کیا جانا چاہئے</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>جن میں ویڈیو سیلائڈ بھی شامل ہیں۔</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>صارف دوستانہ نام بھیجتا ہے</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>براہ کرم نمائش کا موضوع منتخب کريں</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>ٹوٹنا</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>تیل</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>صارف کا صارف</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>صارف interaction</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>پرنٹ</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>صارفین فہرست حاصل کرنے میں ناکامی</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>رسائی کے ساتھ صارفین</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>بچے</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>کامیابی سے اعداد و شمار ختم کیے گئے ہیں۔</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>آپ کا پُراسرار بوجھ</value>
   </data>
 </root>

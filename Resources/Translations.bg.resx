@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Приемане</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Отказан достъп</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Партида</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Одобрен</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Одобрена галерия</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Възходящо</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>отхвърлени в галерия</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Потребителски ляв дял</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Колко дневника да покажа</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Фон</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Основни</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Син</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Колекции</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Коментар</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Моля, въведете валидна стойност за коментар</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Коментарът ти е твърде дълъг. Моля те, направи го по-кратко</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Коментари</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Общи настройки</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Дата</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Дата на приемане</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Дата на качване</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Дебъг</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Сигурна ли си, че искаш да изтриеш?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Изтриване на коментар</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Сигурен ли си, че искаш да изтриеш галерията?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Влачене</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Капка</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Дублиране на засечен файл</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Грешка при изпращане на уведомление за изпитване</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Грешка при генериране на изображение на ноктите</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Грешка при обновяване на настройките</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>В момента няма споделени спомени</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Още не си споделила спомените си, защо не качиш малко по-горе!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Моля, обърнете внимание, че това е галерия за пускане и като такава ще видите само изображения, които сте качили или са получили достъп, за да видите</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Моля, имайте предвид, че това е галерия за пускане и като нерегистриран гост няма да можете да видите никакви качвания</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Други потребители вече споделят спомени, защо не качите някои от вашите по-горе също!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>В момента няма общи спомени, защо не качиш твоите горе!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Моля, въведете идентификатора на галерията, която искате да посетите.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>моята сватбена галерия</value>
+    <value>78bff6a486ca465aaae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Невалидно име на галерия или таен ключ, моля опитайте отново</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Избор на галерия</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Моля, изберете галерия за посещение.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Избор на галерия</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Вид галерия за филтриране чрез</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Как трябва да изглежда галерията</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Успешно несподелена галерия</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Зелен</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Мрежа</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Група</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Невалиден ключ за галерия</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Невалиден тип галерия</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Невалидно име</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Беше отправено искане с невалиден таен ключ</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Сега</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Ключ</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Подреждане</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Напусни</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Сигурна ли си, че искаш да си тръгнеш?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Грешка при напускане на дял</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Успешно ляв дял</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Буква</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Ниво</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Светлина</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Като</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Максимално допустимата граница е достигната</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Парола</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Моля, създайте акаунт или вход за коментар</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Моля, влезте, за да завършите това действие</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Потребителското име не може да бъде празно</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Моменти преди</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Грешка при създаване на 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Брой страници</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Отваряне</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Или</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Оригинал</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Собственост на теб</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>В очакване</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Предстои ви преглед!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Очакващ доклад за елементите</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Предстои преразглеждане</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Изчакване на качването</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Портрет</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Публикуване на коментар</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Представяне</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Основната задача започна успешно</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Изисква рестартиране</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Рестартиране</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Сканирайте QR кода с телефона си, за да споделите изображенията си</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Зареждайте, докато превъртате</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Филтър въз основа на термин за търсене</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Трябва да се изпращат сигнали, ако предстои преразглеждане на нова точка</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Предстои преразглеждане</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>В случай, че потребителските дневници и събития бъдат регистрирани</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Брой колони</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Трябва ли потребителите да могат да коментират галерията?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Включване на коментари</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Какъв е филтърът за галерия по подразбиране</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Обекти на страница</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Трябва ли потребителите да могат да харесват галерията?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Включване на харесвания</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Кое е най-голямото в MB качен файл може да бъде</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Максимален размер на галерията (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Как потребителите зареждат повече галерии?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Стил на въображението</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Ако дублираните елементи бъдат автоматично отхвърлени</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Брояч за преглед</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Ако лентата за търсене бъде показана в горната част на галерията</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Показване на лентата за търсене</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Трябва ли потребителят да може да филтрира и групира медия?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Показване на филтрите</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Трябва ли потребителите да могат да видят очакваните си качвания в галерии?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Изчакване на качването</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Ако заглавието бъде показано в горната част на галерията</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Показване на заглавието</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Как трябва да бъдат показани ноктите на медиите?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Стил на палеца</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Ако гостите имат право да качват предмети</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Термин за търсене</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Трябва ли потребителските сесии да продължават дори след като браузърът е затворил?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Персистиращи идентификатори</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Колко време трябва да продължи потребителските сесии, преди те да бъдат автоматично влезли?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Времетраене на сесията</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Слайдшоу</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Включване на Share Slide</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Ако клиповете бъдат включени в слайдшоуто</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Включване на видео слайдове</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Потребителско приятелско име на подателя</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Моля, изберете тема за показване</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Нокти</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Плочки</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Времеви печат</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Потребителско име на потребителя</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Взаимодействие с потребителя</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Потребител</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Грешка при получаване на списъка с потребители</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Потребители с достъп</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Валидиране</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Успешно изтрити данни</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Очакваните Ви качвания</value>
   </data>
 </root>

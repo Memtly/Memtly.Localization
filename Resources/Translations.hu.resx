@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Elfogadás</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>A hozzáférés megtagadva</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Számla</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Jóváhagyva</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Engedélyezett galéria feltöltések</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Felemelkedés</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>elutasítva a galériában</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>A felhasználó bal része</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Hány naplót kell megmutatni</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Háttér</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Alap</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Kék</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Gyűjtemények</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Megjegyzés</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Adja meg az érvényes megjegyzés értékét</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>A megjegyzésed túl hosszú. Kérem, legyen rövidebb</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Megjegyzések</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Általános beállítások</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Időpont</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Időpont</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Feltöltés dátuma</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Hibaelhárítás</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Biztos, hogy törölni akarod?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Megjegyzés törlése</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Biztos, hogy törölni akarod ezt a galériát?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Húzás</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Dobja el</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>A kijelölt fájl másolása</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Nem sikerült elküldeni a vizsgálati értesítést</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Nem sikerült létrehozni egy hüvelykujj képet</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Nem sikerült frissíteni a beállításokat</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Jelenleg nincs közös emlékünk</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Még nem osztottál meg emlékeket, miért nem töltöttél fel egy kicsit!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Felhívjuk figyelmét, hogy ez egy drop galéria, és mint ilyen, akkor csak látni képeket feltöltött, vagy kapott hozzáférést, hogy</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Felhívjuk figyelmét, hogy ez egy drop galéria és mint egy nem regisztrált vendég nem lesz képes látni semmilyen feltöltés</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Más felhasználók már megosztották egymással az emlékeiket, miért nem töltenek fel néhányat maguk közül is!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Jelenleg nincs közös emlékünk, miért nem töltöd fel a tiédet!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Kérjük, adja meg a látogatni kívánt galéria azonosítóját.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>az esküvőm galériája</value>
+    <value>78bff6a486ca465aae9a6a673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Érvénytelen galéria neve vagy titkos kulcs, kérjük próbálja újra</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galéria választó</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Kérjük, válasszon ki egy galériát.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Galéria választó</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galéria típus szűrés által</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Milyen legyen a galéria</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Sikeresen megosztott galéria</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Zöld</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Grid</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Csoport</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Érvénytelen galéria kulcs</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Érvénytelen galéria típusa</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Érvénytelen név</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>A kérés érvénytelen titkos kulccsal történt</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Csak most</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Kulcs</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Elrendezés</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Távozz</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Biztos, hogy el akarsz menni?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Részesedés elhagyása sikertelen</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Sikeresen balra</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Szint</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Fény</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Például</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>A megengedett maximális határértéket elérték</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Jelszó</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Kérjük, hozzon létre egy fiókot vagy bejelentkezik, hogy kommentálja</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Kérjük, jelentkezzen be a művelet befejezéséhez</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>A felhasználónév nem lehet üres</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Nem sikerült létrehozni a 2FA-t</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Számozott oldalak</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Megnyitás</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Vagy</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Eredeti</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Tulajdonosa vagy</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Függőben</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Vannak dolgok, amiket még át kell nézned!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Függőben lévő tételek jelentése</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Felülvizsgálat előtt</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Függőben lévő feltöltések</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portré</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Hozzászólás</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Bemutató</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>A háttérfeladat sikeresen megkezdődött</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Újraindítja</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Újra</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Keresse meg a QR kódot a telefonjával a képek megosztásához</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Tölts, ahogy forgatsz</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Keresés kifejezésen alapuló szűrő</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>A figyelmeztető jelzéseket abban az esetben kell elküldeni, ha egy új elem felülvizsgálat alatt áll</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Felülvizsgálat előtt</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>A felhasználói naplók és események naplózása</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Oszlopszám</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Lehetővé kell tenni a felhasználók számára, hogy kommentálják galéria elemek?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Hozzászólások engedélyezése</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Mi az alapértelmezett galéria szűrő</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Oldalanként</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Lehetővé kell tenni a felhasználók számára, hogy kedveljék a galéria tárgyakat?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Like engedélyezése</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Mi a legnagyobb MB egy feltöltött fájl lehet</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max. galéria mérete (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Hogyan tölthetnek be a felhasználók több galéria tárgyakat?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Paginációs stílus</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>A két tételt automatikusan el kell utasítani</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Felülvizsgálati számláló</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Ha a keresősáv megjelenik a galéria tetején</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Keresősáv megjelenítése</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Lehetővé kell tenni a felhasználó számára, hogy szűrje és csoportosítsa a médiát?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Szűrők megjelenítése</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>A felhasználók láthatják-e a folyamatban lévő feltöltéseket a galériákban?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>A függőben lévő feltöltések megjelenítése</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Ha a cím megjelenik a galéria tetején</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>A cím megjelenítése</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Hogyan kell megjeleníteni a média fotóalbumokat?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>A hüvelykujj stílus</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>A vendégek számára lehetővé kell tenni a tételek feltöltését</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Keresési kifejezés</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>A felhasználói üléseket a böngésző bezárása után is fenn kell tartani?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Persist Identities</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Mennyi ideig tart a felhasználói ülés, mielőtt automatikusan kijelentkezne?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Munkamenet</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Diavetítés</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Megosztás</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Ha a videókat a diavetítés tartalmazza</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Videódiagramok</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>A felhasználóbarát feladó neve</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Válasszon ki egy kijelzőtémát</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Képernyők</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Csík</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Időbélyegző</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>A felhasználó neve</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Felhasználói kölcsönhatások</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Felhasználónév</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>A felhasználói lista nem sikerült</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Hozzáféréssel rendelkező felhasználók</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Jóváhagyás</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Sikeresen törölt adatok</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>A függőben lévő feltöltések</value>
   </data>
 </root>

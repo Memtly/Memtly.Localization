@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Onartu</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Sarbidea ukatuta</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Kontua</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Onartua</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Onartutako galeriak</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Gorantz</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>ukatua galerian</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Erabiltzaileak utzitako zatia</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Zenbat egunkari erakusteko</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Atzeko planoa</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Oinarrizkoa</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Urdina</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Bildumak</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Iruzkina</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Sartu baliozko iruzkinaren balioa</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Zure iruzkina luzeegia da. Laburtu ezazu</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Iruzkinak</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Ezarpen komunak</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Data</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Argazkiaren data</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Igotako data</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Araztu</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Ziur zaude ezabatu nahi duzula?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Ezabatu iruzkina</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Ziur zaude galeria hau ezabatu nahi duzula?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Arrastatu</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Jaregin</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Bikoiztutako fitxategia detektatuta</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Huts egin du probako jakinarazpena bidaltzean</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Huts egin du koadro txiki bat sortzean</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Huts egin du ezarpenak eguneratzean</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Une honetan ez dago oroitzapen partekaturik</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Oraindik ez duzu oroitzapenik partekatu, zergatik ez dituzu batzuk igotzen!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Kontuan izan hau goitibeherako galeria dela eta igo dituzun edo ikusteko sarbidea eman dizuten irudiak bakarrik ikusiko dituzula</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Kontuan izan hau goitibeherako galeria dela eta erregistratu gabeko gonbidatu gisa ezin izango duzula igoerarik ikusi</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Beste erabiltzaile batzuek oroitzapen partekatuak dituzte, zergatik ez dituzu zureak ere igotzen!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Une honetan ez dago oroitzapen partekaturik, zergatik ez duzu zurea igotzen!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Sartu bisitatu nahi duzun galeriaren identifikatzailea.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>my-gallery-name</value>
+    <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Galeriaren izen baliogabea edo ezkutuko gakoa, saiatu berriro</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galeria-hautatzailea</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Aukeratu galeria bat bisitatzeko.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Galeria-hautatzailea</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galeria mota iragazteko</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Galeriak nola begiratu behar duen</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Arrakastarik gabeko galeria</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Berdea</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Sareta</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Taldea</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Galeria-gako baliogabea</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Galeria mota baliogabea</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Izen baliogabea</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Eskaera bat egin zen gako sekretu baliogabea erabiliz</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Orain</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Gakoa</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Diseinua</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Utzi</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Ziur zaude alde egin nahi duzula?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Huts egin du partekatzea uztean</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Ezkerreko zatia ongi atera da</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Maila</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Argia</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Like</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Baimendutako gehienezko muga gainditu da</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Pasahitza</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Sortu kontu bat edo saioa komentatzeko</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Hasi saioa ekintza hau bukatzeko</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Erabiltzaile-izena ezin da hutsik egon</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Momentuak</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Huts egin du 2FA konfiguratzean</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Orrialde kopurua</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Ireki</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Edo</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Jatorrizkoa</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Zeurea</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Gorantz</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Elementuak dituzu berrikusteko zain!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Elementuen txostena</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Pending Review</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Igotzeko zain</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Erretratua</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Postaren iruzkina</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Aurkezpena</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Atzeko planoa ongi hasi zen</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Berrabiarazi behar da</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Berrezarri</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Eskaneatu QR kodea telefonoarekin irudiak partekatzeko</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Kargatu korritu ahala</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Bilaketa-terminoetan oinarritutako iragazkia</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Alertak bidali behar dira elementu berri bat berrikusteko zain badago</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Pending Review</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Erabiltzailearen erregistroak eta gertaerak erregistratu behar dira</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Zutabe kopurua</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Erabiltzaileek galeria-elementuei buruzko iruzkinak egin ahal izango dituzte?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Gaitu iruzkinak</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Zer da galeria-iragazki lehenetsia</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Orrialdeko elementuak</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Galeriako elementuak atsegin al dituzte erabiltzaileek?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Gaitu gogokoak</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Zein da igotako fitxategirik handiena MBn</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max Gallery Tamaina (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Nola kargatzen dituzte erabiltzaileek galeria-elementu gehiago?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination Style</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Elementu bikoiztuak automatikoki baztertu behar dira</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Berrikusi kontagailua</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Bilaketa-barra galeriaren goialdean bistaratu behar den ala ez</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Erakutsi bilaketa-barra</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Erabiltzaileak gai izan behar du euskarria iragazteko eta taldekatzeko?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Erakutsi iragazkiak</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Erabiltzaileek galerietan ikusi ahal izango dituzte beren igoerak?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Erakutsi igotzeko eskailerak</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Titulua galeriaren goialdean bistaratuko balitz</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Erakutsi titulua</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Nola bistaratuko dira multimediaren koadro txikiak?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Koadro txikien estiloa</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Gonbidatuek elementuak igo ditzakete</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Bilaketa-aldia</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Erabiltzailearen saioak iraun behar du arakatzailea itxi ondoren ere?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Identitate persistenteak</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Zenbat denbora behar du erabiltzaileak saioa automatikoki amaitu aurretik?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Saioaren denbora-muga</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Diapositiba-aurkezpena</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Partekatu diapositiba</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Bideoak diapositiba-aurkezpenean sartu behar dira</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Sartu bideoaren diapositibak</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Erabiltzailearen bidaltzailearen izena</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Hautatu bistaratze-gai bat</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Koadro txikiak</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Tile</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Erabiltzailearen izena</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Erabiltzailearen interakzioak</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Erabiltzaile-izena</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Huts egin du erabiltzaileen zerrenda eskuratzean</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Sarbidea duten erabiltzaileak</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Balidatu</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Datuak ongi ezabatu dira</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Igotzeko eskailerak</value>
   </data>
 </root>

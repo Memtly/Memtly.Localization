@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Prano</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Nuk lejohet hyrja</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Profili</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>I miratuar</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Ngarkimet në galeri të miratuara</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Në ngjitje</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>në galeri</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Pjesë e majtë e përdoruesit</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Sa nga</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Sfondi</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Bazë</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Blu</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Koleksione</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Komenti</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Shkruaj a komenti</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Komenti yt është shumë i gjatë. Të lutem, bëje më të shkurtër</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Komenti</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Rregullimet e përbashkëta</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Data</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Data e marrjes</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Data e ngarkimit</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Ditari web</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Jeni i sigurt që dëshironi të eleminoni?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Elemino</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Jeni i sigurt që dëshironi të eleminoni këtë galeri?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Hidhe</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>U zbulua një file i dyfishuar</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Dërgimi i njoftimit të provës dështoi</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Krijimi i një figure të miniatura dështoi</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>I pamundur rifreskimi i rregullimeve</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Nuk ka aktualisht asnjë kujtesë të përbashkët</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Nuk ke treguar akoma kujtime, pse nuk ngarkon ca sipër!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Ju lutem vini re se kjo është një galeri hedhjeje dhe si e tillë do të shihni vetëm imazhet që keni ngarkuar ose ju është dhënë mundësia për të parë</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Ju lutem vini re se kjo është një galeri hedhje dhe si një mysafir i parregjistruar ju nuk do të jeni në gjendje të shihni ndonjë ngarkim</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Shfrytëzuesit e tjerë tashmë kanë ndarë kujtime, pse nuk ngarkoni disa nga tuajat mbi shumë!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Nuk ka aktualisht kujtime të ndara, pse nuk ngarkoni tuajat sipër!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Shkruaj i pari shtegu.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>mi-veshur-galleri im</value>
+    <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Emri i koleksionit të pavlefshëm apo kyçi sekret, ju lutem riprovo</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Zgjedhësi i Galerisë</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Ju lutem zgjidhni një galeri për të vizituar.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Zgjedhësi i Galerisë</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Lloji i koleksionit nga filtro</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Si duhet të duket galeria</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Grumbullim i suksesshëm i paharruar</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>I gjelbër</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Rrjeta</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Grupi</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Kyç galerie i pavlefshëm</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Lloj i pavlefshëm galerie</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Emër i pavlefshëm</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>U bë një kërkesë duke përdorur një kyç sekret të pavlefshëm</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Vetëm tani</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Kenia</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Planimetria</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Largohu</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Je i sigurt që do të ikësh?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>E pamundur ruajtja e të dhënave</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Pjesë e majtë me sukses</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letra</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Niveli</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Drita</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Si</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Kufiri maksimum i lejuar është arritur</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Fjalëkalimi</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Ju lutem shkruani një profil ose një hyrje për të komentuar</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Shkruaj akcion</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Përdoruesi nuk mund të jetë bosh</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Momentet Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Gabim gjatë krijimit të 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfi</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Faqe të numëruara</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Hap</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Ose</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Origjinale</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Të zotëron</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Në pritje</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Keni objekte në pritje të shqyrtimit!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Raporti i elementëve në pritje</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Rishikim në pritje</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Ngarkimet në pritje</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Vertikale</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Komenti</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Prezantim</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Detyra e sfondit filloi me sukses</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Kërkon rinisje</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>_Nga fillimi</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Kontrollo kodin QR me telefonin tënd për të ndarë imazhet e tua</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Ngarko</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtër në bazë të një termi kërkimi</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Nëse një element i ri është në pritje të shqyrtimit duhet dërguar alarme</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Rishikim në pritje</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Nëse përdoruesi dhe aktivitetet duhen kryer</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Numërimi i kollonës</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>A duhet të jenë në gjendje përdoruesit të komentojnë mbi elementët e koleksionit?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Aktivizo komentet</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Cili është filtri i prezgjedhur i koleksionit</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Elementë faqe</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>A duhet të jenë në gjendje përdoruesit të pëlqejnë elementët e koleksionit?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Aktivo:</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Ajo që është më e madhja në MB mund të jetë një file i ngarkuar</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Madhësia e Galerisë Max (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Si i ngarkojnë përdoruesit më shumë elementë galerie?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Stili i shlyerjes</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Ndrysho elementët</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Rishikim kundër</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Nëse shtylla e kërkimit duhet shfaqur në krye të koleksionit</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Shfaq shtyllën e kërkimit</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>A duhet të jetë përdoruesi në gjendje të filtrojë dhe grupojë media?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Shfaq filtrat</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>A duhet të jenë në gjendje përdoruesit të shohin ngarkimin e tyre në pritje në galeri?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Shfaq</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Nëse titulli është shfaqur në krye të koleksionit</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Shfaq Titulli</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Si duhet shfaqur miniaturat e medias?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Stili i Miniatrit</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>A duhen lejuar të ftuarit të ngarkojnë elementët</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Termi i kërkimit</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>A duhet të vazhdojnë sesionet e përdoruesit edhe pasi shfletuesi të jetë mbyllur?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Identifikime bindëse</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Për sa kohë duhet kaluar seancat e përdoruesit para se të jenë futur automatikisht?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Skadenca e seancës</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Diapozitivët</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Përfshi:</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>A duhet përfshirë videot në diapozitivë</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Përfshi video Slide</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Emri i dërguesit miqësor të përdoruesit</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Zgjidhni temën e ekranit</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Miniaturat</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Tile</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Unit-format</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Përdoruesi i përdoruesit</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Përdoruesi</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Përdoruesi</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Gabim gjatë marrjes së listës së përdoruesve</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Përdorues me hyrje</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Vlefshmëria</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Të dhëna të fshirëa me sukses</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Ngarkimet tuaja në pritje</value>
   </data>
 </root>

@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Accepta</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>S' ha denegat l' accés</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Compte</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Aprovada</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Pujades a la galeria aprovada</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Ascendent</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>s' ha rebutjat a la galeria</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Compartició de l' usuari</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Quants registres mostrar</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Fons</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Bàsic</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Blau</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Col· leccions</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Comentari</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Si us plau, introduïu un valor de comentari vàlid</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>El teu comentari és massa llarg. Si us plau, fes-ho més curt</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Comentaris</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Arranjament comú</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Data</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Data d' agafar</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Pujada de data</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Depuració</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Esteu segur que voleu esborrar?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Esborra el comentari</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Esteu segur que voleu esborrar aquesta galeria?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Arrossega</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Deixa anar</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>S' ha detectat un fitxer duplicat</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Ha fallat en enviar la notificació de prova</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Ha fallat en generar una imatge de miniatures</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Ha fallat en actualitzar l' arranjament</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Actualment no hi ha records compartits</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Encara no has compartit cap record, per què no puja una mica més amunt!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Si us plau, tingueu en compte que això és una galeria desplegable i com aquesta només veureu imatges pujades o que heu rebut accés per veure</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Si us plau, tingueu en compte que això és una galeria desplegable i com a convidat sense registrar no podreu veure cap pujada</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Altres usuaris ja han compartit records, per què no publiqueu alguns dels vostres sobre!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Ara mateix no hi ha records compartits, per què no puja les teves a dalt!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Si us plau, introduïu l' identificador de la galeria que voleu visitar.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>la meva passada d'un costat</value>
+    <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Nom de la galeria o clau secreta no vàlid, si us plau, torneu- ho a provar</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Selector de galeria</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Seleccioneu una galeria per visitar.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Selector de galeria</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Tipus de galeria a filtrar per</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Com hauria d'estar la galeria</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>La galeria no s' ha restaurat correctament</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Verd</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Graella</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Grup</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Clau de galeria no vàlida</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Tipus de galeria no vàlid</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nom no vàlid</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>S' ha fet una petició usant una clau secreta no vàlida</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Ara</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Clau</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Disposició</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Surt</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Esteu segur que voleu marxar?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Ha fallat en deixar la compartició</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>La compartició s' ha deixat correctament</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Caixa de lletres</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Nivell</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Llum</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Com ara</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>S' ha arribat al límit màxim permès</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Contrasenya</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Si us plau, creeu un compte o una connexió a comentar</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Si us plau, registre per completar aquesta acció</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>El nom d' usuari no pot estar buit</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Ha fallat en establir la 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Pàgines numerades</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Obre</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>O</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Original</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Pel teu compte</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Pendent</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Teniu elements pendent!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Informe d' elements pendents</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Revisió pendentComment</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Pujades pendents</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Vertical</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Comentari de l' article</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Presentació</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>La tasca de fons s' ha iniciat correctament</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Cal reiniciar</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Inicialitza</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Escaneja el codi QR amb el telèfon per compartir les imatges</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Carrega quan et moguis</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtre basat en un terme de cerca</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>S' han d' enviar les ordres si un element nou està pendent de revisió</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Revisió pendentComment</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>S' ha d' accedir als registres i esdeveniments de l' usuari</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Comptador de columnes</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Els usuaris haurien de poder comentar els elements de la galeria?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Habilita els comentaris</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Quin és el filtre de galeria per omissió</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Elements per pàgina</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Els usuaris haurien de ser capaços d'agradar els elements de la galeria?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Habilita les li agraden</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Què és el més gran de MB un fitxer pujat pot ser</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Mida màx. de Gallery (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Com poden els usuaris carregar més elements de la galeria?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Estil de segmentació</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Els elements duplicats s' han de rebutjar automàticament</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Comptador de revisió</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>S' hauria de mostrar la barra de cerca a la part superior de la galeria</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Mostra la barra de cerca</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>L' usuari hauria de filtrar i agrupar els suports?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Mostra els filtres</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Els usuaris haurien de poder veure les seves pujades pendents en galeries?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Mostra les pujades pendents</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>S' hauria de mostrar el títol a la part superior de la galeria</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Mostra el títol</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Com es mostraran les miniatures dels suports?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Estil de miniatures</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Cal que els convidats pugin elements</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Terme de cerca</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Les sessions d' usuari haurien de persisteixar encara que el navegador hagi tancat?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Identitats Persist</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Quant de temps hauria de trigar les sessions d' usuari abans de sortir?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Expiració de la sessió</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Passi de diapositives</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Inclou la diapositiva de compartició</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>S' han d' incloure vídeos en el passi de diapositives</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Inclou diapositives de vídeo</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>El nom del remitent amigable per l' usuari</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Si us plau, seleccioneu un tema de visualització</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Miniatures</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Mosaic</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Marca horària</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>El nom d' usuari</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Interaccions d' usuari</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Nom d' usuari</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Ha fallat en obtenir la llista d' usuaris</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Usuaris amb accés</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Valida</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>S' han esborrat correctament les dades</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Les pujades pendents</value>
   </data>
 </root>

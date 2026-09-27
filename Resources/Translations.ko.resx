@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>이름 *</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>연락처</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>계좌정보</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>인증 및 인증</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>인증된 갤러리 업로드</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>회사 소개</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>본문 바로가기</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>사용자 왼쪽 공유</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>얼마나 많은 로그를 표시</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>기타</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>기본 정보</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>이름 *</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>회사 소개</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>자주 묻는 질문</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>당신의 의견은 너무 길다. 바로가기</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>일반 설정</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>(주)</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>날짜 테이크</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>사이트 맵</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>디버그</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>삭제하시겠습니까?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>자주 묻는 질문</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>이 갤러리를 삭제하시겠습니까?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>사이트맵</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>기타</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>중복 파일 감지</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>테스트 알림을 보낼 실패</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>썸네일 이미지를 생성하기 위해 실패</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>설정 업데이트 실패</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>현재 기억이 없습니다</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>당신은 아직 기억을 공유하지 않았다, 왜 당신이 위의 일부를 업로드하지 않습니다!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>해당 이용 후기에 달린 코멘트가 없습니다</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>해당 이용 후기에 달린 코멘트가 없습니다</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>다른 사용자는 이미 기억을 공유했습니다. 왜 너도 위의 일부를 업로드하지 않습니다!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>현재 기억이 공유되지 않습니다. 왜 너를 업로드하지 않습니까!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>방문하고 싶은 갤러리의 식별자를 입력하십시오.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>나의 결혼식-gallery</value>
+    <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>잘못된 갤러리 이름 또는 비밀 키, 다시 시도</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>갤러리 선택</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>갤러리를 방문해 주세요.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>갤러리 선택</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>갤러리 유형 필터 로</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>갤러리가 보는 방법</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>성공적인 공유 갤러리</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>(주)그린</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>제품정보</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>그룹</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>잘못된 갤러리 키</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>잘못된 갤러리 유형</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>잘못된 이름</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>잘못된 비밀 키를 사용하여 요청되었습니다</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>더 보기</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>이름 *</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>제품정보</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>당신은 떠나고 싶은가?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>공유하기</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>성공적으로 왼쪽 공유</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>페이스북</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>1 단계</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>제품 정보</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>이름 *</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>최대 허용한 제한이 도달되었습니다</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>비밀번호</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>자주 묻는 질문</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>이 작업을 완료하려면 로그인</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>사용자명은 비어있을 수 없습니다</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>모멘스 Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA 설정 실패</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>뚱 베어</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>번호</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>기타</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>또는</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>이름 *</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>당신에 의해 소유</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>관련 기사</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>자주 묻는 질문!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Pending 아이템 리포트</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Pending 검토</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Pending 업로드</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>포트레이트(Portrait)</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>게시물 댓글</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>주요연혁</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>배경 작업 성공적으로 시작</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>자주 묻는 질문</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>지원하다</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>QR 코드를 휴대폰으로 스캔하여 이미지를 공유</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>당신이 스크롤로로드</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>검색 용어를 기반으로 필터</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>새 항목이 종료 된 경우 경고를 보내야합니다</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Pending 검토</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>사용자 로그 및 이벤트가 기록되어야 합니다</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>열 조사</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>사용자는 갤러리 항목에 댓글을 달릴 수 있습니까?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>자주 묻는 질문</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>기본 갤러리 필터는 무엇인가요</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>페이지 당 항목</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>사용자는 갤러리 아이템을 좋아할 수 있습니까?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>자주 묻는 질문</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>MB에서 가장 큰 파일은 업로드 할 수 있습니다</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>최대 갤러리 크기 (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>사용자는 더 많은 갤러리 항목을로드합니까?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination 작풍</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>자주 묻는 질문</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>회사소개</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>갤러리의 상단에 검색 표시해야</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>쇼 검색 바</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>사용자는 필터 및 그룹 미디어를 할 수 있습니까?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>필터 보기</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>사용자는 갤러리에 자신의 권투 업로드를 볼 수 있습니까?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Pending 블로그</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>제목이 갤러리의 상단에 표시됩니다</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>공지사항</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>미디어 썸네일이 어떻게 표시되어야 합니까?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Thumbnail 스타일</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>자주 묻는 질문</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>검색 기간</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>브라우저가 닫히는 후에도 사용자 세션이 지속되어야 합니까?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Persist 식별</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>사용자 세션이 자동 로그인되기 전에 지속되어야합니까?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>세션 타임아웃</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>슬라이드 쇼</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>공유 슬라이드 포함</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Slideshow에 동영상이 포함되어 있어야 합니다</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>동영상 슬라이드 포함</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>사용자 친화적 인 sender 이름</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>본문 바로가기</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>뚱 베어</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>제품 정보</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>스크린 샷</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>사용자의 이름</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>사용자 상호 작용</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>사용자 이름</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>사용자 목록을 얻기 위해 실패</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>사용자 접근</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>(주)</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>성공적으로 닦은 자료</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>당신의 팬딩 업로드</value>
   </data>
 </root>

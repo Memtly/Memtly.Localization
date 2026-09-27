@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>接受</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>被拒絕存取</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>帳號</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>核定数</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>已核准相簿上傳</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>上升</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>在画廊中被拒绝</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>左用戶共享</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>要显示的日志数</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>背景</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>基本</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>有藍</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>二. 收藏</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>註解</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>請輸入合法的註解值</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>你的評論太長了. 就快了取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取出取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取出取取取取取取取取取取取取取取取取取取取取取取出取取取取取取取取取取出取取取取出出取取取取取出取取</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>註解</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>常见設定值</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>日期</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>取用日期</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>上傳日期</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>除錯</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>您確定要刪除嗎 ?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>刪除註解</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>您确定要删除此画廊吗 ?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>拖动</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>下放</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>检测到复制文件</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>送出測試通知失敗</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>產生縮圖影像失敗</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>更新设置失败</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>目前没有共享的记忆</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>你還沒有分享回憶 就上傳上傳上傳去!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>需要注意的是,這是放放相簿 因此您只會看到您已上傳或被授權去取看的相片</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>需要注意,這是一間倒行畫廊,而作為未登記的客人,您將無法看到任何上傳</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>有其他使用者已分享回憶!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>目前没有共享的记忆,为什么不上传上你的!!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>请输入您想要访问的画廊的标识 .</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>我的婚礼彩礼</value>
+    <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>无效的画廊名称或密钥, 请再次尝试</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>相簿選擇器</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>請選擇要參觀的相簿 .</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>图片库选择器</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>要过滤的相簿型態由</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>畫廊該怎么看</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>已成功分取相簿</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>綠</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>网格</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>组</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>无效的画廊密钥</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>不合法的相簿型態</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>不合法的名稱</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>请求使用无效的密钥</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>就現在</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>键</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>布局</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>走</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>你真的想走?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>離開共享失敗</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>已成功分出相簿</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>信箱</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>等級</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>有光</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>如:</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>已達到最大限限值</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>密码</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>請建立帳號或登入以註解</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>请登录完成此动作</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>使用者名稱不能是空的</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Ago 時刻</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>设置 2FA 失败</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>有出息了</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>有编号的頁面</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>開啟</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>或者说</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>原始</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>有你</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>待决</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>有東西要取出!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>二. 未决项目</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>待审查</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>待上传</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>外观</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>后注解</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>列报</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>背景工作已成功開始</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>需要重新啟動</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>重设</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>用手机扫描 QR 代码以共享图像</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>在您滚动時載入</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>根据搜尋名詞做過过滤</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>如果有新项目有待审查,应发出警告</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>待审议</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>使用者日志和事件是否被登入</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>列数</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>使用者能對相簿項目作評論嗎?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>開啟註解</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>默认画廊过滤器是什么</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>每页的项目</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>使用者能喜歡相簿項目嗎?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>開啟相關</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>上传文件在 MB 中最大的是什么呢 </value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>最大画廊大小 (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>使用者如何載入更多相簿項目?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>二. 接地樣式</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>重复的项目应自动拒绝</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>审查台</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>如果搜尋列被顯示到畫廊的頂端</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>顯示搜尋列</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>用户是否应该能够过滤和组介质?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>显示过滤器</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>在相簿上可以看到自己要上傳的東西嗎?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>顯示要上傳的內容</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>如果标题显示在画廊的顶端</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>显示标题</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>如何顯示媒體縮圖?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>縮圖樣式</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>是否允许客人上传项目</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>搜尋期限</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>在瀏覽器被關閉后, 有使用者會話要繼續嗎 ?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>二. 持久性特征</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>在自動登入前, 有多久使用者會議?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>會議逾時</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>幻灯片放映</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>包含共享幻灯片</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>相片是否要被收錄到相片中</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>包含相片</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>用户友好发送者名称</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>請選擇顯示主題</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>縮圖</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>平板</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>时间戳</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>使用者名</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>使用者交互</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>用户名</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>获取用户列表失败</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>有存取的使用者</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>校验</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>成功擦除数据</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>您要上傳</value>
   </data>
 </root>

@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Terima</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Akses Ditolak</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Akun</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Disetujui</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Upload Galeri yang Disetujui</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Naik</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>ditolak dalam galeri</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Pengguna kiri berbagi</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Berapa banyak log yang ditampilkan</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Latar Belakang</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Dasar</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Biru</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Koleksi</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Komentar</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Silakan masukkan suatu nilai komentar yang valid</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Komentar Anda terlalu panjang. Tolong buat lebih pendek</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Komentar</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Pengaturan Umum</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Tanggal</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Tanggal Diambil</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Tanggal Diunggah</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Awakutu</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Anda yakin ingin menghapus?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Hapus Komentar</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Anda yakin ingin menghapus galeri ini?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Seret</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Jatuhkan</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Berkas duplikat terdeteksi</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Gagal mengirim notifikasi tes</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Gagal membuat gambar miniatur</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Gagal memutakhirkan pengaturan</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Saat ini tidak ada kenangan bersama</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Anda belum berbagi kenangan, kenapa tidak Anda upload beberapa di atas!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Harap dicatat bahwa ini adalah galeri drop dan dengan demikian Anda hanya akan melihat gambar Anda telah diunggah atau telah diberikan akses untuk melihat</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Harap dicatat bahwa ini adalah sebuah galeri drop dan sebagai tamu tidak terdaftar Anda tidak akan dapat melihat upload</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Pengguna lain telah berbagi kenangan, kenapa tidak Anda upload beberapa dari Anda di atas juga!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Saat ini tidak ada kenangan bersama, kenapa tidak Anda upload Anda di atas!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Silakan masukkan identifier galeri yang ingin Anda kunjungi.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>gallerku</value>
+    <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Nama galeri atau kunci rahasia tak valid, silakan coba lagi</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Pemilih Galeri</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Silakan pilih galeri untuk dikunjungi.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Pemilih Galeri</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Jenis galeri untuk menyaring oleh</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Bagaimana seharusnya galeri terlihat</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Galeri yang tidak dibagi sukses</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Hijau</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Grid</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Grup</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Kunci galeri tak valid</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Tipe galeri tak valid</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nama Tidak Valid</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Permintaan dibuat menggunakan kunci rahasia yang tak valid</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Sekarang</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Kunci</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Tata Letak</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Tinggalkan</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Kau yakin ingin pergi?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Gagal meninggalkan berbagi</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Berhasil meninggalkan share</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Kotak-surat</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Tingkat</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Cahaya</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Seperti</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Batas maksimum yang diijinkan telah dicapai</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Sandi</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Silakan buat akun atau log masuk ke komentar</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Silakan log masuk untuk menyelesaikan aksi ini</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Nama pengguna tidak dapat kosong</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Gagal mengatur 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Halaman Bernomor</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Buka</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Atau</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Asli</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Dimiliki Oleh Anda</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Menunggu</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Anda memiliki item yang menunggu ulasan!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Laporan Item Tertunda</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Review Tertunda</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Pengunggah Tertunda</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Potret</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Komentar Post</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Presentasi</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Tugas latar belakang dimulai dengan sukses</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Memerlukan Ulang</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Reset</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Pindai kode QR dengan ponsel Anda untuk berbagi gambar Anda</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Muat saat Anda menggulung</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filter didasarkan pada istilah pencarian</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Haruskah peringatan dikirim jika item baru sedang menunggu ulasan</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Review Tertunda</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Haruskah log pengguna dan peristiwa log masuk</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Cacah Kolom</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Haruskah pengguna dapat mengomentari butir galeri?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Aktifkan Komentar</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Apa penyaring galeri bawaan</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Objek Per Halaman</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Haruskah pengguna dapat menyukai item galeri?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Aktifkan Suka</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Apa yang terbesar dalam MB sebuah berkas yang diunggah dapat</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Ukuran Galeri Max (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Bagaimana pengguna memuat lebih banyak butir galeri?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Gaya Paginasi</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Haruskah menduplikasi butir secara otomatis ditolak</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Kontra Ulasan</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Haruskah batang pencarian ditampilkan di bagian atas galeri</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Tampilkan Batang Pencarian</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Haruskah pengguna dapat menyaring dan grup media?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Tampilkan Filter</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Haruskah pengguna dapat melihat upload tertunda mereka di galeri?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Tampilkan Pemutakhiran Mending</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Haruskah judul ditampilkan di bagian atas galeri</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Tampilkan Judul</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Bagaimana seharusnya gambar mini media ditampilkan?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Gaya Kuku</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Haruskah tamu diijinkan untuk mengunggah item</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Term Pencarian</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Haruskah sesi pengguna bertahan bahkan setelah peramban ditutup?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Identitas Persist</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Berapa lama sesi pengguna harus bertahan sebelum mereka secara otomatis keluar?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Tenggat Sesi</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slideshow</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Sertakan Slide Berbagi</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Haruskah video disertakan dalam slide</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Sertakan Slides Video</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Nama pengirim ramah pengguna</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Silakan pilih tema tampilan</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Miniatur</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Ubin</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Penanda waktu</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Nama pengguna dari pengguna</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Interaksi Pengguna</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Nama pengguna</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Gagal mendapat daftar pengguna</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Pengguna Dengan Akses</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Validasi</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Berhasil menghapus data</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Upload Tertunda Anda</value>
   </data>
 </root>

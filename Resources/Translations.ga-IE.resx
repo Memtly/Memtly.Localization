@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Glacadh le</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Rochtain a Fháil</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Cuntas deimhnithe</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Ceadaithe</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Uaslódáil Gailearaí Ceadaithe</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Ag seoladh</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>dhiúltaigh i gailearaí</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Scair chlé Úsáideora</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Cé mhéad logs a thaispeáint</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Clár na dToghthóirí</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Bunúsach</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Gorm éadrom</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Irl - Library Service</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Comment</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Cuir isteach luach tráchta bailí</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Tá do comment ró-fhada. Déan níos giorra</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Tuairimí Comments</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Naisc ábhartha eile</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Dáta Tuairimí Ré</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Dáta Tógtha</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Dáta Uploaded</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Déan Teagmháil Linn</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>An bhfuil tú cinnte gur mhaith leat a scriosadh?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Déan teagmháil anois</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>An bhfuil tú cinnte gur mhaith leat an gailearaí seo a scriosadh?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Déan teagmháil linn</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Buail isteach</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Comhad dúbailte braitheadh</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Failed a sheoladh fógra tástála</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Failed a ghiniúint íomhá thumbnail</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Failed chun socruithe cothrom le dáta</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Níl aon cuimhní roinnte faoi láthair</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Nach bhfuil tú roinnte aon cuimhní go fóill, cén fáth nach bhfuil tú a uaslódáil roinnt thuas!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Tabhair faoi deara, le do thoil, gur gailearaí titim é seo agus mar sin ní fheicfidh tú ach íomhánna a uaslódáil tú nó gur deonaíodh rochtain orthu chun a fheiceáil</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Tabhair faoi deara gur gailearaí titim é seo agus mar aoi neamhchláraithe ní bheidh tú in ann aon uaslódáil a fheiceáil</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Tá úsáideoirí eile cuimhní roinnte cheana féin, cén fáth nach bhfuil tú a uaslódáil roinnt de mise thuas freisin!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Níl aon cuimhní roinnte faoi láthair, cén fáth nach bhfuil tú a uaslódáil mise thuas!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Cuir aitheantóir an gailearaí ar mian leat cuairt a thabhairt air.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>mogallóireacht bainise-</value>
+    <value>foinse do bhfianaise faoi stiúir glan</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Ainm gailearaí luachmhar nó eochair rúnda, déan iarracht arís</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Clár na dToghthóirí</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Roghnaigh gailearaí chun cuairt a thabhairt.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Clár na dToghthóirí</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Cineál Gailearaí scagaire ag</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Conas ba chóir an cuma gailearaí</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Go rathúil gailearaí unshared</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Naisc ábhartha eile</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Riachtanais uisce: measartha</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Grúpa an Ghrúpa</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Eochair gailearaí luachmhar</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Cineál gailearaí marcaigh</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Ainm an chabhlaigh</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Rinneadh iarratas ag baint úsáide as eochair rúnda neamhbhailí</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Díreach Anois</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Uisce agus Séarachas</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Leagan Amach</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Plandaí faoi dhíon</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>An bhfuil tú cinnte gur mhaith leat a fhágáil?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Failed a fhágáil scair</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>D'fhág go rathúil sciar</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Déan teagmháil linn</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Leibhéal</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Solas na Gréine</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Cosúil le</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Tá an uasteorainn a cheadaítear bainte amach</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Post a fhógairt</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Cruthaigh cuntas nó logáil isteach chun trácht a dhéanamh</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Logáil isteach chun an gníomh seo a chomhlánú</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Ní féidir ainm úsáideora folamh</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Amharc ar gach eolas</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Failed a chur ar bun 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Déan Teagmháil Linn</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Naisc go dtí suíomhanna eile</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Oscailt Oscailte</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Nó</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Bunús agus Bunús</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>An bhfuil cuntas agat</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Go dtí go</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Tá tú míreanna ar feitheamh athbhreithniú!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Tuairiscí Míreanna ar feitheamh</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Athbhreithniú ar feitheamh</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Uaslódáil ar feitheamh</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Irl - Library Service</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Post a fhógairt</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Cur i láthair</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Cuireadh tús leis an tasc cúlra go rathúil</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Éilíonn Atosú</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Athshocraigh</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Scan an cód QR le do ghuthán a roinnt do íomhánna</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Luchtaigh mar scrollbharra tú</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Scagaire bunaithe ar théarma cuardaigh</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Ba chóir foláirimh a sheoladh má tá mír nua ar feitheamh athbhreithniú</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Athbhreithniú ar feitheamh</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Ar chóir logs úsáideora agus imeachtaí a logáil isteach</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Comhaireamh na Colún</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Ar chóir d'úsáideoirí a bheith in ann trácht ar míreanna gailearaí?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Tuairimí Cumasaigh</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Cad é an scagaire gailearaí réamhshocraithe</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Míreanna in aghaidh Leathanach</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Ar chóir d'úsáideoirí a bheith in ann cosúil le míreanna gailearaí?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Cumasaigh Cosúil</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Cad é an ceann is mó i MB is féidir comhad a uaslódáil a bheith</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Méid na Gailearaí Max (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Conas a dhéanann úsáideoirí míreanna gailearaí níos mó a luchtú?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Stíl Tosaithe</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Ar chóir dúbailt míreanna diúltaíodh go huathoibríoch</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Athbhreithniú Counter</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Ba chóir an barra cuardaigh a chur ar taispeáint ag barr an gailearaí</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Taispeáin Cuardach</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Ar chóir an t-úsáideoir a bheith in ann a scagadh agus na meáin ghrúpa?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Taispeáin Scagairí</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Ar chóir d'úsáideoirí a bheith in ann a gcuid uaslódáil ar feitheamh i dánlanna?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Taispeáin Uaslódáil ar feitheamh</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Ba chóir an teideal a chur ar taispeáint ag barr an gailearaí</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Féach ar an bpróifíl</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Cén chaoi ar cheart mionsamhlacha meán a thaispeáint?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Stíl Mharcála</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Má cheadaíonn aíonna míreanna a uaslódáil</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Cuardaigh Téarma</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Ar chóir seisiúin úsáideora fós fiú tar éis an bhrabhsálaí dúnta?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Aitheantas Persist</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Cé chomh fada ba chóir seisiúin úsáideora deireanach sula bhfuil siad logáilte amach go huathoibríoch?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Am na Seisiún</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Seirbhís do Chustaiméirí</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Lena n-áirítear Slide Share</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Ar chóir físeáin a chur san áireamh sa taispeántas sleamhnán</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Cuir Slides Video</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Ainm seoltóra cairdiúil don úsáideoir</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Roghnaigh téama taispeáint</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Riachtanais uisce: measartha</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Irl - Library Service</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Déan teagmháil linn</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Ainm úsáideora an úsáideora</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Idirghníomhaíochtaí Úsáideoir</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Ainm úsáideora</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Failed a fháil liosta úsáideoirí</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Úsáideoirí Le Rochtain</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Bailí</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Sonraí wiped rathúil</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Do Uploads feitheamh</value>
   </data>
 </root>

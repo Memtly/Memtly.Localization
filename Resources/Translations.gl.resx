@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Aceptar</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Acceso negado</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Conta</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Aprobado</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Aprobado Gallery Uploads</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Ascendente</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>rexeitado na galería</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Usuario left share</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Cantas series para mostrar</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Antecedentes</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Básico</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Azul</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Coleccións</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Comentario</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Introduza un valor de comentario válido</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>O teu comentario é demasiado longo. Facelo máis curto</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Comentarios</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Configuración común</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Data</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Data tomada</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Data subida</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Debug</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Estás seguro de que queres eliminar?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Eliminar comentario</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Estás seguro de que queres eliminar esta galería?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Ficheiro duplicado detectado</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Non enviar notificación de proba</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Non foi posible crear unha imaxe en miniatura</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Non se puido actualizar a configuración</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Actualmente non hai memoria compartida</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Aínda non compartes memorias, por que non subas máis arriba!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Ten en conta que esta é unha galería de pingas e como tal só verás as imaxes que subiches ou que che concederon acceso para ver</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Ten en conta que esta é unha galería de pingas e como invitado non rexistrado non poderá ver ningún subida</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Outros usuarios xa compartiron memorias, por que non subir algúns dos seus enriba tamén!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Actualmente non hai memoria compartida, por que non subir as súas!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Introduza o identificador da galería que desexa visitar.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>miña moeda-galería</value>
+    <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Nome da galería non válido ou clave secreta, por favor, ténteo de novo</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galería Selector</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Seleccione unha galería para visitar.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Galería Selector</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Tipo de galería para filtrar por</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Como ver a galería</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Galería non compartida</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Verde</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Grid</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Grupo</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Galerías Inválidas</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Tipo de galería inválida</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Nome inválido</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Unha solicitude foi feita usando unha clave secreta non válida</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Agora só</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Clave</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Esquema</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Deixar</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Estás seguro de que queres marchar?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Sen deixar compartir</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Compartir con éxito</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Nivel</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Luz</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Como</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>O límite máximo permitido</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Contrasinal</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Crear unha conta ou login para comentar</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Por favor, inicia sesión para completar esta acción</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>O usuario non pode estar baleiro</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Momentos Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>No se han encontrado resultados para 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Páxinas numeradas</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Aberto</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Ou</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Original</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Propietario de ti</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Pendente</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Hai artigos pendentes de revisión!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Informe de artigos pendentes</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Pendente revisión</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Pending Uploads</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Retrato</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Post comentario</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Presentación</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>A tarefa de fondo comezou con éxito</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Require reestructuración</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Reset</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Escanea o código QR co teu móbil para compartir as túas imaxes</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Cargar como se move</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtro baseado nun termo de busca</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Debe enviarse alertas se un novo elemento está pendente de revisión</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Pendente revisión</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Se os rexistros e eventos de usuario están rexistrados</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Columna Conde</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>¿Pueden los usuarios comentar en las galerías?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Permitir comentarios</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Cal é o filtro de galería por defecto</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Artigos por páxina</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>¿Poden os usuarios gustar das galerías?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Que lle guste</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Cal é o maior en MB que un ficheiro cargado pode ser</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Galería Max (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Como poden os usuarios cargar máis galerías?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination Style</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Os elementos duplicados son rexeitados automaticamente</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Revisión Counter</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Se a barra de busca aparece na parte superior da galería</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Mostrar barra de busca</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>É posible filtrar e filtrar os medios de comunicación?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Mostrar filtros</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Os usuarios poden ver as súas entradas en galerías?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Mostrar subidas pendentes</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Se o título aparece na parte superior da galería</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Mostrar título</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Como se deben mostrar as miniaturas dos medios?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Estilo Thumbnail</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Se os invitados poden subir elementos</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Termo de busca</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>As sesións de usuario deben durar mesmo despois de que o navegador estea pechado?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Identidades persistentes</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Canto tempo deben durar as sesións de usuario antes de que se produzan automaticamente?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Sesión Timeout</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slideshow</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Compartir Slide</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Os vídeos deben incluírse no slideshow</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Inclúe vídeo Slides</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Nome de usuario amigable</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Seleccione un tema de exhibición</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Tumbnails</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Tile</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Nome de usuario</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Interaccións de usuarios</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Nome de usuario</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Non chegou á lista de usuarios</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Usuarios con acceso</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Validación</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Datos borrados con éxito</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>As túas penas subidas</value>
   </data>
 </root>

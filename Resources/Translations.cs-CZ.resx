@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Přijmout</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Přístup zamítnut</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Účet</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Schváleno</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Schválené nahrávání galerie</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Stoupání</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>zamítnuto v galerii</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Uživatelský levý podíl</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Kolik záznamů ukázat</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Pozadí</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Základní</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Modrá</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Sbírky</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Komentář</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Zadejte prosím platnou hodnotu komentáře</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Váš komentář je příliš dlouhý. Prosím, zkráťte to</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Poznámky</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Společná nastavení</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Datum</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Datum</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Nahrané datum</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Ladění</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Určitě to chceš smazat?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Smazat komentář</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Jste si jistý, že chcete tuto galerii smazat?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Přetáhnout</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Zjištěn duplicitní soubor</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Nepodařilo se odeslat oznámení o zkoušce</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Nepodařilo se vytvořit obrázek miniatury</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Chyba při aktualizaci nastavení</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>V současné době nejsou sdíleny žádné vzpomínky</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Nesdílel jsi žádné vzpomínky, proč nenahráváš nějaké nahoře!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Vezměte prosím na vědomí, že se jedná o padací galerii a jako takové uvidíte pouze obrázky, které jste nahráli nebo měli přístup k vidění</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Vezměte prosím na vědomí, že se jedná o padací galerii a jako neregistrovaný host nebudete moci vidět žádné nahrávání</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Ostatní uživatelé již sdíleli vzpomínky, proč si nenahrát některé z vašich nahoře taky!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>V současné době nejsou žádné vzpomínky sdílené, proč si nenahrát svůj výše!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Zadejte prosím identifikátor galerie, kterou chcete navštívit.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>moje svatební galerie</value>
+    <value>78bff6a486ca465aaaae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Neplatné jméno galerie nebo tajný klíč, zkuste to prosím znovu</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Výběr galerie</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Prosím vyberte galerii k návštěvě.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Výběr galerie</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Typ galerie pro filtrování</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Jak by měla galerie vypadat</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Úspěšně nesdílená galerie</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Zelená</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Mřížka</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Skupina</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Neplatný klíč galerie</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Neplatný typ galerie</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Neplatné jméno</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Žádost byla podána pomocí neplatného tajného klíče</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Právě teď</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Klíč</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Rozvržení</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Odejdi</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Určitě chceš odejít?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Chyba při opuštění sdílení</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Úspěšně levý podíl</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Úroveň</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Světlo</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Jako</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Bylo dosaženo maximálního povoleného limitu</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Heslo</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Prosím, vytvořte účet nebo přihlaste se pro komentář</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Prosím přihlaste se pro dokončení této akce</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Uživatelské jméno nemůže být prázdné</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Před chvílí</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Selhalo nastavení 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Numbered Pages</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Otevřít</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Nebo</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Původní</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Vlastněna tebou</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Probíhá</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Máte věci na přezkoumání!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Zpráva o očekávaných položkách</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Probíhající přezkum</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Probíhá nahrávání</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portrét</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Comment</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Prezentace</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Úkol pozadí byl úspěšně zahájen</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Vyžaduje obnovu</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Obnovit</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Proskenujte QR kód svým telefonem pro sdílení obrázků</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Načíst při posunu</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtr založený na vyhledávacím termínu</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Měly by být zaslány záznamy, pokud je nová položka předmětem přezkumu</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Probíhající přezkum</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Mělo by být zaznamenáno hlášení uživatelů a události</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Počet sloupců</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Měli by být uživatelé schopni komentovat položky galerie?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Povolit komentáře</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Co je výchozí filtr galerie</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Položky na stranu</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Měli by být uživatelé schopni mít rádi položky galerie?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Povolit likes</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Co je největší v MB nahraný soubor může být</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Maximální velikost galerie (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Jak uživatelé načítají další položky galerie?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Styl zobrazení</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>V případě, že jsou duplicitní položky automaticky zamítnuty</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Přezkum</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Je-li vyhledávací lišta zobrazena v horní části galerie</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Zobrazit vyhledávací panel</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Měl by být uživatel schopen filtrovat a seskupovat média?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Zobrazit filtry</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Měli by uživatelé být schopni vidět jejich probíhající nahrávání v galeriích?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Zobrazit probíhající nahrávání</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Je-li název zobrazen v horní části galerie</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Zobrazit název</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Jak by se měly zobrazovat náhledy médií?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Styl náhledu</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Mělo by být hostům dovoleno nahrávat položky</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Vyhledávání</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Měla by uživatelská sezení pokračovat i po uzavření prohlížeče?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Informistické identity</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Jak dlouho by měla uživatelská sezení trvat, než se automaticky odhlásí?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Timeout zasedání</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slideshow</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Zahrnout Slide Share</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Pokud jsou videa součástí prezentace</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Zahrnout video posuvy</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Uživatelsky přívětivé jméno odesílatele</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Prosím vyberte téma zobrazení</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Náhledy</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Dlaždice</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Časový údaj</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Uživatelské jméno uživatele</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Uživatelské interakce</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Uživatelské jméno</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Nepodařilo se získat seznam uživatelů</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Uživatelé s přístupem</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Potvrdit</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Úspěšně vymazána data</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Vaše probíhající nahrávání</value>
   </data>
 </root>

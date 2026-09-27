@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Kabul</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Access Denied</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Hesap Hesabı</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Onaylanmış Onaylanmış Onaylanmış Onay Onay Onaylandı</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Onaylanmış Galeri Yükleri</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Ascending</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>galeride reddedildi</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>User left share</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Göstermek için kaç giriş</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Arka plan arka plan arka plan</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Temel</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Blue</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Koleksiyonlar</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Yorum bırakın</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Lütfen geçerli bir yorum değerine girin</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Yorumunuz çok uzun. Lütfen daha kısa sürede yapın</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Yorumlar</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Common Settings</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Tarih Tarihi</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Date Taken</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Tarih</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Debug</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Silmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Delete Comment</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Bu galeriyi silmek istediğinizden emin misiniz?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Bırak</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Duplicate file detected</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Test bildirimini göndermek için başarısız oldu</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Yavaş bir görüntü oluşturmak için başarısız oldu</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Güncelleştirme ayarları başarısız oldu</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Şu anda paylaşılan anılar yok</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Henüz herhangi bir anı paylaşmadınız, neden yukarıda bazı yüklersiniz!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Lütfen unutmayın ki bu bir damla galeridir ve bunun gibi sadece yüklediğiniz görüntüleri göreceksiniz ya da görmek için verilen erişimi göreceksiniz</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Lütfen bunun bir damla galerisi olduğunu ve kayıtlı olmayan bir misafir olarak herhangi bir yüklemeyi göremeyeceğinizi unutmayın</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Diğer kullanıcılar zaten anıları paylaştılar, neden yukarıdakilerin bazılarını yüklemiyorsunuz!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Şu anda paylaşılan bir hatıra yok, neden yukarıdakileri yüklemiyorsunuz!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Lütfen ziyaret etmek istediğiniz galerinin tanımlayıcısına girin.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>my-gallery-name</value>
+    <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Invalid galeri adı veya gizli anahtar, lütfen tekrar deneyin</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Gallery Selector</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Lütfen ziyaret etmek için bir galeri seçin.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Gallery Selector</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Gallery type to filter Tarafından</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Galeri nasıl görünmelidir</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Başarılı bir şekilde paylaşılan galeri</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Yeşil</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Grid</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Grup Grup Grup Grubu</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid galeri anahtarı</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Invalid galeri türü</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Invalid Name</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Bir istek geçersiz bir gizli anahtar kullanarak yapıldı</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Just Now</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Anahtar</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Layoutout</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Leave</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Ayrılmak istediğinizden emin misiniz?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Paylaşmak için başarısız oldu</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Başarılı bir şekilde ayrıldı</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Seviye</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Işık Işığı</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Like</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>En fazla izin verilen sınır ulaştı</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Şifre</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Lütfen bir hesap oluşturmak veya yorum yapmak için giriş</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Lütfen bu eylemi tamamlamak için oturum açma</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Kullanıcı adı boş olamaz</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA'yı kurmak için başarısız oldu</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Sayılan Sayfalar</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Open</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Ya da</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Orijinal</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Yemin ederim</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Pending</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>İnceleme bekleyen eşyalarınız var!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Maddeler Raporu</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Pending Review</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Pending Uploads</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portre</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Post Comment</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Sunum</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Plan görevi başarıyla başladı</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Gereksinimler Restart</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Reset</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Görüntülerinizi paylaşmak için telefonunuzun QR kodunu görüntülemek</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Sizin gibi yük</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Bir arama terimine dayanan filtre</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Uyarılar yeni bir öğenin devam etmesi durumunda gönderilmelidir</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Pending Review</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Kullanıcı girişleri ve olayları girişli</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Köşe</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Kullanıcılar galeri öğeleri hakkında yorum yapabilmeli mi?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Enable Yorumlar</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Varsayılan galeri filtresi nedir</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Sayfalar</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Kullanıcılar galeri eşyalarını sevebilmeli mi?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Enable Likes</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>MB'nin yüklü bir dosyadaki en büyüğü ne olabilir</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max Gallery Boyut (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Kullanıcılar daha galeri öğelerini nasıl yükler?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination Style</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Tekrarlanan öğeler otomatik olarak reddedilmelidir</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>İnceleme Counter Counter</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Arama barı galerinin tepesinde gösterilmelidir</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Show Search Bar</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Kullanıcı filtre ve grup medyayı filtreleyebilmeli mi?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Gösteri filtreleri</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Kullanıcılar, galerilerdeki bekleme yüklerini görebilir mi?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Show Pending Uploads</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Başlık galerinin üst kısmında gösterilmelidir</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Show Title</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Medya parmakları nasıl gösterilmelidir?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Torinail Style</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Konuklar eşyaları yüklemeye izin verilmelidir</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Arama Termi</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Kullanıcı seansları tarayıcı kapatıldıktan sonra bile devam etmeli mi?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Persist Identities</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Otomatik olarak giriş yapmadan önce kullanıcı seansları ne kadar süre geçmelidir?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Oturum Timeout</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slideshow</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Share Slide</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Videoların slayt gösterisine dahil edilmesi gerekir</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Video Slides ekleyin</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Kullanıcı dostu sender adı</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Lütfen bir ekran tema seçin</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Katnails</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Kaplama Malzemeleri</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Times</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Kullanıcının adı</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Kullanıcı Etkileşimleri</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Username</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Kullanıcıların listesini almak için başarısız oldu</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Access ile Kullanıcılar</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Geçerlilik</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Başarılı bir şekilde silinmiş veriler</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Pending Uploads</value>
   </data>
 </root>

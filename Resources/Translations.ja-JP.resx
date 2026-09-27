@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>お問い合わせ</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>アクセス拒否</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>パスワード</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>承認済み</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>承認されたギャラリーのアップロード</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>フォロー</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>ギャラリーで拒否</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>ユーザーの左共有</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>複数のログを表示</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>プロフィール</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>基本情報</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>ブルージュ</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>コレクション</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>コメント</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>有効なコメント値を入力してください</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>あなたのコメントはあまりにも長いです。 お問い合わせ</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>コメント</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>共通設定</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>日程安排</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>日付 テイクン</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>日付 アップロード</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>デブグ</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>削除したいですか?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>コメントを削除</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>このギャラリーを削除したいですか?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>ドラッグ</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>ドロップ</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>検出された重複ファイル</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>テスト通知を送信する失敗</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>サムネイル画像を生成する失敗</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>更新設定が失敗</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>現在、共有された思い出はありません</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>上記のアップロードをしない理由で、思い出を共有していません!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>ドロップ・ギャラリーなど、アップロードした画像やアクセスを許可している画像のみが表示されますので、ご注意ください</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>これは、ドロップギャラリーであり、登録されていないゲストとして、任意のアップロードが見られないことに注意してください</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>他のユーザーはすでに共有された思い出を持っているので、上記のいくつかをアップロードしないでください!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>現在、共有された思い出はありません!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>ご希望のギャラリーの識別子を入力してください.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>ウェディングギャラリー</value>
+    <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>無効なギャラリー名または秘密鍵、もう一度お試しください</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>ギャラリーセレクター</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>詳しくはギャラリーをご覧ください.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>ギャラリーセレクター</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>ギャラリータイプでフィルタリング</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>ギャラリーの外観は</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>うまくいかないギャラリー</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>グリーン</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>グリッド</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>グループ</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>無効なギャラリーのキー</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>無効なギャラリータイプ</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>無効な名前</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>不正な秘密鍵を使ってリクエストをした</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>今すぐ登録</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>キーキー</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>レイアウト</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>おすすめ</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>残したいですか?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>シェアを残すことができない</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>うまく左シェア</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>レターボックス</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>レベル</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>ライトライト</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>お問い合わせ</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>上限に達した</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>パスワード</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>アカウントを作成するか、コメントにログインしてください</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>このアクションを完了するためにログインしてください</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>ユーザー名は空にすることはできません</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>モーメント・エイゴ</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FAをセットアップできなかった</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>ログイン</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>ナンバーページ</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>オープン</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>または</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>オリジナル</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>あなたによって所有される</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>ペンディング</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>アイテムはレビューを終わらせています!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>終了アイテムレポート</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>ペンディングレビュー</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Pending アップロード</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>ポートレート</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>投稿コメント</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>プレゼンテーション</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>背景タスクが正常に開始</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>再起動が必要です</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>リセット</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>お使いの携帯電話でQRコードをスキャンして画像をシェア</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>スクロールとして読み込む</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>検索用語に基づくフィルタ</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>新規アイテムが終了したレビューの場合にアラートを送信する必要があります</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>ペンディングレビュー</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>ユーザログやイベントが記録されるべき</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>列数</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>ユーザーがギャラリーのアイテムにコメントできる必要がありますか?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>コメントを有効にする</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>デフォルトのギャラリーフィルタとは</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>ページごとのアイテム</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>ユーザーがギャラリーアイテムを好きならいいですか?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>いいね を有効にする</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>アップロードされたファイルの中で最も大きいものは、</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>最高のギャラリーのサイズ(MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>ユーザーがより多くのギャラリーアイテムをロードする方法は?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>パジネーションスタイル</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>重複項目は自動的に拒否される</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>レビューカウンター</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>画廊の一番上に検索バーを表示すべき</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>検索バーを表示</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>ユーザーがフィルタリングやグループメディアをグループ化できるの?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>フィルターを表示</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>ユーザーは、ギャラリーでの保留中のアップロードを見ることができますか?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Pendingのアップロードを表示する</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>タイトルがギャラリーの一番上に表示されるべき</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>タイトルを表示</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>メディアサムネイルの表示方法は?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>サムネイルスタイル</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>お客様が商品をアップロードできる場合</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>検索条件</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>ブラウザが閉じた後であっても、ユーザーセッションが永続的である必要がありますか?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>パーシストのアイデンティティ</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>自動的にログアウトされる前に、ユーザーのセッションがどのくらい続きますか?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>セッションタイムアウト</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>スライドショー</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>共有スライドを含める</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>スライドショーにビデオを含める必要があります</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>ビデオ スライドを含んで下さい</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>ユーザーフレンドリーな送信者名</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>表示テーマを選択してください</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>サムネイル</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>タイル</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>タイムスタンプ</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>ユーザーのユーザー名</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>ユーザーインタラクション</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>ユーザ名</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>ユーザーリストを取得する失敗</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>アクセス ユーザー</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>検証</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>データの完全消去</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>あなたのPendingアップロード</value>
   </data>
 </root>

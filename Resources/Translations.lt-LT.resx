@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Priėmimas</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Prisijungimas atmestas</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Paskyra</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Patvirtintas</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>@ info: tooltip</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Didėjimo tvarka</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>atmestas galerijoje</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Vartotojo kairė dalis</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>@ info: status</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Kontekstas</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Pagrindinis</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Mėlyna</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Kolekcijos</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Komentaras</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Įveskite teisingą komentaro reikšmę</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Jūsų komentaras yra per ilgas. Prašau jį sutrumpinti</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Pastabos</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Bendrieji nustatymai</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Data</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>@ info: whatsthis</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>@ info: whatsthis</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Derinti</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Jūs tikrai norite ištrinti?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Trinti komentarą</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Jūs tikrai norite ištrinti šią galeriją?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Vilkimas</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Mesti</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Name</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Nepavyko išsiųsti pranešimo apie bandymą</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Nepavyko sukurti miniatiūrų atvaizdžio</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Nepavyko atnaujinti nustatymų</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Dabar nėra bendrų prisiminimų</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Tu dar nedalinai prisiminimų, kodėl tau neįkėlus šiek tiek aukščiau!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Atkreipkite dėmesį, kad tai lašų galerija, ir dėl to Jūs pamatysite tik vaizdus, kuriuos įkelsite arba kuriems buvo suteikta prieiga prie</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Atkreipkite dėmesį, kad tai yra lašai galerija ir kaip neregistruotas svečias Jums nebus galima pamatyti jokių įkelmus</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Kiti vartotojai jau dalijasi prisiminimus, kodėl jums neįkelti kai savo per daug!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Dabar nėra jokių prisiminimų, kodėl jums neįkelti savo aukščiau!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Prašome įvesti galerijos, kurioje norite apsilankyti, identifikatorius.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>my-wedding- galerija</value>
+    <value>78bff6a486ca4655a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Blogas galerijos pavadinimas arba slaptas raktas, bandykite dar kartą</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galerija</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Prašome pasirinkti galeriją aplankyti.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Galerija</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>@ info: whatsthis</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Kaipgalerija turėtų atrodyti</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Sėkmingai nedalinama galerija</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Žalia</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Tinklelis</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Grupė</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Blogas galerijos raktas</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Klaidingas galerijos tipas</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Blogas vardas</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Prašymas buvo pateiktas naudojant klaidingą slaptą raktą</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Tiesiog dabar</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Raktas</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Mouse Cursor Shape</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Atostogos</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Tikrai nori išeiti?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Nepavyko palikti akcijos</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Sėkmingai palikta akcija</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Lygis</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Šviesa</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value># It like #</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Didžiausia leidžiama riba yra pasiekta</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Slaptažodis</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>@ info: whatsthis</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Prašome prisijungti, kad užbaigtumėte šį veiksmą</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Vartotojo vardas negali būti tuščias</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Nepavyko sukurti 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Numeruoti puslapiai</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Open</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Arba</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Originalas</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Jums priklauso</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Laukiama</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Jūs turite elementus, kurie dar neperžiūrėti!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>NAME OF TRANSLATORS</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Laukiama peržiūros</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>NAME OF TRANSLATORS</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portretas</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Punktas</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Pristatymas</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Fono užduotis sėkmingai pradėta</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Noun, name of the user action</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Atsistatyti</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skaitykite QR kodą su savo telefonu, kad bendrintumėte savo paveikslėlius</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Įkelti kaip slinkties</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtras pagal paieškos terminą</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>(neprivaloma)</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Laukiama peržiūros</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Ar naudotojų žurnalai ir įvykiai turėtų būti registruojami</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Stulpelių skaičius</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Gal vartotojai galėtų komentuoti galerijos elementus?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Įjungti komentarus</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Kas yra numatytasis galerijos filtras</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>NAME OF TRANSLATORS</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Gal vartotojai galėtų mėgti galerijos elementus?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>@ action: button</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Kas yra didžiausias MB įkeltas failas gali būti</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Maks. galerijos dydis (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>NAME OF TRANSLATORS?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Gerinimo stilius</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Gal dubliuoti elementus automatiškai atmesti</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Peržiūros skaitiklis</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>@ info: whatsthis</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Rodyti paieškos juostą</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Gal vartotojas galėtų filtruoti ir grupuoti laikmenas?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Rodyti filtrus</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Gal vartotojai galėtų pamatyti jų laukiančius įkelmus galerijose?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>@ info: status</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>III PRIEDAS</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Rodyti pavadinimą</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>NAME OF TRANSLATORS?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Miniatiūrų stilius</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Gal reikėtų leisti svečiams įkelti elementus</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Paieškos terminas</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Gal naudotojų sesijos turėtų tęstis net ir po naršyklės uždarymo?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Savarankiški identifikatoriai</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Kada naudotojų sesijos turėtų trukti, kol jos automatiškai neužsiregistravę?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Sesijos laikas</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Comment</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>@ action: button</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Turėtų būti įtraukti vaizdo įrašai į skaidrių peržiūrą</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Įtraukti vaizdo skaidres</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Vartotojui patogus siuntėjo vardas</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Pasirinkite ekrano temą</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Miniatiūros</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Plytelės</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Laikas</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Vartotojo vardas</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Vartotojo sąveika</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Vartotojo vardas</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Nepavyko gauti naudotojų sąrašo</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Prisijungę naudotojai</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Validatas</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Sėkmingai ištrinti duomenys</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Jūsų laukia siuntimai</value>
   </data>
 </root>

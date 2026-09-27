@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Αποδοχή</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Άρνηση πρόσβασης</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Λογαριασμός</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Έγκριση</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Εγκεκριμένες αποστολές Gallery</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Αυξάνεται</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>που απορρίφθηκαν στα θεωρεία</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Μερίδιο αριστερά χρήστη</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Πόσα αρχεία καταγραφής να δείξει</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Ιστορικό</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Βασικό</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Μπλε</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Συλλογές</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Σχόλιο</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Παρακαλώ εισάγετε μια έγκυρη τιμή σχολίου</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Το σχόλιό σας είναι πολύ μεγάλο. Παρακαλώ κάντε το πιο σύντομο</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Σχόλια</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Κοινές ρυθμίσεις</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Ημερομηνία</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Ημερομηνία λήφθηκε</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Ημερομηνία αποστολής</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Αποσφαλμάτωση</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Σίγουρα θέλετε να διαγράψετε?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Διαγραφή σχολίου</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Σίγουρα θέλετε να διαγράψετε αυτή την γκαλερί?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Σύρσιμο</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Ανιχνεύθηκε διπλό αρχείο</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Αποτυχία αποστολής ειδοποίησης δοκιμής</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Αποτυχία δημιουργίας εικόνας επισκόπησης</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Αποτυχία ενημέρωσης ρυθμίσεων</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Προς το παρόν δεν υπάρχουν κοινές αναμνήσεις</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Δεν μοιράστηκες ακόμα αναμνήσεις, γιατί δεν ανεβάζεις λίγο παραπάνω!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Παρακαλείστε να σημειώσετε ότι αυτό είναι μια drop gallery και ως εκ τούτου θα δείτε μόνο εικόνες που έχετε ανεβάσει ή έχουν δοθεί πρόσβαση για να δείτε</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Παρακαλείστε να σημειώσετε ότι αυτό είναι ένα drop gallery και ως μη εγγεγραμμένος επισκέπτης δεν θα μπορείτε να δείτε κανένα uploads</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Άλλοι χρήστες έχουν ήδη μοιραστεί αναμνήσεις, γιατί δεν ανεβάζεις και μερικές δικές σου παραπάνω!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Προς το παρόν δεν υπάρχουν κοινές αναμνήσεις, γιατί δεν ανεβάζεις τις δικές σου πάνω!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Παρακαλώ εισάγετε το αναγνωριστικό της γκαλερί που θέλετε να επισκεφθείτε.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>η γάγγραινα μου</value>
+    <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Μη έγκυρο όνομα συλλογής ή μυστικό κλειδί, παρακαλώ προσπαθήστε ξανά</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Επιλογέας συλλογής</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Παρακαλώ επιλέξτε μια γκαλερί για να επισκεφθείτε.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Επιλογέας συλλογής</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Τύπος συλλογής για να φιλτράρετε</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Πώς να φαίνεται η γκαλερί</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Επιτυχής μη κοινόχρηστη γκαλερί</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Πράσινο</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Πλέγμα</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Ομάδα</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Μη έγκυρο κλειδί συλλογής</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Μη έγκυρος τύπος συλλογής</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Μη έγκυρο όνομα</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Μια αίτηση υποβλήθηκε με χρήση ενός μη έγκυρου μυστικού κλειδιού</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Μόλις τώρα</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Κλειδί</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Διάταξη</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Φύγε</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Είσαι σίγουρος ότι θέλεις να φύγεις?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Αποτυχία εξόδου από την μετοχή</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Επιτυχής αριστερή μετοχή</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Γραμματοκιβώτιο</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Επίπεδο</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Φως</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Όπως..</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Το ανώτατο επιτρεπόμενο όριο έχει επιτευχθεί</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Κωδικός πρόσβασης</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Παρακαλώ δημιουργήστε ένα λογαριασμό ή συνδεθείτε για να σχολιάσετε</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Παρακαλώ συνδεθείτε για να ολοκληρώσετε αυτή την ενέργεια</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Το όνομα χρήστη δεν μπορεί να είναι κενό</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Στιγμές Πριν</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Αποτυχία δημιουργίας 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Αριθμημένες σελίδες</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Άνοιγμα</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Ή</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Αρχικό</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Ιδιοκτησία σου</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Σε αναμονή</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Έχετε αντικείμενα σε αναμονή αναθεώρησης!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Εκκρεμής έκθεση στοιχείων</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Εν αναμονή επανεξέτασης</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Εκκρεμείς αποστολές</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Πορτραίτο</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Σχόλιο Post</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Παρουσίαση</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Η εργασία φόντου ξεκίνησε με επιτυχία</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Απαιτεί Επανεκκίνηση</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Επαναφορά</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Σαρώστε τον κωδικό QR με το τηλέφωνό σας για να μοιραστείτε τις εικόνες σας</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Φόρτωση κατά την κύλιση</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Φίλτρο βασισμένο σε έναν όρο αναζήτησης</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Σε περίπτωση αποστολής καταχωρίσεων σε περίπτωση που ένα νέο στοιχείο εκκρεμεί επανεξέταση</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Εν αναμονή επανεξέτασης</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Πρέπει να καταγράφονται αρχεία καταγραφής και γεγονότα χρήστη</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Αριθμός στηλών</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Θα πρέπει οι χρήστες να είναι σε θέση να σχολιάσουν τα αντικείμενα γκαλερί?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Ενεργοποίηση σχολίων</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Ποιο είναι το προκαθορισμένο φίλτρο συλλογής</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Αντικείμενα ανά σελίδα</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Θα πρέπει οι χρήστες να είναι σε θέση να συμπαθούν αντικείμενα γκαλερί?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Ενεργοποίηση αρεστών</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Ποιο είναι το μεγαλύτερο σε MB ένα φορτωμένο αρχείο μπορεί να είναι</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Μέγιστο μέγεθος συλλογής (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Πώς φορτώνουν οι χρήστες περισσότερα αντικείμενα γκαλερί?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Στυλ παγοποίησης</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Σε περίπτωση αυτόματης απόρριψης διπλών αντικειμένων</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Μετρητής αναθεώρησης</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Σε περίπτωση που η γραμμή αναζήτησης εμφανιστεί στην κορυφή της γκαλερί</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Εμφάνιση γραμμής αναζήτησης</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Θα πρέπει ο χρήστης να μπορεί να φιλτράρει και να ομαδοποιήσει τα μέσα?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Εμφάνιση φίλτρων</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Θα πρέπει οι χρήστες να είναι σε θέση να δουν τις εκκρεμείς αποστολές τους σε γκαλερί?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Εμφάνιση αναρτήσεων σε αναμονή</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Σε περίπτωση εμφάνισης του τίτλου στην κορυφή της συλλογής</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Εμφάνιση τίτλου</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Πώς πρέπει να εμφανίζονται οι εικόνες επισκόπησης των μέσων ενημέρωσης?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Στυλ εικόνας επισκόπησης</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Σε περίπτωση που επιτρέπεται στους επισκέπτες να ανεβάζουν αντικείμενα</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Όρος αναζήτησης</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Θα πρέπει οι συνεδρίες των χρηστών να επιμένουν ακόμη και μετά το κλείσιμο του προγράμματος περιήγησης?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Μονωτικές ταυτότητες</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Πόσο πρέπει να διαρκούν οι συνεδρίες των χρηστών πριν αποσυνδεθούν αυτόματα?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Χρονικό όριο συνεδρίας</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Προβολή σλάιντ</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Συμπερίληψη share slide</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Σε περίπτωση που τα βίντεο συμπεριληφθούν στην προβολή σλάιντ</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Συμπερίληψη σλάιντ βίντεο</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Το φιλικό προς το χρήστη όνομα αποστολέα</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Παρακαλώ επιλέξτε ένα θέμα εμφάνισης</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Εικόνες επισκόπησης</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Πλακάκι</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Χρονοσφραγίδα</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Το όνομα χρήστη του χρήστη</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Αλληλεπιδράσεις χρήστη</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Όνομα χρήστη</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Αποτυχία λήψης λίστας χρηστών</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Χρήστες με πρόσβαση</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Επικύρωση</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Επιτυχής διαγραφή δεδομένων</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Οι Εκκρεμείς Μεταφορτώσεις σας</value>
   </data>
 </root>

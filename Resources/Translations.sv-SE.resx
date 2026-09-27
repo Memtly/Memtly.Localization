@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Acceptera</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Tillgång nekad</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Kontokonto</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Godkänd</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Godkända Gallery Uploads</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Uppstigning</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>förkastade i galleriet</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Användare vänster andel</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Hur många loggar att visa</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Bakgrund</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Grundläggande</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Blå</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Samlingar</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Kommentar</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Ange ett giltigt kommentarsvärde</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Din kommentar är för lång. Gör det kortare</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Kommentarer</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Vanliga inställningar</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Datum</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Datum taget</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Datum laddad</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Debug</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Är du säker på att du vill ta bort?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Delete Comment</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Är du säker på att du vill ta bort detta galleri?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Drag</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Duplicera filen upptäckt</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Underlåten att skicka testmeddelande</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Misslyckades med att skapa en miniatyrbild</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Underlåten att uppdatera inställningar</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Det finns för närvarande inga minnen delas</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Du har inte delat några minnen ännu, varför laddar du inte upp några ovan!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Observera att detta är ett droppgalleri och som sådan ser du bara bilder som du har laddat upp eller har fått tillgång till för att se</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Observera att detta är ett droppgalleri och som en oregistrerad gäst kommer du inte att kunna se några uppladdningar</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Andra användare har redan delade minnen, varför laddar du inte upp några av dina ovan också!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Det finns för närvarande inga minnen som delas, varför laddar du inte upp din ovan!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Ange identifieraren för galleriet du vill besöka.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>my-gallery-name</value>
+    <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Ogiltigt gallerinamn eller hemlig nyckel, försök igen</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galleri Selector</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Välj ett galleri för att besöka.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Galleri Selector</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Gallerityp för att filtrera efter</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Hur ska galleriet se</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Framgångsrikt odelat galleri</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Grönt grönt</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Grid</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Gruppgrupp</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid galleri nyckel</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Invalid galleri typ</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Invalidt namn</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>En begäran gjordes med en ogiltig hemlig nyckel</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Just nu</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Nyckeln</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Layout</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Lämna</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Är du säker på att du vill lämna?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Misslyckades med att lämna aktie</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Framgångsrikt vänster andel</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Nivå</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Ljus ljus</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Som liknar</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Den maximala tillåtna gränsen har uppnåtts</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Lösenord</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Skapa ett konto eller logga in för att kommentera</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Vänligen logga in för att slutföra denna åtgärd</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Användarnamn kan inte vara tomt</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Misslyckades med att ställa in 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Numrerade sidor</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Öppet</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Eller</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Original original</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Ägd av dig</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>I väntan</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Du har objekt i väntan på recension!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>I väntan på objektrapport</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Pending Review</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>I väntan på uppladdningar</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Porträtt</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Post Comment</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Presentation</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Background uppgift började framgångsrikt</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Kräver omstart</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Återställ</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skanna QR-koden med din telefon för att dela dina bilder</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Load as you scroll</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filter baserat på en sökterm</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Ska varningar skickas om ett nytt objekt väntar på granskning</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Pending Review</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Om användarloggar och händelser loggas</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Column Count</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Ska användare kunna kommentera galleriobjekt?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Möjliga kommentarer</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Vad är standard gallerifilter</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Föremål per sida</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Ska användare kunna gilla galleriobjekt?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Aktivera likes</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Vad är den största i MB en uppladdad fil kan vara</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Max Gallery Size (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Hur laddar användarna fler galleriobjekt?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination Style</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Om dubbla objekt automatiskt avvisas</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Recension Counter</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Om sökfältet visas högst upp på galleriet</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Show Search Bar</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Ska användaren kunna filtrera och gruppera media?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Visa filter</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Skulle användarna kunna se sina pågående uppladdningar i gallerier?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Show Pending Uploads</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Om titeln visas högst upp på galleriet</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Visa titel</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Hur ska media miniatyrer visas?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Thumbnail Style</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Om gästerna får ladda upp objekt</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Sök Term</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Ska användarsessioner kvarstå även efter att webbläsaren har stängts?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Persist identiteter</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Hur länge ska användarsessionerna vara innan de automatiskt loggas ut?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Session Timeout</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slideshow</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Inkludera Share Slide</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Bör videor inkluderas i bildspelet</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Inkludera Video Slides</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Användarvänligt avsändarnamn</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Vänligen välj ett displaytema</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Thumbnails</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Tile</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Användarens användarnamn</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Användarinteraktioner</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Användarnamn</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Misslyckades med att få användarlista</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Användare med Access</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Validera</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Framgångsrikt torkade data</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Din väntande uppladdningar</value>
   </data>
 </root>

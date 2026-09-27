@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Godta</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Adgang nektet</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Konto</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Godkjent</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Godkjente galleriopplastinger</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Stigende</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>avvist i galleri</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Bruker left share</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Hvor mange logger å vise</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Bakgrunn</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Basic</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Blå</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Samlinger</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Kommentar</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Vennligst skriv inn en gyldig kommentarverdi</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Din kommentar er for lang. Gjør det kortere</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Kommentarer</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Vanlige innstillinger</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Dato</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Dato tatt</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Dato Lastet opp</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Feilsøk</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Er du sikker på at du vil slette?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Slett kommentar</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Er du sikker på at du vil slette dette galleriet?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Dra</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Drop</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Duplikatfil oppdaget</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Klarte ikke å sende testvarsel</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Klarte ikke å opprette et miniatyrbilde</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Klarte ikke å oppdatere innstillingene</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>For tiden er det ingen minner delt</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Du har ikke delt minner ennå, hvorfor ikke laste opp noen ovenfor!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Vennligst merk at dette er et drop galleri, og som sådan vil du bare se bilder du har lastet opp eller fått tilgang til å se</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Vær oppmerksom på at dette er en drop galleri og som en uregistrert gjest vil du ikke kunne se noen opplastinger</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Andre brukere har allerede delt minner, hvorfor ikke laste opp noen av dine ovenfor også!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Det er for tiden ingen minner delt, hvorfor ikke laste opp din ovenfor!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Skriv inn identifikatoren til galleriet du vil besøke.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>min wedding-gallery</value>
+    <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Ugyldig gallerinavn eller hemmelig nøkkel, prøv igjen</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galleriutvelger</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Velg et galleri å besøke.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Galleriutvelger</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galleritype å filtrere etter</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Hvordan skal galleriet se ut</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Vellykket udelt galleri</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Grønn</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Grid</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Gruppe</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Ugyldig gallerinøkkel</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Ugyldig galleritype</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Ugyldig navn</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>En forespørsel ble gjort ved hjelp av en ugyldig hemmelig nøkkel</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Akkurat nå</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Nøkkel</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Utforming</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Leave</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Er du sikker på at du vil dra?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Klarte ikke å forlate aksjen</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Vellykket venstre del</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Letterbox</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Nivå</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Lys</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Som</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Den maksimale tillatte grensen er nådd</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Passord</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Opprett en konto eller logg inn for å kommentere</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Logg inn for å fullføre denne handlingen</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Brukernavn kan ikke være tomt</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>Kunne ikke sette opp 2FA</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Nummererte sider</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Åpne</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Eller</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Opprinnelig</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Eiet av deg</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Venter</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Du har elementer som venter på gjennomgang!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Avventende elementrapport</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Venter gjennomgang</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Venter på opplastinger</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portrett</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Innleggskommentar</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Presentasjon</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Bakgrunnsoppgave startet</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Krever omstart</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Nullstill</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skann QR-koden med telefonen for å dele bildene dine</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Last mens du ruller</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Filtrer basert på et søkeord</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Skal varsler sendes hvis et nytt element er i vente</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Venter gjennomgang</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Skal brukerlogger og hendelser logges</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Kolonnetelling</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Bør brukerne kunne kommentere gallerier?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Slå på kommentarer</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Hva er standard galleri filter</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Elementer per side</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Bør brukerne kunne like gallerivarer?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Aktiver liker</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Hva er den største i MB en opplastet fil kan være</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Maks galleristørrelse (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Hvordan laster brukere flere galleri elementer?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Paginasjonsstil</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Skal dupliserte elementer automatisk avvises</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Review Counter</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Hvis søkefeltet vises øverst i galleriet</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Vis søkelinje</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Bør brukeren kunne filtrere og gruppere medier?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Vis filtre</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Bør brukerne kunne se sine ventende opplastinger i gallerier?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Vis avventende opplastinger</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Skulle tittelen vises øverst i galleriet</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Vis tittel</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Hvordan skal medieminiatyrer vises?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Miniatyrstil</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Hvis gjestene får lov til å laste opp varer</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Søkeord</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Bør brukerøktene fortsette selv etter at nettleseren har stengt?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Persistisk identitet</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Hvor lenge bør brukerøktene vare før de automatisk logges ut?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Tidsgrense for økt</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Lysbilde</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Inkluder Share Slide</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Skal videoene bli inkludert i lysbildeshowet</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Inkluder videobilder</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Brukervennlig avsendernavn</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Velg et visningstema</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Miniatyrer</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Flis</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Timestamp</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Brukernavnet til brukeren</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Brukerinteraksjoner</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Brukernavn</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Klarte ikke å skaffe brukerliste</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Brukere med tilgang</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Valider</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Vellykket slettede data</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Dine ventende opplastinger</value>
   </data>
 </root>

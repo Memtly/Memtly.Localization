@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>Nõustun</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>Juurdepääs keelatud</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>Konto</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>Heaks kiidetud</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>Heakskiidetud galerii üleslaadimised</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>Üleminek</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>galeriis tagasi lükatud</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>Kasutaja vasak pool</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>Mitu logi näidata</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Taust</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>Põhiline</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>Sinine</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>Kollektsioonid</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Kommentaar</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>Palun sisesta korrektne kommentaari väärtus</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>Su kommentaar on liiga pikk. Palun tee see lühemaks</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Märkused</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Ühised seadistused</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>Kuupäev</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>Kuupäev võetud</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>Kuupäev üles laaditud</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>Debug</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>Kas tõesti kustutada?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>Kustuta kommentaar</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>Kas tõesti kustutada see galerii?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>Lohista</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>Viska maha</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>Tuvastati topeltfail</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>Katseteatise saatmine nurjus</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>Pisipildi loomine nurjus</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>Seadistuste uuendamine nurjus</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>Hetkel ei ole mälestusi jagatud</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>Sa ei ole veel ühtegi mälestust jaganud, miks sa ei võiks üles laadida mõned eespool!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>Pange tähele, et see on rippgalerii ja sellisena näete ainult pilte, mille olete üles laadinud või millele on antud juurdepääs</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>Pange tähele, et see on rippgalerii ja registreerimata külalisena ei näe te üleslaadimisi</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>Teised kasutajad on juba jaganud mälestusi, miks te ei laadi ka mõnda oma ülalt!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>Praegu ei ole mälestusi jagatud, miks te ei lae üles oma eespool!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>Palun sisestage galerii identifikaator, mida soovite külastada.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>pulmagalerii</value>
+    <value>78bff6a486ca465aaae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Vigane galerii nimi või salajane võti, palun proovi uuesti</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galeriivalija</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>Palun vali külastatav galerii.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Galeriivalija</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerii tüüp, mille järgi filtreerida</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>Kuidas peaks galerii välja nägema</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>Edukalt jagamata galerii</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>Roheline</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>Võrk</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>Grupp</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Vigane galeriivõti</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>Vigane galerii tüüp</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>Vigane nimi</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>Nõue tehti vigase salajase võtmega</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>Just praegu</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>Võti</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>Layout</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>Jäta</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>Oled kindel, et tahad lahkuda?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>Osast lahkumine nurjus</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>Edukalt lahkunud osa</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>Kirjakast</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>Tase</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>Valgus</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Nagu</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>Maksimaalne lubatud piirmäär on saavutatud</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>Parool</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>Palun loo konto või logi kommentaariks sisse</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>Palun logi sisse selle toimingu lõpuleviimiseks</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>Kasutajanimi ei saa olla tühi</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Hetk tagasi</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA loomine nurjus</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>Nummerdatud leheküljed</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>Avage</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>Või</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>Originaal</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>Kuulub sulle</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>Oodates</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>Teil on asju, mis ootavad ülevaatamist!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>Menetluses olevate küsimuste aruanne</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>Menetluses olev läbivaatamine</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>Oodatavad üleslaadimised</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portree</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>Postkommentaar</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Esitlus</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>Taustaülesanne käivitati edukalt</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>Vajab taaskäivitamist</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Taasta lähtestamine</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Skaneerige oma telefoniga QR-koodi, et jagada oma pilte</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>Laadimine kerimisel</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>Otsinguterminil põhinev filter</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>Kas saata hoiatusi, kui uus punkt on läbivaatamisel</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>Menetluses olev läbivaatamine</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>Kas logida kasutaja logid ja sündmused</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>Kolonnide loend</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>Kas kasutajatel peaks olema võimalik galeriisid kommenteerida?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>Kommentaaride lubamine</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>Mis on vaikimisi galerii filter</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>Elemendid lehekülje kohta</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>Kas kasutajatele peaks meeldima galeriid?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Meeldib lubamine</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>Mis on MB-s suurim üleslaaditud fail</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>Maksimaalne galerii suurus (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>Kuidas saavad kasutajad rohkem galeriisid laadida?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination stiil</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>Kas dubleerivad elemendid lükatakse automaatselt tagasi</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>Review Counter</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>Kas näidata otsinguriba galerii ülaosas</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>Otsinguriba näitamine</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>Kas kasutaja saab filtreerida ja rühmitada meediat?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>Näita filtreid</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>Kas kasutajad peaksid nägema oma ootel üleslaadimisi galeriides?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>Eelseisvate üleslaadimiste näitamine</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>Pealkiri tuleb näidata galerii ülaosas</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>Näita tiitlit</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>Kuidas näidata pisipilte meedias?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>Pisipildi stiil</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>Kas külalistel lubatakse üles laadida</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>Otsingutermin</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>Kas kasutaja seansid peaksid kestma ka pärast brauseri sulgemist?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>Püsivad identiteedid</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>Kui kaua peaks kasutaja seansid kestma, enne kui need automaatselt välja logitakse?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>Seansi aegumine</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>Slaidiseanss</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>Kaasa Share Slide</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>Kas slaidiseanss peaks sisaldama videoid</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>Videoslaidide kaasamine</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>Kasutajasõbralik saatja nimi</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>Palun vali kuvateema</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>Pöidlaküüned</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>Tilk</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>Ajatempel</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>Kasutaja kasutajanimi</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>Kasutajate suhtlus</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>Kasutajanimi</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Kasutajate nimekirja hankimine nurjus</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>Juurdepääsu omavad kasutajad</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Valideeri</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>Andmete edukas kustutamine</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>Oodatavad üleslaadimised</value>
   </data>
 </root>

@@ -136,6 +136,9 @@
   <data name="Accept" xml:space="preserve">
     <value>स्वीकार करना</value>
   </data>
+  <data name="Access_Denied" xml:space="preserve">
+    <value>एक्सेस डेनिडी</value>
+  </data>
   <data name="Account" xml:space="preserve">
     <value>लेखा</value>
   </data>
@@ -177,6 +180,9 @@
   </data>
   <data name="Approved" xml:space="preserve">
     <value>स्वीकृत</value>
+  </data>
+  <data name="Approved_Gallery_Uploads" xml:space="preserve">
+    <value>स्वीकृत गैलरी अपलोड</value>
   </data>
   <data name="Ascending" xml:space="preserve">
     <value>परिशोधन</value>
@@ -252,6 +258,9 @@
   </data>
   <data name="Audit_ItemRejectedInGallery" xml:space="preserve">
     <value>गैलरी में अस्वीकार</value>
+  </data>
+  <data name="Audit_Left_Share" xml:space="preserve">
+    <value>उपयोगकर्ता बाएं शेयर</value>
   </data>
   <data name="Audit_Limit_Help" xml:space="preserve">
     <value>कितने लॉग दिखाने के लिए</value>
@@ -345,6 +354,9 @@
   </data>
   <data name="Background_Color_Label" xml:space="preserve">
     <value>पृष्ठभूमि</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>मूल</value>
   </data>
   <data name="Blue" xml:space="preserve">
     <value>नीला</value>
@@ -493,6 +505,18 @@
   <data name="Collections" xml:space="preserve">
     <value>संग्रह</value>
   </data>
+  <data name="Comment" xml:space="preserve">
+    <value>टिप्पणी</value>
+  </data>
+  <data name="Comment_Empty_Value" xml:space="preserve">
+    <value>कृपया एक वैध टिप्पणी मान दर्ज करें</value>
+  </data>
+  <data name="Comment_Value_Too_Long" xml:space="preserve">
+    <value>आपकी टिप्पणी बहुत लंबी है। कृपया इसे कम करें</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>टिप्पणियाँ</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>आम सेटिंग</value>
   </data>
@@ -580,6 +604,12 @@
   <data name="Date" xml:space="preserve">
     <value>तारीख</value>
   </data>
+  <data name="DateTaken" xml:space="preserve">
+    <value>तारीख लेना</value>
+  </data>
+  <data name="DateUploaded" xml:space="preserve">
+    <value>तारीख अपलोड</value>
+  </data>
   <data name="Debug" xml:space="preserve">
     <value>डेबग</value>
   </data>
@@ -591,6 +621,9 @@
   </data>
   <data name="Delete_Are_You_Sure" xml:space="preserve">
     <value>क्या आप इसे हटाना चाहते हैं?</value>
+  </data>
+  <data name="Delete_Comment" xml:space="preserve">
+    <value>टिप्पणी हटाएं</value>
   </data>
   <data name="Delete_Confirmation" xml:space="preserve">
     <value>क्या आप इस गैलरी को हटाना चाहते हैं?</value>
@@ -654,6 +687,9 @@
   </data>
   <data name="Drag_And_Drop" xml:space="preserve">
     <value>खींचें</value>
+  </data>
+  <data name="Drop" xml:space="preserve">
+    <value>ड्रॉप</value>
   </data>
   <data name="Duplicate_Item_Detected" xml:space="preserve">
     <value>डुप्लिकेट फ़ाइल का पता लगाया</value>
@@ -750,6 +786,9 @@
   </data>
   <data name="Failed_Send_Test_Notification" xml:space="preserve">
     <value>परीक्षण अधिसूचना भेजने में विफल</value>
+  </data>
+  <data name="Failed_To_Generate_Thumbnail" xml:space="preserve">
+    <value>एक थंबनेल छवि उत्पन्न करने में विफल</value>
   </data>
   <data name="Failed_Update_Setting" xml:space="preserve">
     <value>सेटिंग्स अद्यतन करने में विफल</value>
@@ -859,6 +898,18 @@
   <data name="Gallery_Empty" xml:space="preserve">
     <value>वर्तमान में साझा कोई याद नहीं है</value>
   </data>
+  <data name="Gallery_Empty_Drop" xml:space="preserve">
+    <value>आपने अभी तक किसी भी याद को साझा नहीं किया है, क्यों आप ऊपर कुछ अपलोड नहीं करते!</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note" xml:space="preserve">
+    <value>कृपया ध्यान दें कि यह एक ड्रॉप गैलरी है और जैसे आप केवल उन छवियों को देखेंगे जिन्हें आपने अपलोड किया है या देखने के लिए एक्सेस प्रदान किया है।</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Note_Unregistered_User" xml:space="preserve">
+    <value>कृपया ध्यान दें कि यह एक ड्रॉप गैलरी है और एक पंजीकृत अतिथि के रूप में आप किसी भी अपलोड को देखने में सक्षम नहीं होंगे।</value>
+  </data>
+  <data name="Gallery_Empty_Drop_Unregistered_User" xml:space="preserve">
+    <value>अन्य उपयोगकर्ताओं ने पहले से ही यादें साझा की हैं, क्यों आप ऊपर भी अपने कुछ अपलोड नहीं करते!</value>
+  </data>
   <data name="Gallery_Empty_Upload" xml:space="preserve">
     <value>वर्तमान में कोई यादें साझा नहीं हुई हैं, क्यों नहीं आप ऊपर अपना अपलोड!</value>
   </data>
@@ -869,7 +920,7 @@
     <value>कृपया गैलरी के पहचानकर्ता को दर्ज करें जिसे आप देखना चाहते हैं।.</value>
   </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
-    <value>मेरी शादी गैलरी</value>
+    <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
   <data name="Gallery_Invalid_Gallery_Or_Secret_Key" xml:space="preserve">
     <value>Invalid गैलरी नाम या गुप्त कुंजी, कृपया फिर से प्रयास करें</value>
@@ -913,6 +964,9 @@
   <data name="Gallery_Selector" xml:space="preserve">
     <value>गैलरी चयनकर्ता</value>
   </data>
+  <data name="Gallery_Selector_Help" xml:space="preserve">
+    <value>कृपया एक गैलरी का चयन करें।.</value>
+  </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>गैलरी चयनकर्ता</value>
   </data>
@@ -933,6 +987,9 @@
   </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>गैलरी प्रकार द्वारा फ़िल्टर करने के लिए</value>
+  </data>
+  <data name="Gallery_Type_Hint" xml:space="preserve">
+    <value>कैसे गैलरी देखना चाहिए</value>
   </data>
   <data name="Gallery_UnShare_Success" xml:space="preserve">
     <value>सफलतापूर्वक साझा गैलरी</value>
@@ -966,6 +1023,9 @@
   </data>
   <data name="Green" xml:space="preserve">
     <value>ग्रीन</value>
+  </data>
+  <data name="Grid" xml:space="preserve">
+    <value>ग्रिड</value>
   </data>
   <data name="Group" xml:space="preserve">
     <value>समूह</value>
@@ -1072,6 +1132,9 @@
   <data name="Invalid_Gallery_Key" xml:space="preserve">
     <value>Invalid गैलरी कुंजी</value>
   </data>
+  <data name="Invalid_Gallery_Type" xml:space="preserve">
+    <value>अमान्य गैलरी प्रकार</value>
+  </data>
   <data name="Invalid_Name" xml:space="preserve">
     <value>अमान्य नाम</value>
   </data>
@@ -1080,6 +1143,9 @@
   </data>
   <data name="Invalid_Secret_Key_Warning" xml:space="preserve">
     <value>एक अनुरोध अवैध गुप्त कुंजी का उपयोग करके बनाया गया था</value>
+  </data>
+  <data name="Just_Now" xml:space="preserve">
+    <value>अभी</value>
   </data>
   <data name="Key" xml:space="preserve">
     <value>कुंजी</value>
@@ -1099,11 +1165,29 @@
   <data name="Layout" xml:space="preserve">
     <value>लेआउट</value>
   </data>
+  <data name="Leave" xml:space="preserve">
+    <value>छुट्टी</value>
+  </data>
+  <data name="Leave_Are_You_Sure" xml:space="preserve">
+    <value>क्या आप जानना चाहते हैं?</value>
+  </data>
+  <data name="Leave_Share_Failed" xml:space="preserve">
+    <value>शेयर छोड़ने में विफल</value>
+  </data>
+  <data name="Leave_Share_Success" xml:space="preserve">
+    <value>सफलतापूर्वक छोड़ दिया शेयर</value>
+  </data>
+  <data name="Letterbox" xml:space="preserve">
+    <value>लेटरबॉक्स</value>
+  </data>
   <data name="Level" xml:space="preserve">
     <value>स्तर</value>
   </data>
   <data name="Light" xml:space="preserve">
     <value>प्रकाश</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>लाइक</value>
   </data>
   <data name="Limit_Reached" xml:space="preserve">
     <value>अधिकतम अनुमति सीमा तक पहुंच गई है</value>
@@ -1134,6 +1218,9 @@
   </data>
   <data name="Login_Password_Placeholder" xml:space="preserve">
     <value>पासवर्ड</value>
+  </data>
+  <data name="Login_To_Comment" xml:space="preserve">
+    <value>टिप्पणी करने के लिए कृपया एक खाता बनाएं या लॉगिन करें</value>
   </data>
   <data name="Login_To_Complete_Action" xml:space="preserve">
     <value>कृपया इस कार्रवाई को पूरा करने के लिए लॉग इन करें</value>
@@ -1170,6 +1257,9 @@
   </data>
   <data name="Missing_Username" xml:space="preserve">
     <value>उपयोगकर्ता नाम खाली नहीं हो सकता</value>
+  </data>
+  <data name="Moments_Ago" xml:space="preserve">
+    <value>Moments Ago</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
     <value>2FA स्थापित करने में विफल</value>
@@ -1237,11 +1327,17 @@
   <data name="Ntfy" xml:space="preserve">
     <value>Ntfy</value>
   </data>
+  <data name="NumberBar" xml:space="preserve">
+    <value>क्रमांकित पृष्ठ</value>
+  </data>
   <data name="Open" xml:space="preserve">
     <value>खुला</value>
   </data>
   <data name="Or" xml:space="preserve">
     <value>या</value>
+  </data>
+  <data name="Original" xml:space="preserve">
+    <value>मूल</value>
   </data>
   <data name="Owned_By_You" xml:space="preserve">
     <value>आप के स्वामित्व में</value>
@@ -1297,6 +1393,15 @@
   <data name="Pending" xml:space="preserve">
     <value>लंबित</value>
   </data>
+  <data name="Pending_Items_Report_Heading" xml:space="preserve">
+    <value>आपके पास आइटम लंबित समीक्षा है!</value>
+  </data>
+  <data name="Pending_Items_Report_Subject" xml:space="preserve">
+    <value>लंबित आइटम रिपोर्ट</value>
+  </data>
+  <data name="Pending_Review" xml:space="preserve">
+    <value>लंबित समीक्षा</value>
+  </data>
   <data name="Pending_Uploads" xml:space="preserve">
     <value>लंबित अपलोड</value>
   </data>
@@ -1314,6 +1419,9 @@
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>पोर्ट्रेट</value>
+  </data>
+  <data name="Post_Comment" xml:space="preserve">
+    <value>पोस्ट</value>
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>प्रस्तुति</value>
@@ -1468,6 +1576,9 @@
   <data name="Request_Background_Worker_Success" xml:space="preserve">
     <value>पृष्ठभूमि कार्य सफलतापूर्वक शुरू हुआ</value>
   </data>
+  <data name="Requires_Restart" xml:space="preserve">
+    <value>रिस्टार्ट की आवश्यकता</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>रीसेट करें</value>
   </data>
@@ -1506,6 +1617,9 @@
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>अपनी छवियों को साझा करने के लिए अपने फोन के साथ QR कोड स्कैन करें</value>
+  </data>
+  <data name="ScrollLoading" xml:space="preserve">
+    <value>जैसा कि आप स्क्रॉल करते हैं</value>
   </data>
   <data name="SearchTerm_Help" xml:space="preserve">
     <value>खोज अवधि के आधार पर फ़िल्टर करें</value>
@@ -1605,9 +1719,6 @@
   </data>
   <data name="Settings_Alerts_Pending_Review_Help" xml:space="preserve">
     <value>यदि एक नया आइटम लंबित समीक्षा है तो अलर्ट भेजा जाना चाहिए</value>
-  </data>
-  <data name="Settings_Alerts_Pending_Review_Label" xml:space="preserve">
-    <value>लंबित समीक्षा</value>
   </data>
   <data name="Settings_Audit_Enabled_Help" xml:space="preserve">
     <value>क्या उपयोगकर्ता लॉग और घटनाओं को लॉग इन करना चाहिए</value>
@@ -1771,6 +1882,12 @@
   <data name="Settings_Gallery_Columns_Label" xml:space="preserve">
     <value>कॉलम गणना</value>
   </data>
+  <data name="Settings_Gallery_Comments_Hint" xml:space="preserve">
+    <value>क्या उपयोगकर्ता गैलरी आइटम पर टिप्पणी करने में सक्षम होना चाहिए?</value>
+  </data>
+  <data name="Settings_Gallery_Comments_Label" xml:space="preserve">
+    <value>टिप्पणियाँ सक्षम करें</value>
+  </data>
   <data name="Settings_Gallery_DefaultFilter_Help" xml:space="preserve">
     <value>डिफ़ॉल्ट गैलरी फ़िल्टर क्या है</value>
   </data>
@@ -1819,6 +1936,12 @@
   <data name="Settings_Gallery_ItemsPerPage_Label" xml:space="preserve">
     <value>प्रति पृष्ठ आइटम</value>
   </data>
+  <data name="Settings_Gallery_Likes_Hint" xml:space="preserve">
+    <value>क्या उपयोगकर्ताओं को गैलरी आइटम पसंद करने में सक्षम होना चाहिए?</value>
+  </data>
+  <data name="Settings_Gallery_Likes_Label" xml:space="preserve">
+    <value>Enable Likes</value>
+  </data>
   <data name="Settings_Gallery_MaxFileSizeMb_Help" xml:space="preserve">
     <value>एमबी में सबसे बड़ा क्या है एक अपलोड की गई फ़ाइल हो सकती है</value>
   </data>
@@ -1830,6 +1953,12 @@
   </data>
   <data name="Settings_Gallery_MaxSizeMb_Label" xml:space="preserve">
     <value>अधिकतम गैलरी आकार (MB)</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Help" xml:space="preserve">
+    <value>उपयोगकर्ता गैलरी आइटम कैसे लोड कर सकते हैं?</value>
+  </data>
+  <data name="Settings_Gallery_PaginationStyle_Label" xml:space="preserve">
+    <value>Pagination style</value>
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Help" xml:space="preserve">
     <value>क्या डुप्लिकेट आइटम स्वचालित रूप से खारिज कर दिया जाना चाहिए</value>
@@ -1891,17 +2020,35 @@
   <data name="Settings_Gallery_ReviewCounter_Label" xml:space="preserve">
     <value>समीक्षा काउंटर</value>
   </data>
+  <data name="Settings_Gallery_SearchBar_Help" xml:space="preserve">
+    <value>क्या खोज बार गैलरी के शीर्ष पर प्रदर्शित किया जाना चाहिए</value>
+  </data>
+  <data name="Settings_Gallery_SearchBar_Label" xml:space="preserve">
+    <value>शो सर्च बार</value>
+  </data>
   <data name="Settings_Gallery_ShowFilters_Help" xml:space="preserve">
     <value>क्या उपयोगकर्ता मीडिया को फ़िल्टर और समूहित करने में सक्षम होना चाहिए?</value>
   </data>
   <data name="Settings_Gallery_ShowFilters_Label" xml:space="preserve">
     <value>फ़िल्टर दिखाएं</value>
   </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Help" xml:space="preserve">
+    <value>क्या उपयोगकर्ता गैलरी में अपनी लंबित अपलोड देखने में सक्षम होना चाहिए?</value>
+  </data>
+  <data name="Settings_Gallery_ShowPendingUploads_Label" xml:space="preserve">
+    <value>लंबित अपलोड दिखाएं</value>
+  </data>
   <data name="Settings_Gallery_ShowTitle_Help" xml:space="preserve">
     <value>क्या शीर्षक गैलरी के शीर्ष पर प्रदर्शित किया जाना चाहिए</value>
   </data>
   <data name="Settings_Gallery_ShowTitle_Label" xml:space="preserve">
     <value>शीर्षक दिखाएं</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Help" xml:space="preserve">
+    <value>कैसे मीडिया थंबनेल प्रदर्शित किया जाना चाहिए?</value>
+  </data>
+  <data name="Settings_Gallery_ThumbnailStyle_Label" xml:space="preserve">
+    <value>थंबनेल स्टाइल</value>
   </data>
   <data name="Settings_Gallery_Upload_Help" xml:space="preserve">
     <value>क्या मेहमानों को आइटम अपलोड करने की अनुमति है</value>
@@ -2041,6 +2188,18 @@
   <data name="Settings_SearchTerm_Label" xml:space="preserve">
     <value>खोज अवधि</value>
   </data>
+  <data name="Settings_Sessions_PersistIdentity_Help" xml:space="preserve">
+    <value>क्या उपयोगकर्ता ब्राउज़र बंद होने के बाद भी सत्र जारी रखता है?</value>
+  </data>
+  <data name="Settings_Sessions_PersistIdentity_Label" xml:space="preserve">
+    <value>पर्सिस्ट पहचान</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Help" xml:space="preserve">
+    <value>जब तक वे स्वचालित रूप से लॉग आउट हो जाते हैं तो उपयोगकर्ता सत्र कितने समय तक चल सकता है?</value>
+  </data>
+  <data name="Settings_Sessions_TimeoutMins_Label" xml:space="preserve">
+    <value>सत्र टाइमआउट</value>
+  </data>
   <data name="Settings_Slideshow" xml:space="preserve">
     <value>स्लाइड शो</value>
   </data>
@@ -2067,6 +2226,12 @@
   </data>
   <data name="Settings_Slideshow_Share_Slide_Label" xml:space="preserve">
     <value>साझा स्लाइड</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Help" xml:space="preserve">
+    <value>क्या वीडियो स्लाइड शो में शामिल होना चाहिए</value>
+  </data>
+  <data name="Settings_Slideshow_Video_Slides_Label" xml:space="preserve">
+    <value>वीडियो स्लाइड शामिल करें</value>
   </data>
   <data name="Settings_Smtp_Display_Name_Help" xml:space="preserve">
     <value>उपयोगकर्ता के अनुकूल प्रेषक का नाम</value>
@@ -2268,6 +2433,12 @@
   </data>
   <data name="Theme_Name_Hint" xml:space="preserve">
     <value>कृपया एक डिस्प्ले थीम चुनें</value>
+  </data>
+  <data name="Thumbnails" xml:space="preserve">
+    <value>थंबनेल</value>
+  </data>
+  <data name="Tile" xml:space="preserve">
+    <value>टाइल</value>
   </data>
   <data name="Timestamp" xml:space="preserve">
     <value>टाइमस्टैम्प</value>
@@ -2485,6 +2656,9 @@
   <data name="User_Username_Hint" xml:space="preserve">
     <value>उपयोगकर्ता का नाम</value>
   </data>
+  <data name="UserInteractions" xml:space="preserve">
+    <value>उपयोगकर्ता पारस्परिक क्रिया</value>
+  </data>
   <data name="Username" xml:space="preserve">
     <value>उपयोगकर्ता नाम</value>
   </data>
@@ -2493,6 +2667,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>उपयोगकर्ताओं की सूची प्राप्त करने में विफल</value>
+  </data>
+  <data name="Users_With_Access" xml:space="preserve">
+    <value>उपयोग के साथ उपयोगकर्ता</value>
   </data>
   <data name="Validate" xml:space="preserve">
     <value>मान्य</value>
@@ -2544,5 +2721,8 @@
   </data>
   <data name="Wipe_Data_Success" xml:space="preserve">
     <value>सफलतापूर्वक डेटा मिटाना</value>
+  </data>
+  <data name="Your_Pending_Uploads" xml:space="preserve">
+    <value>आपका लंबित अपलोड</value>
   </data>
 </root>
