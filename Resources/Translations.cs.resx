@@ -349,6 +349,9 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Dostupné galerie</value>
   </data>
+  <data name="Back" xml:space="preserve">
+    <value>Zpět</value>
+  </data>
   <data name="Background_Color_Help" xml:space="preserve">
     <value>Barva pozadí</value>
   </data>
@@ -919,6 +922,9 @@
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Zadejte prosím identifikátor galerie, kterou chcete navštívit.</value>
   </data>
+  <data name="Gallery_Identifier_Label" xml:space="preserve">
+    <value>Identifikátor galerie</value>
+  </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
     <value>78bff6a486ca465aaaae9a65ca673e5fc0</value>
   </data>
@@ -933,6 +939,9 @@
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>Prosím, zadejte tajný klíč.</value>
+  </data>
+  <data name="Gallery_Key_Label" xml:space="preserve">
+    <value>Klíč galerie</value>
   </data>
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Zde zadejte tajný klíč</value>
@@ -966,6 +975,9 @@
   </data>
   <data name="Gallery_Selector_Help" xml:space="preserve">
     <value>Prosím vyberte galerii k návštěvě.</value>
+  </data>
+  <data name="Gallery_Selector_Label" xml:space="preserve">
+    <value>Název galerie</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Výběr galerie</value>

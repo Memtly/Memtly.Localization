@@ -349,6 +349,9 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Tilgængelige gallerier</value>
   </data>
+  <data name="Back" xml:space="preserve">
+    <value>Tilbage</value>
+  </data>
   <data name="Background_Color_Help" xml:space="preserve">
     <value>Baggrundsfarven</value>
   </data>
@@ -919,6 +922,9 @@
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Indtast venligst identifikatoren på det galleri, du ønsker at besøge.</value>
   </data>
+  <data name="Gallery_Identifier_Label" xml:space="preserve">
+    <value>Galleridentifikator</value>
+  </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
     <value>78 af 486ca465aae9a65ca673e5fc0</value>
   </data>
@@ -933,6 +939,9 @@
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>Indtast venligst den hemmelige nøgle.</value>
+  </data>
+  <data name="Gallery_Key_Label" xml:space="preserve">
+    <value>Gallery Key</value>
   </data>
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Indtast hemmelig nøgle her</value>
@@ -966,6 +975,9 @@
   </data>
   <data name="Gallery_Selector_Help" xml:space="preserve">
     <value>Vælg et galleri at besøge.</value>
+  </data>
+  <data name="Gallery_Selector_Label" xml:space="preserve">
+    <value>Galleringsnavn</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Galleringsvælger</value>

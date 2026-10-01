@@ -349,6 +349,9 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Gallerimet në dispozicion</value>
   </data>
+  <data name="Back" xml:space="preserve">
+    <value>Mbrapa</value>
+  </data>
   <data name="Background_Color_Help" xml:space="preserve">
     <value>Ngjyra e sfondit</value>
   </data>
@@ -919,6 +922,9 @@
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Shkruaj i pari shtegu.</value>
   </data>
+  <data name="Gallery_Identifier_Label" xml:space="preserve">
+    <value>Identifikuesi i galerisë</value>
+  </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
     <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
@@ -933,6 +939,9 @@
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>Ju lutem shkruani çelësin sekret.</value>
+  </data>
+  <data name="Gallery_Key_Label" xml:space="preserve">
+    <value>Kyçi i koleksionit</value>
   </data>
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Shkruaj këtu kyçin sekret</value>
@@ -966,6 +975,9 @@
   </data>
   <data name="Gallery_Selector_Help" xml:space="preserve">
     <value>Ju lutem zgjidhni një galeri për të vizituar.</value>
+  </data>
+  <data name="Gallery_Selector_Label" xml:space="preserve">
+    <value>Emri i koleksionit</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Zgjedhësi i Galerisë</value>

@@ -349,6 +349,9 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Доступні галереї</value>
   </data>
+  <data name="Back" xml:space="preserve">
+    <value>Зареєструватися</value>
+  </data>
   <data name="Background_Color_Help" xml:space="preserve">
     <value>Колір фону</value>
   </data>
@@ -919,6 +922,9 @@
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Будь ласка, введіть ідентифікатор галереї, який ви хочете відвідати.</value>
   </data>
+  <data name="Gallery_Identifier_Label" xml:space="preserve">
+    <value>Галерея Ідентифікатор</value>
+  </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
     <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
@@ -933,6 +939,9 @@
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>Будь ласка, введіть секретний ключ.</value>
+  </data>
+  <data name="Gallery_Key_Label" xml:space="preserve">
+    <value>Галерея ключ</value>
   </data>
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Введіть секретний ключ тут</value>
@@ -966,6 +975,9 @@
   </data>
   <data name="Gallery_Selector_Help" xml:space="preserve">
     <value>Виберіть галерею для відвідування.</value>
+  </data>
+  <data name="Gallery_Selector_Label" xml:space="preserve">
+    <value>Назва галереї</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Галерея Selector</value>

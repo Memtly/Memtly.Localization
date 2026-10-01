@@ -349,6 +349,9 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>دستیاب گلّہ</value>
   </data>
+  <data name="Back" xml:space="preserve">
+    <value>پشت</value>
+  </data>
   <data name="Background_Color_Help" xml:space="preserve">
     <value>پس منظر کا رنگ</value>
   </data>
@@ -919,6 +922,9 @@
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>براہ کرم آپ جانا چاہتے ہیں گیلری کے شناخت کنندہ داخل کریں۔.</value>
   </data>
+  <data name="Gallery_Identifier_Label" xml:space="preserve">
+    <value>گیلریاں</value>
+  </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
     <value>78bff6486ca465aae9a65ca673e5fc0 -</value>
   </data>
@@ -933,6 +939,9 @@
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>برائے مہربانی خفیہ کلید داخل کریں.</value>
+  </data>
+  <data name="Gallery_Key_Label" xml:space="preserve">
+    <value>گیلری کلیدی</value>
   </data>
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>یہاں خفیہ کلید داخل کرو</value>
@@ -966,6 +975,9 @@
   </data>
   <data name="Gallery_Selector_Help" xml:space="preserve">
     <value>براہ مہربانی ملاقات کے لیے گیلری منتخب کریں۔.</value>
+  </data>
+  <data name="Gallery_Selector_Label" xml:space="preserve">
+    <value>گیلری کا نام</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>گیلری منتخب کنندہ</value>

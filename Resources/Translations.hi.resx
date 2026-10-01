@@ -349,6 +349,9 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>उपलब्ध दीर्घाओं</value>
   </data>
+  <data name="Back" xml:space="preserve">
+    <value>वापस</value>
+  </data>
   <data name="Background_Color_Help" xml:space="preserve">
     <value>पृष्ठभूमि का रंग</value>
   </data>
@@ -919,6 +922,9 @@
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>कृपया गैलरी के पहचानकर्ता को दर्ज करें जिसे आप देखना चाहते हैं।.</value>
   </data>
+  <data name="Gallery_Identifier_Label" xml:space="preserve">
+    <value>गैलरी पहचानकर्ता</value>
+  </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
     <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
@@ -933,6 +939,9 @@
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>कृपया गुप्त कुंजी दर्ज करें।.</value>
+  </data>
+  <data name="Gallery_Key_Label" xml:space="preserve">
+    <value>गैलरी कुंजी</value>
   </data>
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>यहां क्लिक करें</value>
@@ -966,6 +975,9 @@
   </data>
   <data name="Gallery_Selector_Help" xml:space="preserve">
     <value>कृपया एक गैलरी का चयन करें।.</value>
+  </data>
+  <data name="Gallery_Selector_Label" xml:space="preserve">
+    <value>गैलरी नाम</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>गैलरी चयनकर्ता</value>

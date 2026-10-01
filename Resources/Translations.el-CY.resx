@@ -349,6 +349,9 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Διαθέσιμες Γκαλερί</value>
   </data>
+  <data name="Back" xml:space="preserve">
+    <value>Πίσω</value>
+  </data>
   <data name="Background_Color_Help" xml:space="preserve">
     <value>Το χρώμα του φόντου</value>
   </data>
@@ -919,6 +922,9 @@
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Παρακαλώ εισάγετε το αναγνωριστικό της γκαλερί που θέλετε να επισκεφθείτε.</value>
   </data>
+  <data name="Gallery_Identifier_Label" xml:space="preserve">
+    <value>Αναγνωριστικό γκαλερί</value>
+  </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
     <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
@@ -933,6 +939,9 @@
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>Παρακαλώ εισάγετε το μυστικό κλειδί.</value>
+  </data>
+  <data name="Gallery_Key_Label" xml:space="preserve">
+    <value>Κλειδί συλλογής</value>
   </data>
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Εισάγετε εδώ το μυστικό κλειδί</value>
@@ -966,6 +975,9 @@
   </data>
   <data name="Gallery_Selector_Help" xml:space="preserve">
     <value>Παρακαλώ επιλέξτε μια γκαλερί για να επισκεφθείτε.</value>
+  </data>
+  <data name="Gallery_Selector_Label" xml:space="preserve">
+    <value>Όνομα γκαλερί</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Επιλογέας συλλογής</value>

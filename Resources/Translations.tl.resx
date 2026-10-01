@@ -919,6 +919,9 @@
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>Pakisuyong pumasok sa palatandaan ng galerya na nais mong dalawin.</value>
   </data>
+  <data name="Gallery_Identifier_Label" xml:space="preserve">
+    <value>Mas Mahusay ang Gallery</value>
+  </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
     <value>78bff6a486ca465ae9a65ca673e5fc0</value>
   </data>
@@ -933,6 +936,9 @@
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>Pakisuyong ipasok ang sekretong susi.</value>
+  </data>
+  <data name="Gallery_Key_Label" xml:space="preserve">
+    <value>Susi sa Gallery</value>
   </data>
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>Ipasok ang secret key dito</value>
@@ -966,6 +972,9 @@
   </data>
   <data name="Gallery_Selector_Help" xml:space="preserve">
     <value>Pumili ng galeryang dadalawin.</value>
+  </data>
+  <data name="Gallery_Selector_Label" xml:space="preserve">
+    <value>Pangalan ng Gallery</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>Pagpili ng Gallery</value>

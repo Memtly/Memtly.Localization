@@ -349,6 +349,9 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>사용 가능한 갤러리</value>
   </data>
+  <data name="Back" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
   <data name="Background_Color_Help" xml:space="preserve">
     <value>배경의 색상</value>
   </data>
@@ -919,6 +922,9 @@
   <data name="Gallery_Identifier_Help" xml:space="preserve">
     <value>방문하고 싶은 갤러리의 식별자를 입력하십시오.</value>
   </data>
+  <data name="Gallery_Identifier_Label" xml:space="preserve">
+    <value>갤러리 Identifier</value>
+  </data>
   <data name="Gallery_Identifier_Placeholder" xml:space="preserve">
     <value>78bff6a486ca465aae9a65ca673e5fc0</value>
   </data>
@@ -933,6 +939,9 @@
   </data>
   <data name="Gallery_Key_Help" xml:space="preserve">
     <value>비밀 키를 입력하십시오.</value>
+  </data>
+  <data name="Gallery_Key_Label" xml:space="preserve">
+    <value>갤러리 키</value>
   </data>
   <data name="Gallery_Key_Placeholder" xml:space="preserve">
     <value>비밀 키 입력</value>
@@ -966,6 +975,9 @@
   </data>
   <data name="Gallery_Selector_Help" xml:space="preserve">
     <value>갤러리를 방문해 주세요.</value>
+  </data>
+  <data name="Gallery_Selector_Label" xml:space="preserve">
+    <value>갤러리 이름</value>
   </data>
   <data name="Gallery_Selector_Title" xml:space="preserve">
     <value>갤러리 선택</value>
