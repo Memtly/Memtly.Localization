@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Het opgegeven wachtwoord is gemakkelijk te raden. Selecteer een veiliger wachtwoord.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Welkom terug</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Veeg</value>
   </data>

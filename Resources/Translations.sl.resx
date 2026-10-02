@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Navedeno geslo je enostavno uganiti. Prosim izberite varnejše geslo.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Dobrodošli nazaj</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Obriši</value>
   </data>

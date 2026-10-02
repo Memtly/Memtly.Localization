@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Das angegebene Passwort ist leicht zu erraten. Bitte wähle ein sichereres Passwort.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Willkommen zurück</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Löschen</value>
   </data>

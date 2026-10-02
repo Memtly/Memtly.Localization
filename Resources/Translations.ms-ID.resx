@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Kata sandi yang dinyatakan mudah ditebak. Sila pilih kata sandi yang lebih terjamin.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Selamat Datang Kembali</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Lap</value>
   </data>

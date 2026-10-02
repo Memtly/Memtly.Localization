@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Norādītā parole ir viegli uzminēt. Lūdzu izvēlieties drošāku paroli.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Apsveikšana atpakaļ</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Noslaucīt</value>
   </data>

@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>O contrasinal especificado é fácil de adiviñar. Por favor, seleccione un contrasinal máis seguro.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Benvido de volta</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Wipe</value>
   </data>

@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>A megadott jelszó könnyen kitalálható. Válasszon ki egy biztonságosabb jelszót.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Üdv újra itt</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Törlő</value>
   </data>

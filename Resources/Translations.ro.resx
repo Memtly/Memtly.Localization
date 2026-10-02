@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Parola specificată este uşor de ghicit. Alegeți o parolă mai sigură.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Bine ai revenit</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Şterge</value>
   </data>

@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>La precizigita pasvorton estas facile konjektita. Bonvolu elekti pli sekuran pasvorton.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Bonvenon</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Wipe</value>
   </data>

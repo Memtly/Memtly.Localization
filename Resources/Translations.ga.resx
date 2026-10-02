@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Tá an focal faire sonraithe guessed go héasca. Roghnaigh focal faire níos slán.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Déan Teagmháil Linn</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Déan teagmháil</value>
   </data>

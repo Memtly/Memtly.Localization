@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Вказаний пароль легко вгадується. Будь ласка, оберіть більш надійний пароль.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Зареєструватися</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Про нас</value>
   </data>

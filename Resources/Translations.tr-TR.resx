@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Belirtilen şifre kolayca tahmin edilir. Lütfen daha güvenli bir şifre seçin.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Hoşgeldiniz Back</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Wipe</value>
   </data>

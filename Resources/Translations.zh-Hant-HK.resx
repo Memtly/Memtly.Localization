@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>指定的密碼很容易被猜出 。 請選擇更安全的密碼 .</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>歡迎回來</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>擦拭</value>
   </data>

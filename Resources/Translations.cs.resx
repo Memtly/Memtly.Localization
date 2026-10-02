@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Zadané heslo je snadno uhodnuto. Prosím vyberte bezpečnější heslo.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Vítejte zpět</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Utřít</value>
   </data>

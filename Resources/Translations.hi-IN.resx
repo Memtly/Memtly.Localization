@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>निर्दिष्ट पासवर्ड आसानी से अनुमान लगाया जाता है। कृपया एक सुरक्षित पासवर्ड चुनें।.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>आपका स्वागत है</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>वाइप</value>
   </data>

@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>Белгиленген сырсөздү оңой эле божомолдоого болот. Сураныч, коопсуз сырсөздү тандаңыз.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>Кош келиңиздер</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>Зымдуу зым</value>
   </data>

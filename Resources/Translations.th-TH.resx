@@ -2710,6 +2710,9 @@
   <data name="Weak_Password" xml:space="preserve">
     <value>รหัสผ่านที่ระบุจะเดาได้ง่ายๆ โปรดเลือกรหัสผ่านที่ปลอดภัย.</value>
   </data>
+  <data name="Welcome_Back" xml:space="preserve">
+    <value>ยินดีต้อนรับกลับ</value>
+  </data>
   <data name="Wipe" xml:space="preserve">
     <value>กวาด</value>
   </data>
