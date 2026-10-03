@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>Não foi possível encontrar o usuário especificado</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Painel do Usuário</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Senha</value>
   </data>

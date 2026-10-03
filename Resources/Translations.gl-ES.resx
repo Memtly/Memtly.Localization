@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>Non se atopou o usuario especificado</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Panel de usuario</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Contrasinal</value>
   </data>

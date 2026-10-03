@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>ব্যবহারকারীকে খুঁজে পাওয়া যায়নি</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>প্যানেল</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>পাসওয়ার্ড</value>
   </data>

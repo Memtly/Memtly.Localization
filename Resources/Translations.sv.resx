@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>Kunde inte hitta den angivna användaren</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Användarpanel</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Lösenord</value>
   </data>

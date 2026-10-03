@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>Belirtilen kullanıcıyı bulamadı</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Kullanıcı Panel</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Şifre</value>
   </data>

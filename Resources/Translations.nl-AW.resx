@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>Kon de opgegeven gebruiker niet vinden</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Gebruikerspaneel</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Wachtwoord</value>
   </data>

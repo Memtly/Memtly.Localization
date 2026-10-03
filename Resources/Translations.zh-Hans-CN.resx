@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>找不到指定的用户</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>用户面板</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>密码</value>
   </data>

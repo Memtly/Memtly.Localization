@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>Не знайдено вказаного користувача</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Панель користувача</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Логін</value>
   </data>

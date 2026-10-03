@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>指定したユーザが見つからなかった</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>ユーザーパネル</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>パスワード</value>
   </data>

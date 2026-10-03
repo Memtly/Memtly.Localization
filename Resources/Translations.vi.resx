@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>Không tìm thấy người dùng đã xác định</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Bảng điều khiển người dùng</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Mật khẩu</value>
   </data>

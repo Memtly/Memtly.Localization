@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>Nelze najít zadaného uživatele</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Uživatelský panel</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Heslo</value>
   </data>

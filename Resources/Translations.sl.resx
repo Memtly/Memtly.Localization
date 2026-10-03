@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>Ni moč najti navedenega uporabnika</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Uporabniški pult</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Geslo</value>
   </data>

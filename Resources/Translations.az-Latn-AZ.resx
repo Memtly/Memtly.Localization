@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>Qeyd edilmiş istifadəçi tapa bilər</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Daxili Panel</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Qeydiyyat</value>
   </data>

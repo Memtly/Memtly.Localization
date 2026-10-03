@@ -2647,6 +2647,9 @@
   <data name="User_Not_Found" xml:space="preserve">
     <value>E pamundur gjetja e përdoruesit të specifikuar</value>
   </data>
+  <data name="User_Panel" xml:space="preserve">
+    <value>Paneli i përdoruesit</value>
+  </data>
   <data name="User_Password" xml:space="preserve">
     <value>Fjalëkalimi</value>
   </data>
