@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>Ajouter</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>Ajouter une collection</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>Ajouter une galerie</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>Ajouter un utilisateur</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>Réinitialiser plusieurs facteurs pour l'utilisateur</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>Consulter les journaux d'action de l'utilisateur et les incidents d'examen</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>L'utilisateur a demandé une remise du mot de passe</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>Rouge foncé</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>Données</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>Affichage et gestion des données du système</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>Date</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>Impossible de télécharger le fichier</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>Nom du fichier</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>Un fichier avec le même nom existe déjà</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>Galeries</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>Afficher les galeries que vous possédez ou qui ont été partagées avec vous</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>Galerie</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>Ressources</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>Afficher et gérer les ressources personnalisées telles que les logos et les bannières</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>Période de conservation</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>Impossible de trouver Id élément</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>Affichage et examen des téléchargements en attente avant qu'ils ne deviennent visibles pour les autres utilisateurs</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Examens</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>Thème</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>Affichage et gestion des paramètres du système</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>L'utilisateur devrait-il voir les popups de style RGPD?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Impossible d'obtenir la liste des utilisateurs</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>Affichage et gestion des comptes utilisateurs</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>Utilisateurs avec accès</value>

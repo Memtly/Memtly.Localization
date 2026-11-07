@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>_شامل کریں</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>جمع کریں</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>گیلری شامل کریں</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>صارف شامل کریں</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>صارف کے لیے کثیر استعمال کريں</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>صارفی عمل لاگس اور تجزیاتی واقعات دیکھیں</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>صارفین نے پاس ورڈ واپسی کی درخواست کی</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>سیاہ سرخ</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>ڈیٹا</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>دیکھیں اور سسٹم اعداد کا انتظام کریں</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>تاریخ</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>فائل اٹھانے میں ناکامی</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>فائلز</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>فائل بنام پہلے ہی موجود ہے</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>گلابی رنگ</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>اپنے آپ کو دیکھیں یا آپ کے ساتھ شرکت کی گئی ہو۔</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>گیلری</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>وسائل</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>دیکھیے اور دستوری وسائل مثلاً لاگوس اور جھنڈے کا انتظام کرتا ہے۔</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>دوبارہ کوشش</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>طےشدہ</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>دوسرے صارفین کے سامنے نظر آنے سے پہلے دیکھیں اور دیکھیں</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>اعادہ</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>اوپري</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>نظام کی ترتیبات دیکھیں اور انتظام کریں</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>صارف کو جی ڈی پی آر اسٹائل پاپس دیکھنا چاہیے؟?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>صارفین فہرست حاصل کرنے میں ناکامی</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>صارف اکاؤنٹس دیکھیں اور منظم کریں</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>رسائی کے ساتھ صارفین</value>

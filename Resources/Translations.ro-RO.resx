@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>Adaugă</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>Adaugă colecție</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>Adaugă galerie</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>Adaugă utilizator</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>Resetează multifactor pentru utilizator</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>Vizualizați jurnalele de acțiune ale utilizatorilor și incidentele de revizuire</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Utilizatorul a cerut o resetare a parolei</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>Roșu închis</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>Vizualizează și gestionează datele sistemului</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>Dată</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>Eroare la încărcarea fișierului</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>Nume fișier</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>Un fișier cu același nume există deja</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>Galerii</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>Vezi galeriile pe care le deţii sau ţi-au fost împărtăşite</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>Galerie</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>Resurse</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>Vizualizați și gestionați resurse personalizate, cum ar fi logo-uri și bannere</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>Perioada de păstrare</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>Nu s- a putut găsi elementul Id</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>Vizualizați și revizuiți încărcarea în curs înainte ca acestea să devină vizibile pentru alți utilizatori</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Revizuiri</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>Subiect</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>Vizualizează și gestionează setările sistemului</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>Ar trebui utilizatorul să vadă popup-uri stil GDPR?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Eșec la obținerea listei de utilizatori</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>Vizualizați și gestionați conturile utilizatorilor</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>Utilizatori cu acces</value>

@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>مضافا إليها</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>الإضافة</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>مضافا إليه</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>مستعمل</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>Reset multi-factor for user</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>فحص سجلات عمل المستعملين واستعراض الحوادث</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>طلب المستخدم إعادة تحديد كلمة السر</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>الظلام الأحمر</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>البيانات</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>مشاهدة وإدارة بيانات النظام</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>التاريخ</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>فشل في رفع الملف</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>الاسم</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>ملف له نفس الاسم موجود بالفعل</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>Galleries</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>في بعض المجرات التي تملكها أو تم تقاسمها معك</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>Gallery</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>الموارد</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>مراقبة وإدارة موارد العرف مثل الشعارات واللافتات</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>فترة الاحتجاز</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>لا يمكن العثور على بند</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>مشاهدة واستعراض في انتظار تحميلها قبل أن تصبح مرئية لمستعملين آخرين</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>الاستعراضات</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>الموضوع</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>مشاهدة وإدارة أماكن النظام</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>هل يجب على المستعمل أن يرى نمط الناتج المحلي الإجمالي؟?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>فشل في الحصول على قائمة المستخدمين</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>مشاهدة حسابات المستخدمين وإدارتها</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>المستخدمون المستفيدون</value>

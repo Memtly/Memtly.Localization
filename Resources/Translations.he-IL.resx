@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>הוסף</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>הוספת איסוף</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>הוסף גלריה</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>הוסף משתמשים</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>איפוס רב-ספק למשתמש</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>ראה יומני פעולה של משתמשים ובדיקת אירועים</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>המשתמש ביקש איפוס סיסמה</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>אדום כהה</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>נתונים</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>להציג ולנהל את נתוני המערכת</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>תאריך</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>נכשל להעלות קבצים</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>שם הקובץ</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>קובץ עם אותו שם כבר קיים</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>גלריות</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>ראה גלריות שבבעלותך או שיתפת איתך</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>גלריה</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>משאבים</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>ראה ולנהל משאבים מותאמים אישית כגון לוגו וכרזות</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>תקופת קשב</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>לא מצאתי פריט</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>View and reviewing upsending לפני שהם הופכים גלויים למשתמשים אחרים</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>ביקורות</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>נושא</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>להציג ולנהל הגדרות מערכת</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>האם המשתמש צריך לראות את סגנון ה-GDPR?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>לא מצליחים לקבל רשימת משתמשים</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>להציג ולנהל חשבונות משתמשים</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>משתמשים עם Access</value>

@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>เพิ่ม</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>เพิ่มคลังภาพ</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>เพิ่มคลังภาพ</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>เพิ่มผู้ใช้</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>ตั้งค่าคุณสมบัติต่าง ๆ ของผู้ใช้ใหม่</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>ดูบันทึกการกระทําและทบทวนเหตุการณ์</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>ผู้ใช้ร้องขอการตั้งค่ารหัสผ่านใหม่</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>สีแดงเข้ม</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>ข้อมูล</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>ดูและจัดการข้อมูลของระบบ</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>วันที่</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>ล้มเหลวในการอัปโหลดแฟ้ม</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>ชื่อแฟ้ม</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>มีแฟ้มชื่อเดียวกันนี้อยู่แล้ว</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>แกล เล รี</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>ดู ระเบียง ที่ คุณ เป็น เจ้าของ หรือ มี การ แบ่ง ปัน ให้ คุณ</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>คลังภาพ</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>ทรัพยากร</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>แสดงและจัดการทรัพยากรที่กําหนดเอง เช่น โลโก้และป้ายโฆษณา</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>พักการทํางาน</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>ไม่พบหมายเลขรายการ</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>ดูและทบทวนค่าการอัปโหลดที่อยู่ระหว่างการอัปโหลดก่อนที่จะถูกมองเห็นได้กับผู้ใช้อื่น ๆ</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>ทบทวน</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>ภาพร่าง</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>ดูและจัดการการตั้งค่าของระบบ</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>ผู้ใช้ควรดูรูปแบบ GDPR หรือไม่?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>ล้มเหลวในการรับรายการผู้ใช้</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>ดูและจัดการบัญชีผู้ใช้ของผู้ใช้</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>ผู้ใช้พร้อมการเข้าถึง</value>

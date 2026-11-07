@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>_Shto</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>Shto koleksionin</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>Shto</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>Shto përdorues</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>Nga fillimi nga përdorues</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>Shiko veprimet e përdoruesit dhe incidentet e shqyrtimit</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Përdoruesi ka kërkuar relexon</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>E kuqja e errët</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>Të dhëna</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>Shiko dhe menaxho të dhënat e sistemit</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>Data</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>Ngarkoje file</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>Emri i file</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>A me emri ekziston</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>Galleritë</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>Shiko galeritë që zotëron ose që janë ndarë me ty</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>Koleksioni</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>Gjëndja</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>Shfaq dhe menaxho burimet doganore të tilla si logot dhe flamurët</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>Periudha e riemërimit</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>E pamundur gjetja e elementit Id</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>Shiko dhe shqyrto ngarkimin në pritje përpara se të bëhen të dukshëm për përdoruesit e tjerë</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Rishikimet</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>Temë</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>Shiko dhe menaxho rregullimet e sistemit</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>A duhet që përdoruesi të shohë stilin PBR të popup?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Gabim gjatë marrjes së listës së përdoruesve</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>Shiko dhe menaxho profilet e përdoruesit</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>Përdorues me hyrje</value>

@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>Lägg till</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>Lägg till samling</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>Lägg till Galleri</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>Lägg till användare</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>Återställ multifaktor för användaren</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>Visa användarens handlingsloggar och granska incidenter</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Användare begärde en lösenordsåterställning</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>Mörkröd</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>Datadata Data Data</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>Visa och hantera systemdata</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>Datum</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>Misslyckades med att ladda upp fil</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>Filenam</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>En fil med samma namn finns redan</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>Gallerier</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>Visa gallerier du äger eller har delats med dig</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>Galleriet</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>Resurser</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>Visa och hantera anpassade resurser som logotyper och banners</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>Lagringsperiod</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>Kunde inte hitta objekt Id</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>Visa och granska pågående uppladdningar innan de blir synliga för andra användare</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Recensioner</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>Ämne</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>Visa och hantera systeminställningar</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>Skulle användaren se GDPR stil popups?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Misslyckades med att få användarlista</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>Visa och hantera användarkonton</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>Användare med Access</value>

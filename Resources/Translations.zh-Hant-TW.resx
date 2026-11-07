@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>添加</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>新增收藏</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>新增相簿</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>新增使用者</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>为用户重设多要素</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>查看使用者動作紀錄并回應事件</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>用户请求重设密码</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>暗紅</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>資料</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>查看并管理系統資料</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>日期</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>上传文件失败</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>文件名</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>同名文件已经存在</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>盖尔</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>有或已與您相通的相關畫廊</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>图片库</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>资源</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>檢視并管理自訂資源, 如標誌和標籤等</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>保留期</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>找不到项目 Id</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>在被其他用戶看到前先查看并檢視等待上傳的資料</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>二. 审查</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>专题</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>查看并管理系統設定</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>用户应该看到 GDPR 风格弹出吗 ?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>获取用户列表失败</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>查看并管理使用者帳號</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>有存取的使用者</value>

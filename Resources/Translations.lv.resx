@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>Pievienot</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>Pievienot kolekciju</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>Pievienot galeriju</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>Pievienot lietotāju</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>Atstatīt daudzfaktoru lietotājam</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>Skatīt lietotāja rīcības žurnālus un pārskatīt incidentus</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>Lietotājs pieprasīja paroles atiestatīšanu</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>Tumši sarkans</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>Dati</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>Skatīt un pārvaldīt sistēmas datus</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>Datums</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>Neizdevās augšupielādēt failu</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>Faila nosaukums</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>Fails ar tādu pašu nosaukumu jau eksistē</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>Galerijas</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>Skatīt galerijas, kas jums pieder vai ir koplietotas ar jums</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>Galerija</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>Resursi</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>Skatīt un pārvaldīt pielāgotus resursus, piemēram, logo un baneri</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>Saglabāšanas periods</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>Nevar atrast vienības Id</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>Skatīt un pārskatīt gaidāmās augšupielādes, pirms tās kļūst redzamas citiem lietotājiem</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Pārskatīšana</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>Temats</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>Skatīt un pārvaldīt sistēmas iestatījumus</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>Vai lietotājam vajadzētu redzēt GDPR stila izlec?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>Neizdevās iegūt lietotāju sarakstu</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>Apskatīt un pārvaldīt lietotāju kontus</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>Lietotāji ar piekļuvi</value>

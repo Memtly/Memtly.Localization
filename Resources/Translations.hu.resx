@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>Hozzáadás</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>Gyűjtemény hozzáadása</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>Galéria hozzáadása</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>Felhasználó hozzáadása</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>Multi- faktor újraindítása felhasználóknak</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>A felhasználói akciónaplók megtekintése és az események áttekintése</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>A felhasználó jelszó visszaállítását kérte</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>Sötét vörös</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>Adatok</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>Rendszeradatok megtekintése és kezelése</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>Időpont</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>Nem sikerült betölteni a fájlt</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>Fájlnév</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>Már létezik ilyen nevű fájl</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>Galéria</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>Tekintse galériák a saját vagy már megosztott veled</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>Galéria</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>Erőforrások</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>Egyedi források, például logók és bannerek megtekintése és kezelése</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>Tartási időszak</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>Nem található</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>Tekintse meg és vizsgálja felül a függőben lévő feltöltéseket, mielőtt láthatóvá válnak más felhasználók számára</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Felülvizsgálatok</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>Téma</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>Rendszerbeállítások megtekintése és kezelése</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>A felhasználónak látnia kell a GDPR stílust?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>A felhasználói lista nem sikerült</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>Felhasználói fiókok megtekintése és kezelése</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>Hozzáféréssel rendelkező felhasználók</value>

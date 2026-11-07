@@ -166,6 +166,12 @@
   <data name="Add" xml:space="preserve">
     <value>যোগ করুন</value>
   </data>
+  <data name="Add_Collection" xml:space="preserve">
+    <value>সংগ্রহ</value>
+  </data>
+  <data name="Add_Gallery" xml:space="preserve">
+    <value>গ্যালারি যোগ করুন</value>
+  </data>
   <data name="Add_User" xml:space="preserve">
     <value>ব্যবহারকারী যোগ করুন</value>
   </data>
@@ -288,6 +294,9 @@
   </data>
   <data name="Audit_MultiFactorResetUser" xml:space="preserve">
     <value>ব্যবহারকারীর জন্য মাল্টি- রহমত পুনরায় নির্ধারণ করুন</value>
+  </data>
+  <data name="Audit_Page_Sub_Heading" xml:space="preserve">
+    <value>ব্যবহারকারীদের কর্ম প্রদর্শন ও পর্যালোচনা করুন</value>
   </data>
   <data name="Audit_Password_Reset" xml:space="preserve">
     <value>ব্যবহারকারীকে পাসওয়ার্ড পুনরায় লিখুন</value>
@@ -604,6 +613,12 @@
   <data name="DarkRed" xml:space="preserve">
     <value>গাঢ় লাল</value>
   </data>
+  <data name="Data" xml:space="preserve">
+    <value>তথ্য</value>
+  </data>
+  <data name="Data_Page_Sub_Heading" xml:space="preserve">
+    <value>সিস্টেমের তথ্য প্রদর্শন এবং পরিচালনা করুন</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>তারিখ</value>
   </data>
@@ -820,6 +835,9 @@
   <data name="File_Upload_Failed" xml:space="preserve">
     <value>ফাইল আপলোড করতে ব্যর্থ</value>
   </data>
+  <data name="Filename" xml:space="preserve">
+    <value>ফাইলের নাম</value>
+  </data>
   <data name="Filename_Already_Exists" xml:space="preserve">
     <value>একই নামের একটি ফাইল বর্তমানে উপস্থিত রয়েছে</value>
   </data>
@@ -864,6 +882,9 @@
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>স্লট</value>
+  </data>
+  <data name="Galleries_Page_Sub_Heading" xml:space="preserve">
+    <value>আপনার নিজের অথবা আপনার শেয়ার করা ফাইলগুলি দেখুন</value>
   </data>
   <data name="Gallery" xml:space="preserve">
     <value>গ্যালারি</value>
@@ -1600,6 +1621,9 @@
   <data name="Resources" xml:space="preserve">
     <value>রিসোর্সসমূহ</value>
   </data>
+  <data name="Resources_Page_Sub_Heading" xml:space="preserve">
+    <value>লোগো এবং ব্যানারের মত স্বনির্বাচিত রিসোর্স প্রদর্শন এবং পরিচালনা করুন</value>
+  </data>
   <data name="Retention_Period" xml:space="preserve">
     <value>স্থগিত রাখা হয়েছে</value>
   </data>
@@ -1611,6 +1635,9 @@
   </data>
   <data name="Review_Id_Missing" xml:space="preserve">
     <value>তথ্য পাওয়া যায়নি</value>
+  </data>
+  <data name="Review_Page_Sub_Heading" xml:space="preserve">
+    <value>অন্য ব্যবহারকারীদের কাছে দৃশ্যমান হওয়ার পূর্বে অপেক্ষমান আপলোড আপলোডগুলো দেখুন এবং প্রদর্শন করুন</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>পর্যালোচনা</value>
@@ -2191,6 +2218,9 @@
   <data name="Settings_Ntfy_Topic_Label" xml:space="preserve">
     <value>বিষয়</value>
   </data>
+  <data name="Settings_Page_Sub_Heading" xml:space="preserve">
+    <value>সিস্টেমের বৈশিষ্ট্য প্রদর্শন ও পরিচালনা করুন</value>
+  </data>
   <data name="Settings_PoliciesEnabled_Help" xml:space="preserve">
     <value>ব্যবহারকারীদের কি দেশাত্ম্যতার পপ-আপ প্রদর্শন করা হবে?</value>
   </data>
@@ -2682,6 +2712,9 @@
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
     <value>ব্যবহারকারীর তালিকা প্রাপ্ত করতে ব্যর্থ</value>
+  </data>
+  <data name="Users_Page_Sub_Heading" xml:space="preserve">
+    <value>ব্যবহারকারীর অ্যাকাউন্ট প্রদর্শন ও পরিচালনা করুন</value>
   </data>
   <data name="Users_With_Access" xml:space="preserve">
     <value>ব্যবহারকারী দ্বারা ব্যবহৃত</value>
